@@ -9,7 +9,7 @@ export default function Page() {
       <div className="content-wrapper">
         <h1 className="heading textCenter">
           <span className="db fs30 ttu mb10 fw400">LESSON 1</span>
-          <span className="db fs24 fw700">The Use of 'is, am, are'</span>
+          <span className="db fs24 fw700">The Use of &#39;is, am, are&#39;</span>
         </h1>
         <br />
         <h4 className="textCenter">Points to Remember</h4>
@@ -17,9 +17,9 @@ export default function Page() {
           <li>
             <p>
               Present Tense (वर्तमान काल ) में he, she, it तथा Singular Nouns
-              के साथ 'is' का प्रयोग होता है; परन्तु I के साथ 'am' लगाया जाता
-              है। 'You' चाहे एकवचन में हो अथवा बहुवचन में और we, they तथा
-              Plural Nouns के साथ 'are' लगाया जाता है। जैसे-
+              के साथ &#39;is&#39; का प्रयोग होता है; परन्तु I के साथ &#39;am&#39; लगाया जाता
+              है। &#39;You&#39; चाहे एकवचन में हो अथवा बहुवचन में और we, they तथा
+              Plural Nouns के साथ &#39;are&#39; लगाया जाता है। जैसे-
             </p>
           </li>
 
@@ -32,9 +32,9 @@ export default function Page() {
           <li>
             यदि Verb के बाद केवल Adjective हो तो Adjective के पहले a या an का
             प्रयोग नहीं होता। यदि Verb या Adjective के बाद Singular Common Noun
-            हो तो Adjective के पहले 'a' या 'an' का प्रयोग किया जाता है। स्मरण
-            रहे कि Vowel sound से आरम्भ हुए Adjective के पहले 'an' और
-            Consonant sounds के Adjective के पहले 'a' का प्रयोग होता है। (देखो
+            हो तो Adjective के पहले &#39;a&#39; या &#39;an&#39; का प्रयोग किया जाता है। स्मरण
+            रहे कि Vowel sound से आरम्भ हुए Adjective के पहले &#39;an&#39; और
+            Consonant sounds के Adjective के पहले &#39;a&#39; का प्रयोग होता है। (देखो
             वाक्य A-2, 4; B-3, 6; C-1).
           </li>
 
@@ -43,19 +43,19 @@ export default function Page() {
             जाता हैं।  Interrogative sentences के अन्त में प्रश्नवाचक चिन्ह (?) अनिवार्य
             है।
           </li>
-          <li>Verb के बाद 'not' लगाने से sentence निषेधात्मक (negative)
+          <li>Verb के बाद &#39;not&#39; लगाने से sentence निषेधात्मक (negative)
             हो जाता है।</li>
 
           <li>भाग D में दिए गए sentences को कंठस्थ करो। </li>
         </ol>
 
         <h2 className="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-        <h3 className="fw700 textCenter">A-'is'</h3>
+        <h3 className="fw700 textCenter">A-&#39;is&#39;</h3>
         <br />
         <ol></ol>
 
         <br /><br />
-        <h3 className="fw700 textCenter">B-'am'</h3>
+        <h3 className="fw700 textCenter">B-&#39;am&#39;</h3>
         <br />
         <ol>
           <li>
@@ -64,10 +64,10 @@ export default function Page() {
           </li>
         </ol>
         <br /><br />
-        <h3 className="fw700 textCenter">C-'are'</h3>
+        <h3 className="fw700 textCenter">C-&#39;are&#39;</h3>
         <p className="textCenter">
-          Used with Second Person Pronoun 'You' both Singular and Plural,
-          'We', 'They' and all Plural Nouns in the Present Tense
+          Used with Second Person Pronoun &#39;You&#39; both Singular and Plural,
+          &#39;We&#39;, &#39;They&#39; and all Plural Nouns in the Present Tense
         </p>
         <br />
 
