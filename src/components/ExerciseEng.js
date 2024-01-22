@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from "react";
-import SubLineEng from "@/components/SubLine";
+import SubLineEng from "@/components/SubLineEng";
 
 export default function ExerciseEng({ dataUrl }) {
     const [jsondata, setjsondata] = useState([]);
