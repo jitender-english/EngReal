@@ -174,7 +174,7 @@ export default function Page() {
         <p className="textCenter">Translate the following into English:</p>
         <hr className="line-separator" />
         <br />
-        <Exercise data={data} />
+        <Exercise dataUrl="/api/lesson-01" />
       </div>
     </main>
   </div>

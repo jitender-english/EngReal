@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Exercise from "@/components/Exercise";
+import ExerciseEng from "@/components/ExerciseEng";
 
 export default function Page(parm) {
   return (
@@ -14,7 +14,7 @@ export default function Page(parm) {
         <p className="textCenter">Translate the following into English:</p>
         <hr className="line-separator" />
         <br />
-        <Exercise dataUrl="/api/english/season/reacher/s02e01" />
+        <ExerciseEng dataUrl="/api/english/season/reacher/s02e01" />
         
       </div>
     </main>
