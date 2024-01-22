@@ -1,0 +1,202 @@
+[
+  { "line": ["मैं तुम्हारी सहायता करूँगा। ", "I will help you."] },
+  {
+    "line": [
+      "वह दो दिन में इस उपन्यास को समाप्त कर देगा । ",
+      "He will finish this novel in two days."
+    ]
+  },
+  {
+    "line": [
+      "वह अपने भाई को स्टेशनं पर छोड़ने जायेगा । ",
+      "He will go to drop his brother at the station."
+    ]
+  },
+  {
+    "line": [
+      "सूर्य डूबने से पहले हम नदी पार कर लेंगे।",
+      "We will cross the river before the sun sets. "
+    ]
+  },
+  {
+    "line": [
+      "मैं अपने भाई के साथ स्कूल जाऊँगा । ",
+      "I will go to school with my brother."
+    ]
+  },
+  { "line": ["वह हमें कल मिलने आयेगा। ", "He will come to meet us tomorrow."] },
+  {
+    "line": [
+      "मैं प्राचार्य से तुम्हारी शिकायत करूँगा । ",
+      "I will complain about you to the principal."
+    ]
+  },
+  { "line": ["मैं ईमानदारी से काम करूँगा । ", "I will work honestly."] },
+  { "line": ["लड़के परीक्षा देंगे। ", "Boys will take the exam."] },
+  { "line": ["मैं तुम्हें यह पुस्तक दूँगा । ", "I will give you this book."] },
+  {
+    "line": [
+      "क्या तुम इस वर्ष परीक्षा दोगे ? ",
+      "Will you take the exam this year?"
+    ]
+  },
+  {
+    "line": [
+      "क्या उसका भाई इस वर्ष अमरीका जायेगा ? ",
+      "Will his brother go to America this year?"
+    ]
+  },
+  {
+    "line": [
+      "वह कल तक इस मकान को खाली कर देगा।",
+      "He will vacate this house by tomorrow."
+    ]
+  },
+  {
+    "line": [
+      "क्या आप मेरे साथ अगले चौक तक चलेंगे ? ",
+      "Will you come with me to the next square?"
+    ]
+  },
+  {
+    "line": [
+      "क्या आप मेरे प्रार्थना-प‍ पर सहानुभूतिपूर्वक विचार करेंगे ? ",
+      "Will you consider my application sympathetically?"
+    ]
+  },
+  { "line": ["क्या तुम कल बम्बई जाओगे ? ", "Will you go to Bombay tomorrow?"] },
+  {
+    "line": [
+      "क्या वह मित्रों के साथ सैर के लिए जाएगा ? ",
+      "Will he go for a walk with friends?"
+    ]
+  },
+  {
+    "line": [
+      "क्या आप मेरे साथ बाजार चलेंगे ?",
+      "Will you go to the market with me?"
+    ]
+  },
+  { "line": ["मैं वहाँ अवश्य जाऊँगा । ", "I will definitely go there."] },
+  { "line": ["आप मेरी सहायता अवश्य करेंगे। ", "You will definitely help me."] },
+  { "line": ["हम दिल लगाकर काम करेंगे। ", "We will work wholeheartedly."] },
+  {
+    "line": [
+      "तुम्हें मेरे प्रश्नों का उत्तर देना पड़ेगा । ",
+      "You will have to answer my questions."
+    ]
+  },
+  { "line": ["जैसे बोओगे वैसा काटोगे। ", "You will reap as you sow."] },
+  { "line": ["तुम्हें वहाँ जाना ही होगा। ", "You have to go there."] },
+  {
+    "line": [
+      "तुम मेरी आज्ञा का उल्लंघन नहीं करोगे। ",
+      "You will not disobey my orders."
+    ]
+  },
+  { "line": ["तुम अवश्य पास हो जाओगे ।", "You will definitely pass."] },
+  {
+    "line": ["क्या तुम उससे अवश्य मिलोगी ? ", "Will you definitely meet him?"]
+  },
+  {
+    "line": [
+      "क्या वह अपने आने की सूचना हमें दे देगा ? ",
+      "Will he inform us of his arrival?"
+    ]
+  },
+  { "line": ["क्या मैं तुम्हारी प्रतीक्षा करूँ ? ", "Should I wait for you?"] },
+  { "line": ["क्या मैं तुमसे मिलूँ ? ", "May I meet you?"] },
+  { "line": ["क्या तुम उससे जरूर मिलोगे ? ", "Will you definitely meet him?"] },
+  {
+    "line": [
+      "क्या वह तुम्हें अवश्य ही निमन्त्रण देगा ?",
+      "Will he definitely invite you?"
+    ]
+  },
+  { "line": ["क्या मैं तुम्हारे साथ चलूँ ?", "Should I go with you?"] },
+  {
+    "line": [
+      "वह इस मास की दस तारीख को हवाई जहाज द्वारा अमरीका जायेगा । ",
+      "He will go to America by plane on the 10th of this month."
+    ]
+  },
+  {
+    "line": [
+      "हम कल ही कलकत्ते के लिए प्रस्थान करेंगे। ",
+      "We will leave for Calcutta tomorrow itself."
+    ]
+  },
+  {
+    "line": [
+      "हमारी त्रैमासिक परीक्षा पाँच नवम्बर से आरम्भ होगी। ",
+      "Our quarterly examination will start from 5th November."
+    ]
+  },
+  {
+    "line": [
+      "क्या तुम आज ही अपने पिता को पत्र लिखोगे ? ",
+      "Will you write a letter to your father today itself?"
+    ]
+  },
+  {
+    "line": [
+      "क्या तुम आज सायंकाल को अपने मित्र से मिलने के लिए जाओगे ?",
+      "Will you go to meet your friend this evening?"
+    ]
+  },
+  {
+    "line": [
+      "यदि कल छुट्टी हुई तो मैं उससे मिलने के लिए जाऊँगा । ",
+      "If there is a holiday tomorrow, I will go to meet him."
+    ]
+  },
+  {
+    "line": [
+      "यदि वर्षा न हुई तो हम सब भीग जायेंगे। ",
+      "If it doesn't rain we will all get wet."
+    ]
+  },
+  {
+    "line": [
+      "यदि तुम मेरे साथ पिकनिक पर चलोगे तो बड़ा मजा आयेगा । ",
+      "It will be a lot of fun if you go on a picnic with me."
+    ]
+  },
+  {
+    "line": [
+      "यदि समय पर स्कूल में न पहुँचोगे तो अध्यापक महोदय क्रुद्ध होंगे। ",
+      "If you do not reach school on time, the teacher will be angry."
+    ]
+  },
+  {
+    "line": [
+      "यदि मैं जाऊँगा तो तुम्हारे मित्र से अवश्य मिलूँगा। ",
+      "If I go, I will definitely meet your friend."
+    ]
+  },
+  {
+    "line": [
+      "यदि तुम मेरा कड़ना नहीं मानोगे तो पछताओगे। ",
+      "If you do not obey my instructions, you will regret it."
+    ]
+  },
+  {
+    "line": [
+      "मैं डूब जाऊँगा और मुझे कोई नहीं बचायेगा। ",
+      "I will drown and no one will save me."
+    ]
+  },
+  {
+    "line": [
+      "जब आकाश निर्मल होगा तो हम सैर के लिए जायेंगे। ",
+      "When the sky is clear we will go for a walk."
+    ]
+  },
+  {
+    "line": [
+      "यदि वह अपना अपराध स्वीकार कर लेगा तो मैं उसे क्षमा कर दूँगा। ",
+      "If he accepts his crime I will forgive him."
+    ]
+  },
+  { "line": ["जहाँ तुम जाओगे मैं वहाँ जाऊँगा ।", "Wherever you go I will go."] }
+]

@@ -1,0 +1,177 @@
+[
+  { "line": ["वह खाना खा चुका है।", "He has eaten."] },
+  {
+    "line": [
+      "खिलाड़ी अपना खेल समाप्त कर चुके हैं।",
+      "The players have finished their game."
+    ]
+  },
+  {
+    "line": [
+      "वे अपने-अपने घर लौट गये हैं।",
+      "They have returned to their respective homes."
+    ]
+  },
+  {
+    "line": [
+      "मैंने अपने भाई का ऋण चुका दिया है।",
+      "I have repaid my brother's loan."
+    ]
+  },
+  {
+    "line": ["उसने पन्सारी की दुकान खोली है।", "He has opened a grocer's shop."]
+  },
+  { "line": ["वह बालिग हो गया है।", "He has become an adult."] },
+  {
+    "line": [
+      "न्यायाधीश ने खूनी को फाँसी का दंड दिया है।",
+      "The judge has sentenced the murderer to death."
+    ]
+  },
+  { "line": ["उसने मुझे धोखा दिया है।", "He has cheated on me."] },
+  {
+    "line": [
+      "उन्होंने तुम्हें संकट में छोड़ दिया है।",
+      "They have left you in trouble."
+    ]
+  },
+  { "line": ["उसने टिकट खरीद लिये हैं।", "He has bought the tickets."] },
+  {
+    "line": ["क्या आपको मेरा पत्र मिल गया है?", "Have you received my letter?"]
+  },
+  {
+    "line": [
+      "क्या उसने अपना नाम वापस ले लिया है?",
+      "Has he withdrawn his name?"
+    ]
+  },
+  {
+    "line": [
+      "क्या तुम्हारा उससे झगड़ा हो गया है?",
+      "Have you had a fight with him?"
+    ]
+  },
+  {
+    "line": ["क्या इन लड़कों ने शरारत की है?", "Have these boys done mischief?"]
+  },
+  {
+    "line": [
+      "क्या तुम्हें उसके आकस्मिक निधन का समाचार मिल गया है?",
+      "Have you received the news of his sudden demise?"
+    ]
+  },
+  {
+    "line": ["क्या उसने अपने दाँत साफ कर लिए हैं?", "Has he brushed his teeth?"]
+  },
+  {
+    "line": [
+      "क्या वह यूनिवर्सिटी में प्रथम आया है?",
+      "Has he stood first in university?"
+    ]
+  },
+  {
+    "line": [
+      "क्या तुमने अपना स्कूल का काम कर लिया है?",
+      "Have you done your school work?"
+    ]
+  },
+  {
+    "line": ["क्या उसने जेबकतरे को पकड़ा है?", "Has he caught the pickpocket?"]
+  },
+  { "line": ["क्या उसकी नौकरी लग गयी है?", "Has he got the job?"] },
+  {
+    "line": [
+      "माशकी (भिशती) ने पानी नहीं छिड़का है।",
+      "Mashki (Bhishti) has not sprinkled water."
+    ]
+  },
+  {
+    "line": [
+      "हमने अपनी पुस्तकें नहीं दोहराई हैं।",
+      "We have not revised our books."
+    ]
+  },
+  {
+    "line": [
+      "मजदूरों ने काम समाप्त कर लिया है।",
+      "The workers have finished the work."
+    ]
+  },
+  {
+    "line": [
+      "मैंने पत्र अभी डाक में नहीं डाला है।",
+      "I have not put the letter in the post yet."
+    ]
+  },
+  {
+    "line": [
+      "मैंने अभी तक ताजमहल नहीं देखा है।",
+      "I have not seen the Taj Mahal yet."
+    ]
+  },
+  {
+    "line": ["तुमने अच्छा सौदा नहीं किया है।", "You didn't make a good deal."]
+  },
+  { "line": ["गाड़ी वहाँ नहीं ठहरी है।", "The car is not stopped there."] },
+  {
+    "line": [
+      "क्या वह अपने गाँव को नहीं चला गया है?",
+      "Hasn't he gone to his village?"
+    ]
+  },
+  {
+    "line": [
+      "क्या उसने पार्सल नहीं छुड़ा लिया है?",
+      "Has he not delivered the parcel? "
+    ]
+  },
+  {
+    "line": [
+      "मैंने अभी तक कोई युक्ति नहीं सोची है।",
+      "I haven't thought of a trick yet."
+    ]
+  },
+  {
+    "line": [
+      "मैं उसे तीन वर्ष से जानती हूँ।",
+      "I have known him for three years."
+    ]
+  },
+  {
+    "line": [
+      "वह इस मकान में दो वर्ष रह चुका है।",
+      "He has lived in this house for two years."
+    ]
+  },
+  {
+    "line": [
+      "मैंने एक सप्ताह से अपनी किताबें नहीं पढ़ी हैं।",
+      "I haven't read my books for a week."
+    ]
+  },
+  { "line": ["क्या उसे कल से ज्वर है?", "Has he had fever since yesterday?"] },
+  {
+    "line": [
+      "क्या वह पिछले मंगलवार से नहीं नहाया है?",
+      "Has he not bathed since last Tuesday?"
+    ]
+  },
+  {
+    "line": [
+      "क्या रमेश ने पिछले मास से अपना त्याग पत्र दे दिया है?",
+      "Has Ramesh submitted his resignation letter from last month?"
+    ]
+  },
+  {
+    "line": [
+      "वह पिछले सोमवार से स्कूल नहीं गया है।",
+      "He hasn't gone to school since last Monday."
+    ]
+  },
+  {
+    "line": [
+      "वह इस पाठशाला में पाँच वर्ष काम कर चुका है।",
+      "He has worked in this school for five years."
+    ]
+  }
+]

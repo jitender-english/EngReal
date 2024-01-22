@@ -1,0 +1,100 @@
+[
+  { "line": ["वह बहुत अच्छा तैराक है।", "He is a very good swimmer."] },
+  { "line": ["यह चित्र पुराना है।", "This picture is old."] },
+  { "line": ["गरीबी बुरी बला है।", "Poverty is a (bad evil/curse)."] },
+  { "line": ["एकता में बल है।", "Unity is strength. / There is strength in unity."] },
+  { "line": ["वह मेरा मित्र है।", "He is my friend."] },
+  { "line": ["वह एक प्रसिद्ध कथाकार है।", "He is a famous storyteller."] },
+  { "line": ["ऊँट रेगिस्तान का जहाज है।", "Camel is the ship of the desert."] },
+  {
+    "line": ["टेलीविज़न एक नया आविष्कार है।", "Television is a new invention."]
+  },
+  { "line": ["क्या आपके पिताजी अध्यापक हैं?", "Is your father a teacher?"] },
+  { "line": ["क्या वह बेईमान है?", "Is he dishonest?"] },
+
+  { "line": ["मैं आज बहुत व्यस्त हूँ।", "I am very busy today."] },
+  { "line": ["मैं आजकल अस्वस्थ हूँ।", "I am unwell these days."] },
+  { "line": ["मैं तुम्हारा बहुत ही आभारी हूँ।", "I am very grateful to you."] },
+  { "line": ["मुझे प्यास लग रही है।", "I am feeling thirsty."] },
+  {
+    "line": [
+      "मैं किसी भी विषय में कमजोर नहीं हूँ।",
+      "I am not weak in any subject."
+    ]
+  },
+  { "line": ["मैं तुम्हारा नौकर नहीं हूँ।", "I am not your servant."] },
+  {
+    "line": ["क्या मैं एक अच्छा खिलाड़ी नहीं हूँ?", "Am I not a good player?"]
+  },
+  { "line": ["क्या मैं तुम्हारा हितैषी नहीं?", "Am I not your well-wisher?"] },
+  { "line": ["क्या मैं तुम्हारा पड़ोसी हूँ?", "Am I your neighbor?"] },
+  { "line": ["क्या मैं तुम्हारा शत्रु हूँ?", "Am I your enemy?"] },
+
+  { "line": ["ये आम कच्चे हैं।", "These mangoes are raw."] },
+  { "line": ["वे बहुत अच्छे तैराक हैं।", "They are very good swimmers."] },
+  {
+    "line": [
+      "हमारे पड़ोसी बड़े ही झगड़ालू हैं।",
+      "Our neighbors are very quarrelsome."
+    ]
+  },
+  { "line": ["तुम सब बहुत ही शरारती हो।", "You all are very naughty."] },
+  {
+    "line": [
+      "हमारे अध्यापक बड़े अनुभवी हैं।",
+      "Our teachers are very experienced."
+    ]
+  },
+  {
+    "line": [
+      "मेरी श्रेणी के विद्यार्थी बहुत परिश्रमी हैं।",
+      "The students of my class are very hardworking."
+    ]
+  },
+  {
+    "line": [
+      "ये पुस्तकें मनोरंजक नहीं हैं।",
+      "These books are not entertaining."
+    ]
+  },
+  {
+    "line": [
+      "क्या सब विद्यार्थी आज उपस्थित नहीं हैं?",
+      "Are all the students not present today?"
+    ]
+  },
+  { "line": ["क्या आप बहुत व्यस्त हैं?", "Are you very busy?"] },
+
+  {
+    "line": [
+      "मित्र वही है जो मुसीबत में काम आये।",
+      "A friend is one who is helpful in times of trouble."
+    ]
+  },
+  { "line": ["सैर करना अच्छा व्यायाम है।", "Walking is good exercise."] },
+  { "line": ["झोंपड़ियों को आग लगी हुई है।", "The huts are on fire."] },
+  {
+    "line": [
+      "इस कुएँ का पानी पीने के लिए ठीक है।",
+      "The water of this well is fine to drink."
+    ]
+  },
+  {
+    "line": ["मुझे आज स्कूल से देर हो गई हैं।", "I am late for school today."]
+  },
+  {
+    "line": [
+      "तुम इस परीक्षा में बैठ सकते हो।",
+      "You can sit for this examination."
+    ]
+  },
+  { "line": ["लड़के खेल रहे हैं।", "The boys are playing."] },
+  { "line": ["सच सच ही रहता है।", "Truth remains truth."] },
+  { "line": ["तुम ऊँचा सुनते हो।", "You listen loudly."] },
+  {
+    "line": [
+      "उसका बाल-बाल कर्ज से दबा है।",
+      "He is completely burdened with debt."
+    ]
+  }
+]

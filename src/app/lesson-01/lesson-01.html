@@ -1,19 +1,29 @@
-import Image from 'next/image'
-import Exercise from "@/components/Exercise";
-import data from "@/json/lesson-01.json"
+<!DOCTYPE html>
+<html lang="en">
 
-export default function Page() {
-  return (
-    <div className="site-wrapper">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Past Tense - was, were</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,900;1,100;1,300;1,900&display=swap"
+    rel="stylesheet" />
+  <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="site-wrapper">
     <main>
-      <div className="content-wrapper">
-        <h1 className="heading textCenter">
-          <span className="db fs30 ttu mb10 fw400">LESSON 1</span>
-          <span className="db fs24 fw700">The Use of 'is, am, are'</span>
+      <div class="content-wrapper">
+        <h1 class="heading textCenter">
+          <span class="db fs30 ttu mb10 fw400">LESSON 1</span>
+          <span class="db fs24 fw700">The Use of 'is, am, are'</span>
         </h1>
         <br />
-        <h4 className="textCenter">Points to Remember</h4>
-        <ol className="list-sentences">
+        <h4 class="textCenter">Points to Remember</h4>
+        <ol class="list-sentences">
           <li>
             <p>
               Present Tense (वर्तमान काल ) में he, she, it तथा Singular Nouns
@@ -49,13 +59,13 @@ export default function Page() {
           <li>भाग D में दिए गए sentences को कंठस्थ करो। </li>
         </ol>
 
-        <h2 className="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-        <h3 className="fw700 textCenter">A-'is'</h3>
+        <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
+        <h3 class="fw700 textCenter">A-'is'</h3>
         <br />
         <ol></ol>
 
         <br /><br />
-        <h3 className="fw700 textCenter">B-'am'</h3>
+        <h3 class="fw700 textCenter">B-'am'</h3>
         <br />
         <ol>
           <li>
@@ -64,8 +74,8 @@ export default function Page() {
           </li>
         </ol>
         <br /><br />
-        <h3 className="fw700 textCenter">C-'are'</h3>
-        <p className="textCenter">
+        <h3 class="fw700 textCenter">C-'are'</h3>
+        <p class="textCenter">
           Used with Second Person Pronoun 'You' both Singular and Plural,
           'We', 'They' and all Plural Nouns in the Present Tense
         </p>
@@ -107,7 +117,7 @@ export default function Page() {
           </li>
         </ol>
         <br /><br />
-        <h3 className="fw700 textCenter">D-Idiomatic use of Is, Am, Are</h3>
+        <h3 class="fw700 textCenter">D-Idiomatic use of Is, Am, Are</h3>
         <br />
 
         <ol>
@@ -170,13 +180,16 @@ export default function Page() {
         </ol>
 
         <br /><br />
-        <h3 className="fw700 textCenter">EXERCISE</h3>
-        <p className="textCenter">Translate the following into English:</p>
-        <hr className="line-separator" />
+        <h3 class="fw700 textCenter">EXERCISE</h3>
+        <p class="textCenter">Translate the following into English:</p>
+        <hr class="line-separator" />
         <br />
-        <Exercise data={data} />
+        <div id="section-exercise" data-json="lesson-01"></div>
       </div>
     </main>
   </div>
-  )
-}
+  <script src="js/jquery-3.7.1.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

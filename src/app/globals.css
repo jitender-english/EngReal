@@ -2,26 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+*{ margin:0;}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
+body{ font-size: 20px; line-height: 1.5; font-family: 'Times New Roman', Times, serif;}
+.textCenter{ text-align: center;}
+.fw700{ font-weight: 700;}
+.fw400{ font-weight: 400;}
+.fsi{ font-style: italic;}
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+.fs18{ font-size: 18px;}
+.fs24{ font-size: 24px;}
+.fs30{ font-size: 30px;}
+.ttu{ text-transform: uppercase;}
+.mb10{ margin-bottom: 10px;}
+.db{ display: block;}
+
+
+
+.list-style-none{ list-style: none; padding-left: 30px;}
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+h1{} 
+h2{} 
+h3{} 
+h4{}
+h5{} 
+h6{}
+
+p{ margin-bottom: 6px;}
+
+li{ margin-bottom: 18px;}
+
+.hide{ visibility: hidden;}
+
+#section-exercise .eng{ color:green}
+.line-separator{ border-width: 0 0 0 0; border-bottom: 2px dashed #ccc; height: 0px; font-size:0; line-height: 0;}
+
+.list-sentences{}
+.content-wrapper{ width: 1200px; margin: 0 auto;}
