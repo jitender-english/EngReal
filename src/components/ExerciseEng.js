@@ -19,8 +19,10 @@ export default function ExerciseEng({ dataUrl }) {
     }
 
     return (
-        <div id="section-exercise"><ol className="trans">
-            {jsondata.map((ln, index) => <SubLineEng data={ln} key={index} />)}
-        </ol></div>
+        <div id="section-exercise">
+            <ol className="trans">
+                {jsondata.map((ln, index) => <SubLineEng data={ln} key={index} />)}
+            </ol>
+        </div>
     );
 }
