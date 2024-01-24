@@ -88,7 +88,7 @@ video { max-width: 100%; height: auto; }
 [hidden] { display: none; } 
 
 
-
+/* :::::::::::::::::::::::::: default Stylings :::::::::::::::::::::::::: */
 *{ margin:0;}
 
 body{ font-size: 20px; line-height: 1.5; font-family: 'Times New Roman', Times, serif;}
@@ -136,12 +136,13 @@ li{ margin-bottom: 18px;}
 .list-subtitles li::marker {color:#aaa;}
 
 
-/* Dark theme*/
+/* :::::::::::::::::::::::::: Dark theme :::::::::::::::::::::::::: */
 .color-dark-secondary{ color: #c7c7c7; }
 
-body{ background:#000; color: #fff;}
-#section-exercise .eng{color: #c7c7c7;}
 hr{ border-top-color:#fff;}
+body{ background:#000; color: #fff;}
+#section-exercise .hi{color: #c7c7c7;}
+
 .lesson-marker{ color: #c7c7c7; }
 
 .lesson-marker{ display: inline-block;}
@@ -153,7 +154,7 @@ hr{ border-top-color:#fff;}
     
 }
 
-
+/* :::::::::::::::::::::::::: default Stylings :::::::::::::::::::::::::: */
 .hi{ font-size: 18px;}
 .site-wrapper{ padding:15px 15px;}
 

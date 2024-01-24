@@ -31,7 +31,7 @@ export default function Home() {
           <br /><hr /><br />
           <ul>
             <li>Reacher - 
-              <Link href="/english/season/reacher/s02e01"> <span className="color-dark-secondary">S01E01 </span></Link>, 
+              <Link href="/english/season/reacher/s02e01"> <span className="color-dark-secondary">S01E01 </span></Link>
               <Link href="/english/season/reacher/s02e02"><span className="color-dark-secondary">S01E02 </span></Link> 
               <Link href="/english/season/reacher/s02e03"><span className="color-dark-secondary">S01E03 </span></Link> 
               <Link href="/english/season/reacher/s02e04"><span className="color-dark-secondary">S01E04 </span></Link>
