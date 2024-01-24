@@ -88,9 +88,6 @@ video { max-width: 100%; height: auto; }
 [hidden] { display: none; } 
 
 
-body{ background:#282828; color: #fff;}
-#section-exercise .eng{color: #c7c7c7;}
-
 
 *{ margin:0;}
 
@@ -126,7 +123,40 @@ li{ margin-bottom: 18px;}
 
 .line-separator{ border-width: 0 0 0 0; border-bottom: 2px dashed #ccc; height: 0px; font-size:0; line-height: 0;}
 
-.list-sentences{}
+
 .content-wrapper{ max-width: 1200px; margin: 0 auto;}
 
-.site-wrapper{ padding:0 40px;}
+
+.order-list{ list-style: decimal; padding-left:40px;}
+.disc-list{ list-style: disc; padding-left:40px;}
+.circle-list{ list-style: circle; }
+.square-list{ list-style: square; padding-left:40px;}
+
+.list-subtitles li{ cursor: pointer; }
+.list-subtitles li::marker {color:#aaa;}
+
+
+/* Dark theme*/
+.color-dark-secondary{ color: #c7c7c7; }
+
+body{ background:#000; color: #fff;}
+#section-exercise .eng{color: #c7c7c7;}
+hr{ border-top-color:#fff;}
+.lesson-marker{ color: #c7c7c7; }
+
+.lesson-marker{ display: inline-block;}
+
+@media only screen and (min-width: 600px) {
+    .lesson-marker{ width: 180px; }
+}
+@media only screen and (max-width: 600px) {
+    
+}
+
+
+.hi{ font-size: 18px;}
+.site-wrapper{ padding:15px 15px;}
+
+
+
+
