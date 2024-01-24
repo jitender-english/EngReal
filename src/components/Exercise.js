@@ -19,8 +19,10 @@ export default function Exersize({ dataUrl }) {
     }
 
     return (
-        <div id="section-exercise"><ol className="trans">
-            {jsondata.map((ln, index) => <SubLine data={ln} key={index} />)}
-        </ol></div>
+        <div id="section-exercise">
+            <ol className="order-list list-subtitles">
+                {jsondata.map((ln, index) => <SubLine data={ln} key={index} />)}
+            </ol>
+        </div>
     );
 }
