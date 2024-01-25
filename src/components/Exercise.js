@@ -20,7 +20,7 @@ export default function Exersize({ dataUrl }) {
 
     return (
         <div id="section-exercise">
-            <ol className="order-list list-subtitles">
+            <ol className="order-list translate-lines">
                 {jsondata.map((ln, index) => <SubLine data={ln} key={index} />)}
             </ol>
         </div>

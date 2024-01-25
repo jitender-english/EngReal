@@ -20,7 +20,7 @@ export default function ExerciseEng({ dataUrl }) {
 
     return (
         <div id="section-exercise">
-            <ol className="order-list list-subtitles">
+            <ol className="order-list translate-lines">
                 {jsondata.map((ln, index) => <SubLineEng data={ln} key={index} />)}
             </ol>
         </div>

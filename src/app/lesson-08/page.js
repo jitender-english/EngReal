@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 8</span>
-            <span class="db fs24 fw700">PAST TENSE (ACTIVE VOICE)<br />Past Indefinite Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 8</p>
+            <h1 className="mb0">PAST TENSE (ACTIVE VOICE)<br />Past Indefinite Tense</h1>
+          </header>
+
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>जब कार्य Past में हो तो Verb की दूसरी form का प्रयोग किया जाता है (देखो - भाग A के वाक्य ) ।
             </li>
             <li>Negative Sentences में Subject के पश्चात् did not लगता है और Verb की पहली form लगाई जाती है
@@ -27,10 +29,10 @@ export default function Page() {
               अंग्रेजी में &#39;He did see me yesterday. &#39; होगा।</li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>उसने मुझे गालियाँ दीं।</p>
               <p>He abused me.</p>
@@ -65,9 +67,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैंने उससे परामर्श नहीं किया ।</p>
               <p>I did not consult him.</p>
@@ -94,9 +96,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या वे स्कूल नहीं गये ? </p>
               <p>Did they not go to school?</p>
@@ -119,9 +121,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(d) Use of &#39;Used to&#39;</h3>
+          <h3 className="tC">(d) Use of &#39;Used to&#39;</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>वह प्रतिदिन सैर के लिए जाया करता था ।</p>
               <p>He used to go for a walk daily.</p>
@@ -155,15 +157,8 @@ export default function Page() {
               <p>Used he not to come your house?</p>
             </li>
           </ol>
-          <br />
-
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-08" />
 
         </div>

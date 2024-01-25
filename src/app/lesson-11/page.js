@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 11</span>
-            <span class="db fs24 fw700">Past Perfect Continuous Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 11</p>
+            <h1 className="mb0">Past Perfect Continuous Tense</h1>
+          </header>
+          
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>यह Tense हिन्दी में रहा था, रही थी, रहे थे आदि में समाप्त होता है तथा ऐसे कार्य प्रकट करता है जो Past में आरम्भ होकर जारी रहा हो तथा समाप्त हुआ हो। इसलिये इन वाक्यों में समय की अवधि बताने वाले शब्द अवश्य होते हैं, जैसे- एक घण्टे से, 1960 से मंगलवार से, कई सप्ताह से इत्यादि ।</li>
             <li>इस Tense को बनाने के लिये Present Participle से पहले had been लगाया जाता है। स्मरण रहे कि Present Participle verb की पहली form के साथ &#39;ing&#39; लगाकर बनाया जाता है ।</li>
             <li>समय को प्रकट करने के लिए &#39;since &#39; तथा &#39;for&#39; का प्रयोग किया जाता है। Period of time अर्थात् समय की अवधि बताने वाले शब्द - दो दिन से, चार सप्ताह से, कई वर्ष से इत्यादि - के साथ &#39;for&#39; का प्रयोग होता है और Point of time अर्थात् नियत समय को प्रकट करने वाले शब्द - सुबह से, 1960 से, मंगलवार से इत्यादि के साथ &#39;since&#39; का प्रयोग होता है ।</li>
@@ -19,10 +21,10 @@ export default function Page() {
             <li><p>ऐसे वाक्यों में जिनके दो भाग होते हैं पहले भाग में Present Perfect - Continuous और दूसरे भाग में Past Indefinite का प्रयोग होता है (देखो A-4; B-3, 4; C-3, 5)।</p><p>Note करो कि इस Tense का Passive Voice नहीं होता है ।</p></li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>वह प्रातःकाल सात बजे से सो रहा था।</p>
               <p>He had been sleeping since seven in the morning.</p>
@@ -45,9 +47,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>वह कई दिनों से मुझे चिट्ठी नहीं लिख रहा था ।</p>
               <p>He had not been writing to me for many days.</p>
@@ -72,9 +74,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या वह दो दिन से यह लेख लिख रहा था ?</p>
               <p>Had he been writing this article for two days?</p>
@@ -101,15 +103,8 @@ export default function Page() {
               <p>Had it not been raining for two hours ?</p>
             </li>
           </ol>
-          <br />
-
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-11" />
         </div>
       </main>

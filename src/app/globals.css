@@ -96,12 +96,12 @@ body{ font-size: 20px; line-height: 1.5; font-family: "Times New Roman", Times, 
 .list-style-none{ list-style: none; padding-left: 30px;}
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-h1, .h1{ margin-bottom:32px; font-size: 36px; } 
-h2, .h2{ margin-bottom:24px; font-size: 28px; } 
-h3, .h3{ margin-bottom:22px; font-size: 24px; } 
-h4, .h4{ margin-bottom:20px; font-size: 22px;}
-h5, .h5{} 
-h6, .h6{}
+h1, .h1{ margin-bottom:36px; font-size: 36px; } 
+h2, .h2{ margin-bottom:32px; font-size: 32px; } 
+h3, .h3{ margin-bottom:28px; font-size: 28px; } 
+h4, .h4{ margin-bottom:26px; font-size: 26px;}
+h5, .h5{ margin-bottom:24px; font-size: 24px;} 
+h6, .h6{ margin-bottom:22px; font-size: 22px;}
 
 p{ margin-bottom: 6px;}
 
@@ -129,35 +129,28 @@ li{ margin-bottom: 18px;}
 .fsi{ font-style: italic;}
 
 .fs36{ font-size: 36px;}
-.fs18{ font-size: 18px;}
 .fs24{ font-size: 24px;}
 
 .ttu{ text-transform: uppercase;}
 .mb10{ margin-bottom: 10px;}
 .db{ display: block;}
 
+.mb36{ margin-bottom:36px;}
 .mb32{ margin-bottom:32px;}
 .mb24{ margin-bottom:24px;}
 .mb22{ margin-bottom:22px;}
+.mb20{ margin-bottom:20px;}
 .mb0{ margin-bottom:0;}
 
 /* :::::::::::::::::::::::::: tailwind start :::::::::::::::::::::::::: */
 
 
 
-.list-subtitles li{ cursor: pointer; }
-.list-subtitles li::marker {color:#aaa;}
+.translate-lines li{ cursor: pointer; }
+.translate-lines li::marker {color:#aaa;}
 
 .translate-lines li::marker {color:#aaa;}
-.translate-lines li .hi{ font-size: 18px;}
-.translate-lines li .eng{ }
-
-
-.page-heading{ margin: 0 0 36px 0;}
-.page-heading p{ margin-bottom: 0;}
-
-
-
+.translate-lines li p:nth-child(0){ font-size: 18px;}
 
 .lesson-marker{ display: inline-block;}
 
@@ -179,8 +172,7 @@ li{ margin-bottom: 18px;}
 .theme-dark a:active{ color:#444;}
 .theme-dark .color-dark-secondary{ color: #fff; }
 .theme-dark hr{ border-top-color:#fff;}
-.theme-dark .list-subtitles li .eng{ color:#fff; }
-.theme-dark .translate-lines li .eng{ color:#fff; }
+.theme-dark .translate-lines li p:nth-child(2){ color:#fff; }
 .theme-dark .lesson-name{ color:#fff;}
 .theme-dark .season-name{ color:#fff; }
 /* :::::::::::::::::::::::::: Dark theme end :::::::::::::::::::::::::: */

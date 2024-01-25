@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 14</span>
-            <span class="db fs24 fw700">Future Perfect Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 14</p>
+            <h1 className="mb0">Future Perfect Tense</h1>
+          </header>
+
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list translate-lines">
             <li>हिन्दी में यह Tense चुका होगा, चुका हूँगा, चुके होंगे, चुकी होगी आदि में समाप्त होता है ।
               अंग्रेजी में इसे Past Participle अर्थात् Verb की तीसरी form से पहले will have अथवा shall have
               लगाकर बनाया जाता है ।</li>
@@ -24,11 +26,14 @@ export default function Page() {
               sun rises?&#39; (देखो वाक्य C– 2, 4 ) । ऐसे वाक्यों में सदा समय दर्शाने वाला कोई न कोई शब्द अवश्य
               होता है। जैसे- तब तक से पहले, 10 बजे तक, बरसात से पहले, उस समय तक इत्यादि ।</li>
           </ol>
+
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>इस समय तक वह पुस्तक समाप्त कर चुका होगा ।</p>
               <p>He will have finished the book by now.</p>
@@ -45,12 +50,14 @@ export default function Page() {
               <p>हमे इस मकान में रहते हुए कल चार वर्ष हो जायेंगे।</p>
               <p>We shall have lived in this house for four years tomorrow.</p>
             </li>
-
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>गाड़ी चलने से पहले मुसाफिर स्टेशन पर नहीं पहुँच चुका होगा ।</p>
               <p>The traveller will not have reached the station before the train starts.</p>
@@ -68,10 +75,13 @@ export default function Page() {
               <p>I shall not have reached the top of the hill after some time.</p>
             </li>
           </ol>
+          
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या तुम एक सप्ताह में सारे मकान की सफेदी कर चुके दोगे ? </p>
               <p>Will you have white-washed the whole house within a week ?</p>
@@ -88,17 +98,11 @@ export default function Page() {
               <p>क्या वर्षा आरम्भ होने से पूर्व ही बच्चे स्कूल पहुँच चुके होंगे ?</p>
               <p>Will the children have reached the school before it rains?</p>
             </li>
-
           </ol>
-          <br />
 
-          <hr class="line-separator" />
-
-          <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
           <br />
+          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-14" />
         </div>
       </main>

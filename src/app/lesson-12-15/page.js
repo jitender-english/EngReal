@@ -5,11 +5,13 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-        <h1 class="heading tC">
-                    <span class="db fs36 ttu mb10 fw400">MISCELLANEOUS EXERCISE 4 <br /> [ Revision of Lessons 12-15]</span>
-                    <span class="db fs24 fw700">Translate the following into English:</span>
-                </h1>
-                <br />
+          <header className="tC mb32">
+            <p className="mb0">Miscellaneous Exercise 4</p>
+            <p className="mb0">[ Revision of Lessons 12-15 ]</p>
+            <p className="mb0">Translate the following into English:</p>
+          </header>
+          
+          <br />
           <Exercise dataUrl="/api/lesson-12-15" />
         </div>
       </main>

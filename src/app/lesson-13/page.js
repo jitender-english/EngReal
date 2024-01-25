@@ -1,17 +1,19 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
   return (
     <div className="site-wrapper">
       <main>
-        <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 13</span>
-            <span class="db fs24 fw700">Future Continuous Tense</span>
-          </h1>
+        <div className="content-wrapper">          
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 13</p>
+            <h1 className="mb0">Future Continuous Tense</h1>
+          </header>
+
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>हिन्दी में यह Tense रहा होगा, रही होगी, रहे होंगे आदि में समाप्त होता है। इसका अनुवाद Present
               Participle से पहले will be अथवा shall be लगाकर किया जाता है ।</li>
             <li>Shall और will के प्रयोग के अन्तर का इस अध्याय में भी ध्यानं रखो (देखो अध्याय 12 ) । </li>
@@ -20,11 +22,14 @@ export default function Page() {
             <li>Interrogative Sentences में &#39;Shall &#39; या &#39; Will&#39; Subject के पहले लगाते हैं और ‘be&#39; subject के बाद
               । उसके उपरान्त present participle.</li>
           </ol>
+
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>          
+          <ol className="order-list translate-lines">
             <li>
               <p>परसों हम वार्षिक परीक्षा दे रहे होंगे।</p>
               <p>We shall be taking the Annual Examination day after tomorrow.</p>
@@ -42,10 +47,13 @@ export default function Page() {
               <p>She will be mourning the death of her husband for many days.</p>
             </li>
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैं कल इस समय घर पर नहीं रहा हूँगा।</p>
               <p>I shall not be going home at this time tomorrow.</p>
@@ -63,10 +71,13 @@ export default function Page() {
               <p>He will not be helping his father these days.</p>
             </li>
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या वह कल शाम को मैच खेल रहा होगा ? </p>
               <p>Will he be playing the match the next evening?</p>
@@ -84,15 +95,10 @@ export default function Page() {
               <p>Will the train be moving when we reach the station?</p>
             </li>
           </ol>
-          <br />
 
-          <hr class="line-separator" />
-
-          <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
           <br />
+          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-13" />
         </div>
       </main>

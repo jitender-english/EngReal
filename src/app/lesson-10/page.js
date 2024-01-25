@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 10</span>
-            <span class="db fs24 fw700">Past Perfect Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 7</p>
+            <h1 className="mb0">Past Perfect Tense</h1>
+          </header>
+
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>हिन्दी में यह Tense चुका था, चुके थे, आदि में समाप्त होता है । इनका अनुवाद करने के लिए Verb की तीसरी Form से पहले had लगता है ।</li>
             <li>इस Tense का प्रयोग प्रायः तभी किया जाता है, जब कि एक ही वाक्य में दो कार्यों के होने की सूचना मिले। इनमें से एक कार्य समाप्त हो चुका होता है तथा दूसरा आरम्भ हुआ होता है। जो कार्य समाप्त हो चुका हो, उसमें Past Perfect Tense का प्रयोग होता है तथा जो कार्य आरम्भ हुआ हो, उसमें सदा Past Indefinite लगाया जाता है। उदाहरण के लिए, वाक्य नं० A-3 लो। &#39;मेरे आने से पहले वह घर से जा चुका था ।&#39; इसमें &#39;घर से जा चुकने&#39; का कार्य समाप्त हो चुका है और &#39;मेरे आने&#39; का कार्य आरम्भ हुआ है। इसलिए &#39;जा चुकने&#39; का अनुवाद &#39;had left &#39; होगा और आने का &#39;came&#39;| इसी प्रकार वाक्य नं० 4 का अनुवाद होगा |</li>
             <li>Simple Sentences में Past Perfect का प्रयोग तब होता है, जब उनमें समय बताने वाले शब्द - before, till, already दिये गये हों, देखो वाक्य नं० A- 1, 2, 6; B-2, 3, 5 ; C-2 1</li>
@@ -19,10 +21,10 @@ export default function Page() {
               <p>वह कल शिमला गया था।</p><p>He went to Shimla yesterday.</p><p>He had gone to Shimla yesterday अशुद्ध है ।</p></li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li><p>तब तक वह सैर करने के लिए जा चुका था ।</p><p>He had gone for a walk by then.</p></li>
             <li><p>मैं पहले ही नौकरी के लिए प्रार्थना-पत्र भेज चुका था ।</p><p>I had already applied for the job.</p></li>
             <li><p>मेरे आने से पहले वह घर से जा चुका था।</p><p>He had left his house before I came.</p></li>
@@ -31,9 +33,9 @@ export default function Page() {
             <li><p>कल शाम तक मैं इस पुस्तक को पढ़ चुका था ।</p><p>I had read this book by yesterday evening.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li><p>मुझे कई दिनों से उसका पत्र नहीं मिला था ।</p><p>I had not received any letter from him for many days.</p></li>
             <li><p>उसने तब तक कुछ नहीं खाया था ।</p><p>He had not taken anything till then.</p></li>
             <li><p>तुमने इससे पहले ऐसा दुर्व्यवहार नहीं किया था ।</p><p>You had never misbehaved like this before.</p></li>
@@ -41,9 +43,9 @@ export default function Page() {
             <li><p>उसने पहले कभी बम्बई नहीं देखा था ।</p><p>He had never seen to Bombay before.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li><p>क्या घंटी बजने से पहले आप अपना कार्य समाप्त कर चुके थे ?</p><p>Had you finished your work before the bell rang?</p></li>
             <li><p>क्या तुम तब तक कभी कश्मीर नहीं गये थे ?</p><p>Had you never seen to Kashmir till then?</p></li>
             <li><p>क्या जाने से पहले तुमने खाना खा लिया था ?</p><p>Had you taken your meal before you went?</p></li>
@@ -51,15 +53,8 @@ export default function Page() {
             <li><p>क्या मोहन के आने से पहले आप  नाश्ता कर चुके थे ?</p><p>Had you taken your breakfast before Mohan came?</p></li>
             <li><p>क्या आपके स्कूल पहुँचने से पहले घण्टी बज चुकी थी ?</p><p>Had the bell gone before you reached the school?</p></li>
           </ol>
-          <br />
-
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-10" />
         </div>
       </main>

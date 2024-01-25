@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,13 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 7</span>
-            <span class="db fs24 fw700">Present Perfect Continuous Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 7</p>
+            <h1 className="mb0">Present Perfect Continuous Tense</h1>
+          </header>
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>यह Tense भी Present Continuous Tense की तरह रहा है, रही है, रहे हैं आदि में समाप्त होता है ।
               अन्तर यह है कि Present Perfect Continuous Tense में यह स्पष्ट बताया जाता है कि कार्य कब से अथवा
               किस समय से हो रहा है। &#39;I am playing.&#39; ( मैं खेल रहा हूँ।) Present Continuous Tense है । &#39;I have
@@ -34,10 +35,10 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैं दस वर्ष से दिल्ली में रह रहा हूँ।</p>
               <p>I have been living in Delhi for ten years.</p>
@@ -64,9 +65,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>हम प्रातः दस बजे से इस पुस्तक का अध्ययन नहीं कर रहे हैं।</p>
               <p>We have not been reading this book since 10 o&#39;clock in the morning.</p>
@@ -93,9 +94,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या वह कई दिनों से स्कूल नहीं आ रहा ?</p>
               <p>Has he not been coming to school for several days?</p>
@@ -113,15 +114,8 @@ export default function Page() {
               <p>Have you been working in the Agriculture Department since 1955?</p>
             </li>
           </ol>
-          <br />
-
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-07" />
 
         </div>

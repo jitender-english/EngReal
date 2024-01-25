@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,22 +6,23 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 9</span>
-            <span class="db fs24 fw700">Past Continuous Tense</span>
-          </h1>
+        <header className="tC">
+            <p className="ffSeg mb0">LESSON 9</p>
+            <h1 className="mb0">Past Continuous Tense</h1>
+          </header>
+          
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>Past Continuous Tense भूतकाल में किसी काम का जारी रहना प्रकट करता है और हिन्दी में यह Tense रहा था, रही थी, रहे थे, आदि में समाप्त होता है। इनका अनुवाद Present Participle form के पूर्व was या were लगाकर किया जाता है। याद रहे कि Verb की पहली form के बाद ‘ing&#39; लगाने से Present Participle बनता है ।</li>
             <li>He, she, it, I और Singular Nouns के साथ was तथा we, they, you और Plural Nouns के साथ were का प्रयोग होता है ।</li>
             <li>Interrogative वाक्यों में was या were का प्रयोग subject से पहले होता है | negative वाक्यों में &#39;was not&#39; या &#39; were not&#39; लगाये जाते हैं ।</li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li><p>मैं सैर कर रहा था ।</p><p>I was enjoying a stroll.</p></li>
             <li><p>वह अपने घर जा रहा था ।</p><p>He was going to his house.</p></li>
             <li><p>वह अपने इकलौते पुत्र की मृत्यु पर जोर-जोर से रो रही थी ।</p><p>She was weeping bitterly at the death of her only son.</p></li>
@@ -31,9 +33,9 @@ export default function Page() {
 
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol><li><p>मैं तुम्हें गालियाँ नहीं दे रहा था।</p><p>I was not abusing you.</p></li>
+          <ol className="order-list translate-lines"><li><p>मैं तुम्हें गालियाँ नहीं दे रहा था।</p><p>I was not abusing you.</p></li>
             <li><p>डाक्टर साहब अपने मरीजों को दवाई नहीं दे रहे थे ।</p><p>The doctor was not giving medicine to his patients.</p></li>
             <li><p>दुकानदार सौदा नहीं बेच रहा था ।</p><p>The shopkeeper was not selling his goods.</p></li>
             <li><p>किसान खेतों में हल नहीं चला रहे थे।</p><p>The farmers were not ploughing their fields.</p></li>
@@ -41,9 +43,9 @@ export default function Page() {
             <li><p>वे आपकी सहायता नहीं कर रहे थे ।</p><p>They were not helping you.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol><li><p>क्या भिखारी दर-दर भीख माँग रहा था? </p><p>Was the beggar begging from door to door?</p></li>
+          <ol className="order-list translate-lines"><li><p>क्या भिखारी दर-दर भीख माँग रहा था? </p><p>Was the beggar begging from door to door?</p></li>
             <li><p>क्या वह दर्द से कराह रहा था ?</p><p>Was he groaning with pain?</p></li>
             <li><p>क्या वह तुम्हें धोखा देने का प्रयत्न कर रहा था ?</p><p>Was he trying to deceive you?</p></li>
             <li><p>क्या वह तुम्हें आने से रोक रहा था ?</p><p>Was he detaining you?</p></li>
@@ -52,15 +54,8 @@ export default function Page() {
             <li><p>क्या तुम झूठ नहीं बोल रहे थे ?</p><p>Were you not telling a lie?</p></li>
             <li><p>नहीं, मैं सच बोल रहा था ।</p><p>No, I was speaking the truth.</p></li>
           </ol>
-          <br />
-
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-09" />
         </div>
       </main>

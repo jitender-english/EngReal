@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,15 +6,16 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 2</span>
-            <span class="db fs24 fw700">The Verb &#39;to be&#39;</span>
-            <span class="db fs24 fw700">PAST TENSE</span>
-            <span class="db fs18 fsi fw400 mb10">&#39;Was, Were&#39;</span>
-          </h1>
-          <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <header className="tC">            
+            <p className="ffSeg mb0">Lesson 2</p>
+            <h1 className="mb0">PAST TENSE</h1>
+            <p className="ffSeg fw700 mb0">The Verb &#39;to be&#39;</p>
+            <p className="ffSeg fsi mb0">&#39;Was, Were&#39;</p>
+          </header>
+
+          <br />          
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>
               <p>Past Tense (भूतकाल ) में he, she, it तथा Singular Nouns के साथ &#39;was&#39; और you, we, they तथा Plural Nouns के साथ &#39;were&#39; का प्रयोग होता है। जैसे-</p>
               <p>Singular Nouns : Rama, Mohan, boy, girl, friend, flower और teacher के साथ was लगाया जायेगा तथा इनके Plurals के साथ &#39;were&#39; लगाया जायेगा, इसी प्रकार I के साथ &#39;was&#39;, we के साथ &#39;were&#39;, &#39;you&#39;, Singular तथा Plural के साथ were, he&#39;, &#39;she&#39;, &#39;it&#39; के साथ was तथा इनके Plural &#39;they&#39; के साथ were ही लगाया जाता है। </p>
@@ -23,11 +25,12 @@ export default function Page() {
             <li>वाक्य में &#39;not&#39; का प्रयोग करने से वाक्य Negative बन जाता है। Not को Subject के बाद में ही लगाया जाता है। </li>
           </ol>
 
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">A-&#39;Was&#39;</h3>
-          <p class="tC">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>
           <br />
-          <ol>
+          <br />
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">A-&#39;Was&#39;</h3>
+          <p className="tC">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>          
+          <ol className="order-list translate-lines">
             <li>
               <p>वह हमारा नौकर था। </p>
               <p>He was our servant.</p>
@@ -71,11 +74,9 @@ export default function Page() {
           </ol>
 
           <br /><br />
-          <h3 class="fw700 tC">B-&#39;Were&#39;</h3>
-          <p class="tC">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
-          <br />
-
-          <ol>
+          <h3 className="tC">B-&#39;Were&#39;</h3>
+          <p className="ffSeg tC mb0">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
+          <ol className="order-list translate-lines">
             <li>
               <p>हम पक्के मित्र थे। </p>
               <p>We were chums ( fast friends ).</p>
@@ -118,13 +119,8 @@ export default function Page() {
             </li>
           </ol>
 
-
-
           <br /><br />
-          <h3 className="fw700 tC">EXERCISE</h3>
-          <p className="tC">Translate the following into English:</p>
-          <hr className="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-02" />
         </div>
       </main>

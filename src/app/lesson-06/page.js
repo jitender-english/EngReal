@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,13 +6,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 6</span>
-            <span class="db fs24 fw700">Present Perfect Tense and the use of &#39;For&#39; and &#39;Since &#39;</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 6</p>
+            <h1 className="mb0">Present Perfect Tense and the use of &#39;For&#39; and &#39;Since &#39;</h1>
+          </header>
+
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>हिन्दी में यह Tense या है, चुका है, चुकी है, चुके हैं, आ है, ई है, ए हैं आदि में समाप्त होता है।
             </li>
             <li>अंग्रेजी में इसका अनुवाद has या have के साथ Verb की तीसरी form (Past Participle) लगाकर किया जाता
@@ -28,7 +30,7 @@ export default function Page() {
                 Present Perfect का प्रयोग करने वाले शब्द हों तो ऐसे वाक्य का अनुवाद Past Indefinite Tense
                 में ही होगा, Present Perfect में नहीं।उदाहरणतया-</p>
 
-              <ol>
+              <ol className="order-list translate-lines">
                 <li>
                   <p>मैं कल पाँच बजे घर पहुँचा हूँ।</p>
                   <p>I reached home at five yesterday.</p>
@@ -57,7 +59,7 @@ export default function Page() {
                 यह है कि जो कार्य भूतकाल में आरम्भ होकर वर्तमान काल तक होता रहे उसके लिये हम Present Perfect
                 का ही प्रयोग करते हैं, Past Indefinite Tense का नहीं।उदाहरणतया-</p>
 
-              <ol>
+              <ol className="order-list translate-lines">
                 <li>
                   <p>मैंने अभी तक खाना नहीं खाया।</p>
                   <p>I have not taken my meals as yet.</p>
@@ -78,10 +80,10 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैंने अपना काम समाप्त कर लिया है।</p>
               <p>I have finished my work.</p>
@@ -112,9 +114,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैंने पत्र अभी डाक में नहीं डाला है।</p>
               <p>
@@ -147,9 +149,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या गाड़ी जा चुकी है?</p>
               <p>
@@ -202,9 +204,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(d) Use of &#39;For&#39; and &#39;Since&#39;</h3>
+          <h3 className="tC">(d) Use of &#39;For&#39; and &#39;Since&#39;</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैं पिछले दो महीने से उसे नहीं मिला हूँ।</p>
               <p>
@@ -236,13 +238,8 @@ export default function Page() {
                 He has known me since 1970.</p>
             </li>
           </ol>
-          <hr class="line-separator" />
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-06" />
         </div>
       </main>

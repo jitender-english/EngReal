@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,20 +6,24 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <header className="page-heading tC"><p className="ffSeg">LESSON 5</p>
-            <h1>Present Continuous Tense</h1></header>
-          <h4 className="tC">Points to Remember</h4>
-          <ol>
+          <header className="tC mb36">
+            <p className="ffSeg mb0">Lesson 5</p>
+            <h1 className="mb0">Present Continuous Tense</h1>
+          </header>
+
+          <br />
+          <h4 className="tC mb20">Points to Remember</h4>
+          <ol className="order-list">
             <li>यह Tense हिन्दी में प्रायः रहा है, रहे हैं, रही है आदि में समाप्त होता है।अंग्रेजी में इसका अनुवाद Verb की पहली form से पहले is, am, are तथा Verb की पहली form के बाद &#39;ing&#39; लगाकर किया जाता है, जैसे is/am/are walking, is/am/are reading.</li>
             <li>Is, am, are का प्रयोग इस tense में भी उसी विधि से किया जाता है, जो कि पिछले अध्याय के Note 1 में बताई गई है अर्थात् He, she, it नथा Singular Noun के साथ &#39;is&#39;; you, we, they तथा Plural Nouns के साथ &#39;are&#39; तथा &#39;I&#39; के साथ &#39;am&#39; का प्रयोग होता है।</li>
             <li>Interrogative sentences Helping Verb (is, am, are) आता है, उसके पश्चात् Subject और फिर Main Verb (देखो C के वाक्य )।</li>
             <li>Negative sentences Main Verb 3 Helping Verb बीच not लगाया जाता है (देखो B के वाक्य )</li>
             <li>कभी-कभी ऐसा भी होता है कि हिन्दी का वाक्य रहा, रही, रहे आदि में समाप्त नहीं होता, परन्तु फिर भी उसका अनुवाद Present Continuous Tense में होता है (देखो वाक्य A - 4, B-2)।</li>
           </ol>
+          
           <br /><br />
-          <p class="ffSeg tC">Model Sentences</p>
-          <h2 class="tC">(a) Affirmative Sentences</h2>
-
+          <p className="ffSeg tC">Model Sentences</p>
+          <h2 className="tC">(a) Affirmative Sentences</h2>
           <ol className="order-list translate-lines">
             <li>
               <p className="hi">मैं कलकत्ता जा रहा हूँ।</p>
@@ -53,8 +58,9 @@ export default function Page() {
               <p className="eng">He is reading a book.</p>
             </li>
           </ol>
+
           <br /><br />
-          <h2 class="tC">(b) Negative Sentences</h2>
+          <h2 className="tC">(b) Negative Sentences</h2>
           <ol className="order-list translate-lines">
             <li>
               <p className="hi">वह पत्र नहीं लिख रहा है।</p>
@@ -85,8 +91,9 @@ export default function Page() {
               <p className="eng">We are not making fun of anybody.</p>
             </li>
           </ol>
+
           <br /><br />
-          <h2 class="tC">(c) Interrogative Sentences</h2>
+          <h2 className="tC">(c) Interrogative Sentences</h2>
 
           <ol className="order-list translate-lines">
             <li>
@@ -126,11 +133,9 @@ export default function Page() {
               <p className="eng">Am I not helping you?</p>
             </li>
           </ol>
-          <br /><br />
-          <h2 class="tC mb0">Exercise</h2>
-          <p class="ffSeg tC mb23">Translate the following into English:</p>
 
-          <br />
+          <br /><br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-05" />
         </div>
       </main>

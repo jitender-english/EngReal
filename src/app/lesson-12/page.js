@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,14 +6,17 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 12</span>
-            <span class="db fs24 fw700">FUTURE TENSE (ACTIVE VOICE)<br />Future Indefinite Tense</span>
-            <span>(Use of Shall and Will)</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">LESSON 12</p>
+            <h1 className="mb0">Future Indefinite Tense</h1>
+            <p className="ffSeg mb0">Future Tense (Active Voice)</p>
+            <p className="ffSeg mb0">(Use of Shall and Will)</p>
+          </header>
+          
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <br />
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>हिन्दी में यह Tense गा, गे, गी से समाप्त होता है और अंग्रेजी में इसका अनुवाद will या shall के बाद Verb की पहली Form लगाकर किया जाता है ।</li>
             <li>यदि वाक्य में Simple Future ( सामान्य भविष्य ) का बोध हो तो First Person (I, we) के साथ &#39;shall&#39; तथा Second और Third Persons (you, she, it, they) के साथ &#39; will&#39; का प्रयोग होता है। (देखो A (a) के वाक्य) ।</li>
             <li>जिन वाक्यों में order ( आज्ञा ), determination (निश्चय अथवा प्रतीक्षा ) और desire (इच्छा प्रकट हो, तो First Person (I, we) के साथ will और Third Persons (you, he, she, it, they) के साथ shall का प्रयोग होता है (देखो B ( a अथवा b) के वाक्य ) |</li>
@@ -21,12 +25,16 @@ export default function Page() {
             <li>&#39;will&#39; और &#39;shall&#39; के स्थान पर कभी-कभी Present Tense का भी प्रयोग होता है (देखो F के वाक्य ) ।</li>
             <li>कई वाक्यों में हिन्दी में दो बार Future Indefininte Tense (गा, गे, गी ) का प्रयोग होता है। ऐसे वाक्यों में &#39; shall &#39; या &#39; will&#39; को केवल वाक्य main भाग अर्थात् Principal Clause में ही प्रयोग करते हैं Subordinate Clause में नहीं | Compound Sentences में जहाँ वाक्य के दोनों भाग Independent होते हैं, &#39;will&#39; अथवा &#39;shall&#39; को वाक्य के दोनों भागों में प्रयोग किया जाता है (देखो G ); वाक्य 5 इसमें Compound Sentence है।</li>
           </ol>
+
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences <br /> (i) Sentences expressing Simple Futurity</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
-          <p>[&#39;Shall&#39; is used with the First Person and &#39;Will&#39; with the Second and Third Person to express simple futurity.]</p>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <p className="ffSeg mb0">(i) Sentences expressing Simple Futurity</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+            <p className="ffSeg mb0">[&#39;Shall&#39; is used with the First Person and &#39;Will&#39; with the Second and Third Person to express simple futurity.]</p>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैं आपकी सहायता करूँगा ।</p>
               <p>I shall help you.</p>
@@ -47,12 +55,14 @@ export default function Page() {
               <p>वह आपसे मिलने आयेगा ।</p>
               <p>He will come to see you.</p>
             </li>
-
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>मैं आज घर नहीं जाऊँगा । </p>
               <p>I shall not go home today.</p>
@@ -78,11 +88,14 @@ export default function Page() {
               <p>You will not like to meet him.</p>
             </li>
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
-          <p>[&#39;Shall&#39; is used with the First and Second Person and &#39;will&#39;. in the Third Person to express simple future.]</p>
           <br />
-          <ol>
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+            <p className="ffSeg mb0">[&#39;Shall&#39; is used with the First and Second Person and &#39;will&#39;. in the Third Person to express simple future.]</p>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या वह कल बम्बई जायेगा ?</p>
               <p>Will he go to Bombay tomorrow?</p>
@@ -108,12 +121,15 @@ export default function Page() {
               <p>Shall we leave for school at ten?</p>
             </li>
           </ol>
+
           <br />
-          <h3 class="fw700 tC">(d) Assertive Sentences</h3>
-          <p>(ii) Sentences expressing Order, Promise, Threat and Determination</p>
-          <p>(a) &#39;Shall with the Second and Third Persons express Command, Promise, Threat etc.]</p>
           <br />
-          <ol>
+          <header  className="tC mb32">
+            <h2 className="mb0">(d) Assertive Sentences</h2>
+            <p className="ffSeg mb0">(ii) Sentences expressing Order, Promise, Threat and Determination</p>
+            <p className="ffSeg mb0">(a) &#39;Shall with the Second and Third Persons express Command, Promise, Threat etc.]</p>
+          </header>
+          <ol className="order-list translate-lines">
             <li>
               <p>तुम चोरी नहीं करोगे । (उपदेश ) </p>
               <p>You shall not steal.(Advice)</p>
@@ -139,10 +155,13 @@ export default function Page() {
               <p>He shall be punished.(Threat )</p>
             </li>
           </ol>
+
           <br />
-          <p>[(b) &#39;Will with the First Person express Determination Intention, etc.]</p>
           <br />
-          <ol><li>
+          <header className="tC mb32">
+            <p className="ffSeg mb0">[(b) &#39;Will with the First Person express Determination Intention, etc.]</p>
+          </header>
+          <ol className="order-list translate-lines"><li>
             <p>मैं यह पुस्तक खरीदूँगा ।</p>
             <p>I will buy this book.</p>
           </li>
@@ -160,10 +179,13 @@ export default function Page() {
             </li></ol>
 
           <br />
-          <h3 class="fw700 tC">(e) Interrogative Sentences</h3>
-          <p>[In Interrogative sentences expressing Intention &#39;shall&#39; is used in the First and Third Persons and &#39;will&#39; in the Second Person.]</p>
           <br />
-          <ol><li>
+          <header className="tC mb32">
+            <h2 className="tC mb0">(e) Interrogative Sentences</h2>
+            <p className="ffSeg mb0">[In Interrogative sentences expressing Intention &#39;shall&#39; is used in the First and Third Persons and &#39;will&#39; in the Second Person.]</p>
+          </header>
+          <ol className="order-list translate-lines">
+          <li>
             <p>क्या मैं तुम्हारी प्रतीक्षा करूँ ?</p>
             <p>Shall I wait for you?</p>
           </li>
@@ -186,12 +208,15 @@ export default function Page() {
             <li>
               <p>क्या तुम मुझे अपनी किताब दोगे ? </p>
               <p>Will you lend me your book?</p>
-            </li></ol>
-          <br />
-          <h3 class="fw700 tC">(f) Hindi Sentences of Future Indefinite Tense translated in Present Tense</h3>
+            </li>
+          </ol>
 
           <br />
-          <ol>
+          <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(f) Hindi Sentences of Future Indefinite Tense translated in Present Tense</h2>  
+          </header>        
+          <ol className="order-list translate-lines">
             <li>
               <p>मेरे भाई का विवाह अगले सप्ताह होगा ।</p>
               <p>My brother&#39;s marriage comes off next week.</p>
@@ -208,14 +233,18 @@ export default function Page() {
               <p>क्या तुम आज शाम को आ रहे हो ?</p>
               <p>Are you coming this evening?</p>
             </li></ol>
+          
           <br />
-          <h3 class="fw700 tC">(g) Complex Construction-Complex and Compound Sentences</h3>
-          <p>[In complex sentences ‘Will&#39; or &#39;Shall&#39; is used only in the principal part of the sentence.]</p>
           <br />
-          <ol><li>
-            <p>ज्यों ही वर्षा होगी, हम घर आ जायेंगे |</p>
-            <p>As soon as it begins to rain, we shall return home.</p>
-          </li>
+          <header className="tC mb32">
+            <h2 className="mb0">(g) Complex Construction-Complex and Compound Sentences</h2>
+            <p className="ffSeg mb0">[In complex sentences ‘Will&#39; or &#39;Shall&#39; is used only in the principal part of the sentence.]</p>
+          </header>
+          <ol className="order-list translate-lines">
+            <li>
+              <p>ज्यों ही वर्षा होगी, हम घर आ जायेंगे |</p>
+              <p>As soon as it begins to rain, we shall return home.</p>
+            </li>
             <li>
               <p>जब मैं दिल्ली आऊँगा तो तुम से अवश्य मिलूँगा ।</p>
               <p>When I come to Delhi, I will meet you.</p>
@@ -235,16 +264,12 @@ export default function Page() {
             <li>
               <p>तुम इस कमरे से नहीं जाओगे जब तक मैं वापस न आऊँ ।</p>
               <p>You shall not leave this room as long as I do not return.</p>
-            </li></ol>
-
-
-          <hr class="line-separator" />
-
-          <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
+            </li>
+          </ol>
+          
           <br />
+          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-12" />
         </div>
       </main>

@@ -1,3 +1,4 @@
+import ExerciseHeader from "@/components/ExerciseHeader";
 import Exercise from "@/components/Exercise";
 
 export default function Page() {
@@ -5,14 +6,16 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading tC">
-            <span class="db fs36 ttu mb10 fw400">LESSON 4</span>
-            <span class="db fs24 fw700">USE OF TENSES <br /> PRESENT TENSE (ACTIVE VOICE)</span>
-            <span class="db fs24 fw700">Present Indefinite Tense</span>
-          </h1>
+          <header className="tC">
+            <p className="ffSeg mb0">Lesson 4</p>
+            <h1 className="mb0">Present Indefinite Tense</h1>
+            <p className="ffSeg mb0">Use of Tenses</p>
+            <p className="ffSeg mb0">Present Tense (Active Voice)</p>
+          </header>
+          
           <br />
-          <h4 class="tC">Points to Remember</h4>
-          <ol>
+          <h4 className="tC">Points to Remember</h4>
+          <ol className="order-list">
             <li>यह Tense ता है, ती है, ते हैं आदि में समाप्त होता है।इसका अनुवाद सदा Verb की पहली form से किया
               जाता है।</li>
             <li>He, she, it तथा Singular Nouns के साथ Verb की पहली form के साथ &#39;s&#39; अथवा &#39;es&#39; लगता है।</li>
@@ -33,7 +36,7 @@ export default function Page() {
               <p>कभी-कभी Present Indefinite Tense को Future Tense के लिए भी प्रयोग किया जाता है, but in most
                 such cases the “ future action is considered as a part of a programme already fixed” जैसे :
               </p>
-              <ul class="list-style-none">
+              <ul className="list-style-none">
                 <li>
                   <p>हम कल चलेंगे।</p>
                   <p>We start tomorrow.</p>
@@ -55,10 +58,10 @@ export default function Page() {
             <li>किसी बात पर जोर देने के लिए भी does और do का प्रयोग होता है (देखो वाक्य D-2, 3)।</li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
-          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
+          <h2 className="mb10  tC">Model Sentences</h2>
+          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>मोहन बहुत परिश्रम करता है।</p>
               <p>Mohan works very hard.</p>
@@ -81,9 +84,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(b) Negative Sentences</h3>
+          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>वह प्रतिदिन समाचार-पत्र नहीं पढ़ता है।</p>
               <p>He does not read the newspaper daily.</p>
@@ -106,9 +109,9 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
+          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>क्या मोहन बहुत परिश्रम करता है?</p>
               <p>Does Mohan work very hard?</p>
@@ -130,11 +133,11 @@ export default function Page() {
               <p>Do the birds start chirping early in the morning?</p>
             </li>
           </ol>
-          <hr class="line-separator" />
+          <hr className="line-separator" />
           <br />
-          <h3 class="fw700 tC">(D)-Miscellaneous Uses</h3>
+          <h3 className="tC">(D)-Miscellaneous Uses</h3>
           <br />
-          <ol>
+          <ol className="order-list translate-lines">
             <li>
               <p>गाड़ी दिन के साढ़े दस बजे जाती है।</p>
               <p>The train leaves at 10.30 A.M.</p>
@@ -148,12 +151,8 @@ export default function Page() {
               <p>He does get up at four everyday.</p>
             </li>
           </ol>
-
           <br /><br />
-          <h3 class="fw700 tC">EXERCISE</h3>
-          <p class="tC">Translate the following into English:</p>
-          <hr class="line-separator" />
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-04" />
         </div>
       </main>
