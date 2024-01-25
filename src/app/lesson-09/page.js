@@ -7,7 +7,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <header className="tC">
-            <p className="ffSeg mb0">LESSON 9</p>
+            <p className="ffSeg mb0">Lesson 9</p>
             <h1 className="mb0">Past Continuous Tense</h1>
           </header>
           
