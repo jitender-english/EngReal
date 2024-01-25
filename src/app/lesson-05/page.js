@@ -19,7 +19,7 @@ export default function Page() {
           <p class="ffSeg tC">Model Sentences</p>
           <h2 class="tC">(a) Affirmative Sentences</h2>
 
-          <ol className="translate-lines">
+          <ol className="order-list translate-lines">
             <li>
               <p className="hi">मैं कलकत्ता जा रहा हूँ।</p>
               <p className="eng">I am going to Calcutta.</p>
@@ -55,7 +55,7 @@ export default function Page() {
           </ol>
           <br /><br />
           <h2 class="tC">(b) Negative Sentences</h2>
-          <ol className="translate-lines">
+          <ol className="order-list translate-lines">
             <li>
               <p className="hi">वह पत्र नहीं लिख रहा है।</p>
               <p className="eng">He is not writing a letter.</p>
@@ -88,7 +88,7 @@ export default function Page() {
           <br /><br />
           <h2 class="tC">(c) Interrogative Sentences</h2>
 
-          <ol className="translate-lines">
+          <ol className="order-list translate-lines">
             <li>
               <p className="hi">क्या वह कपड़े धो रही है?</p>
               <p className="eng">Is she washing her clothes? </p>

@@ -116,6 +116,12 @@ li{ margin-bottom: 18px;}
 
 
 /* :::::::::::::::::::::::::: tailwind start :::::::::::::::::::::::::: */
+.order-list{ list-style: decimal; padding-left:40px;}
+.disc-list{ list-style: disc; padding-left:40px;}
+.circle-list{ list-style: circle; }
+.square-list{ list-style: square; padding-left:40px;}
+
+
 .ffSeg{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 .tC{ text-align: center;}
 .fw700{ font-weight: 700;}
@@ -137,10 +143,7 @@ li{ margin-bottom: 18px;}
 
 /* :::::::::::::::::::::::::: tailwind start :::::::::::::::::::::::::: */
 
-.order-list{ list-style: decimal; padding-left:40px;}
-.disc-list{ list-style: disc; padding-left:40px;}
-.circle-list{ list-style: circle; }
-.square-list{ list-style: square; padding-left:40px;}
+
 
 .list-subtitles li{ cursor: pointer; }
 .list-subtitles li::marker {color:#aaa;}
@@ -150,7 +153,7 @@ li{ margin-bottom: 18px;}
 .translate-lines li .eng{ }
 
 
-.page-heading{ margin: 32px 0 36px 0;}
+.page-heading{ margin: 0 0 36px 0;}
 .page-heading p{ margin-bottom: 0;}
 
 
