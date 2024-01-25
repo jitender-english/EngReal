@@ -36,7 +36,7 @@ export default function Page() {
               करता है। जैसे- He had no money. उसके पास पैसे न थे। He had not money इसलिए अशुद्ध है। </li>
           </ol>
           <br />
-          <h2 className="mb10  tC">Model Sentences &#39;Has, Have&#39; </h2>
+          <h2 className="">Model Sentences &#39;Has, Have&#39; </h2>
           <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
           <ol className="order-list translate-lines">
@@ -143,7 +143,7 @@ export default function Page() {
           <h3 className="tC">B-&#39;Had&#39;</h3>
           <p className="tC">Used in the Past Tense with both Singular and Plural Nouns and Pronouns</p>
 
-          <h2 className="mb10  tC">Model Sentences</h2>
+          <h2 className="">Model Sentences</h2>
           <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
           <ol className="order-list translate-lines">

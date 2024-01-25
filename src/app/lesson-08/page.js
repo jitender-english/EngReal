@@ -8,7 +8,8 @@ export default function Page() {
         <div className="content-wrapper">
           <header className="tC">
             <p className="ffSeg mb0">LESSON 8</p>
-            <h1 className="mb0">PAST TENSE (ACTIVE VOICE)<br />Past Indefinite Tense</h1>
+            <h1 className="mb0">Past Indefinite Tense</h1>
+            <p className="ffSeg mb0">Past Tense(Active Voice)</p>
           </header>
 
           <br />
@@ -28,10 +29,13 @@ export default function Page() {
             <li>किसी बात पर जोर देने कि लिए &#39;did&#39; का प्रयोग किया जाता है। जैसे वह मुझे कल अवश्य मिला - का अनुवाद
               अंग्रेजी में &#39;He did see me yesterday. &#39; होगा।</li>
           </ol>
+
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>     
+          </header>               
           <ol className="order-list translate-lines">
             <li>
               <p>उसने मुझे गालियाँ दीं।</p>
@@ -66,9 +70,12 @@ export default function Page() {
               <p>He had had a talk regarding you.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>मैंने उससे परामर्श नहीं किया ।</p>
@@ -95,9 +102,12 @@ export default function Page() {
               <p>I did not beat that child.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>  
+          </header>        
           <ol className="order-list translate-lines">
             <li>
               <p>क्या वे स्कूल नहीं गये ? </p>
@@ -120,9 +130,12 @@ export default function Page() {
               <p>Did he not water the plants yesterday?</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(d) Use of &#39;Used to&#39;</h3>
           <br />
+          <header className="tC">
+            <h2 className="mb0">(d) Use of &#39;Used to&#39;</h2>     
+          </header>     
           <ol className="order-list translate-lines">
             <li>
               <p>वह प्रतिदिन सैर के लिए जाया करता था ।</p>
@@ -157,7 +170,9 @@ export default function Page() {
               <p>Used he not to come your house?</p>
             </li>
           </ol>
-          <br /><br />
+
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-08" />
 

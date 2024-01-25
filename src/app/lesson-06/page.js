@@ -79,10 +79,14 @@ export default function Page() {
               </ol>
             </li>
           </ol>
+          
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>  
+          </header>
+                  
           <ol className="order-list translate-lines">
             <li>
               <p>मैंने अपना काम समाप्त कर लिया है।</p>
@@ -113,9 +117,12 @@ export default function Page() {
                 My sister has written the letter.</p>
             </li>
           </ol>
+          
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2> 
+          </header>         
           <ol className="order-list translate-lines">
             <li>
               <p>मैंने पत्र अभी डाक में नहीं डाला है।</p>
@@ -148,9 +155,12 @@ export default function Page() {
                 She has not failed in the examination.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>    
+          </header>      
           <ol className="order-list translate-lines">
             <li>
               <p>क्या गाड़ी जा चुकी है?</p>
@@ -203,9 +213,12 @@ export default function Page() {
                 Has he not returned yet?</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(d) Use of &#39;For&#39; and &#39;Since&#39;</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(d) Use of &#39;For&#39; and &#39;Since&#39;</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>मैं पिछले दो महीने से उसे नहीं मिला हूँ।</p>
@@ -238,7 +251,9 @@ export default function Page() {
                 He has known me since 1970.</p>
             </li>
           </ol>
-          <br /><br />
+
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-06" />
         </div>

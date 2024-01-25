@@ -58,7 +58,7 @@ export default function Page() {
             <li>किसी बात पर जोर देने के लिए भी does और do का प्रयोग होता है (देखो वाक्य D-2, 3)।</li>
           </ol>
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
+          <h2 className="">Model Sentences</h2>
           <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
           <ol className="order-list translate-lines">

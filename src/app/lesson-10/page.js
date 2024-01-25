@@ -7,7 +7,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <header className="tC">
-            <p className="ffSeg mb0">LESSON 7</p>
+            <p className="ffSeg mb0">LESSON 10</p>
             <h1 className="mb0">Past Perfect Tense</h1>
           </header>
 
@@ -20,10 +20,13 @@ export default function Page() {
             <li><p>साधारण वाक्यों में जहाँ already, before, till आदि शब्द न हों तो उनका अनुवाद Past Indefinite Tense में ही होगा, Past Perfect में नहीं । जैसे :</p>
               <p>वह कल शिमला गया था।</p><p>He went to Shimla yesterday.</p><p>He had gone to Shimla yesterday अशुद्ध है ।</p></li>
           </ol>
+          
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li><p>तब तक वह सैर करने के लिए जा चुका था ।</p><p>He had gone for a walk by then.</p></li>
             <li><p>मैं पहले ही नौकरी के लिए प्रार्थना-पत्र भेज चुका था ।</p><p>I had already applied for the job.</p></li>
@@ -32,9 +35,12 @@ export default function Page() {
             <li><p>तुमने पहले भी ऐसी गलती की थी ।</p><p>You had made such a mistake before also.</p></li>
             <li><p>कल शाम तक मैं इस पुस्तक को पढ़ चुका था ।</p><p>I had read this book by yesterday evening.</p></li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li><p>मुझे कई दिनों से उसका पत्र नहीं मिला था ।</p><p>I had not received any letter from him for many days.</p></li>
             <li><p>उसने तब तक कुछ नहीं खाया था ।</p><p>He had not taken anything till then.</p></li>
@@ -42,9 +48,12 @@ export default function Page() {
             <li><p>उसके पहुँचने से पहले लड़के हॉल में नहीं पहुँचे थे ।</p><p>The boys had not reached the hall before his arrival.</p></li>
             <li><p>उसने पहले कभी बम्बई नहीं देखा था ।</p><p>He had never seen to Bombay before.</p></li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li><p>क्या घंटी बजने से पहले आप अपना कार्य समाप्त कर चुके थे ?</p><p>Had you finished your work before the bell rang?</p></li>
             <li><p>क्या तुम तब तक कभी कश्मीर नहीं गये थे ?</p><p>Had you never seen to Kashmir till then?</p></li>
@@ -53,7 +62,9 @@ export default function Page() {
             <li><p>क्या मोहन के आने से पहले आप  नाश्ता कर चुके थे ?</p><p>Had you taken your breakfast before Mohan came?</p></li>
             <li><p>क्या आपके स्कूल पहुँचने से पहले घण्टी बज चुकी थी ?</p><p>Had the bell gone before you reached the school?</p></li>
           </ol>
-          <br /><br />
+          
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-10" />
         </div>

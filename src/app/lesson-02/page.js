@@ -9,7 +9,7 @@ export default function Page() {
           <header className="tC">            
             <p className="ffSeg mb0">Lesson 2</p>
             <h1 className="mb0">PAST TENSE</h1>
-            <p className="ffSeg fw700 mb0">The Verb &#39;to be&#39;</p>
+            <p className="ffSeg mb0">The Verb &#39;to be&#39;</p>
             <p className="ffSeg fsi mb0">&#39;Was, Were&#39;</p>
           </header>
 
@@ -27,7 +27,7 @@ export default function Page() {
 
           <br />
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
+          <h2 className="">Model Sentences</h2>
           <h3 className="tC">A-&#39;Was&#39;</h3>
           <p className="tC">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>          
           <ol className="order-list translate-lines">

@@ -21,7 +21,7 @@ export default function Page() {
             <li><p>ऐसे वाक्यों में जिनके दो भाग होते हैं पहले भाग में Present Perfect - Continuous और दूसरे भाग में Past Indefinite का प्रयोग होता है (देखो A-4; B-3, 4; C-3, 5)।</p><p>Note करो कि इस Tense का Passive Voice नहीं होता है ।</p></li>
           </ol>
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
+          <h2 className="tC">Model Sentences</h2>
           <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
           <ol className="order-list translate-lines">

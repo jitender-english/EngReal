@@ -10,6 +10,7 @@ export default function Page() {
             <p className="ffSeg mb0">LESSON 7</p>
             <h1 className="mb0">Present Perfect Continuous Tense</h1>
           </header>
+
           <br />
           <h4 className="tC">Points to Remember</h4>
           <ol className="order-list">
@@ -34,10 +35,13 @@ export default function Page() {
               <p>Revise-revising. Study - studying. Attend-attending etc.</p>
             </li>
           </ol>
+
           <br />
-          <h2 className="mb10  tC">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>              
           <ol className="order-list translate-lines">
             <li>
               <p>मैं दस वर्ष से दिल्ली में रह रहा हूँ।</p>
@@ -64,9 +68,12 @@ export default function Page() {
               <p>It has been raining since morning.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>    
           <ol className="order-list translate-lines">
             <li>
               <p>हम प्रातः दस बजे से इस पुस्तक का अध्ययन नहीं कर रहे हैं।</p>
@@ -93,9 +100,12 @@ export default function Page() {
               <p>She has not been living with her uncle for two years.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2> 
+          </header>                   
           <ol className="order-list translate-lines">
             <li>
               <p>क्या वह कई दिनों से स्कूल नहीं आ रहा ?</p>
@@ -114,7 +124,9 @@ export default function Page() {
               <p>Have you been working in the Agriculture Department since 1955?</p>
             </li>
           </ol>
-          <br /><br />
+
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-07" />
 
