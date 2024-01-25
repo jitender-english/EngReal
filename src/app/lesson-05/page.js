@@ -127,7 +127,7 @@ export default function Page() {
             </li>
           </ol>
           <br /><br />
-          <h2 class="tC mb0">EXERCISE</h2>
+          <h2 class="tC mb0">Exercise</h2>
           <p class="ffSeg tC mb23">Translate the following into English:</p>
 
           <br />
