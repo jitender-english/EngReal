@@ -28,7 +28,7 @@ export default function Home() {
             <li><Link href="/lesson-12-15"><span className="lesson-name">Revision of Lessons 12-15</span></Link></li>
             <li><Link href="/lesson-test-tenses-active-voice"><span className="lesson-name">Test Paper I  - Active Voice</span></Link></li>
           </ul>
-          <br /><hr /><br />
+          <br /><hr /><p className='ffSeg'>Learn english listening and speaking by by English movie</p><hr /><br />
           <ul>
             <li><span className='season-name'>Reacher</span> - 
               <Link href="/english/season/reacher/s02e01">S01E01 </Link>
@@ -40,6 +40,10 @@ export default function Home() {
               <Link href="/english/season/criminal-record/s01e01">S01E01 </Link>
               <Link href="/english/season/criminal-record/s01e02">S01E02 </Link>
             </li>
+          </ul>
+          <br /><hr /><p className='ffSeg'>Learn hindi to english writing by Hindi movie</p><hr /><br />          
+          <ul>
+            <li><Link href="/hindi/movie/starfish">Starfish 2023</Link></li>
           </ul>
         </div>
       </main>
