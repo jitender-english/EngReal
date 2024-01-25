@@ -6,7 +6,7 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <header className="tC mb36">
+          <header className="tC">
             <p className="ffSeg mb0">Lesson 5</p>
             <h1 className="mb0">Present Continuous Tense</h1>
           </header>
@@ -21,9 +21,12 @@ export default function Page() {
             <li>कभी-कभी ऐसा भी होता है कि हिन्दी का वाक्य रहा, रही, रहे आदि में समाप्त नहीं होता, परन्तु फिर भी उसका अनुवाद Present Continuous Tense में होता है (देखो वाक्य A - 4, B-2)।</li>
           </ol>
           
-          <br /><br />
-          <p className="ffSeg tC">Model Sentences</p>
-          <h2 className="tC">(a) Affirmative Sentences</h2>
+          <br />
+          <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p className="hi">मैं कलकत्ता जा रहा हूँ।</p>
@@ -59,8 +62,11 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
-          <h2 className="tC">(b) Negative Sentences</h2>
+          <br />
+          <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p className="hi">वह पत्र नहीं लिख रहा है।</p>
@@ -92,9 +98,11 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
-          <h2 className="tC">(c) Interrogative Sentences</h2>
-
+          <br />
+          <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p className="hi">क्या वह कपड़े धो रही है?</p>
@@ -134,7 +142,8 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-05" />
         </div>

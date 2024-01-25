@@ -1,4 +1,5 @@
 import Exercise from "@/components/Exercise";
+import ExerciseHeader from "@/components/ExerciseHeader";
 
 export default function Page() {
   return (
@@ -8,10 +9,9 @@ export default function Page() {
           <header className="tC mb32">
             <p className="mb0">Miscellaneous Exercise 4</p>
             <p className="mb0">[ Revision of Lessons 12-15 ]</p>
-            <p className="mb0">Translate the following into English:</p>
           </header>
           
-          <br />
+          <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-12-15" />
         </div>
       </main>

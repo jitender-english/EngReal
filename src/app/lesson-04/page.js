@@ -9,8 +9,7 @@ export default function Page() {
           <header className="tC">
             <p className="ffSeg mb0">Lesson 4</p>
             <h1 className="mb0">Present Indefinite Tense</h1>
-            <p className="ffSeg mb0">Use of Tenses</p>
-            <p className="ffSeg mb0">Present Tense (Active Voice)</p>
+            <p className="ffSeg mb0">Present Tense ( Active Voice )</p>
           </header>
           
           <br />
@@ -57,9 +56,14 @@ export default function Page() {
             </li>
             <li>किसी बात पर जोर देने के लिए भी does और do का प्रयोग होता है (देखो वाक्य D-2, 3)।</li>
           </ol>
+
           <br />
-          <h2 className="">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
+          <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>
+          
           <br />
           <ol className="order-list translate-lines">
             <li>
@@ -83,9 +87,12 @@ export default function Page() {
               <p>I go to school daily.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>वह प्रतिदिन समाचार-पत्र नहीं पढ़ता है।</p>
@@ -108,9 +115,12 @@ export default function Page() {
               <p>Good boys do not call others names.</p>
             </li>
           </ol>
+          
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>क्या मोहन बहुत परिश्रम करता है?</p>
@@ -133,10 +143,13 @@ export default function Page() {
               <p>Do the birds start chirping early in the morning?</p>
             </li>
           </ol>
-          <hr className="line-separator" />
+
+          
           <br />
-          <h3 className="tC">(D)-Miscellaneous Uses</h3>
           <br />
+          <header className="tC mb32">
+            <h3 className="mb0">(D)-Miscellaneous Uses</h3>        
+          </header>            
           <ol className="order-list translate-lines">
             <li>
               <p>गाड़ी दिन के साढ़े दस बजे जाती है।</p>
@@ -151,7 +164,9 @@ export default function Page() {
               <p>He does get up at four everyday.</p>
             </li>
           </ol>
-          <br /><br />
+          
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-04" />
         </div>

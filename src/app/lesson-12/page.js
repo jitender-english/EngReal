@@ -7,13 +7,11 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <header className="tC">
-            <p className="ffSeg mb0">LESSON 12</p>
+            <p className="ffSeg mb0">Lesson 12</p>
             <h1 className="mb0">Future Indefinite Tense</h1>
-            <p className="ffSeg mb0">Future Tense (Active Voice)</p>
-            <p className="ffSeg mb0">(Use of Shall and Will)</p>
-          </header>
+            <p className="ffSeg mb0">Future Tense ( Active Voice )</p>
+          </header>          
           
-          <br />
           <br />
           <h4 className="tC">Points to Remember</h4>
           <ol className="order-list">

@@ -7,7 +7,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <header className="tC">
-            <p className="ffSeg mb0">LESSON 11</p>
+            <p className="ffSeg mb0">Lesson 11</p>
             <h1 className="mb0">Past Perfect Continuous Tense</h1>
           </header>
           
@@ -20,10 +20,15 @@ export default function Page() {
             <li>Negative Sentences present Participle 3 had been बीच में &#39;not&#39; लगाया जाता है । Interrogative sentences में had को पहले लगा दिया जाता है और फिर Subject और उसके उपरान्त been तथा Participle (देखो भाग B )!</li>
             <li><p>ऐसे वाक्यों में जिनके दो भाग होते हैं पहले भाग में Present Perfect - Continuous और दूसरे भाग में Past Indefinite का प्रयोग होता है (देखो A-4; B-3, 4; C-3, 5)।</p><p>Note करो कि इस Tense का Passive Voice नहीं होता है ।</p></li>
           </ol>
+
           <br />
-          <h2 className="tC">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>
+          
+          
           <ol className="order-list translate-lines">
             <li>
               <p>वह प्रातःकाल सात बजे से सो रहा था।</p>
@@ -46,9 +51,12 @@ export default function Page() {
               <p>This boy had been coming late for the last three days.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p>वह कई दिनों से मुझे चिट्ठी नहीं लिख रहा था ।</p>
@@ -73,9 +81,12 @@ export default function Page() {
               <p>She had not been attending the college since 3rd September.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+          <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p>क्या वह दो दिन से यह लेख लिख रहा था ?</p>
@@ -103,7 +114,9 @@ export default function Page() {
               <p>Had it not been raining for two hours ?</p>
             </li>
           </ol>
-          <br /><br />
+
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-11" />
         </div>

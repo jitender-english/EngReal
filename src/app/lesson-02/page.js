@@ -8,9 +8,9 @@ export default function Page() {
         <div className="content-wrapper">
           <header className="tC">            
             <p className="ffSeg mb0">Lesson 2</p>
-            <h1 className="mb0">PAST TENSE</h1>
-            <p className="ffSeg mb0">The Verb &#39;to be&#39;</p>
-            <p className="ffSeg fsi mb0">&#39;Was, Were&#39;</p>
+            <h1 className="mb0">The Verb &#39;to be&#39;</h1>
+            <p className="ffSeg mb0">Past Tense</p>
+            <p className="ffSeg mb0">&#39;Was, Were&#39;</p>
           </header>
 
           <br />          
@@ -27,9 +27,11 @@ export default function Page() {
 
           <br />
           <br />
-          <h2 className="">Model Sentences</h2>
-          <h3 className="tC">A-&#39;Was&#39;</h3>
-          <p className="tC">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>          
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences</p>
+            <h3 className="mb0">A-&#39;Was&#39;</h3>
+            <p className="ffSeg mb0">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>
+          </header>     
           <ol className="order-list translate-lines">
             <li>
               <p>वह हमारा नौकर था। </p>
@@ -73,9 +75,12 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
-          <h3 className="tC">B-&#39;Were&#39;</h3>
-          <p className="ffSeg tC mb0">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
+          <br />
+          <br />
+          <header className="tC mb32">
+            <h2 className="mb0">B-&#39;Were&#39;</h2>
+            <p className="ffSeg mb0">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p>हम पक्के मित्र थे। </p>
@@ -119,7 +124,8 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-02" />
         </div>

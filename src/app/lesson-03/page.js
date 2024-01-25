@@ -35,10 +35,13 @@ export default function Page() {
             <li>Negative तथा Interrogative-negative sentences में &#39;no&#39; का प्रयोग प्रायः परिमाण (मात्रा) को प्रकट
               करता है। जैसे- He had no money. उसके पास पैसे न थे। He had not money इसलिए अशुद्ध है। </li>
           </ol>
+
           <br />
-          <h2 className="">Model Sentences &#39;Has, Have&#39; </h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <p className="ffSeg mb0">Model Sentences &#39;Has, Have&#39;</p>
+            <h2 className="mb0">(a) Affirmative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>रमेश के पास बहुत पुस्तकें हैं। </p>
@@ -75,9 +78,12 @@ export default function Page() {
               <p>You have a holiday tomorrow.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p>मेरे बड़े भाई के पास अधिक धन नहीं है। </p>
@@ -104,9 +110,12 @@ export default function Page() {
               <p>You have no book today.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>क्या कल तुम्हें छुट्टी है?</p>
@@ -137,14 +146,19 @@ export default function Page() {
               <p>क्या उस नगर की गलियाँ तंग हैं?</p>
               <p>Has that city narrow streets?</p>
             </li>
-          </ol><hr className="line-separator" />
-          <br /><br />
+          </ol>
+          
+          <br />
+          <br />
+          <header className="tC mb32">
+            <h2 className="mb0">B-&#39;Had&#39;</h2>
+            <p className="ffSeg mb0">Used in the Past Tense with both Singular and Plural Nouns and Pronouns</p>
+            <p className="">Model Sentences</p>
+            <h2 className="ffSeg mb0">(a) Affirmative Sentences</h2>
+          </header>
 
-          <h3 className="tC">B-&#39;Had&#39;</h3>
-          <p className="tC">Used in the Past Tense with both Singular and Plural Nouns and Pronouns</p>
-
-          <h2 className="">Model Sentences</h2>
-          <h3 className="tC">(a) Affirmative Sentences</h3>
+          
+          
           <br />
           <ol className="order-list translate-lines">
             <li>
@@ -172,9 +186,12 @@ export default function Page() {
               <p>I had my meals in the morning.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(b) Negative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(b) Negative Sentences</h2>
+          </header>          
           <ol className="order-list translate-lines">
             <li>
               <p>मेरे पास कोई किताब न थी। </p>
@@ -201,9 +218,12 @@ export default function Page() {
               <p>She had no brother or sister.</p>
             </li>
           </ol>
+
           <br />
-          <h3 className="tC">(c) Interrogative Sentences</h3>
           <br />
+          <header className="tC mb32">
+            <h2 className="mb0">(c) Interrogative Sentences</h2>
+          </header>
           <ol className="order-list translate-lines">
             <li>
               <p>क्या उनके पास नौकर न थे?</p>
@@ -231,7 +251,8 @@ export default function Page() {
             </li>
           </ol>
 
-          <br /><br />
+          <br />
+          <br />
           <ExerciseHeader />
           <Exercise dataUrl="/api/lesson-03" />
         </div>

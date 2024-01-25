@@ -7,9 +7,9 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <header className="tC">
-            <p className="ffSeg mb0">LESSON 8</p>
+            <p className="ffSeg mb0">Lesson 8</p>
             <h1 className="mb0">Past Indefinite Tense</h1>
-            <p className="ffSeg mb0">Past Tense(Active Voice)</p>
+            <p className="ffSeg mb0">Past Tense ( Active Voice )</p>
           </header>
 
           <br />
@@ -32,7 +32,7 @@ export default function Page() {
 
           <br />
           <br />
-          <header className="tC">
+          <header className="tC mb32">
             <p className="ffSeg mb0">Model Sentences</p>
             <h2 className="mb0">(a) Affirmative Sentences</h2>     
           </header>               
@@ -73,7 +73,7 @@ export default function Page() {
 
           <br />
           <br />
-          <header className="tC">
+          <header className="tC mb32">
             <h2 className="mb0">(b) Negative Sentences</h2>
           </header>          
           <ol className="order-list translate-lines">
@@ -105,7 +105,7 @@ export default function Page() {
 
           <br />
           <br />
-          <header className="tC">
+          <header className="tC mb32">
             <h2 className="mb0">(c) Interrogative Sentences</h2>  
           </header>        
           <ol className="order-list translate-lines">
@@ -133,7 +133,7 @@ export default function Page() {
 
           <br />
           <br />
-          <header className="tC">
+          <header className="tC mb32">
             <h2 className="mb0">(d) Use of &#39;Used to&#39;</h2>     
           </header>     
           <ol className="order-list translate-lines">

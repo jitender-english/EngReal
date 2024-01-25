@@ -8,7 +8,8 @@ export default function Page() {
         <div className="content-wrapper">
           <header className="tC">
             <p className="ffSeg mb0">LESSON 6</p>
-            <h1 className="mb0">Present Perfect Tense and the use of &#39;For&#39; and &#39;Since &#39;</h1>
+            <h1 className="mb0">Present Perfect Tense</h1>
+            <p className="ffSeg mb0">and the use of &#39;For&#39; and &#39;Since &#39;</p>
           </header>
 
           <br />
@@ -85,8 +86,7 @@ export default function Page() {
           <header className="tC mb32">
             <p className="ffSeg mb0">Model Sentences</p>
             <h2 className="mb0">(a) Affirmative Sentences</h2>  
-          </header>
-                  
+          </header>                  
           <ol className="order-list translate-lines">
             <li>
               <p>मैंने अपना काम समाप्त कर लिया है।</p>
