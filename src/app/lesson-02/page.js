@@ -6,7 +6,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <h1 class="heading textCenter">
-            <span class="db fs30 ttu mb10 fw400">LESSON 2</span>
+            <span class="db fs36 ttu mb10 fw400">LESSON 2</span>
             <span class="db fs24 fw700">The Verb &#39;to be&#39;</span>
             <span class="db fs24 fw700">PAST TENSE</span>
             <span class="db fs18 fsi fw400 mb10">&#39;Was, Were&#39;</span>

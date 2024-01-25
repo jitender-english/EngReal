@@ -6,7 +6,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <h1 class="heading textCenter">
-            <span class="db fs30 ttu mb10 fw400">LESSON 13</span>
+            <span class="db fs36 ttu mb10 fw400">LESSON 13</span>
             <span class="db fs24 fw700">Future Continuous Tense</span>
           </h1>
           <br />

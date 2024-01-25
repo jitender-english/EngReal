@@ -6,7 +6,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <h1 class="heading textCenter">
-            <span class="db fs30 ttu mb10 fw400">LESSON 6</span>
+            <span class="db fs36 ttu mb10 fw400">LESSON 6</span>
             <span class="db fs24 fw700">Present Perfect Tense and the use of &#39;For&#39; and &#39;Since &#39;</span>
           </h1>
           <br />

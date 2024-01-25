@@ -8,7 +8,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <h1 class="heading textCenter">
-            <span class="db fs30 ttu mb10 fw400">LESSON 3</span>
+            <span class="db fs36 ttu mb10 fw400">LESSON 3</span>
             <span class="db fs24 fw700">The Use of &#39;Has, Have, Had&#39;</span>
           </h1>
           <p>In the present tense &#39;Has&#39; is used with the Third Person Singular Nouns and Pronouns and &#39;Have&#39; with

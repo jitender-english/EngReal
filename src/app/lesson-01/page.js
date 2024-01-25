@@ -6,7 +6,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
           <h1 className="heading textCenter">
-            <span className="db fs30 ttu mb10 fw400">LESSON 1</span>
+            <span className="db fs36 ttu mb10 fw400">LESSON 1</span>
             <span className="db fs24 fw700">The Use of &#39;is, am, are&#39;</span>
           </h1>
           <br />
