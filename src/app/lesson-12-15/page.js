@@ -5,7 +5,7 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-        <h1 class="heading textCenter">
+        <h1 class="heading tC">
                     <span class="db fs36 ttu mb10 fw400">MISCELLANEOUS EXERCISE 4 <br /> [ Revision of Lessons 12-15]</span>
                     <span class="db fs24 fw700">Translate the following into English:</span>
                 </h1>

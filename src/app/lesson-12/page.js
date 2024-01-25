@@ -5,13 +5,13 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 12</span>
             <span class="db fs24 fw700">FUTURE TENSE (ACTIVE VOICE)<br />Future Indefinite Tense</span>
             <span>(Use of Shall and Will)</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>हिन्दी में यह Tense गा, गे, गी से समाप्त होता है और अंग्रेजी में इसका अनुवाद will या shall के बाद Verb की पहली Form लगाकर किया जाता है ।</li>
             <li>यदि वाक्य में Simple Future ( सामान्य भविष्य ) का बोध हो तो First Person (I, we) के साथ &#39;shall&#39; तथा Second और Third Persons (you, she, it, they) के साथ &#39; will&#39; का प्रयोग होता है। (देखो A (a) के वाक्य) ।</li>
@@ -22,8 +22,8 @@ export default function Page() {
             <li>कई वाक्यों में हिन्दी में दो बार Future Indefininte Tense (गा, गे, गी ) का प्रयोग होता है। ऐसे वाक्यों में &#39; shall &#39; या &#39; will&#39; को केवल वाक्य main भाग अर्थात् Principal Clause में ही प्रयोग करते हैं Subordinate Clause में नहीं | Compound Sentences में जहाँ वाक्य के दोनों भाग Independent होते हैं, &#39;will&#39; अथवा &#39;shall&#39; को वाक्य के दोनों भागों में प्रयोग किया जाता है (देखो G ); वाक्य 5 इसमें Compound Sentence है।</li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences <br /> (i) Sentences expressing Simple Futurity</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences <br /> (i) Sentences expressing Simple Futurity</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <p>[&#39;Shall&#39; is used with the First Person and &#39;Will&#39; with the Second and Third Person to express simple futurity.]</p>
           <br />
           <ol>
@@ -50,7 +50,7 @@ export default function Page() {
 
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -79,7 +79,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <p>[&#39;Shall&#39; is used with the First and Second Person and &#39;will&#39;. in the Third Person to express simple future.]</p>
           <br />
           <ol>
@@ -109,7 +109,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(d) Assertive Sentences</h3>
+          <h3 class="fw700 tC">(d) Assertive Sentences</h3>
           <p>(ii) Sentences expressing Order, Promise, Threat and Determination</p>
           <p>(a) &#39;Shall with the Second and Third Persons express Command, Promise, Threat etc.]</p>
           <br />
@@ -160,7 +160,7 @@ export default function Page() {
             </li></ol>
 
           <br />
-          <h3 class="fw700 textCenter">(e) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(e) Interrogative Sentences</h3>
           <p>[In Interrogative sentences expressing Intention &#39;shall&#39; is used in the First and Third Persons and &#39;will&#39; in the Second Person.]</p>
           <br />
           <ol><li>
@@ -188,7 +188,7 @@ export default function Page() {
               <p>Will you lend me your book?</p>
             </li></ol>
           <br />
-          <h3 class="fw700 textCenter">(f) Hindi Sentences of Future Indefinite Tense translated in Present Tense</h3>
+          <h3 class="fw700 tC">(f) Hindi Sentences of Future Indefinite Tense translated in Present Tense</h3>
 
           <br />
           <ol>
@@ -209,7 +209,7 @@ export default function Page() {
               <p>Are you coming this evening?</p>
             </li></ol>
           <br />
-          <h3 class="fw700 textCenter">(g) Complex Construction-Complex and Compound Sentences</h3>
+          <h3 class="fw700 tC">(g) Complex Construction-Complex and Compound Sentences</h3>
           <p>[In complex sentences ‘Will&#39; or &#39;Shall&#39; is used only in the principal part of the sentence.]</p>
           <br />
           <ol><li>
@@ -241,8 +241,8 @@ export default function Page() {
           <hr class="line-separator" />
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-12" />

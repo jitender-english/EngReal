@@ -5,12 +5,12 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 14</span>
             <span class="db fs24 fw700">Future Perfect Tense</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>हिन्दी में यह Tense चुका होगा, चुका हूँगा, चुके होंगे, चुकी होगी आदि में समाप्त होता है ।
               अंग्रेजी में इसे Past Participle अर्थात् Verb की तीसरी form से पहले will have अथवा shall have
@@ -25,8 +25,8 @@ export default function Page() {
               होता है। जैसे- तब तक से पहले, 10 बजे तक, बरसात से पहले, उस समय तक इत्यादि ।</li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -48,7 +48,7 @@ export default function Page() {
 
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -69,7 +69,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -95,8 +95,8 @@ export default function Page() {
           <hr class="line-separator" />
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-14" />

@@ -5,14 +5,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 2</span>
             <span class="db fs24 fw700">The Verb &#39;to be&#39;</span>
             <span class="db fs24 fw700">PAST TENSE</span>
             <span class="db fs18 fsi fw400 mb10">&#39;Was, Were&#39;</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>
               <p>Past Tense (भूतकाल ) में he, she, it तथा Singular Nouns के साथ &#39;was&#39; और you, we, they तथा Plural Nouns के साथ &#39;were&#39; का प्रयोग होता है। जैसे-</p>
@@ -23,9 +23,9 @@ export default function Page() {
             <li>वाक्य में &#39;not&#39; का प्रयोग करने से वाक्य Negative बन जाता है। Not को Subject के बाद में ही लगाया जाता है। </li>
           </ol>
 
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">A-&#39;Was&#39;</h3>
-          <p class="textCenter">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">A-&#39;Was&#39;</h3>
+          <p class="tC">Used with Pronouns of the Third Person - he, she, it, Singular Nouns and &#39;I&#39;</p>
           <br />
           <ol>
             <li>
@@ -71,8 +71,8 @@ export default function Page() {
           </ol>
 
           <br /><br />
-          <h3 class="fw700 textCenter">B-&#39;Were&#39;</h3>
-          <p class="textCenter">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
+          <h3 class="fw700 tC">B-&#39;Were&#39;</h3>
+          <p class="tC">Used with the Plural Pronouns &#39;They, We, You&#39; and all Plural Nouns</p>
           <br />
 
           <ol>
@@ -121,8 +121,8 @@ export default function Page() {
 
 
           <br /><br />
-          <h3 className="fw700 textCenter">EXERCISE</h3>
-          <p className="textCenter">Translate the following into English:</p>
+          <h3 className="fw700 tC">EXERCISE</h3>
+          <p className="tC">Translate the following into English:</p>
           <hr className="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-02" />

@@ -5,12 +5,12 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 7</span>
             <span class="db fs24 fw700">Present Perfect Continuous Tense</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>यह Tense भी Present Continuous Tense की तरह रहा है, रही है, रहे हैं आदि में समाप्त होता है ।
               अन्तर यह है कि Present Perfect Continuous Tense में यह स्पष्ट बताया जाता है कि कार्य कब से अथवा
@@ -34,8 +34,8 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -64,7 +64,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -93,7 +93,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -118,8 +118,8 @@ export default function Page() {
           <hr class="line-separator" />
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-07" />

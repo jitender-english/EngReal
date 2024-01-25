@@ -91,18 +91,7 @@ video { max-width: 100%; height: auto; }
 /* :::::::::::::::::::::::::: default Stylings :::::::::::::::::::::::::: */
 *{ margin:0;}
 
-body{ font-size: 20px; line-height: 1.5; font-family: 'Times New Roman', Times, serif;}
-.textCenter{ text-align: center;}
-.fw700{ font-weight: 700;}
-.fw400{ font-weight: 400;}
-.fsi{ font-style: italic;}
-
-.fs18{ font-size: 18px;}
-.fs24{ font-size: 24px;}
-.fs36{ font-size: 36px;}
-.ttu{ text-transform: uppercase;}
-.mb10{ margin-bottom: 10px;}
-.db{ display: block;}
+body{ font-size: 20px; line-height: 1.5; font-family: "Times New Roman", Times, serif;}
 
 .list-style-none{ list-style: none; padding-left: 30px;}
 
@@ -124,8 +113,29 @@ li{ margin-bottom: 18px;}
 .line-separator{ border-width: 0 0 0 0; border-bottom: 2px dashed #ccc; height: 0px; font-size:0; line-height: 0;}
 
 
-.content-wrapper{ max-width: 1200px; margin: 0 auto;}
 
+
+/* :::::::::::::::::::::::::: tailwind start :::::::::::::::::::::::::: */
+.ffSeg{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+.tC{ text-align: center;}
+.fw700{ font-weight: 700;}
+.fw400{ font-weight: 400;}
+.fsi{ font-style: italic;}
+
+.fs36{ font-size: 36px;}
+.fs18{ font-size: 18px;}
+.fs24{ font-size: 24px;}
+
+.ttu{ text-transform: uppercase;}
+.mb10{ margin-bottom: 10px;}
+.db{ display: block;}
+
+.mb32{ margin-bottom:32px;}
+.mb24{ margin-bottom:24px;}
+.mb22{ margin-bottom:22px;}
+.mb0{ margin-bottom:0;}
+
+/* :::::::::::::::::::::::::: tailwind start :::::::::::::::::::::::::: */
 
 .order-list{ list-style: decimal; padding-left:40px;}
 .disc-list{ list-style: disc; padding-left:40px;}
@@ -140,20 +150,11 @@ li{ margin-bottom: 18px;}
 .translate-lines li .eng{ }
 
 
-.page-heading{ margin-bottom: 36px;}
+.page-heading{ margin: 32px 0 36px 0;}
 .page-heading p{ margin-bottom: 0;}
 
 
-/* :::::::::::::::::::::::::: Dark theme :::::::::::::::::::::::::: */
-.theme-dark{ background:#000; color: #c7c7c7;}
-.theme-dark h1, .h1, h2, .h2, h3, .h3, h4, .h4 { color: #fff;}
-.theme-dark a:active{ color:#444;}
-.theme-dark .color-dark-secondary{ color: #fff; }
-.theme-dark hr{ border-top-color:#fff;}
-.theme-dark .list-subtitles li .eng{ color:#fff; }
-.theme-dark .translate-lines li .eng{ color:#fff; }
-.theme-dark .lesson-name{ color:#fff;}
-.theme-dark .season-name{ color:#fff; }
+
 
 .lesson-marker{ display: inline-block;}
 
@@ -167,7 +168,18 @@ li{ margin-bottom: 18px;}
 /* :::::::::::::::::::::::::: default Stylings :::::::::::::::::::::::::: */
 .hi{ font-size: 18px;}
 .site-wrapper{ padding:15px 15px;}
+.content-wrapper{ max-width: 1200px; margin: 0 auto;}
 
-
+/* :::::::::::::::::::::::::: Dark theme start :::::::::::::::::::::::::: */
+.theme-dark{ background:#000; color: #c7c7c7;}
+.theme-dark h1, .h1, h2, .h2, h3, .h3, h4, .h4 { color: #fff;}
+.theme-dark a:active{ color:#444;}
+.theme-dark .color-dark-secondary{ color: #fff; }
+.theme-dark hr{ border-top-color:#fff;}
+.theme-dark .list-subtitles li .eng{ color:#fff; }
+.theme-dark .translate-lines li .eng{ color:#fff; }
+.theme-dark .lesson-name{ color:#fff;}
+.theme-dark .season-name{ color:#fff; }
+/* :::::::::::::::::::::::::: Dark theme end :::::::::::::::::::::::::: */
 
 

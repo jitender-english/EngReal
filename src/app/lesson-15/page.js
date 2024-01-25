@@ -5,20 +5,20 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 15</span>
             <span class="db fs24 fw700">Future Perfect Continuous Tense</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li><p>हिन्दी में यह Tense रहा होगा, रही होगी, रहे होंगे इत्यादि में समाप्त होता है। प्रत्येक वाक्य में कार्य के जारी रहने की सूचना मिलती है और उसके कुछ हो चुकने की भी । ऐसे वाक्यों का अनुवाद Present Participle से पहले shall have been या will have been लगाकर किया जाता है। First Person अर्थात् I या we के साथ shall, बाकी सबके साथ will लगाया जाता है।</p>
               <p>Negative Sentences will have been shall have been बीच में not लगाया जाता है। Interrogative Sentences में shall या will को Subject से पहले लगाया जाता है ।</p>
               <p>ध्यान रहे कि प्राय: Future Continuous और Future Perfect Continuous का प्रयोग कम ही किया जाता है। दैनिक व्यवहार में अधिकतर Future Indefinite और Future Perfect ही प्रयोग किये जाते हैं ।</p></li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li><p>वह आपसे कई दिनों से मिलने आ रहा होगा ।</p><p>He will have been coming to see you for many days. </p></li>
@@ -28,7 +28,7 @@ export default function Page() {
             <li><p>मोहन दो घण्टे से अपना पाठ याद कर रहा होगा ।</p><p>Mohan will have been learning his lesson for two hours.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li><p>वह दो घण्टे से काम नहीं कर रहा होगा।</p><p>He will not have been working for two hours.</p></li>
@@ -38,7 +38,7 @@ export default function Page() {
             <li><p>मोहन दो दिन से स्कूल नहीं जा रहा होगा।</p><p>Mohan will not have been going to school for two days.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li><p>क्या वह प्रातः से खाना पका रही होगी ?</p><p>Will she have been cooking food since morning?</p></li>
@@ -52,8 +52,8 @@ export default function Page() {
           <hr class="line-separator" />
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <div id="section-exercise" data-json="lesson-15"></div>

@@ -5,12 +5,12 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 10</span>
             <span class="db fs24 fw700">Past Perfect Tense</span>
           </h1>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>हिन्दी में यह Tense चुका था, चुके थे, आदि में समाप्त होता है । इनका अनुवाद करने के लिए Verb की तीसरी Form से पहले had लगता है ।</li>
             <li>इस Tense का प्रयोग प्रायः तभी किया जाता है, जब कि एक ही वाक्य में दो कार्यों के होने की सूचना मिले। इनमें से एक कार्य समाप्त हो चुका होता है तथा दूसरा आरम्भ हुआ होता है। जो कार्य समाप्त हो चुका हो, उसमें Past Perfect Tense का प्रयोग होता है तथा जो कार्य आरम्भ हुआ हो, उसमें सदा Past Indefinite लगाया जाता है। उदाहरण के लिए, वाक्य नं० A-3 लो। &#39;मेरे आने से पहले वह घर से जा चुका था ।&#39; इसमें &#39;घर से जा चुकने&#39; का कार्य समाप्त हो चुका है और &#39;मेरे आने&#39; का कार्य आरम्भ हुआ है। इसलिए &#39;जा चुकने&#39; का अनुवाद &#39;had left &#39; होगा और आने का &#39;came&#39;| इसी प्रकार वाक्य नं० 4 का अनुवाद होगा |</li>
@@ -19,8 +19,8 @@ export default function Page() {
               <p>वह कल शिमला गया था।</p><p>He went to Shimla yesterday.</p><p>He had gone to Shimla yesterday अशुद्ध है ।</p></li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li><p>तब तक वह सैर करने के लिए जा चुका था ।</p><p>He had gone for a walk by then.</p></li>
@@ -31,7 +31,7 @@ export default function Page() {
             <li><p>कल शाम तक मैं इस पुस्तक को पढ़ चुका था ।</p><p>I had read this book by yesterday evening.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li><p>मुझे कई दिनों से उसका पत्र नहीं मिला था ।</p><p>I had not received any letter from him for many days.</p></li>
@@ -41,7 +41,7 @@ export default function Page() {
             <li><p>उसने पहले कभी बम्बई नहीं देखा था ।</p><p>He had never seen to Bombay before.</p></li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li><p>क्या घंटी बजने से पहले आप अपना कार्य समाप्त कर चुके थे ?</p><p>Had you finished your work before the bell rang?</p></li>
@@ -56,8 +56,8 @@ export default function Page() {
           <hr class="line-separator" />
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-10" />

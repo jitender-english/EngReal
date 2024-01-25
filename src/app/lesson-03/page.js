@@ -7,14 +7,14 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 class="heading textCenter">
+          <h1 class="heading tC">
             <span class="db fs36 ttu mb10 fw400">LESSON 3</span>
             <span class="db fs24 fw700">The Use of &#39;Has, Have, Had&#39;</span>
           </h1>
           <p>In the present tense &#39;Has&#39; is used with the Third Person Singular Nouns and Pronouns and &#39;Have&#39; with
             Plural Pronouns of the Second and Third Persons and Plural Nouns</p>
           <br />
-          <h4 class="textCenter">Points to Remember</h4>
+          <h4 class="tC">Points to Remember</h4>
           <ol>
             <li>
               <p>Present Tense (वर्तमान काल ) में he, she, it तथा Singular Nouns के साथ &#39;has&#39; तथा I, you, we,
@@ -35,8 +35,8 @@ export default function Page() {
               करता है। जैसे- He had no money. उसके पास पैसे न थे। He had not money इसलिए अशुद्ध है। </li>
           </ol>
           <br />
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences &#39;Has, Have&#39; </h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences &#39;Has, Have&#39; </h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -75,7 +75,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -104,7 +104,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -139,11 +139,11 @@ export default function Page() {
           </ol><hr class="line-separator" />
           <br /><br />
 
-          <h3 class="fw700 textCenter">B-&#39;Had&#39;</h3>
-          <p class="textCenter">Used in the Past Tense with both Singular and Plural Nouns and Pronouns</p>
+          <h3 class="fw700 tC">B-&#39;Had&#39;</h3>
+          <p class="tC">Used in the Past Tense with both Singular and Plural Nouns and Pronouns</p>
 
-          <h2 class="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 class="fw700 textCenter">(a) Affirmative Sentences</h3>
+          <h2 class="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 class="fw700 tC">(a) Affirmative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -172,7 +172,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(b) Negative Sentences</h3>
+          <h3 class="fw700 tC">(b) Negative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -201,7 +201,7 @@ export default function Page() {
             </li>
           </ol>
           <br />
-          <h3 class="fw700 textCenter">(c) Interrogative Sentences</h3>
+          <h3 class="fw700 tC">(c) Interrogative Sentences</h3>
           <br />
           <ol>
             <li>
@@ -231,8 +231,8 @@ export default function Page() {
           </ol>
 
           <br /><br />
-          <h3 class="fw700 textCenter">EXERCISE</h3>
-          <p class="textCenter">Translate the following into English:</p>
+          <h3 class="fw700 tC">EXERCISE</h3>
+          <p class="tC">Translate the following into English:</p>
           <hr class="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-03" />

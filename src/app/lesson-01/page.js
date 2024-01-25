@@ -5,12 +5,12 @@ export default function Page() {
     <div className="site-wrapper">
       <main>
         <div className="content-wrapper">
-          <h1 className="heading textCenter">
+          <h1 className="heading tC">
             <span className="db fs36 ttu mb10 fw400">LESSON 1</span>
             <span className="db fs24 fw700">The Use of &#39;is, am, are&#39;</span>
           </h1>
           <br />
-          <h4 className="textCenter">Points to Remember</h4>
+          <h4 className="tC">Points to Remember</h4>
           <ol className="list-sentences">
             <li>
               <p>
@@ -47,13 +47,13 @@ export default function Page() {
             <li>भाग D में दिए गए sentences को कंठस्थ करो। </li>
           </ol>
 
-          <h2 className="mb10 fs18 fw700 textCenter">Model Sentences</h2>
-          <h3 className="fw700 textCenter">A-&#39;is&#39;</h3>
+          <h2 className="mb10 fs18 fw700 tC">Model Sentences</h2>
+          <h3 className="fw700 tC">A-&#39;is&#39;</h3>
           <br />
           <ol></ol>
 
           <br /><br />
-          <h3 className="fw700 textCenter">B-&#39;am&#39;</h3>
+          <h3 className="fw700 tC">B-&#39;am&#39;</h3>
           <br />
           <ol>
             <li>
@@ -62,8 +62,8 @@ export default function Page() {
             </li>
           </ol>
           <br /><br />
-          <h3 className="fw700 textCenter">C-&#39;are&#39;</h3>
-          <p className="textCenter">
+          <h3 className="fw700 tC">C-&#39;are&#39;</h3>
+          <p className="tC">
             Used with Second Person Pronoun &#39;You&#39; both Singular and Plural,
             &#39;We&#39;, &#39;They&#39; and all Plural Nouns in the Present Tense
           </p>
@@ -105,7 +105,7 @@ export default function Page() {
             </li>
           </ol>
           <br /><br />
-          <h3 className="fw700 textCenter">D-Idiomatic use of Is, Am, Are</h3>
+          <h3 className="fw700 tC">D-Idiomatic use of Is, Am, Are</h3>
           <br />
 
           <ol>
@@ -168,8 +168,8 @@ export default function Page() {
           </ol>
 
           <br /><br />
-          <h3 className="fw700 textCenter">EXERCISE</h3>
-          <p className="textCenter">Translate the following into English:</p>
+          <h3 className="fw700 tC">EXERCISE</h3>
+          <p className="tC">Translate the following into English:</p>
           <hr className="line-separator" />
           <br />
           <Exercise dataUrl="/api/lesson-01" />
