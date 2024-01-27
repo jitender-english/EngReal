@@ -1,12 +1,20 @@
 //import { promises as fs } from 'fs';
-import starfish from "@/json/hindi/movie/starfish.json";
+
+import tiger3 from "@/json/hindi/movie/tiger-3-2023.json";
+import starfish from "@/json/hindi/movie/starfish-2023.json";
+import shastryVirudhShastry from "@/json/hindi/movie/shastry-virudh-shastry-2023.json";
+
 
 export async function GET(request, {episode}) {
   //console.log('request.url.pathname6', request.nextUrl.pathname);
   //const file = await fs.readFile(process.cwd()+'/src/app'+request.nextUrl.pathname+'.json', 'utf8');
   
-  if(request.nextUrl.pathname === "/api/hindi/movie/starfish"){
+  if(request.nextUrl.pathname === "/api/hindi/movie/starfish-2023"){
     return Response.json(starfish);
+  } else if(request.nextUrl.pathname === "/api/hindi/movie/shastry-virudh-shastry-2023"){
+    return Response.json(shastryVirudhShastry);
+  } else if(request.nextUrl.pathname === "/api/hindi/movie/tiger-3-2023"){
+    return Response.json(tiger3);
   }
 
   return Response.json([]);

@@ -29,7 +29,7 @@ export default function Home() {
             <li><Link href="/lesson-test-tenses-active-voice"><span className="lesson-name">Test Paper I  - Active Voice</span></Link></li>
           </ul>
           <header className={styles.title}>
-            <p className='ffSeg'>Learn english listening and speaking by english movie and season</p>
+            <p className='ffSeg fs14'>Learn english listening and speaking by english movie and season</p>
           </header>
           <ul>
             <li><span className='season-name'>Reacher</span> - 
@@ -43,14 +43,13 @@ export default function Home() {
               <Link href="/english/season/criminal-record/s01e02">S01E02 </Link>
             </li>
           </ul>
-          <ul>
-            <li><Link href="/english/movie/trunk-locked-in-2023"><span className='season-name'>Trunk locked in</span> 2023</Link></li>
-          </ul>
           <header className={styles.title}>
-            <p className='ffSeg'>Learn hindi to english writing by Hindi movie and season</p>
+            <p className='ffSeg fs14'>Learn hindi to english writing by Hindi movie and season</p>
           </header>        
           <ul>
-            <li><Link href="/hindi/movie/starfish"><span className='season-name'>Starfish</span> 2023</Link></li>
+            <li><Link href="/hindi/movie/starfish-2023"><span className='season-name'>Starfish</span> 2023</Link></li>
+            <li><Link href="/hindi/movie/shastry-virudh-shastry-2023"><span className='season-name'>Shastry Virudh Shastry</span> 2023</Link></li>
+            <li><Link href="/hindi/movie/tiger-3-2023"><span className='season-name'>Tiger 3</span> 2023</Link></li>
           </ul>
         </div>
       </main>
