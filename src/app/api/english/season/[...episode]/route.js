@@ -1,10 +1,10 @@
 //import { promises as fs } from 'fs';
-import reacherS02e01 from "@/json/english/reacher/s02e01.json";
-import reacherS02e02 from "@/json/english/reacher/s02e02.json";
-import reacherS02e03 from "@/json/english/reacher/s02e03.json";
-import reacherS02e04 from "@/json/english/reacher/s02e04.json";
-import criminalRecordS01e01 from "@/json/english/criminal-record/s01e01.json";
-import criminalRecordS01e02 from "@/json/english/criminal-record/s01e01.json";
+import reacherS02e01 from "@/json/english/season/reacher/s02e01.json";
+import reacherS02e02 from "@/json/english/season/reacher/s02e02.json";
+import reacherS02e03 from "@/json/english/season/reacher/s02e03.json";
+import reacherS02e04 from "@/json/english/season/reacher/s02e04.json";
+import criminalRecordS01e01 from "@/json/english/season/criminal-record/s01e01.json";
+import criminalRecordS01e02 from "@/json/english/season/criminal-record/s01e01.json";
 
 export async function GET(request, {episode}) {
   //console.log('request.url.pathname6', request.nextUrl.pathname);
