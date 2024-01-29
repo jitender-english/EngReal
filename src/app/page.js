@@ -45,6 +45,11 @@ export default function Home() {
               <Link href="/english/season/criminal-record/s01e01">S01E01 </Link>
               <Link href="/english/season/criminal-record/s01e02">S01E02 </Link>
             </li>
+            <li><span className='season-name'>Silo</span> - 
+              <Link href="/english/season/silo/S01E01">S01E01 </Link>
+              <Link href="/english/season/silo/S01E01">S01E02 </Link> 
+              <Link href="/english/season/silo/S01E01">S01E03 </Link>
+            </li>
           </ul>
           <header className={styles.title}>
             <p className='ffSeg fs14'>Learn hindi to english writing by Hindi movie and season</p>
