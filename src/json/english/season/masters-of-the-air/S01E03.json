@@ -1,0 +1,2092 @@
+[
+  { "line": ["Ah-ten-hut!", "साव-धान!"] },
+  { "line": ["At ease, gentlemen.", "आराम से, सज्जनों।"] },
+  { "line": ["Exactly one year ago to the day,", "आज से ठीक एक साल पहले,"] },
+  {
+    "line": [
+      "the Eighth Air Force sent up its first maximum effort.",
+      "एट्थ एयर फ़ोर्स ने अपना पहला सबसे बड़ा बेड़ा भेजा था।"
+    ]
+  },
+  {
+    "line": [
+      "It was a combined force of 12 B-17s.",
+      "वह 12 बी-17 की संयुक्त सेना थी।"
+    ]
+  },
+  {
+    "line": [
+      "Today, the Eighth will be sending up a max effort",
+      "आज, तीन एयर टास्क फ़ोर्स के साथ"
+    ]
+  },
+  {
+    "line": ["with three air task forces.", "एट्थ अपना सबसे बड़ा बेड़ा भेजेगा।"]
+  },
+  {
+    "line": [
+      "-Yeah. -Totaling 376 heavy bombers",
+      "-हाँ। -कुल मिलाकर 376 भारी बॉम्बर"
+    ]
+  },
+  { "line": ["and 240 fighters.", "और 240 लड़ाकू विमान।"] },
+  { "line": ["-Not bad, huh? -Yeah.", "-बुरा नहीं है, हँ? -हाँ।"] },
+  {
+    "line": [
+      "That's the largest air armada ever assembled in the history of mankind.",
+      "यह मानव जाति के इतिहास में अब तक का सबसे बड़ा हवाई बेड़ा होगा।"
+    ]
+  },
+  { "line": ["Yeah!", "हाँ!"] },
+  { "line": ["Yes!", "हाँ!"] },
+  {
+    "line": [
+      "Now, we will be in the first task force",
+      "अब, हम पहली टास्क फ़ोर्स में होंगे"
+    ]
+  },
+  {
+    "line": [
+      "targeting the Messerschmitt 109 engine assembly plant in Regensburg.",
+      "और हमारा लक्ष्य होगा, रेगन्सबर्ग में मौजूद मैसरश्मिट 109 इंजन असेंबली प्लांट।"
+    ]
+  },
+  {
+    "line": [
+      "Second and third task forces will hit the ball bearing factories",
+      "दूसरी और तीसरी टास्क फ़ोर्स श्वाइनफर्ट में मौजूद बॉल बेरिंग की फ़ैक्ट्रियों पर"
+    ]
+  },
+  { "line": ["in Schweinfurt.", "हमला करेंगी।"] },
+  {
+    "line": [
+      "And no war machine moves without ball bearings.",
+      "और बॉल बेरिंग के बिना कोई भी जंगी मशीन नहीं चलती है।"
+    ]
+  },
+  { "line": ["If we succeed,", "अगर हम सफल हुए,"] },
+  {
+    "line": [
+      "we knock German production off line for months.",
+      "हम जर्मन उत्पादन को कई महीनों के लिए बंद कर देंगे।"
+    ]
+  },
+  {
+    "line": [
+      "There's no telling how many lives we could save.",
+      "हम हिसाब नहीं लगा सकते कि हम कितनी ज़िंदगियाँ बचा सकते हैं।"
+    ]
+  },
+  { "line": ["Corporal.", "कॉर्पोरल।"] },
+  { "line": ["-Dear God. -Oh, boy.", "-हे भगवान। -अरे।"] },
+  { "line": ["This is Regensburg.", "यह रेगन्सबर्ग है।"] },
+  { "line": ["And you're probably thinking", "और शायद आप सोच रहे हैं"] },
+  {
+    "line": [
+      "that's a lot of flying time over Kraut territory.",
+      "कि आपको जर्मन इलाक़ों के ऊपर काफ़ी समय तक उड़ान भरनी होगी।"
+    ]
+  },
+  { "line": ["It is.", "हाँ।"] },
+  {
+    "line": [
+      "It's the deepest we've attempted to reach.",
+      "हम इतना अंदर कभी नहीं घुसे थे।"
+    ]
+  },
+  {
+    "line": [
+      "But the mighty Eighth has a plan.",
+      "पर महान एट्थ के पास एक योजना है।"
+    ]
+  },
+  { "line": ["Major Bowman?", "मेजर बोमन?"] },
+  { "line": ["Go get 'em, Red.", "शाबाश, रेड।"] },
+  {
+    "line": [
+      "It's a three-punch combo",
+      "यह मिशन तीन हिस्सों में पूरा किया जाएगा"
+    ]
+  },
+  {
+    "line": [
+      "and the Krauts will only be able to defend one of them.",
+      "और जर्मन केवल एक ही से बचाव करने में सक्षम होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "So, execution and timing will be essential.",
+      "इसलिए, निष्पादन और उसे समय पर करना बेहद ज़रूरी है।"
+    ]
+  },
+  { "line": ["Major?", "मेजर?"] },
+  {
+    "line": [
+      "Why does that red line go all the way down to Africa?",
+      "वह लाल रेखा अफ़्रीका तक क्यों जा रही है?"
+    ]
+  },
+  {
+    "line": [
+      "That is a characteristically astute question, Curt.",
+      "यह काफ़ी चतुर सवाल है, कर्ट।"
+    ]
+  },
+  {
+    "line": [
+      "And I'll answer that in a moment, if I may.",
+      "और मैं इसका जवाब थोड़ी देर बाद दूँगा।"
+    ]
+  },
+  {
+    "line": [
+      "All right, all right. Laugh now. All right.",
+      "ठीक है, ठीक है। हँस लो। ठीक है।"
+    ]
+  },
+  {
+    "line": [
+      "Now, the three task forces will assemble over the channel together.",
+      "अब, तीनों टास्क फ़ोर्स खाड़ी के ऊपर इकट्ठा होंगी…"
+    ]
+  },
+  { "line": ["And then split here.", "…और फिर यहाँ अलग होंगी।"] },
+  {
+    "line": [
+      "Now, the Luftwaffe will only be able to mount a sizable defense",
+      "अब, लुफ़्टवाफ़ केवल हमारी पहली टास्क फ़ोर्स के विरुद्ध ही"
+    ]
+  },
+  { "line": ["against our first task force", "बड़ा बचाव अभियान चला सकेगा,"] },
+  {
+    "line": [
+      "before having to head back to base to rearm and refuel.",
+      "फिर उसे दोबारा लैस होने और ईंधन भरने के लिए वापस अपने बेस पर लौटना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "And when they finally get back in the air,",
+      "और जब वे आख़िरकार वापस उड़ान भरेंगे,"
+    ]
+  },
+  {
+    "line": [
+      "the second and third task forces should be dropping their bombs",
+      "तब हमारी दूसरी और तीसरी टास्क फ़ोर्स श्वाइनफर्ट की बॉल बेरिंग फ़ैक्ट्री पर"
+    ]
+  },
+  {
+    "line": [
+      "on the ball bearing factory in Schweinfurt,",
+      "अपने बम गिरा रही होंगी,"
+    ]
+  },
+  {
+    "line": [
+      "while we're dropping our bombs on Regensburg.",
+      "जबकि हम रेगन्सबर्ग पर अपने बम गिरा रहे होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "Now, to answer your question, Curt.",
+      "अब, तुम्हारे जवाब पर आता हूँ, कर्ट।"
+    ]
+  },
+  {
+    "line": ["As we drew the-- How can I put this--", "जबकि हम… इसे कैसे कहूँ…"]
+  },
+  {
+    "line": [
+      "the shitty end of the stick on the approach,",
+      "हम बेड़े में सबसे आगे होंगे"
+    ]
+  },
+  {
+    "line": [
+      "and we're taking the brunt of the enemy fighters,",
+      "और दुश्मनों के लड़ाकू विमानों का सामना करेंगे,"
+    ]
+  },
+  {
+    "line": [
+      "the brass, they've come up with an ingenious plan",
+      "हमारे उच्च अधिकारियों ने एक अनोखी योजना बनाई है"
+    ]
+  },
+  {
+    "line": [
+      "that is sure to confuse the hell out of the Krauts",
+      "जो कि पक्का जर्मनों को हैरान कर देगी"
+    ]
+  },
+  {
+    "line": [
+      "when we're a no-show for the return.",
+      "जब हम उस रास्ते से वापस लौटेंगे ही नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "That's because you're headed to Africa, gentlemen.",
+      "वह इसलिए क्योंकि तुम लोग अफ़्रीका जाओगे, सज्जनों।"
+    ]
+  },
+  {
+    "line": [
+      "The 12th Air Force will welcome you with open arms, ice-cold beer",
+      "ट्वेल्थ एयर फ़ोर्स खुली बाँहों, ठंडी बियर और लॉबस्टर टेल से"
+    ]
+  },
+  { "line": ["and lobster tails.", "तुम्हारा स्वागत करेगी।"] },
+  {
+    "line": [
+      "It'll be like a holiday. Y'all like beer.",
+      "यह छुट्टियाँ मनाने जैसा होगा। तुम सभी को बियर पसंद है।"
+    ]
+  },
+  { "line": ["If we get lucky.", "अगर हमारी क़िस्मत अच्छी हुई तो।"] },
+  { "line": ["Thank you, Red.", "धन्यवाद, रेड।"] },
+  { "line": ["And now for some bad news.", "और अब थोड़ी बुरी ख़बर।"] },
+  {
+    "line": [
+      "In our wing, we're tail-end Charlie.",
+      "हमारे विंग में, हम सबसे आख़िर में होंगे।"
+    ]
+  },
+  { "line": ["Worst spot in the squad.", "स्क्वाड में वह सबसे बुरी जगह है।"] },
+  { "line": ["Yeah, yeah, yeah.", "हाँ, हाँ, हाँ।"] },
+  {
+    "line": [
+      "Lives ain't worth a nickel.",
+      "हमारी ज़िंदगियों का कोई मोल नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "The lead squadron is the 418th",
+      "चार सौ अठारहवां लीड स्क्वाड्रन होगा"
+    ]
+  },
+  {
+    "line": [
+      "with Major Kidd as command pilot of the group.",
+      "और मेजर किड दल के कमांड पायलट होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "In addition, Major Egan will be flying in Captain Cruikshank's fort,",
+      "साथ ही, मेजर इगन कैप्टन क्रुकशैंक के फ़ोर्ट में उड़ान भरेंगे,"
+    ]
+  },
+  {
+    "line": [
+      "as reserve command pilot of the group.",
+      "दल के रिज़र्व कमांड पायलट के रूप में।"
+    ]
+  },
+  {
+    "line": [
+      "Major Veal leads the 349th and the 351st in the high position…",
+      "मेजर वील ऊंचाई पर 349वें और 351वें का नेतृत्व करेंगे…"
+    ]
+  },
+  {
+    "line": [
+      "What, I got a fucking passenger?",
+      "क्या, मुझे एक यात्री ले जाना होगा?"
+    ]
+  },
+  { "line": ["Apparently so.", "लगता तो वही है।"] },
+  { "line": ["There you are.", "हद है।"] },
+  {
+    "line": [
+      "Now, it seems like we have a little tricky weather pressure",
+      "अब, ऐसा लगता है कि शुरुआती घंटों में"
+    ]
+  },
+  {
+    "line": ["in the early hours. Stormy?", "मौसम थोड़ा पेचीदा होगा। स्टॉर्मी?"]
+  },
+  {
+    "line": [
+      "Let me guess, it's gonna rain.",
+      "मुझे अंदाज़ा लगाने दो, बारिश होगी।"
+    ]
+  },
+  { "line": ["Hundred-percent chance.", "सौ प्रतिशत संभावना है।"] },
+  { "line": ["That's quite right, sir.", "आपने सही कहा, सर।"] },
+  { "line": ["Over the base today, gentlemen,", "आज बेस के ऊपर, सज्जनों,"] },
+  {
+    "line": [
+      "cloud cover stands at about five-tenths stratus at 4,000 feet.",
+      "चार हज़ार फ़ीट पर बादलों की पाँच बटा दस की चादर छाई हुई है।"
+    ]
+  },
+  { "line": ["Topped by five-tenths…", "उसके ऊपर पाँच बटा दस…"] },
+  {
+    "line": [
+      "What the hell is a 'reserve command pilot'?",
+      "यह 'रिज़र्व कमांड पायलट' क्या होता है?"
+    ]
+  },
+  { "line": ["I don't know.", "मुझे नहीं पता।"] },
+  {
+    "line": [
+      "-You had nothing to do with it? -Visibility will be…",
+      "-तुम्हारा इससे कोई लेना-देना नहीं था? -दृश्यता…"
+    ]
+  },
+  { "line": ["What?", "क्या?"] },
+  {
+    "line": [
+      "Cloud invisibility should be good over the Alps",
+      "ऐल्प्स के ऊपर और अफ़्रीका जाते हुए"
+    ]
+  },
+  {
+    "line": [
+      "and on your way south to Africa.",
+      "सामने का दृश्य साफ़ दिखना चाहिए।"
+    ]
+  },
+  { "line": ["Thank you, Stormy.", "धन्यवाद, स्टॉर्मी।"] },
+  {
+    "line": [
+      "Now, the success of this mission rests upon getting all three task forces",
+      "अब, इस मिशन की सफलता तीनों टास्क फ़ोर्स के खाड़ी के ऊपर"
+    ]
+  },
+  {
+    "line": [
+      "precisely coordinated over the channel.",
+      "सटीक रूप से समन्वित करने पर निर्भर है।"
+    ]
+  },
+  {
+    "line": [
+      "If we don't rendezvous in sync,",
+      "अगर हम सटीक रूप से समन्वित नहीं हुए,"
+    ]
+  },
+  {
+    "line": ["well, there's no pass fake.", "तो उन्हें झांसा नहीं दे पाएँगे।"]
+  },
+  {
+    "line": [
+      "That means a fake pass in sports talk.",
+      "इसे खेल की भाषा में फ़ेक पास कहते हैं।"
+    ]
+  },
+  { "line": ["Good luck…", "शुभकामनाएँ…"] },
+  {
+    "line": [
+      "and I'll see you all in a few days.",
+      "और मैं आप सबसे कुछ दिनों बाद मिलूँगा।"
+    ]
+  },
+  { "line": ["Hack.", "हैक।"] },
+  {
+    "line": [
+      "This is Clear-up Radio to aircraft 567.",
+      "यह क्लियर-अप रेडियो है, एयरक्राफ़्ट 567 के लिए।"
+    ]
+  },
+  {
+    "line": [
+      "All aircraft are advised that takeoff has been delayed",
+      "सारे विमानों को सलाह दी जाती है कि घने कोहरे के कारण"
+    ]
+  },
+  { "line": ["due to heavy fog.", "उड़ान भरने में देरी होगी।"] },
+  {
+    "line": [
+      "The entire wing is on temporary hold. Stand by for further instructions.",
+      "पूरे विंग पर अस्थायी रोक लगाई गई है। आगे के निर्देशों का इंतज़ार कीजिए।"
+    ]
+  },
+  {
+    "line": [
+      "Clear-up Tower, this is aircraft 567.",
+      "क्लियर-अप टावर, यह एयरक्राफ़्ट 567 है।"
+    ]
+  },
+  {
+    "line": [
+      "Roger temporary hold. Standing by. Over.",
+      "अस्थायी रोक, समझ गया। इंतज़ार कर रहे हैं। ओवर।"
+    ]
+  },
+  {
+    "line": [
+      "'Lord, guard and guide the men who fly",
+      "'हे प्रभु, उन सैनिकों की रक्षा और मार्गदर्शन करो"
+    ]
+  },
+  {
+    "line": [
+      "through the great spaces of the sky.",
+      "जो विशाल आकाश में उड़ान भरते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Be with them traversing the air in darkening storms or sunshine fair.",
+      "जब वे आसमान में अँधेरे तूफ़ानों या चमकती धूप में सफ़र करें, तो उनके साथ रहो।"
+    ]
+  },
+  {
+    "line": [
+      "Thou who dost keep with tender might, the balanced birds in all their flight.",
+      "जो अपनी हिम्मत बरक़रार रखेंगे, उनकी उड़ानें स्थिर होंगी।"
+    ]
+  },
+  {
+    "line": [
+      "Thou of the tempered winds, be near, that having thee they know no fear.'",
+      "शांत हवाओं के देवता, साथ रहना, आपका साथ होगा, तो वे डरेंगे नहीं।'"
+    ]
+  },
+  {
+    "line": [
+      "All three task forces are socked in.",
+      "तीनों टास्क फ़ोर्स को उड़ाने भरने से मना किया गया है।"
+    ]
+  },
+  { "line": ["We got a 30-minute delay.", "हमें 30-मिनटों की देरी होगी।"] },
+  {
+    "line": [
+      "'…Fly through lonely ways beneath the sky.'",
+      "'…आसमान के नीचे सुनसान रास्तों से उड़ो।'"
+    ]
+  },
+  {
+    "line": [
+      "You're on the way through purgatory and you reach a fork in the road.",
+      "तुम शुद्धिकरण के रास्ते से जा रहे हो और एक दोराहे पर पहुँचते हो।"
+    ]
+  },
+  { "line": ["One road goes to Valhalla,", "एक रास्ता वैलहैला जाता है,"] },
+  {
+    "line": [
+      "the other goes to hell. Damnation.",
+      "दूसरा नर्क जाता है। यानी नरकवास।"
+    ]
+  },
+  {
+    "line": ["On each of the road is a goblin.", "हर रास्ते पर एक गॉब्लिन है।"]
+  },
+  {
+    "line": [
+      "One goblin always tells the truth.",
+      "एक गॉब्लिन हमेशा सच बोलता है।"
+    ]
+  },
+  {
+    "line": [
+      "The other is a tricky little fucker. He always lies. Okay?",
+      "दूसरा वाला बेहद पेचीदा है। वह हमेशा झूठ बोलता है। समझे?"
+    ]
+  },
+  {
+    "line": [
+      "What's the one question that you need to ask",
+      "तुम वह कौन सा सवाल पूछोगे"
+    ]
+  },
+  {
+    "line": [
+      "that's gonna tell you the right way to go?",
+      "जिससे तुम्हें पता चलेगा कि कौन सा सही रास्ता है?"
+    ]
+  },
+  { "line": ["Jesus Christ.", "हे भगवान।"] },
+  {
+    "line": [
+      "-Hey, Lieutenant. You got a visitor. -That is a class woman.",
+      "-ए, लेफ़्टिनेंट। आपसे कोई मिलने आया है। -वह काफ़ी प्रभावशाली महिला है।"
+    ]
+  },
+  { "line": ["Stand by for 30 more minutes.", "और 30 मिनट इंतज़ार करो।"] },
+  {
+    "line": [
+      "Do you ever have any good news, Garcia?",
+      "क्या तुम कभी अच्छी ख़बर भी देते हो, गार्सिआ?"
+    ]
+  },
+  {
+    "line": [
+      "You got complaints? Take it up with operations.",
+      "तुम्हें शिकायतें हैं? तो संचालन विभाग से शिकायत करो।"
+    ]
+  },
+  {
+    "line": [
+      "Hey! Strongly worded letter to follow!",
+      "ए! मैं कड़े शब्दों से भरी चिट्ठी भेजूँगा!"
+    ]
+  },
+  {
+    "line": [
+      "Delayed another half hour, fellas.",
+      "और आधे घंटे की देरी होगी, दोस्तों।"
+    ]
+  },
+  {
+    "line": ["Why can't we just take off?", "हम अभी उड़ान क्यों नहीं भर सकते?"]
+  },
+  {
+    "line": [
+      "Because we can't. It's fog.",
+      "क्योंकि हम उड़ान नहीं भर सकते। कोहरा छाया है।"
+    ]
+  },
+  {
+    "line": [
+      "Haven't the pilots been trained for that?",
+      "क्या पायलटों को इसके लिए प्रशिक्षण नहीं दिया गया है?"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. Isn't that what they get paid for?",
+      "हाँ। क्या उन्हें इसी के लिए वेतन नहीं मिलता है?"
+    ]
+  },
+  { "line": ["Sure.", "ज़रूर।"] },
+  {
+    "line": [
+      "They can fly upside down with a lollipop in their mouth.",
+      "वे अपने मुँह में लॉलीपॉप लेकर विमान को उल्टा उड़ा सकते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "But if there's a cow on the runway…",
+      "पर अगर रनवे पर कोई गाय हुई तो…"
+    ]
+  },
+  { "line": ["A cow on the runway?", "रनवे पर गाय?"] },
+  {
+    "line": [
+      "Where do you come up with this shit, Quinn?",
+      "तुम्हें ये बकवास चीज़ें कैसे सूझती हैं, क्विन?"
+    ]
+  },
+  {
+    "line": [
+      "We're in a flying fortress.",
+      "हम एक फ़्लाइंग फ़ोर्ट्रेस में हैं।"
+    ]
+  },
+  { "line": ["We can take on a cow.", "हम किसी गाय का सामना कर सकते हैं।"] },
+  {
+    "line": [
+      "Alice isn't a Buick, Baby Face.",
+      "ऐलिस कोई ब्युइक नहीं है, बेबी फ़ेस।"
+    ]
+  },
+  { "line": ["She's a tin can.", "यह धातु से बनी है।"] },
+  {
+    "line": [
+      "If we go head-to-head with a cow, she'd accordion. With us in it.",
+      "अगर हम गाय से सीधा टकराएँ, तो यह तबाह हो जाएगी। और साथ में हम भी।"
+    ]
+  },
+  { "line": ["I see your cow.", "मुझे तुम्हारी गाय दिख रही है।"] },
+  {
+    "line": [
+      "Peanut butter, peanut butter, peanut butter, jam.",
+      "पीनट बटर, पीनट बटर, पीनट बटर, जैम।"
+    ]
+  },
+  {
+    "line": [
+      "I'd turn your cow into ground beef.",
+      "मैं तुम्हारी गाय की चटनी बना दूँगा।"
+    ]
+  },
+  { "line": ["Bucky.", "बकी।"] },
+  { "line": ["Bucky.", "बकी।"] },
+  { "line": ["-Bucky. -Yeah, Crank?", "-बकी। -हाँ, क्रैंक?"] },
+  {
+    "line": [
+      "How'd you convince Harding to let you fly?",
+      "तुमने हार्डिंग को तुम्हें उड़ान भरने की अनुमति देने के लिए कैसे मनाया?"
+    ]
+  },
+  { "line": ["What do you mean?", "तुम्हारा क्या मतलब है?"] },
+  { "line": ["You, Buck, Veal, Kidd?", "तुम, बक, वील, किड?"] },
+  {
+    "line": [
+      "Three squadron COs and an Air Exec.",
+      "तीन स्क्वाड्रन सीओ और एक एयर एग्ज़ीक्यूटिव।"
+    ]
+  },
+  {
+    "line": [
+      "Lot of eggs in one basket.",
+      "एक ही मिशन में इतने सारे उच्च अधिकारी।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah, I've never seen so much brass in the same mission before.",
+      "हाँ, मैंने पहले कभी एक ही मिशन पर इतने सारे उच्च अधिकारी नहीं देखे।"
+    ]
+  },
+  {
+    "line": [
+      "Well, I wasn't gonna miss this one, was I?",
+      "मैं यह चूकने वाला नहीं था, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Wait, wait, wait. Do you ask it, 'Are you the good goblin?'",
+      "रुको, रुको, रुको। क्या तुम पूछोगे, 'क्या तुम अच्छे गॉब्लिन हो?'"
+    ]
+  },
+  {
+    "line": [
+      "No. No, but you're getting closer.",
+      "नहीं। नहीं, पर तुम क़रीब हो।"
+    ]
+  },
+  {
+    "line": [
+      "You're smarter than I thought, Croz.",
+      "तुम मेरी कल्पना से ज़्यादा स्मार्ट हो, क्रॉज़।"
+    ]
+  },
+  {
+    "line": [
+      "Ten bucks says the second and third task force",
+      "दस डॉलर की शर्त लगाता हूँ कि दूसरी और तीसरी टास्क फ़ोर्स"
+    ]
+  },
+  {
+    "line": [
+      "-is already up in the air. -Nah.",
+      "-पहले से ही हवा में हैं। -नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "Nah, they wouldn't hit their target before we formed up with them.",
+      "नहीं, जब तक हम उनके साथ इकट्ठा न हों, वे लक्ष्य पर हमला नहीं करेंगे।"
+    ]
+  },
+  { "line": ["What if they do?", "अगर उन्होंने किया तो?"] },
+  {
+    "line": [
+      "Then this genius plan is shit.",
+      "फिर यह जीनियस योजना बेकार हो जाएगी।"
+    ]
+  },
+  {
+    "line": [
+      "Come here, Meatball. Come on. Good boy.",
+      "यहाँ आओ, मीटबॉल। चलो। अच्छे बच्चे।"
+    ]
+  },
+  { "line": ["Hey, Buck.", "ए, बक।"] },
+  { "line": ["Hey, Curt.", "ए, कर्ट।"] },
+  { "line": ["Some soup, huh?", "काफ़ी कोहरा है, हँ?"] },
+  { "line": ["Yeah.", "हाँ।"] },
+  {
+    "line": [
+      "We have fog like this back home.",
+      "मेरे शहर में भी ऐसा ही कोहरा छाता है।"
+    ]
+  },
+  {
+    "line": [
+      "Always spooked me as a kid.",
+      "बचपन में मुझे हमेशा इससे डर लगता था।"
+    ]
+  },
+  { "line": ["No one likes the fog.", "कोहरा किसी को पसंद नहीं होता।"] },
+  { "line": ["How your boys doing?", "तुम्हारे लड़के कैसे हैं?"] },
+  { "line": ["Antsy.", "बेचैन हैं।"] },
+  { "line": ["Not me.", "पर मैं नहीं।"] },
+  { "line": ["I'm feeling good.", "मैं अच्छा महसूस कर रहा हूँ।"] },
+  {
+    "line": [
+      "I feel like this could be a big one, you know?",
+      "मुझे लगता है कि यह बेहद महत्वपूर्ण हो सकता है, समझे?"
+    ]
+  },
+  {
+    "line": [
+      "-It is. -I think we could do some real damage.",
+      "-यह है। -शायद हम भारी क्षति पहुँचा सकते हैं।"
+    ]
+  },
+  { "line": ["Well,", "ख़ैर,"] },
+  {
+    "line": [
+      "better get back to the ant farm.",
+      "बेहतर होगा मैं अपने लड़कों के पास लौटूँ।"
+    ]
+  },
+  { "line": ["See you in Algeria.", "एल्जीरिया में मिलेंगे।"] },
+  { "line": ["See you there, Buck.", "वहीं मिलेंगे, बक।"] },
+  { "line": ["Here you go, sir.", "यह लीजिए, सर।"] },
+  { "line": ["LeMay wants us wheels up.", "लेमे चाहता है कि हम उड़ान भरें।"] },
+  {
+    "line": [
+      "He doesn't wanna wait for the other task forces.",
+      "वह बाकी टास्क फ़ोर्स का इंतज़ार नहीं करना चाहता है।"
+    ]
+  },
+  { "line": ["What do you mean?", "तुम्हारा क्या मतलब है?"] },
+  {
+    "line": [
+      "They'll have to catch up, sir.",
+      "उन्हें गति बढ़ाकर हम तक पहुँचना होगा, सर।"
+    ]
+  },
+  {
+    "line": [
+      "Engine start at 06:40. Send up a flare to resume operations.",
+      "इंजन 06:40 पर शुरू होगा। परिचालन फिर से शुरू करने के लिए फ़्लेयर चलाओ।"
+    ]
+  },
+  { "line": ["Yes, sir.", "जी, सर।"] },
+  {
+    "line": [
+      "We're sending them straight into hell.",
+      "हम उन्हें सीधे नर्क में भेज रहे हैं।"
+    ]
+  },
+  { "line": ["Alone.", "अकेले।"] },
+  { "line": ["Command pilot to crew.", "कमांड पायलट, दल के लिए।"] },
+  {
+    "line": [
+      "Anyone see the other task forces?",
+      "किसी को बाकी टास्क फ़ोर्स दिख रहे हैं?"
+    ]
+  },
+  {
+    "line": [
+      "-Radio, negative. -Waist negative.",
+      "-रेडियो, नहीं। -वेस्ट, नहीं।"
+    ]
+  },
+  { "line": ["Tail, negative.", "टेल, नहीं।"] },
+  { "line": ["Negative, sir.", "नहीं, सर।"] },
+  { "line": ["Negative.", "नहीं।"] },
+  { "line": ["Not what they fucking said!", "उन्होंने ऐसा नहीं कहा था!"] },
+  {
+    "line": [
+      "They said we'd get the brunt of it, buddy.",
+      "उन्होंने कहा था कि सबसे ज़्यादा हमले हमें ही सहने होंगे, दोस्त।"
+    ]
+  },
+  { "line": ["Yeah, I know. I know.", "हाँ, जानता हूँ। जानता हूँ।"] },
+  {
+    "line": [
+      "But the other task forces were supposed to be sweeping up after us",
+      "पर यह सुनिश्चित करने के लिए कि दुश्मन दोबारा हमला न कर सके,"
+    ]
+  },
+  {
+    "line": [
+      "to make sure they don't come back for seconds.",
+      "अन्य टास्क फ़ोर्स को हमारे पीछे होना चाहिए था।"
+    ]
+  },
+  { "line": ["Where are they, huh?", "वे कहाँ हैं, हँ?"] },
+  {
+    "line": [
+      "Via, you sure you don't see anyone?",
+      "विया, पक्का तुम्हें कोई नहीं दिख रहा है?"
+    ]
+  },
+  {
+    "line": [
+      "Not a one of 'em. Still alone.",
+      "एक भी नहीं। हम अब भी अकेले हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Crank? You think we can get closer to Blakely?",
+      "क्रैंक? क्या हम ब्लेकली के क़रीब जा सकते हैं?"
+    ]
+  },
+  { "line": ["Can do.", "ज़रूर।"] },
+  { "line": ["Back seat driver.", "अनावश्यक सलाह देने वाले यात्री।"] },
+  { "line": ["That's right, Crank.", "सही कहा, क्रैंक।"] },
+  { "line": ["Back seat pilot and reserve.", "रिज़र्व में पीछे बैठा पायलट।"] },
+  {
+    "line": [
+      "Come on, Buck. Keep pace with us.",
+      "चलो भी, बक। हमारे बराबर गति बनाए रखो।"
+    ]
+  },
+  {
+    "line": [
+      "Looks like we got stood up by the other divisions.",
+      "लगता है बाकी दल हमारी मदद के लिए नहीं आएँगे।"
+    ]
+  },
+  { "line": ["We're on our own.", "हमें अकेले निपटना होगा।"] },
+  {
+    "line": [
+      "They ain't trying too hard with this flak.",
+      "वे ज़मीन से ज़्यादा ज़ोरदार हमला नहीं कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Keeping it clear for the fighters.",
+      "अपने लड़ाकू विमानों के लिए आसमान साफ़ रख रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Shit! Fighters at 10:00 low! Ten o'clock low!",
+      "धत्! लड़ाकू विमान, नीचे आगे बाईं तरफ़! नीचे आगे बाईं तरफ़!"
+    ]
+  },
+  { "line": ["They're going for Buck.", "वे बक की ओर जा रहे हैं।"] },
+  { "line": ["Fighters, 2:00!", "लड़ाकू विमान, आगे हल्का दाईं तरफ़!"] },
+  {
+    "line": [
+      "Nine o'clock low. More Germans.",
+      "नीचे सीधे बाईं तरफ़। और जर्मन आ रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "-I'm on the nine! -More fighters. Two o'clock level.",
+      "-मैं बाईं तरफ़ वाले से निपटता हूँ! -और लड़ाकू विमान। हल्का दाईं तरफ़।"
+    ]
+  },
+  { "line": ["Got you, son of a bitch!", "निशाना लग गया, कमीने कहीं के!"] },
+  { "line": ["More at 11:00 low!", "नीचे हल्का बाईं तरफ़ और आ रहे हैं!"] },
+  { "line": ["They're going for Claytor!", "वे क्लेटर के पीछे जा रहे हैं!"] },
+  { "line": ["Left wing is hit.", "बाएँ पंख पर गोली लगी है।"] },
+  { "line": ["She's pulling left.", "विमान बाईं तरफ़ खिंच रहा है।"] },
+  {
+    "line": [
+      "Left flap locked up. Compensating.",
+      "बायाँ फ़्लैप जाम हो गया है। संतुलन बनाने की कोशिश कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "-Rockets 2:00! -Holy shit!",
+      "-रॉकेट, हल्का दाईं तरफ़! -हे भगवान!"
+    ]
+  },
+  {
+    "line": [
+      "Shit! They've hit Cleven.",
+      "धत्! उन्होंने क्लेवेन को घायल कर दिया।"
+    ]
+  },
+  { "line": ["Norman? Strout?", "नॉर्मन? स्ट्राउट?"] },
+  {
+    "line": [
+      "We're losing air speed. We need to increase power.",
+      "हम हवाई गति खो रहे हैं। हमें ऊर्जा बढ़ानी होगी।"
+    ]
+  },
+  { "line": ["Do it. Norman! Strout!", "बढ़ाओ। नॉर्मन! स्ट्राउट!"] },
+  { "line": ["We're both here.", "हम दोनों यहीं हैं।"] },
+  { "line": ["What's your damage?", "क्या नुकसान हुआ?"] },
+  { "line": ["Electrical and oxygen hoses.", "इलेक्ट्रिकल और ऑक्सीजन होज़।"] },
+  {
+    "line": [
+      "-How's the bombsight? -Checking.",
+      "-बॉम्बसाइट कैसा है? -देख रहा हूँ।"
+    ]
+  },
+  { "line": ["Bombsight is okay!", "बॉम्बसाइट ठीक है!"] },
+  { "line": ["Two 190's, 2:00.", "दो 190, हल्का दाईं तरफ़।"] },
+  { "line": ["Charge handle's blown off!", "चार्ज हैंडल उड़ गया है!"] },
+  { "line": ["Two o'clock low!", "नीचे हल्का दाईं तरफ़!"] },
+  {
+    "line": [
+      "Jesus. They're coming from everywhere!",
+      "हे भगवान। वे चारों तरफ़ से आ रहे हैं!"
+    ]
+  },
+  { "line": ["I got one!", "मैंने एक को मार गिराया!"] },
+  { "line": ["Full squad, 10:00 low!", "पूरा स्क्वाड, नीचे हल्का बाईं तरफ़!"] },
+  { "line": ["Shit! Buck's hit.", "धत्! बक को गोली लगी है।"] },
+  {
+    "line": [
+      "Hell with it. I'm going down to the nose.",
+      "भाड़ में गया। मैं नोज़ में जा रहा हूँ।"
+    ]
+  },
+  { "line": ["Roger.", "ठीक है।"] },
+  { "line": ["Seven o'clock low!", "पीछे हल्का बाईं तरफ़ नीचे!"] },
+  { "line": ["Another from two!", "हल्की दाईं तरफ़ से दो और आ रहे हैं!"] },
+  {
+    "line": [
+      "All right, Murph. I'm taking that gun.",
+      "ठीक है, मर्फ़। मैं वह बंदूक चलाऊँगा।"
+    ]
+  },
+  { "line": ["Sir.", "सर।"] },
+  {
+    "line": [
+      "Ten o'clock low! Tail to nose, coming your way.",
+      "हल्का बाईं तरफ़ नीचे! टेल, नोज़ के लिए, तुम्हारी तरफ़ आ रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "-Two o'clock high! -They're gonna split, Murph!",
+      "-ऊपर हल्का दाईं तरफ़! -वे अलग होने वाले हैं, मर्फ़!"
+    ]
+  },
+  { "line": ["They're going for Buck.", "वे बक के पीछे जा रहे हैं।"] },
+  { "line": ["Fighters, 2:00 high!", "लड़ाकू विमान, ऊपर हल्का दाईं तरफ़!"] },
+  {
+    "line": [
+      "Copy. Got 'em. Hit 'em, boys.",
+      "ठीक है। वे दिख गए। उन्हें मार गिराओ, लड़कों।"
+    ]
+  },
+  {
+    "line": [
+      "They're going after the second element.",
+      "वे विमानों के दूसरे दल के पीछे जा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Tail to Cleven. Hummel's fort is gone.",
+      "टेल, क्लेवेन के लिए। हम्मल का फ़ोर्ट मारा जा चुका है।"
+    ]
+  },
+  { "line": ["You see any chutes?", "तुम्हें पैराशूट दिख रहे हैं?"] },
+  {
+    "line": [
+      "All ten chutes, but Claytor's in trouble.",
+      "सारे दस पैराशूट दिख रहे हैं, पर क्लेटर मुसीबत में है।"
+    ]
+  },
+  {
+    "line": [
+      "He's pulling badly. He's falling out of formation.",
+      "वह एक तरफ़ खिंचा जा रहा है। वह विन्यास से बाहर हो रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "-We're losing fuel. -Well, I can see that.",
+      "-हम ईंधन खो रहे हैं। -मुझे यह दिख रहा है।"
+    ]
+  },
+  { "line": ["Left wing's on fire.", "बाएँ पंख में आग लगी है।"] },
+  { "line": ["Should we bail, Roy?", "क्या हमें विमान से निकलना चाहिए, रॉय?"] },
+  {
+    "line": [
+      "Roy! Roy! Should we bail?",
+      "रॉय! रॉय! क्या हमें विमान से निकलना चाहिए?"
+    ]
+  },
+  { "line": ["Should we bail?", "क्या हमें विमान से निकलना चाहिए?"] },
+  {
+    "line": ["Pilot to crew, abandon ship.", "पायलट, दल के लिए, विमान से कूदो।"]
+  },
+  {
+    "line": [
+      "Bail out! Abandon ship! Bail out!",
+      "विमान से कूदो! विमान छोड़ दो! विमान से कूदो!"
+    ]
+  },
+  {
+    "line": [
+      "-Did you say abandon ship? -Yes, goddamn it!",
+      "-क्या तुमने विमान छोड़ने को कहा? -कमबख़्त, हाँ!"
+    ]
+  },
+  {
+    "line": [
+      "Destroy the order and then bail!",
+      "बम गिरा दो, फिर विमान से कूदो!"
+    ]
+  },
+  {
+    "line": [
+      "Pilot to bombardier. Open the bomb bay doors!",
+      "पायलट, बॉम्बार्डियर के लिए। बॉम्ब बे के दरवाज़े खोलो!"
+    ]
+  },
+  { "line": ["Roger.", "ठीक है।"] },
+  { "line": ["Lorch, drop all the bombs.", "लॉर्च, सारे बम गिरा दो।"] },
+  {
+    "line": [
+      "Ball turret to crew. I'm stuck.",
+      "बॉल टरेट, दल के लिए। मैं फँस गया हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "-I can't get out of the turret. -What do you mean you can't get out?",
+      "-मैं टरेट से बाहर नहीं निकल पा रहा हूँ। -क्या मतलब तुम बाहर नहीं निकल पा रहे हो?"
+    ]
+  },
+  {
+    "line": ["The elevation clutch is jammed.", "एलिवेशन क्लच जाम हो गया है।"]
+  },
+  { "line": ["It won't crank.", "यह खुल नहीं रहा है।"] },
+  { "line": ["Quinn! Help me out.", "क्विन! मेरी मदद करो।"] },
+  {
+    "line": [
+      "-Quinn, come on. Help me, man. -Push!",
+      "-क्विन, चलो भी। मेरी मदद करो। -धक्का दो!"
+    ]
+  },
+  { "line": ["Pull on the count of three.", "तीन की गिनती पर खींचो।"] },
+  {
+    "line": ["-Trying! -One, two, three.", "-कोशिश कर रहा हूँ! -एक, दो, तीन।"]
+  },
+  { "line": ["Come on!", "चलो भी!"] },
+  {
+    "line": ["Push, Baby Face! Help me!", "धक्का दो, बेबी फ़ेस! मेरी मदद करो!"]
+  },
+  { "line": ["Come on, Quinn! Please!", "चलो भी, क्विन! कृपया!"] },
+  {
+    "line": [
+      "Come on, get me out of here. Please!",
+      "चलो भी, मुझे यहाँ से निकालो। कृपया!"
+    ]
+  },
+  { "line": ["I'm sorry.", "मुझे माफ़ कर दो।"] },
+  { "line": ["What do you mean? No!", "तुम्हारा क्या मतलब है? नहीं!"] },
+  { "line": ["No!", "नहीं!"] },
+  { "line": ["No!", "नहीं!"] },
+  {
+    "line": [
+      "Come back, Quinn! Quinn, please!",
+      "वापस आओ, क्विन! क्विन, कृपया!"
+    ]
+  },
+  {
+    "line": [
+      "-I can't. -Get me out of this thing!",
+      "-नहीं आ सकता। -मुझे यहाँ से बाहर निकालो!"
+    ]
+  },
+  { "line": ["Help!", "मदद करो!"] },
+  { "line": ["I can't.", "मैं नहीं कर सकता।"] },
+  {
+    "line": ["Get me out! Please! Quinn!", "मुझे यहाँ से निकालो! कृपया! क्विन!"]
+  },
+  {
+    "line": [
+      "-I'm sorry, Baby Face. I'm sorry. -No! No!",
+      "-मुझे माफ़ कर दो, बेबी फ़ेस। माफ़ कर दो। -नहीं! नहीं!"
+    ]
+  },
+  {
+    "line": [
+      "Tail to lead pilot. Our whole second element is gone.",
+      "टेल, लीड पायलट के लिए। हमारा पूरा दूसरा दल तबाह हो गया है।"
+    ]
+  },
+  { "line": ["Jesus. Roger, tail.", "हे भगवान। समझ गया, टेल।"] },
+  { "line": ["We need to join the 418th.", "हमें 418वें के साथ जुड़ना होगा।"] },
+  {
+    "line": [
+      "Redmeat Lead to Redmeat Squadron, we're joining up with Pacer.",
+      "रेडमीट लीड, रेडमीट स्क्वाड्रन के लिए, हम पेसर के साथ जुड़ रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Roger that, Redmeat Lead. Let's power up.",
+      "समझ गया, रेडमीट लीड। चलो गति बढ़ाएँ।"
+    ]
+  },
+  {
+    "line": [
+      "We're gonna climb and get some protection with the 418th.",
+      "हम और ऊपर जाएँगे और 418वें के साथ थोड़ी सुरक्षा प्राप्त करेंगे।"
+    ]
+  },
+  { "line": ["Tail to command pilot,", "टेल, कमांड पायलट के लिए,"] },
+  {
+    "line": [
+      "the whole last element of the 350th is gone.",
+      "तीन सौ पचासवें का पूरा आख़िरी दल तबाह हो चुका है।"
+    ]
+  },
+  {
+    "line": [
+      "The rest are trying to join us.",
+      "बाकी हमसे जुड़ने की कोशिश कर रहे हैं।"
+    ]
+  },
+  { "line": ["Roger.", "समझ गया।"] },
+  { "line": ["Come on.", "चलो।"] },
+  { "line": ["Sir.", "सर।"] },
+  {
+    "line": [
+      "Every Luftwaffe base in Belgium's been scrambled.",
+      "बेल्जियम में प्रत्येक लुफ़्टवाफ़ बेस सक्रीय हो गया है।"
+    ]
+  },
+  {
+    "line": [
+      "And we're still more than three hours away from the IP.",
+      "और हम अब भी आईपी से तीन घंटे से ज़्यादा दूर हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Rockets incoming. Seven o'clock!",
+      "रॉकेट आ रहे हैं। पीछे हल्का बाईं तरफ़!"
+    ]
+  },
+  { "line": ["Christ!", "हे भगवान!"] },
+  { "line": ["Smith, report!", "स्मिथ, रिपोर्ट करो!"] },
+  { "line": ["Smith! Smith, report!", "स्मिथ! स्मिथ, रिपोर्ट करो!"] },
+  {
+    "line": [
+      "Smith is down. He's not breathing.",
+      "स्मिथ मारा जा चुका है। वह साँस नहीं ले रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "Waist to Cleven. Smith is dead, sir.",
+      "वेस्ट, क्लेवेन के लिए। स्मिथ मर चुका है, सर।"
+    ]
+  },
+  { "line": ["Fighters, 11:00 high!", "लड़ाकू विमान, ऊपर हल्का बाईं तरफ़!"] },
+  { "line": ["Son of a bitch!", "कमीना कहीं का!"] },
+  { "line": ["Son of a bitch!", "कमीना कहीं का!"] },
+  { "line": ["-You okay? -Yeah.", "-तुम ठीक हो? -हाँ।"] },
+  {
+    "line": [
+      "Then get back up there and man your gun.",
+      "तो फिर वापस ऊपर जाओ और अपनी बंदूक संभालो।"
+    ]
+  },
+  {
+    "line": [
+      "Main electrical panel's been hit.",
+      "मुख्य इलेक्ट्रिकल पैनल पर गोली लगी है।"
+    ]
+  },
+  {
+    "line": [
+      "-How bad is it? -Generator's down. I can't tell.",
+      "-कितना नुकसान हुआ है? -जनरेटर काम नहीं कर रहा है। मैं बता नहीं सकता।"
+    ]
+  },
+  {
+    "line": [
+      "Waist to Pilot. Biddick's been hit.",
+      "वेस्ट, पायलट के लिए। बिडिक को गोली लगी है।"
+    ]
+  },
+  {
+    "line": [
+      "Pressure's dropping everywhere. All systems. Curt, we're losing her.",
+      "हर जगह दबाव कम हो रहा है। सारी प्रणालियों में। कर्ट, हम विमान को खो रहे हैं।"
+    ]
+  },
+  { "line": ["No, we're not.", "नहीं, नहीं खो रहे।"] },
+  { "line": ["No!", "नहीं!"] },
+  { "line": ["Dickie! Dickie! No!", "डिकी! डिकी! नहीं!"] },
+  { "line": ["Best! Get down here now!", "बेस्ट! तुरंत यहाँ नीचे आओ!"] },
+  {
+    "line": [
+      "He's on the controls. Get him off.",
+      "वह नियंत्रण प्रणाली के ऊपर गिर गया है। उसे ऊपर उठाओ।"
+    ]
+  },
+  { "line": ["Get him back.", "उसे ऊपर उठाओ।"] },
+  {
+    "line": [
+      "-How is he? -I think he's dead.",
+      "-वह कैसा है? -शायद वह मर चुका है।"
+    ]
+  },
+  { "line": ["No, Dickie. Dickie, wake up!", "नहीं, डिकी। डिकी, उठो!"] },
+  { "line": ["Fuck!", "धत्!"] },
+  {
+    "line": [
+      "She's not gonna make it. We gotta get out.",
+      "विमान गंतव्य तक नहीं पहुँचेगा। हमें कूदना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Pilot to crew. Bail out! Bail out!",
+      "पायलट, दल के लिए। विमान से कूदो! विमान से कूदो!"
+    ]
+  },
+  { "line": ["Here's your chute, Curt.", "यह रहा तुम्हारा पैराशूट, कर्ट।"] },
+  { "line": ["He's breathing, sir!", "वह साँस ले रहा है, सर!"] },
+  { "line": ["Dickie, stay with me.", "डिकी, मेरे साथ रहो।"] },
+  {
+    "line": [
+      "I'm gonna get you down safely. You hear me?",
+      "मैं तुम्हें सुरक्षित नीचे उतारूँगा। सुना तुमने?"
+    ]
+  },
+  {
+    "line": [
+      "You can't land this thing, can you?",
+      "क्या तुम इस विमान को उतार सकते हो?"
+    ]
+  },
+  {
+    "line": [
+      "Yes, I can. If we drop him, he'll die.",
+      "हाँ, उतार सकता हूँ। अगर हमने उसे गिराया, तो वह मर जाएगा।"
+    ]
+  },
+  {
+    "line": [
+      "Drop him. It's his best chance!",
+      "उसे गिरा दो। यही उसका सबसे अच्छा मौका है!"
+    ]
+  },
+  {
+    "line": [
+      "-He's gonna die anyway, Lieutenant. -No, he's not!",
+      "-वह वैसे भी मरने वाला है, लेफ़्टिनेंट। -नहीं, नहीं मरेगा!"
+    ]
+  },
+  { "line": ["We have to bail! Come on!", "हमें विमान से कूदना होगा! चलो!"] },
+  {
+    "line": [
+      "Go. I'll be right behind you. Go!",
+      "जाओ। मैं तुम्हारे पीछे ही हूँगा। जाओ!"
+    ]
+  },
+  { "line": ["Promise me!", "मुझसे वादा करो!"] },
+  { "line": ["I'll be behind you.", "मैं तुम्हारे पीछे ही हूँगा।"] },
+  {
+    "line": [
+      "I'ma keep her level till everyone bails out. Go!",
+      "जब तक सब बाहर नहीं कूदते, मैं विमान को स्थिर रखूँगा। जाओ!"
+    ]
+  },
+  {
+    "line": ["You gotta get out, Curt!", "तुम्हें विमान से कूदना होगा, कर्ट!"]
+  },
+  {
+    "line": [
+      "I'm right behind you. Get out!",
+      "मैं तुम्हारे पीछे ही हूँ। निकलो!"
+    ]
+  },
+  {
+    "line": [
+      "I'm getting us down, Dick. I have control.",
+      "मैं हमें नीचे उतार रहा हूँ, डिक। विमान मेरे नियंत्रण में है।"
+    ]
+  },
+  {
+    "line": [
+      "Right over there. You see it? That long field, huh?",
+      "ठीक वहाँ। तुम्हें दिख रहा है? वह लंबा सा मैदान, हँ?"
+    ]
+  },
+  { "line": ["Dickie, stay with me. Come on.", "डिकी, मेरे साथ रहो। चलो भी।"] },
+  {
+    "line": [
+      "Come on, Curt. Fly like an angel, huh?",
+      "चलो भी, कर्ट। फ़रिश्ते की तरह उड़ो, हँ?"
+    ]
+  },
+  { "line": ["Oh, God.", "हे भगवान।"] },
+  {
+    "line": [
+      "Sir, the second and third task forces have just crossed the channel.",
+      "सर, दूसरी और तीसरी टास्क फ़ोर्स ने अभी-अभी खाड़ी पार की है।"
+    ]
+  },
+  { "line": ["Five hours late.", "पाँच घंटे देर से।"] },
+  { "line": ["God help our boys.", "ईश्वर हमारे लड़कों की मदद करें।"] },
+  { "line": ["One o'clock high!", "ऊपर हल्का दाईं तरफ़!"] },
+  { "line": ["-You hit? -No. You?", "-तुम्हें गोली लगी? -नहीं। तुम्हें?"] },
+  { "line": ["No.", "नहीं।"] },
+  {
+    "line": [
+      "Got a fluid leak on the port wing.",
+      "दाएँ पंख से ईंधन रीस रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "I think the column may be jamming on something.",
+      "शायद कॉलम किसी चीज़ पर फँस गया है।"
+    ]
+  },
+  {
+    "line": [
+      "Left rudder pedal feels loose and I've only got right rudder.",
+      "बायाँ रडर पैडल ढीला महसूस हो रहा है और मेरे पास केवल दायाँ रडर है।"
+    ]
+  },
+  {
+    "line": [
+      "-Compensate! -I can't. Help me.",
+      "-संतुलन बनाओ! -नहीं बना सकता। मेरी मदद करो।"
+    ]
+  },
+  {
+    "line": [
+      "I think we may be done. It's not responding.",
+      "शायद अब हम कुछ नहीं कर सकते। यह काम नहीं कर रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "We can manage it. We'll use throttles and rudder trim.",
+      "हम काम चला सकते हैं। हम थ्रॉटल और रडर ट्रिम इस्तेमाल करेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "It's too much. We need to bail out. Engine three is on fire too.",
+      "यह ज़रूरत से ज़्यादा है। हमें विमान से कूदना होगा। तीसरे इंजन में भी आग लगी है।"
+    ]
+  },
+  {
+    "line": [
+      "-Pilot to crew, get ready to b-- -You son of a bitch!",
+      "-पायलट, दल के लिए, तैयार हो जाओ कू… -कमीने कहीं के!"
+    ]
+  },
+  {
+    "line": [
+      "We are going to sit here and take it.",
+      "हम यहाँ बैठकर परिस्थिति का सामना करेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "You hear me? We're gonna take it.",
+      "सुना तुमने? हम परिस्थिति का सामना करेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "Lead pilot to crew. We're gonna stick with our mission as long as we can fly.",
+      "लीड पायलट, दल के लिए। जब तक हम उड़ने में सक्षम हैं, हम मिशन पर टिके रहेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "Somebody check if that last hit ruptured a fuel tank.",
+      "कोई देखो कहीं उस आख़िरी हमले में ईंधन के टैंक में छेद तो नहीं हुआ।"
+    ]
+  },
+  {
+    "line": [
+      "Navigator to pilot, I see it. We got a leak.",
+      "नैविगेटर, पायलट के लिए, मुझे दिख रहा है। टैंक में छेद हुआ है।"
+    ]
+  },
+  { "line": ["Roger.", "ठीक है।"] },
+  {
+    "line": [
+      "Looks like the Krauts are heading back to refuel.",
+      "लगता है जर्मन ईंधन भरने के लिए वापस जा रहे हैं।"
+    ]
+  },
+  { "line": ["Keep your eyes peeled.", "सभी चौकन्ना रहो।"] },
+  { "line": ["They're refueling.", "वे फिर से ईंधन भर रहे हैं।"] },
+  { "line": ["How we looking, Croz?", "क्या स्थिति है, क्रॉज़?"] },
+  {
+    "line": [
+      "Navigator to command. Hitting IP.",
+      "नैविगेटर, कमांड के लिए। आईपी के पास पहुँच रहे हैं।"
+    ]
+  },
+  { "line": ["Command, roger.", "कमांड, ठीक है।"] },
+  { "line": ["Flares up!", "फ़्लेयर दिखाई दिए हैं!"] },
+  { "line": ["IPs.", "आईपी।"] },
+  {
+    "line": [
+      "Thirty seconds to bomb release. Prepare to hand over aircraft.",
+      "बम गिराने में तीस सेकंड हैं। विमान का नियंत्रण सौंपने की तैयारी करो।"
+    ]
+  },
+  { "line": ["Trimming.", "विमान स्थिर कर रहा हूँ।"] },
+  { "line": ["And holding 155.", "और 155 पर स्थिर हो गया है।"] },
+  {
+    "line": [
+      "Autopilot is set and servos on. Pilot to bombardier, your aircraft.",
+      "ऑटोपायलट सेट हो गया है और सर्वोज़ ऑन हैं। पायलट, बॉम्बार्डियर के लिए, विमान तुम्हारा हुआ।"
+    ]
+  },
+  { "line": ["Roger, my aircraft.", "ठीक है, विमान मेरा हुआ।"] },
+  {
+    "line": [
+      "Fighters, 10:00 high! Coming in!",
+      "लड़ाकू विमान, ऊपर हल्का बाईं तरफ़! पास आ रहे हैं!"
+    ]
+  },
+  { "line": ["I got that son of a bitch.", "मैंने उस कमीने को मार गिराया।"] },
+  { "line": ["Bomb bay doors opening.", "बॉम्ब बे के दरवाज़े खुल रहे हैं।"] },
+  {
+    "line": [
+      "Prepare to drop. We're gonna get it done, boys.",
+      "बम गिराने की तैयारी करो। हम हमारा काम पूरा करेंगे, लड़कों।"
+    ]
+  },
+  { "line": ["Bombs away!", "बम गिराओ!"] },
+  { "line": ["Take that.", "यह लो।"] },
+  { "line": ["Bombs away!", "बम गिराओ!"] },
+  { "line": ["Jesus. Will you look at that?", "हे भगवान। वह नज़ारा देखोगे?"] },
+  {
+    "line": [
+      "Lead pilot to ball turret. How'd we do?",
+      "लीड पायलट, बॉल टरेट के लिए। हमने कैसा किया?"
+    ]
+  },
+  {
+    "line": ["Sir, that factory… is gone.", "सर, वह फैक्ट्री… तबाह हो चुकी है।"]
+  },
+  { "line": ["Mission accomplished, boys.", "मिशन पूरा हुआ, लड़कों।"] },
+  { "line": ["Can we go home now?", "क्या अब हम घर लौट सकते हैं?"] },
+  {
+    "line": [
+      "Not yet, Strout. We gotta make a little pit stop in Africa.",
+      "अभी नहीं, स्ट्राउट। हमें अफ़्रीका में थोड़ा रुकना होगा।"
+    ]
+  },
+  { "line": ["It's okay. I--", "डरो मत। मैं…"] },
+  { "line": ["German?", "जर्मन?"] },
+  { "line": ["I'm American.", "मैं अमरीकी हूँ।"] },
+  { "line": ["Américain?", "अमरीकी?"] },
+  { "line": ["Can you help me?", "क्या तुम मेरी मदद कर सकती हो?"] },
+  { "line": ["Wait here.", "यहीं रुको।"] },
+  { "line": ["He's American.", "वह अमरीकी है।"] },
+  { "line": ["You're sure?", "तुम्हें पक्का यक़ीन है?"] },
+  { "line": ["Yes.", "हाँ।"] },
+  {
+    "line": [
+      "Command pilot to tail, how many left behind us?",
+      "कमांड पायलट, टेल के लिए, हमारे पीछे कितने बचे हैं?"
+    ]
+  },
+  { "line": ["Tail to command pilot, nine.", "टेल, कमांड पायलट के लिए, नौ।"] },
+  {
+    "line": [
+      "They're scattered everywhere, I got 'em left and right.",
+      "वे हमारे दाएँ-बाएँ, चारों तरफ़ फैले हुए हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Is Cleven's fort still with us?",
+      "क्या क्लेवेन का फ़ोर्ट अब भी हमारे साथ है?"
+    ]
+  },
+  {
+    "line": [
+      "They're beat to shit and trailing way behind,",
+      "उनका हाल बेहद ख़राब है और वे काफ़ी पीछे हैं,"
+    ]
+  },
+  { "line": ["but they're still with us.", "पर वे अब भी हमारे साथ हैं।"] },
+  { "line": ["Roger.", "ठीक है।"] },
+  {
+    "line": [
+      "Menzie, we're pulling left. How are the elevators looking?",
+      "मेन्ज़ी, विमान बाईं तरफ़ खिंच रहा है। एलीवेटरों का क्या हाल है?"
+    ]
+  },
+  {
+    "line": [
+      "The left one is shot to hell.",
+      "बायाँ वाला बिल्कुल तबाह हो चुका है।"
+    ]
+  },
+  { "line": ["It's not working.", "यह काम नहीं कर रहा है।"] },
+  {
+    "line": [
+      "Tail to pilot. We lost another fort.",
+      "टेल, पायलट के लिए। हमने एक और फ़ोर्ट खो दिया।"
+    ]
+  },
+  { "line": ["I think it was Oakes.", "शायद वह ओक्स था।"] },
+  { "line": ["Roger.", "समझ गया।"] },
+  {
+    "line": [
+      "Major, I don't know how much longer we can hold this.",
+      "मेजर, मुझे नहीं पता कि हम इसे कब तक नियंत्रित कर सकेंगे।"
+    ]
+  },
+  { "line": ["We're okay.", "हम ठीक हैं।"] },
+  {
+    "line": [
+      "-I think if we're gonna ditch, we should-- -We can make it.",
+      "-शायद अगर हमें कूदना है, तो हमें… -हम पहुँच सकते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Elevator line is shot to shit, sir. What's our pl--",
+      "एलीवेटर लाइन पूरी तरह से तबाह हो गया है, सर। हमारी यो…"
+    ]
+  },
+  {
+    "line": [
+      "I'm not planning to sit this thing out in a stalag, are you?",
+      "मैं सारी लड़ाई किसी जर्मन जेल में नहीं बिताना चाहता, क्या तुम ऐसा चाहते हो?"
+    ]
+  },
+  {
+    "line": [
+      "Menzie, Hollenbeck and DeMarco following?",
+      "मेन्ज़ी, हॉलेनबैक और डिमार्को पीछे आ रहे हैं?"
+    ]
+  },
+  {
+    "line": [
+      "Tail to pilot. DeMarco's sticking with us.",
+      "टेल, पायलट के लिए। डिमार्को अब भी हमारे साथ है।"
+    ]
+  },
+  {
+    "line": [
+      "Hollenbeck is abandoning ship. Eight chutes--",
+      "हॉलेनबैक विमान से कूद रहा है। आठ पैराशूट…"
+    ]
+  },
+  { "line": ["Nine. All ten.", "नौ। सारे दस।"] },
+  { "line": ["That's good, Menzie.", "बढ़िया है, मेन्ज़ी।"] },
+  {
+    "line": ["Norman. Strout. How you doing?", "नॉर्मन। स्ट्राउट। तुम कैसे हो?"]
+  },
+  { "line": ["We're okay, sir!", "हम ठीक हैं, सर!"] },
+  {
+    "line": [
+      "Just taking in the view and the fresh, thin air.",
+      "बस नज़ारे और ताज़ी हवा का मज़ा ले रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "You did good. I'm glad I had you with me.",
+      "तुमने बढ़िया काम किया। मुझे ख़ुशी है कि तुम मेरे साथ हो।"
+    ]
+  },
+  {
+    "line": [
+      "And that goes for the rest of you rabble on this fort too.",
+      "और मुझे इस फ़ोर्ट में मौजूद बाकी लोगों पर भी गर्व है।"
+    ]
+  },
+  { "line": ["Great job, fellas.", "बढ़िया काम किया, दोस्तों।"] },
+  { "line": ["Hey, Doug?", "ए, डग?"] },
+  { "line": ["Yeah?", "हाँ?"] },
+  {
+    "line": [
+      "Do you know when we lost Biddick?",
+      "तुम्हें पता है हमने बिडिक को कब खोया?"
+    ]
+  },
+  {
+    "line": [
+      "I didn't have time to mark it in the log.",
+      "मुझे लॉग में लिखने का समय नहीं मिला।"
+    ]
+  },
+  {
+    "line": [
+      "Jesus, Croz, I don't think a goddamn navigator in the entire wing",
+      "हे भगवान, क्रॉज़, मुझे नहीं लगता कि पूरे विंग में किसी भी नैविगेटर को"
+    ]
+  },
+  {
+    "line": [
+      "-had time to work the logs. -Yeah, I just want to get it right, okay?",
+      "-लॉग लिखने का समय मिला। -हाँ, मैं बस सही तरीके से काम करना चाहता हूँ, समझे?"
+    ]
+  },
+  { "line": ["I know, Croz.", "जानता हूँ, क्रॉज़।"] },
+  { "line": ["I guess they went down 1100.", "शायद वे 11:00 बजे मारे गए थे।"] },
+  { "line": ["Yeah. Got it. 1100.", "हाँ। ठीक है। 11:00।"] },
+  { "line": ["We're under 600, sir.", "हमारे पास 600 गैलन से भी कम है, सर।"] },
+  {
+    "line": [
+      "Pilot to navigator. We got just under 600 gallons left.",
+      "पायलट, नैविगेटर के लिए। हमारे पास 600 गैलन से थोड़ा कम बचा है।"
+    ]
+  },
+  {
+    "line": [
+      "Can it get us to Africa?",
+      "क्या हम इससे अफ़्रीका तक पहुँच सकते हैं?"
+    ]
+  },
+  {
+    "line": [
+      "No, Major. It looks like we might need more like 750, at present speed.",
+      "नहीं, मेजर। लगता है इस गति में हमें लगभग 750 गैलन चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "We've been leaking fuel since the IP.",
+      "आईपी पहुँचने के बाद से ही ईंधन रीस रहा है।"
+    ]
+  },
+  { "line": ["Roger.", "समझ गया।"] },
+  {
+    "line": [
+      "Lead pilot to crew. We need to stretch our range as much as possible.",
+      "लीड पायलट, दल के लिए। हमें जितना संभव हो सके, हमारे रेंज बढ़ानी होगी।"
+    ]
+  },
+  {
+    "line": [
+      "Dump everything not bolted down. Bombsight, guns, ammo, everything.",
+      "जो भी बोल्ट से न जुड़े हो, सब गिरा दो। बॉम्बसाइट, बंदूकें, गोलियाँ, सब कुछ।"
+    ]
+  },
+  {
+    "line": [
+      "Bombardier to pilot. You say my bombsight?",
+      "बॉम्बार्डियर, पायलट के लिए। आपने मेरी बॉम्बसाइट कहा?"
+    ]
+  },
+  {
+    "line": [
+      "We're over water, Norm. Krauts won't get it.",
+      "हम पानी के ऊपर हैं, नॉर्म। नाज़ियों को वह नहीं मिलेगा।"
+    ]
+  },
+  { "line": ["Let it go.", "उसे फेंक दो।"] },
+  { "line": ["Release the turret.", "टरेट छोड़ दो।"] },
+  {
+    "line": [
+      "Pilot to top turret, how we looking up there?",
+      "पायलट, टॉप टरेट के लिए, ऊपर सब कैसा दिख रहा है?"
+    ]
+  },
+  {
+    "line": [
+      "Pretty ragged, but okay, sir.",
+      "काफ़ी क्षति पहुँची है, पर ठीक है, सर।"
+    ]
+  },
+  {
+    "line": [
+      "Garrison, how are the stragglers looking back there?",
+      "गैरिसन, पीछे क्षतिग्रस्त विमानों का क्या हाल है?"
+    ]
+  },
+  {
+    "line": [
+      "DeMarco's clean. Cleven's dumping now.",
+      "डिमार्को ठीक है। क्लेवेन अभी विमान खाली कर रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "It looks like Van Noy's gonna ditch in the water.",
+      "लगता है वैन नॉय पानी में उतारने वाला है।"
+    ]
+  },
+  { "line": ["Navigator to pilot,", "नैविगेटर, पायलट के लिए,"] },
+  {
+    "line": [
+      "Van Noy ditched smoothly in water. Approximately 350 miles from land.",
+      "वैन नॉय आसानी से पानी में उतर गया है। ज़मीन से लगभग 350 मील दूर।"
+    ]
+  },
+  { "line": ["Roger.", "ठीक है।"] },
+  { "line": ["Is it good?", "क्या वह स्वादिष्ट है?"] },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["Louise…", "लुइज़…"] },
+  { "line": ["Turn around. Turn around.", "पीछे मुड़ो। पीछे मुड़ो।"] },
+  {
+    "line": [
+      "You will not know my name, and you will forget my face. Yes?",
+      "तुम मेरा नाम नहीं जानोगे और मेरा चेहरा भूल जाओगे। समझे?"
+    ]
+  },
+  { "line": ["Yes.", "समझ गया।"] },
+  {
+    "line": [
+      "Do you want to escape back to England?",
+      "क्या तुम वापस इंग्लैंड पहुँचना चाहते हो?"
+    ]
+  },
+  {
+    "line": [
+      "-Yes. -I can help you. But know this,",
+      "-हाँ। -मैं तुम्हारी मदद कर सकता हूँ। पर यह जान लो,"
+    ]
+  },
+  {
+    "line": [
+      "if you turn yourself in to the Germans now,",
+      "अगर तुमने अब जर्मनों के सामने आत्मसमर्पण किया,"
+    ]
+  },
+  {
+    "line": [
+      "you will become a prisoner under the Geneva conventions",
+      "तो तुम जिनीवा कन्वेंशन के तहत कैदी बन जाओगे"
+    ]
+  },
+  {
+    "line": [
+      "and likely you will survive the war.",
+      "और शायद इस युद्ध से ज़िंदा बच निकलोगे।"
+    ]
+  },
+  {
+    "line": [
+      "But if you choose to attempt to escape,",
+      "पर अगर तुमने भागने का फैसला लिया,"
+    ]
+  },
+  {
+    "line": [
+      "you will be treated as a spy if captured, and likely you will be executed.",
+      "तो पकड़े जाने पर, तुम्हें जासूस क़रार दिया जाएगा और शायद मौत की सज़ा दी जाएगी।"
+    ]
+  },
+  { "line": ["Do you understand?", "तुम समझ रहे हो?"] },
+  { "line": ["Yes.", "हाँ।"] },
+  {
+    "line": [
+      "And which do you choose? Surrender? Or escape?",
+      "तो तुम्हारा क्या फैसला है? आत्मसमर्पण? या भागना चाहते हो?"
+    ]
+  },
+  {
+    "line": ["Crank? That it? That Africa?", "क्रैंक? वही है? वही अफ़्रीका है?"]
+  },
+  {
+    "line": [
+      "Yes, it is. Pilot to crew. Africa dead ahead!",
+      "हाँ, वही है। पायलट, दल के लिए। अफ़्रीका बिल्कुल सामने है!"
+    ]
+  },
+  { "line": ["Command, navigator.", "कमांड, नैविगेटर।"] },
+  {
+    "line": [
+      "Croz, are we where we're supposed to be?",
+      "क्रॉज़, क्या हम वहीं हैं जहाँ हमें होना चाहिए?"
+    ]
+  },
+  {
+    "line": [
+      "'Cause if we're not, we're gonna land in that sand.",
+      "क्योंकि अगर नहीं हैं, तो हम उस रेत में उतरेंगे।"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  {
+    "line": [
+      "We should be seeing the base at 184 any minute.",
+      "हमें जल्द ही 184 डिग्री पर बेस दिख जाना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "Croz, we're running on fumes. Are you sure about this?",
+      "क्रॉज़, हमारे पास ईंधन काफ़ी कम है। तुम्हें इस बारे में पक्का यक़ीन है?"
+    ]
+  },
+  {
+    "line": [
+      "I'm telling the truth, gentlemen. As sure as I can read and count.",
+      "मैं सच कह रहा हूँ, सज्जनों। उतने ही यक़ीन से, जितने यक़ीन से पढ़ और गिनती कर सकता हूँ।"
+    ]
+  },
+  { "line": ["Come on.", "चलो भी।"] },
+  { "line": ["Fork in the road here, Croz.", "रास्ते पर दोराहे, क्रॉज़।"] },
+  {
+    "line": [
+      "We could do with the answer to that riddle.",
+      "अब उस पहेली का जवाब दे सकते हो।"
+    ]
+  },
+  {
+    "line": [
+      "The answer to the riddle's 184. Keep your eyes peeled.",
+      "उस पहेली का जवाब है, 184। चौकन्ना रहो।"
+    ]
+  },
+  { "line": ["I think I see it.", "शायद मुझे वह दिख रहा है।"] },
+  { "line": ["Twelve o'clock. And change.", "सामने। हल्का दाएँ।"] },
+  {
+    "line": [
+      "Close enough, Croz. Close enough.",
+      "काफ़ी क़रीब थे, क्रॉज़। काफ़ी क़रीब थे।"
+    ]
+  },
+  {
+    "line": [
+      "-Oh, man. -All right. Nice work.",
+      "-अरे, वाह। -ठीक है। बढ़िया काम किया।"
+    ]
+  },
+  {
+    "line": [
+      "Command pilot to Zootsuit Two, airfield's in sight.",
+      "कमांड पायलट, ज़ूटसूट टू के लिए, एयरफ़ील्ड दिख रही है।"
+    ]
+  },
+  {
+    "line": [
+      "-Pilot to crew, prepare for landing. -To Valhalla, boys.",
+      "-पायलट, दल के लिए, उतरने की तैयारी करो। -वैलहैला के लिए, लड़कों।"
+    ]
+  },
+  {
+    "line": [
+      "Valhalla here we come, fellas.",
+      "हम वैलहैला पहुँच गए हैं, दोस्तों।"
+    ]
+  },
+  { "line": ["Landing gear down.", "लैंडिंग गियर उतारो।"] },
+  {
+    "line": [
+      "Landing gear coming down. Right gear down.",
+      "लैंडिंग गियर उतर रहा है। दायाँ गियर उतर गया है।"
+    ]
+  },
+  {
+    "line": [
+      "Left gear down. Quarter flaps.",
+      "बायाँ गियर उतर गया है। क्वार्टर फ़्लैप।"
+    ]
+  },
+  { "line": ["Well done, boys.", "शाबाश, लड़कों।"] },
+  {
+    "line": [
+      "Hey, Blakely, what was the answer to that riddle?",
+      "ए, ब्लेकली, उस पहेली का जवाब क्या था?"
+    ]
+  },
+  {
+    "line": [
+      "I was hoping you'd tell me.",
+      "मुझे उम्मीद थी कि तुम इसका जवाब दोगे।"
+    ]
+  },
+  {
+    "line": [
+      "Well, pretty sure this ain't Valhalla.",
+      "वैसे, मुझे पक्का यक़ीन है कि यह वैलहैला नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "Well, we made it, boys. Where's the welcoming committee?",
+      "हम पहुँच गए, लड़कों। स्वागत समिति कहाँ है?"
+    ]
+  },
+  {
+    "line": [
+      "God. Welcome to Africa, boys.",
+      "हे भगवान। अफ़्रीका में स्वागत है, लड़कों।"
+    ]
+  },
+  {
+    "line": [
+      "There's the airstrip. Due south.",
+      "वह रहा एयरस्ट्रिप। दक्षिण में।"
+    ]
+  },
+  {
+    "line": [
+      "We're dropping fuel pressure on four. Feathering.",
+      "चौथे में ईंधन का दबाव कम हो रहा है। उसे बंद कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I'm gonna sharpen the turn to the runway.",
+      "मैं रनवे के लिए तेज़ी से मुड़ूँगा।"
+    ]
+  },
+  {
+    "line": [
+      "-Now we're losing engine two. -Feather it.",
+      "-अब हम दूसरा इंजन खो रहे हैं। -उसे बंद कर दो।"
+    ]
+  },
+  { "line": ["All engines feathered.", "सारे इंजन बंद हो गए हैं।"] },
+  { "line": ["That's it. We're a glider now.", "बस। अब हम बस लहरा रहे हैं।"] },
+  {
+    "line": ["Wait. It'll slow us down.", "रुको। उससे हमारी गति धीमी हो जाएगी।"]
+  },
+  { "line": ["-Landing gear now? -Wait.", "-अब लैंडिंग गियर उतारूँ? -रुको।"] },
+  { "line": ["Wait.", "रुको।"] },
+  { "line": ["Now.", "अभी।"] },
+  { "line": ["Right landing gear down.", "दायाँ लैंडिंग गियर उतर गया है।"] },
+  {
+    "line": [
+      "Left down. Flaps at quarter.",
+      "बायाँ उतर गया है। फ़्लैप एक-चौथाई पर हैं।"
+    ]
+  },
+  { "line": ["Better late than never.", "देर आए दुरुस्त आए।"] },
+  {
+    "line": [
+      "Yeah. Let's get that kübelwagen.",
+      "हाँ। चलो वह कूबलवैगन लेकर चलें।"
+    ]
+  },
+  { "line": ["I got you.", "मैंने तुम्हें पकड़ लिया है।"] },
+  { "line": ["You boys okay?", "तुम लोग ठीक हो?"] },
+  { "line": ["-Yeah. -Hey, Norm.", "-हाँ। -ए, नॉर्म।"] },
+  {
+    "line": [
+      "-You all right? -Pull the med kits off the plane.",
+      "-तुम ठीक हो? -विमान से मेडिकल किट उतारो।"
+    ]
+  },
+  {
+    "line": [
+      "-Let's get these guys in the wagon. -Guys, I'm fine.",
+      "-चलो इन लोगों को गाड़ी में बिठाएँ। -दोस्तों, मैं ठीक हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "-Get him on the wagon. Listen to Kidd. -Up.",
+      "-इसे गाड़ी में बिठाओ। किड की बात सुनो। -उठाओ।"
+    ]
+  },
+  {
+    "line": [
+      "-Look after him, all right? -I got him.",
+      "-उसकी देखभाल करना, ठीक है? -मैंने संभाल लिया है।"
+    ]
+  },
+  {
+    "line": [
+      "-Major, I got him. -You got him?",
+      "-मेजर, मैंने इसे संभाल लिया है। -पक्का?"
+    ]
+  },
+  { "line": ["Come on.", "चलो।"] },
+  {
+    "line": [
+      "I don't know how you flew that thing all the way to Africa,",
+      "पता नहीं तुम इस चीज़ को कैसे उड़ाकर अफ़्रीका तक ले आए,"
+    ]
+  },
+  {
+    "line": ["but you couldn't make the runway.", "पर रनवे तक नहीं पहुँच पाए।"]
+  },
+  { "line": ["It's right there.", "वह बिल्कुल वहीं है।"] },
+  {
+    "line": [
+      "All right. Watch it, watch it, watch it.",
+      "ठीक है। संभलकर, संभलकर, संभलकर।"
+    ]
+  },
+  { "line": ["Oh, boy.", "अरे, नहीं।"] },
+  {
+    "line": [
+      "-Who is it? -Norman Smith. Radio operator.",
+      "-वह कौन है? -नॉर्मन स्मिथ। रेडियो ऑपरेटर।"
+    ]
+  },
+  { "line": ["I lost four forts.", "मैंने चार फ़ोर्ट खो दिए।"] },
+  { "line": ["I know.", "जानता हूँ।"] },
+  {
+    "line": [
+      "-How many of us made it? -Eleven out of 21.",
+      "-हम में से कितने बच निकले? -इक्कीस में से 11।"
+    ]
+  },
+  {
+    "line": ["What about Claytor? Any chutes?", "क्लेटर का क्या? कोई पैराशूट?"]
+  },
+  { "line": ["I didn't see any.", "मुझे कोई पैराशूट नहीं दिखा।"] },
+  { "line": ["Yeah. And Curt?", "हाँ। और कर्ट?"] },
+  { "line": ["I don't know.", "पता नहीं।"] },
+  { "line": ["Yeah, well, knowing Biddick,", "हाँ, बिडिक जैसा है,"] },
+  {
+    "line": [
+      "he's probably sipping on a bottle of schnapps right about now.",
+      "शायद वह अभी श्नाप्स की बोतल से चुस्की ले रहा होगा।"
+    ]
+  },
+  {
+    "line": [
+      "We're gonna get through this. Come on. Don't you stop believing that.",
+      "हम इससे ज़रूर उबरेंगे। चलो। इस पर विश्वास करना बंद मत करो।"
+    ]
+  },
+  { "line": ["Sure, Bucky.", "ज़रूर, बकी।"] },
+  {
+    "line": [
+      "She's your guide, and you will do what she says.",
+      "अगली बार 'मास्टर्स ऑफ़ दी एयर' में वह तुम्हारी गाइड है और तुम वही करोगे जो वह कहेगी।"
+    ]
+  },
+  {
+    "line": [
+      "Get your things, boys. We're going home.",
+      "अपना सामान समेटो, लड़कों। हम घर लौट रहे हैं।"
+    ]
+  },
+  { "line": ["All these are new faces…", "ये सारे नए चेहरे…"] },
+  { "line": ["Major Egan. Major Cleven.", "मेजर इगन। मेजर क्लेवेन।"] },
+  {
+    "line": [
+      "Think you might be the last pretty face I ever see.",
+      "शायद तुम्हारा चेहरा ही आख़िरी सुंदर चेहरा है जो मैं कभी देखूँगा।"
+    ]
+  },
+  {
+    "line": [
+      "Feels like we're actually gonna do something.",
+      "लगता है कि हम सच में कुछ करने वाले हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah, you'll do something, all right.",
+      "हाँ, तुम ज़रूर कुछ न कुछ करोगे।"
+    ]
+  },
+  {
+    "line": [
+      "To the fellas who aren't here tonight, who should've been.",
+      "उन सैनिकों के नाम जो आज रात को यहाँ मौजूद नहीं हैं, जिन्हें मौजूद होना चाहिए था।"
+    ]
+  },
+  {
+    "line": [
+      "German. They have tried many ways to infiltrate our network.",
+      "जर्मन। उन्होंने हमारे नेटवर्क में घुसपैठ करने के कई तरीके आज़माए हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We go down, they won't remember us either. Like we never existed, Buck.",
+      "अगर हम मारे गए, वे हमें भी याद नहीं रखेंगे। मानो हमारा कोई वजूद ही नहीं था, बक।"
+    ]
+  },
+  {
+    "line": [
+      "What happened to Baby Face? Is he dead?",
+      "बेबी फ़ेस का क्या हुआ? क्या वह मर चुका है?"
+    ]
+  }
+]

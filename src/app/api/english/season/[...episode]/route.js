@@ -3,6 +3,11 @@ import reacherS02e01 from "@/json/english/season/reacher/s02e01.json";
 import reacherS02e02 from "@/json/english/season/reacher/s02e02.json";
 import reacherS02e03 from "@/json/english/season/reacher/s02e03.json";
 import reacherS02e04 from "@/json/english/season/reacher/s02e04.json";
+
+import MastersOfTheAirs01e01 from "@/json/english/season/masters-of-the-air/S01E01.json";
+import MastersOfTheAirs01e02 from "@/json/english/season/masters-of-the-air/S01E02.json";
+import MastersOfTheAirs01e03 from "@/json/english/season/masters-of-the-air/S01E03.json";
+
 import criminalRecordS01e01 from "@/json/english/season/criminal-record/s01e01.json";
 import criminalRecordS01e02 from "@/json/english/season/criminal-record/s01e01.json";
 import siloS01E01 from "@/json/english/season/silo/S01E01.json";
@@ -21,6 +26,12 @@ export async function GET(request, {episode}) {
     return Response.json(reacherS02e03);
   } else if(request.nextUrl.pathname === "/api/english/season/reacher/s02e04"){
     return Response.json(reacherS02e04);
+  } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E01"){
+    return Response.json(MastersOfTheAirs01e01);
+  } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E02"){
+    return Response.json(MastersOfTheAirs01e02);
+  } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E03"){
+    return Response.json(MastersOfTheAirs01e03);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e01"){
     return Response.json(criminalRecordS01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e02"){
