@@ -33,6 +33,8 @@ export default function Home() {
           </header>
           <ul>
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014"><span className='season-name'>The Fault In Our Stars</span> 2014</Link></li>
+            <li><Link href="/english/movie/orion-and-the-dark-2024"><span className='season-name'>Orion and the dark</span> 2024</Link></li>
+            
           </ul>
           <ul>
           
