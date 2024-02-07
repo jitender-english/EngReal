@@ -63,10 +63,11 @@ export default function Home() {
             <p className='ffSeg fs14'>Learn hindi to english writing by Hindi movie and season</p>
           </header>        
           <ul>
+            <li><Link href="/hindi/movie/Afwaah-2023"><span className='season-name'>Afwaah</span> 2023</Link></li>
             <li><Link href="/hindi/movie/starfish-2023"><span className='season-name'>Starfish</span> 2023</Link></li>
             <li><Link href="/hindi/movie/shastry-virudh-shastry-2023"><span className='season-name'>Shastry Virudh Shastry</span> 2023</Link></li>
             <li><Link href="/hindi/movie/tiger-3-2023"><span className='season-name'>Tiger 3</span> 2023</Link></li>
-            <li><Link href="/hindi/movie/Mission-Raniganj-2023"><span className='season-name'>Mission Raniganj</span> 2023</Link></li>
+            <li><Link href="/hindi/movie/Mission-Raniganj-2023"><span className='season-name'>Mission Raniganj</span> 2023</Link></li>            
           </ul>
         </div>
       </main>
