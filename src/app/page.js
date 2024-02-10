@@ -32,7 +32,7 @@ export default function Home() {
             <p className='ffSeg fs14'>Learn english listening and speaking by english movie and season</p>
           </header>
           <ul>
-            <li><Link href="/english/movie/Upgraded-2024"><span className='season-name'>Upgraded</span> 2024</Link></li>
+            <li><Link href="/english/movie/upgraded-2024"><span className='season-name'>Upgraded</span> 2024</Link></li>
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014"><span className='season-name'>The Fault In Our Stars</span> 2014</Link></li>
             <li><Link href="/english/movie/orion-and-the-dark-2024"><span className='season-name'>Orion and the dark</span> 2024</Link></li>            
           </ul>

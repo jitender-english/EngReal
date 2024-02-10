@@ -2,7 +2,7 @@
 
 import TheFaultInOurStars2014 from "@/json/english/movie/The-Fault-In-Our-Stars-2014.json";
 import orionAndTheDark2024 from "@/json/english/movie/orion-and-the-dark-2024.json";
-import Upgraded2024 from "@/json/english/movie/Upgraded-2024.json";
+import Upgraded2024 from "@/json/english/movie/upgraded-2024.json";
 
 
 export async function GET(request, {episode}) {
@@ -13,7 +13,7 @@ export async function GET(request, {episode}) {
     return Response.json(TheFaultInOurStars2014);
   } else if(request.nextUrl.pathname === "/api/english/movie/orion-and-the-dark-2024"){
     return Response.json(orionAndTheDark2024);
-  } else if(request.nextUrl.pathname === "/api/english/movie/Upgraded-2024"){
+  } else if(request.nextUrl.pathname === "/api/english/movie/upgraded-2024"){
     return Response.json(Upgraded2024);
   }
 
