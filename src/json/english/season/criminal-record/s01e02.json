@@ -1,0 +1,2533 @@
+[
+  { "line": ["डीएस लेंकर से यूनिट वी7 को।", "Unit V7 from DS Lenker."] },
+  {
+    "line": [
+      "मैं हैथरवे फ़्लैट्स, नौवें माले में प्रवेश कर रही हूँ।",
+      "I'm entering Hatherway Flats, ninth story."
+    ]
+  },
+  {
+    "line": [
+      "मैं फ़्लैट 942 की ओर जा रही हूँ, संदिग्ध अभी पकड़ा नहीं गया है।",
+      "I'm headed to flat 942, suspect at large."
+    ]
+  },
+  {
+    "line": [
+      "- डीएस लेंकर, यूनिट सात से, सूचना मिल गई। - अंदर जाओ।",
+      "- DS Lenker, from Unit 7, received. - Inside."
+    ]
+  },
+  {
+    "line": [
+      "हम आ रहे हैं। तीन मिनटों में पहुँचेंगे।",
+      "We're on our way. ETA three minutes."
+    ]
+  },
+  { "line": ["कृपया सावधानी से आगे बढ़ो।", "Please proceed with caution."] },
+  { "line": ["पुलिस!", "Police!"] },
+  {
+    "line": [
+      "- फ़्लैट में प्रवेश कर रही हूँ। - ठीक है। हम दो मिनट दूर हैं।",
+      "- Entering flat. - Copy that. Two minutes away."
+    ]
+  },
+  { "line": ["पुलिस को बुलाओ।", "Call the police."] },
+  { "line": ["नहीं, रुको!", "No, stop!"] },
+  { "line": ["पुलिस!", "Police!"] },
+  { "line": ["रुको!", "Stop!"] },
+  { "line": ["नहीं।", "No."] },
+  { "line": ["यही है।", "That's him."] },
+  { "line": ["'क्लाइव सिलकॉक्स।'", "'Clive Silcox.'"] },
+  { "line": ["सौ प्रतिशत वही है।", "One hundred percent that's him."] },
+  {
+    "line": [
+      "वह डेटाबेस में है, उसके पिछले अपराध क्या हैं?",
+      "He's on the database, what's his previous?"
+    ]
+  },
+  {
+    "line": [
+      "मार-पिटाई के कुछ मामले, घरेलू हिंसा,",
+      "Sundry assault claims, domestic assault,"
+    ]
+  },
+  {
+    "line": [
+      "एक निषिद्ध संगठन की सदस्यता।",
+      "membership of a proscribed organization."
+    ]
+  },
+  {
+    "line": [
+      "और किसी दक्षिणपंथी दल, शायद किसी लड़ाकू दल की सदस्यता भी।",
+      "And some far right outfit, I think combat league."
+    ]
+  },
+  {
+    "line": [
+      "हाँ, ऐसा कुछ नहीं जिससे सज़ा हो।",
+      "Yeah, nothing that led to a conviction."
+    ]
+  },
+  {
+    "line": [
+      "यह अपराध कब हुए थे? हमलों के दावे?",
+      "How far back do they go? The assault claims?"
+    ]
+  },
+  { "line": ["अगस्त 2009 में।", "August 2009."] },
+  {
+    "line": [
+      "पुलिस को माइकल्स स्ट्रीट पर उपद्रव की सूचना मिली थी।",
+      "Police called to a disturbance on Michaels Street."
+    ]
+  },
+  {
+    "line": [
+      "माइकल्स स्ट्रीट। वह स्थानीय निवासी है।",
+      "Michaels Street. He's local."
+    ]
+  },
+  {
+    "line": [
+      "क्यों? तुम्हें इसमें क्यों दिलचस्पी है?",
+      "Why? What's your interest?"
+    ]
+  },
+  { "line": ["पीड़ित, मरिया डी सूज़ा।", "The victim, Maria De Souza."] },
+  {
+    "line": [
+      "मेरा मानना है कि वह वही हेज़ लेन वाली कॉलर है। मंगलवार रात वाली।",
+      "I believe she was my Hayes Lane caller. Tuesday night."
+    ]
+  },
+  { "line": ["गुमनाम 999?", "The anonymous 999?"] },
+  { "line": ["जी, सर।", "Yes, sir."] },
+  {
+    "line": [
+      "हिंसक बॉयफ्रेंड, जिसने एडालेइड बरौज़ की हत्या का दावा किया था।",
+      "Violent boyfriend, implying he killed Adelaide Burrowes."
+    ]
+  },
+  {
+    "line": [
+      "मैंने मदद माँगी थी, आपको याद है?",
+      "I asked for extra support, do you remember?"
+    ]
+  },
+  { "line": ["- जून... - और अब...", "- June-- - And now..."] },
+  {
+    "line": [
+      "उसके पड़ोसी, सहकर्मी, पूर्व-पार्टनर हो सकते हैं।",
+      "He could have neighbors, friends from work, ex-partners."
+    ]
+  },
+  {
+    "line": [
+      "- अगर उसने अतीत में धमकियाँ दी थीं... - देखो...",
+      "- If he has a history of coercion-- - Look--"
+    ]
+  },
+  { "line": ["नहीं, मैंने उसे लगभग पकड़ ही लिया था।", "No, I had him."] },
+  { "line": ["तुमने अपनी पूरी कोशिश की।", "You did your best."] },
+  { "line": ["मुख्य बात यह है कि तुम ठीक हो।", "Main thing is you're okay."] },
+  { "line": ["बस यही मायने रखता है।", "That's what matters."] },
+  {
+    "line": [
+      "मेरी बात सुनो, अगर हत्या के इस दूसरे मामले के दावे में कुछ सच्चाई है,",
+      "Well, I'll tell you what, if there is anything in this other murder,"
+    ]
+  },
+  { "line": ["एडालेइड बरौज़ के...", "Adelaide Burrowes..."] },
+  { "line": ["तो हम जाँच करेंगे।", "we will investigate."] },
+  { "line": ["मैं वादा करता हूँ।", "Got my word on that."] },
+  { "line": ["हम कोई कसर नहीं छोड़ेंगे।", "We'll spare nobody's blushes."] },
+  { "line": ["वे जितने ऊँचे होते हैं...", "Bigger they are..."] },
+  {
+    "line": [
+      "किम। मैं तुम्हारी क्या मदद कर सकता हूँ?",
+      "Kim. What can I do you for?"
+    ]
+  },
+  { "line": ["...उतनी ही ज़ोर से गिरते हैं।", "...harder they fall."] },
+  {
+    "line": [
+      "ब्राय। मैंने सुना कि तुम्हारे समुदाय में एक हत्या हुई है।",
+      "Bri. I hear you have a murder in your parish."
+    ]
+  },
+  { "line": ["माफ़ करना। हैलो, माफ़ करना।", "Excuse me. Hi, excuse me."] },
+  {
+    "line": [
+      "मैं जून लेंकर को ढूँढ रहा हूँ।",
+      "I'm looking for someone called June Lenker."
+    ]
+  },
+  {
+    "line": [
+      "- उसे कुछ समय पहले यहाँ लाया गया था। - धत्।",
+      "- She was bought in here quite a while ago. - Fuck."
+    ]
+  },
+  { "line": ["वहाँ।", "Over there."] },
+  { "line": ["ठीक है, अलविदा।", "Okay, bye-bye."] },
+  { "line": ["- हैलो। - हैलो।", "- Hi. - Hiya."] },
+  { "line": ["- तुम ठीक हो? - हाँ।", "- You okay? - Yeah."] },
+  { "line": ["- पक्का? - हाँ।", "- You sure? - Yeah."] },
+  { "line": ["यहाँ आओ।", "Come."] },
+  {
+    "line": [
+      "उन्होंने तुम्हारे कपड़ों का क्या किया?",
+      "What have they done with your clothes?"
+    ]
+  },
+  {
+    "line": [
+      "वे उन्हें ले गए। बस... सबूत और फ़ाइबर और डीएनए की जाँच के लिए...",
+      "Well, they've taken them. It's just for-- It's for evidence and fibers and DNA--"
+    ]
+  },
+  {
+    "line": ["- यह सामान्य प्रक्रिया है। - ठीक है।", "- It's normal. - Okay."]
+  },
+  {
+    "line": [
+      "सामान्य? सामान्य। यहाँ कुछ भी सामान्य नहीं हुआ...",
+      "Normal? Normal. There's nothing normal about this--"
+    ]
+  },
+  {
+    "line": [
+      "लियो, सब ठीक है। बस... बस कुछ खरोंचें आई हैं।",
+      "Leo, it's all right. It's just-- It's all cuts and bruises."
+    ]
+  },
+  {
+    "line": [
+      "माफ़ करना, पता नहीं मुझे क्या हुआ है।",
+      "Sorry, I don't know what's wrong with me."
+    ]
+  },
+  {
+    "line": [
+      "नहीं, कोई बात नहीं। बस... बस एक सेकंड रुको, ठीक है?",
+      "No, it's okay. Just wait-- wait a second, okay?"
+    ]
+  },
+  {
+    "line": ["माफ़ करना। माफ़ करना। माफ़ करना।", "Excuse me. Sorry. Excuse me."]
+  },
+  { "line": ["कोई बात नहीं, जान।", "It's all right, baby."] },
+  {
+    "line": [
+      "आज कोई डॉक्टर यहाँ काम पर है?",
+      "Are there any doctors working here today?"
+    ]
+  },
+  {
+    "line": [
+      "क्या... क्योंकि मेरी पत्नी, वह एक पुलिस ऑफ़िसर है और उस पर हमला हुआ है।",
+      "Are there-- 'Cause my wife, she's a police officer and she's been assaulted."
+    ]
+  },
+  { "line": ["लियो।", "Leo."] },
+  {
+    "line": [
+      "लियो, उन्होंने पुष्टि कर दी है कि मुझे कोई ख़तरा नहीं है।",
+      "Leo, they've already given me the all-clear."
+    ]
+  },
+  {
+    "line": [
+      "मैं बस कंसलटेंट से छुट्टी मिलने का इंतज़ार कर रही हूँ।",
+      "I'm just waiting for the consultant to sign me out."
+    ]
+  },
+  {
+    "line": [
+      "हाँ। ठीक है। डॉक्टर को उसकी जाँच करनी होगी।",
+      "Yeah. Okay. She needs to see a doctor."
+    ]
+  },
+  { "line": ["- समझी? - ठीक है।", "- Okay? - Okay."] },
+  {
+    "line": [
+      "- तो, कृपया क्या वह अब उसकी जाँच करेंगे? - हाँ, एक सेकंड।",
+      "- So, can she see him now, please? - Yes, one second."
+    ]
+  },
+  { "line": ["धन्यवाद।", "Thank you."] },
+  { "line": ["सब ठीक है।", "It's okay."] },
+  { "line": ["सब ठीक है।", "It's okay."] },
+  { "line": ["जान, तुम क्या कर रहे हो?", "Babe, what are you doing?"] },
+  { "line": ["कुछ नहीं।", "Nothing."] },
+  {
+    "line": [
+      "क्या यह वही है जो मैं सोच रही हूँ?",
+      "Is that what I think it is?"
+    ]
+  },
+  {
+    "line": [
+      "- क्या तुम सोशल मीडिया पर पोस्ट कर रहे हो? - नहीं।",
+      "- Are you posting that on your socials? - No."
+    ]
+  },
+  {
+    "line": [
+      "हे भगवान, तुम कर रहे हो। मुझे देखने दो।",
+      "Oh, my God, you are. Let me see."
+    ]
+  },
+  { "line": ["- चलिए भी, माँ। - वाह।", "- Come on, Mum. - Wow."] },
+  {
+    "line": [
+      "जेकब। मेरा मतलब, तुम... तुम कितने साल के हो?",
+      "Jacob. I mean, you're-- What?"
+    ]
+  },
+  {
+    "line": [
+      "तुम सच में... तुम अपनी माँ की चोटों से ध्यान आकर्षित कर रहे हो।",
+      "You're literally-- You're fetishizing your mum's injuries."
+    ]
+  },
+  {
+    "line": [
+      "उम्मीद है कि तुम्हारे डैड तुम्हें फॉलो नहीं कर रहे हैं।",
+      "I hope your dad's not following you."
+    ]
+  },
+  {
+    "line": ["नहीं, मैंने उन्हें ब्लॉक कर दिया है।", "No way, I blocked him."]
+  },
+  {
+    "line": [
+      "पर, मुझे 13 लाइक मिले हैं और वे बढ़ भी रहे हैं। क्या यह अच्छी बात है?",
+      "Although, I got 13 likes and rising. Is that good?"
+    ]
+  },
+  {
+    "line": [
+      "आप 80 साल की बूढ़ी महिला जैसी बात कर रही हैं।",
+      "You sound about 80 years old."
+    ]
+  },
+  {
+    "line": [
+      "किसी ने अभी-अभी मुझे शानदार बोला।",
+      "Someone just called me a badass."
+    ]
+  },
+  {
+    "line": [
+      "'शानदार' सुनकर ख़ुशी हुई।",
+      "I can actually live with that, 'badass.'"
+    ]
+  },
+  { "line": ["माफ़ करना।", "Sorry."] },
+  {
+    "line": [
+      "क्या इसी से तुम्हें मुझ पर गर्व होता है?",
+      "Is this what it takes for you to be proud of me?"
+    ]
+  },
+  { "line": ["यह वही है।", "This is him."] },
+  { "line": ["क्लाइव सिलकॉक्स।", "Clive Silcox."] },
+  { "line": ["यह वही है, क्लाइव सिलकॉक्स।", "This is him, Clive Silcox."] },
+  {
+    "line": [
+      "तो, कोई भी जिसका इसके साथ संपर्क रहा हो।",
+      "So, anyone that might have come across him."
+    ]
+  },
+  {
+    "line": ["पूर्व-प्रेमिका, बहन, परिवार।", "Ex-girlfriend, sister, family."]
+  },
+  { "line": ["किसी भी जानकारी से मदद होगी।", "Anything could help."] },
+  { "line": ["और यह मेरा फ़ोन नंबर है।", "And this is my direct line."] },
+  { "line": ["यह मेरा नया नंबर है।", "This is my new number."] },
+  {
+    "line": [
+      "धन्यवाद, जानेमन। इसकी बेहद ज़रूरत थी।",
+      "Thanks, babe. Lifesaver."
+    ]
+  },
+  { "line": ["सफ़ेद, एक चीनी?", "White, one sugar?"] },
+  {
+    "line": [
+      "दरअसल, दो। पुरानी आदत उभर रही है।",
+      "Two, actually. I'm slipping."
+    ]
+  },
+  {
+    "line": [
+      "नहीं, कोई बात नहीं। विश्वास नहीं होता कि तुम अभी भी रात की पारी में हो।",
+      "No, it's fine. Can't believe you're still on nights."
+    ]
+  },
+  { "line": ["आदत पड़ जाती है।", "You get used to it."] },
+  {
+    "line": [
+      "मैं यहाँ अपने लिए नहीं आई हूँ। काम के सिलसिले में आई हूँ।",
+      "I'm not here for me. It's just work."
+    ]
+  },
+  { "line": ["इसकी काफ़ी कम संभावना है,", "It's a long shot,"] },
+  {
+    "line": [
+      "पर मैं इस आदमी का पता लगाने की कोशिश कर रही हूँ। क्लाइव सिलकॉक्स।",
+      "but I'm trying to trace this man. Clive Silcox."
+    ]
+  },
+  { "line": ["मैं पूछताछ करूँगी।", "I'll ask around."] },
+  { "line": ["जून, हैथरवे टावर्स में", "June, there's been a development"] },
+  {
+    "line": [
+      "एक घटना घटी है। माफ़ करना। बस मुझे फ़ोन करना।",
+      "with Hatherway Towers. I'm sorry. Just give us a call."
+    ]
+  },
+  {
+    "line": ["माफ़ करना, माफ़ करना। माफ़ करना।", "Sorry, excuse me. Excuse me."]
+  },
+  {
+    "line": [
+      "सर। आप जानते हैं कि मैं घटना स्थल पर सबसे पहले पहुँची थी?",
+      "Sir. You know I was first responder on the scene?"
+    ]
+  },
+  { "line": ["आगे की कहानी मैं बताता हूँ।", "Let me stop you right there."] },
+  {
+    "line": [
+      "हमें पता चला कि इस आदमी, सिलकॉक्स पर",
+      "As it turns out, this man, Silcox,"
+    ]
+  },
+  {
+    "line": [
+      "पहले से किसी चीज़ की जाँच चल रही थी।",
+      "is already the subject of a live investigation."
+    ]
+  },
+  { "line": ["सच में?", "Really?"] },
+  {
+    "line": [
+      "हाँ। ज़ाहिर तौर पर, पिछले अक्टूबर में काम से घर लौटते समय एक युवती पर हमला हुआ था।",
+      "Yes. Apparently, a young woman assaulted on her way home from work last October."
+    ]
+  },
+  {
+    "line": [
+      "टी एंड सी को लगा कि हत्या का यह मामला पहले से जाँच कर रही टीम को सौंपा जाए।",
+      "T and C came to the view it was better to fold this murder into the existing team."
+    ]
+  },
+  { "line": ["आपने उसे ढूँढ लिया?", "Have you found him yet?"] },
+  {
+    "line": [
+      "अगर कोई भी सवाल हो, तो मेरी सहकर्मी, डीआई गियरिंग से पूछो।",
+      "Any questions I would refer you to my colleague, DI Gearing."
+    ]
+  },
+  {
+    "line": [
+      "वही मुख्य जाँचकर्ता है, मैं बस दिखावे के लिए हूँ।",
+      "She's the organ grinder, I'm just a bit of window dressing."
+    ]
+  },
+  { "line": ["रुकिए, तो...", "Wait, so sh--"] },
+  {
+    "line": [
+      "क्या वह अब भी यही सोचती है कि वह यहाँ है?",
+      "Does she still think he's here?"
+    ]
+  },
+  {
+    "line": ["तुम्हें गंभीर चोटें लगी हैं।", "I don't like the look of that."]
+  },
+  {
+    "line": [
+      "सर, मरने से पहले, पीड़ित, मरिया ने",
+      "Sir, before she died, the victim, Maria,"
+    ]
+  },
+  {
+    "line": [
+      "आपातकालीन हैंडलर को हेज़ लेन कॉलर के रूप में अपना परिचय दिया था।",
+      "she identified herself to the emergency handler as the Hayes Lane caller."
+    ]
+  },
+  {
+    "line": [
+      "- हेज़ लेन कॉलर? - वह गुमनाम कॉल जिसके बारे में...",
+      "- The Hayes Lane caller? - The anonymous call that I--"
+    ]
+  },
+  {
+    "line": [
+      "- जिसके बारे में मैंने आपको बुधवार को बताया था। - अरे, हाँ।",
+      "- I brought to you on Wednesday. - Oh, yeah."
+    ]
+  },
+  {
+    "line": [
+      "तो, अगर आप संदिग्ध को पकड़ने में सफल हुए,",
+      "So, if you manage to apprehend the suspect,"
+    ]
+  },
+  {
+    "line": [
+      "तो मैं आपसे उन आरोपों के संबंध में उससे पूछताछ करने की अनुमति चाहूँगी।",
+      "I would like your permission to interview him regarding those allegations."
+    ]
+  },
+  {
+    "line": [
+      "- आरोप? - एडालेइड बरौज़ की हत्या का आरोप।",
+      "- Allegations? - The murder of Adelaide Burrowes."
+    ]
+  },
+  {
+    "line": [
+      "दो कॉल, वही महिला। यही तुम्हारा सिद्धांत है?",
+      "Two calls, same woman. That's your hypothesis?"
+    ]
+  },
+  {
+    "line": [
+      "- हाँ। - यह बेहद सुविधाजनक है।",
+      "- It is. - That's very, very neat."
+    ]
+  },
+  {
+    "line": [
+      "नहीं। मरिया डी सूज़ा, उसने कॉल हैंडलर से कहा था, 'हमने पहले बात की थी...'",
+      "No. Maria De Souza, she told the call handler, 'We talked before--'"
+    ]
+  },
+  {
+    "line": [
+      "हाँ, हमने पहले बात की थी। पहले बात की थी। कहाँ नहीं बताया। कब नहीं बताया।",
+      "Yeah, we talked before. Talked before. Didn't say where. Didn't say when."
+    ]
+  },
+  {
+    "line": [
+      "हम इस संभावना को ख़ारिज नहीं कर सकते।",
+      "Well, we can't just rule it out."
+    ]
+  },
+  {
+    "line": [
+      "मेरा मतलब, इन महिलाओं में शारीरिक समानताएँ हैं।",
+      "I mean, there are physical similarities between these women."
+    ]
+  },
+  {
+    "line": [
+      "वे समान आकार की हैं। दोनों लातिनी अमरीकी हैं।",
+      "They have a similar build. They are both Hispanic."
+    ]
+  },
+  { "line": ["उनकी आवाज़ें एक जैसी हैं।", "They sound the same."] },
+  {
+    "line": [
+      "मुझे बताया गया कि तुमने उसे मरते देखा था।",
+      "I was told you saw her come off."
+    ]
+  },
+  { "line": ["हाँ।", "Yeah."] },
+  {
+    "line": [
+      "मैं तुम्हें नीचा नहीं दिखाना चाहता,",
+      "Well, I don't wanna talk down to you,"
+    ]
+  },
+  {
+    "line": [
+      "पर मैंने कॉल रिकॉर्डिंग सुनी और जो तुमने कहा था, समझी?",
+      "but I heard a playback of the call and what you said, okay?"
+    ]
+  },
+  {
+    "line": [
+      "उसकी ज़िंदगी के आख़िरी पलों में जो सलाह तुमने उसे दी थी।",
+      "Advice you gave in the last moments of her life."
+    ]
+  },
+  { "line": ["वह बिल्कुल सही सलाह थी।", "That was spot on."] },
+  { "line": ["तुम मदद के लिए सामने आई।", "You stood up."] },
+  { "line": ["तुम उसके साथ थी।", "You were with her."] },
+  { "line": ["वह वही कॉलर है।", "She's the caller."] },
+  {
+    "line": [
+      "- ठीक है। - वही हेज़ लेन कॉलर है।",
+      "- Okay. - She's the Hayes Lane caller."
+    ]
+  },
+  {
+    "line": [
+      "- और इसकी अच्छी संभावना है कि... - तुम वही देखती हो जो देखना चाहती हो।",
+      "- And there is a good chance-- - You see what you want to see."
+    ]
+  },
+  { "line": ["हम सभी यह करते हैं।", "We all do it."] },
+  {
+    "line": [
+      "मैं बस उससे पूछताछ करना चाहती हूँ।",
+      "I just wanna interview the man."
+    ]
+  },
+  {
+    "line": [
+      "तुम और मैं दोनों, डिटेक्टिव सार्जेंट। दुर्भाग्यवश, हम उसे ढूँढ ही नहीं पा रहे हैं।",
+      "You and me both, Detective Sergeant. Alas, he is nowhere to be found."
+    ]
+  },
+  { "line": ["दस घंटे हो चुके हैं।", "It's been 10 hours."] },
+  { "line": ["आप समय बर्बाद कर रहे हैं।", "You are wasting time."] },
+  {
+    "line": [
+      "मैं यह मान लूँगा कि तुमने दिमाग़ी चोट की वजह से ऐसा कहा।",
+      "I'm gonna put that down to the bump on your head."
+    ]
+  },
+  { "line": ["मैं ठीक हूँ।", "I'm fine."] },
+  {
+    "line": [
+      "नहीं। तुम एक हमले का शिकार थी।",
+      "No. You were the victim of an assault."
+    ]
+  },
+  {
+    "line": [
+      "- आपको क्यों लगता है कि वह अब भी यहीं है? - यह गंभीर मामला है।",
+      "- What makes you think he's still here? - It's not a hangover."
+    ]
+  },
+  {
+    "line": [
+      "आप समय और संसाधन बर्बाद कर रहे हैं।",
+      "You're wasting time, wasting resources."
+    ]
+  },
+  {
+    "line": [
+      "- आपको अभी उसे ढूँढना चाहिए। - घर जाओ। थोड़ा सो लो।",
+      "- You should be out there looking. - Go home. Get some sleep."
+    ]
+  },
+  { "line": ["हम दोनों एक ही पक्ष में हैं।", "We're on the same side here."] },
+  {
+    "line": [
+      "सुनो। काफ़ी समय पहले उसकी एक गर्लफ्रेंड थी।",
+      "Listen. He had a girlfriend a long time ago."
+    ]
+  },
+  { "line": ["मेरी ही तरह।", "Same like me."] },
+  {
+    "line": [
+      "उसने कहा, 'बेवकूफ़ कमीनी। कभी नहीं सुनती थी।'",
+      "He said, 'Dumb bitch. Never listen.'"
+    ]
+  },
+  {
+    "line": [
+      "वह कभी उसे ख़ुश नहीं रखती थी।",
+      "Never keep him, you know, happy."
+    ]
+  },
+  {
+    "line": [
+      "- तुम मुझे अपना नाम बता सकती हो? - मरिया।",
+      "- Can you tell me your name? - Maria."
+    ]
+  },
+  { "line": ["मरिया। ठीक है, मरिया।", "Maria. All right, Maria."] },
+  {
+    "line": [
+      "मैंने तुम्हें फ़ोन किया था। तुमसे पहले भी बात की थी।",
+      "I call you. I talk to you before."
+    ]
+  },
+  { "line": ["हाँ, मुझे याद है।", "Yeah, I remember."] },
+  {
+    "line": [
+      "मेरे बॉयफ़्रेंड ने उसे उसी चाकू से कई बार घोंपा जिससे मुझ पर हमला किया।",
+      "He stabbed her many, many times with the same knife he put in me."
+    ]
+  },
+  {
+    "line": [
+      "जेल में एक आदमी है जो उसकी हत्या के लिए 24 साल की सज़ा काट रहा है।",
+      "There's a man in prison doing 24 years for killing her."
+    ]
+  },
+  {
+    "line": [
+      "और वह कहता रहता है कि यह आदमी जो वाइटक्रॉस में है...",
+      "And he keeps saying this guy in Whitecross..."
+    ]
+  },
+  {
+    "line": [
+      "उसने कहा कि वह इतना बेवकूफ़ है और...",
+      "He says he's such a loser and a--"
+    ]
+  },
+  { "line": ["बेवक़ूफ़ कमीनी कहीं की।", "You dumb, stupid bitch."] },
+  {
+    "line": [
+      "- कहो कि तुम मेरी बात समझ रही हो। - समझ गई।",
+      "- Tell me you understand. - I understand."
+    ]
+  },
+  {
+    "line": [
+      "- उसे... -'वह बेवक़ूफ़ कमीनी। कभी सुनती नहीं थी।'",
+      "- Get her-- - 'That dumb bitch. Never listen.'"
+    ]
+  },
+  {
+    "line": ["कभी उसे ख़ुश नहीं रखती थी।", "Never keep him, you know, happy."]
+  },
+  {
+    "line": [
+      "तो, तुमने नैशनल डेटाबेस में गाड़ियों के नंबरों की जो खोज की थीं, हमने उसकी सूची बनाई है।",
+      "So, we've made a log of your vehicle searches on the national database."
+    ]
+  },
+  {
+    "line": [
+      "जैसा कि तुम देख सकती हो, इनके विरुद्ध कोई केस नंबर नहीं हैं। कोई अपराध जुड़ा नहीं है।",
+      "As you see, there's no case number for any of these. No attributable crime."
+    ]
+  },
+  {
+    "line": [
+      "तो, हम चाहेंगे कि तुम गाड़ियों के नंबरों से संबंधित",
+      "So, what we need you to do is to go back through each of these searches"
+    ]
+  },
+  {
+    "line": [
+      "केस नंबर ढूँढो और इस सूची में डालो।",
+      "and find and input the corresponding case number."
+    ]
+  },
+  {
+    "line": [
+      "पक्का तुम्हें पता होगा कि यह नियमों का उल्लंघन है...",
+      "As I'm sure you're aware, it is a violation..."
+    ]
+  },
+  { "line": ["अपना ड्यूटी लॉग देखो,", "Walk back through your duty log,"] },
+  {
+    "line": [
+      "वह केस नंबर ढूँढो और इस मामले को निपटाओ, समझी?",
+      "dig out the case numbers, get this all squared away, all right?"
+    ]
+  },
+  {
+    "line": [
+      "सर, मैं दोनों आपातकालीन कॉल की जाँच करने के लिए फॉरेंसिक आवाज़ विश्लेषण का अनुरोध करना चाहूँगी।",
+      "Sir, I want to request a forensic voice analysis to test the two emergency calls."
+    ]
+  },
+  {
+    "line": [
+      "हेज़ लेन और कल रात की पीड़ित की,",
+      "Hayes Lane and last night's victim,"
+    ]
+  },
+  {
+    "line": [
+      "यह पुष्टि करने के लिए कि वे एक ही महिला की आवाज़ें थीं या नहीं।",
+      "to confirm is it or is it not the same woman."
+    ]
+  },
+  {
+    "line": [
+      "यह हमारा केस नहीं है, जून। यह स्पष्ट कर दिया जा चुका है।",
+      "Not our case, June. Think that's been made very clear."
+    ]
+  },
+  {
+    "line": [
+      "सर। कमांड एंड कंट्रोल ने ख़ुद हेज़ लेन कॉलर की सूचना दी थी।",
+      "Sir. The Hayes Lane caller, it was flagged by Command and Control."
+    ]
+  },
+  {
+    "line": [
+      "आपने मुझे और जानकारी हासिल करने को कहा था।",
+      "You asked me to follow it up."
+    ]
+  },
+  {
+    "line": [
+      "अगर वह कॉलर मरिया डी सूज़ा थी,",
+      "If the caller was Maria De Souza,"
+    ]
+  },
+  {
+    "line": [
+      "तो हम फ़ाइल बंद कर सकते हैं। मैं बस इतना ही अनुरोध कर रही हूँ।",
+      "then we can close the file. That's all I'm asking."
+    ]
+  },
+  { "line": ["ठीक है, देखो।", "Okay, look."] },
+  { "line": ["मुझे दिख रहा है कि तुम नाराज़ हो।", "I can see you're upset."] },
+  { "line": ["समझी?", "All right?"] },
+  {
+    "line": [
+      "सच कहूँ तो, जिम के बारे में सोचो।",
+      "Honestly, frankly, spare a thought for Jim."
+    ]
+  },
+  {
+    "line": [
+      "वह अकेले ओकमूर में हुई चोरियों की जाँच कर रहा है। है न, जिम?",
+      "He's a man down on the Oakmoor burglaries. Aren't you, mate?"
+    ]
+  },
+  {
+    "line": [
+      "- तो, बेहतर होगा बस उसकी मदद करो। समझी? - जी, सर।",
+      "- So, maybe just do that. Yeah? - Yes, sir."
+    ]
+  },
+  { "line": ["क्या हम तैयार हैं?", "Are we ready?"] },
+  {
+    "line": [
+      "और दोबारा! चलो! ए, ए, ए, ए, ए!",
+      "And again! Let's go! Hey, hey, hey, hey, hey!"
+    ]
+  },
+  { "line": ["अब, चलो।", "Now, here we go."] },
+  { "line": ["बग़ल में। चलो।", "To the side. Come on."] },
+  {
+    "line": [
+      "- सब ठीक होगा। - मैं बस नहीं चाहती कि लोग मुझे घूरें।",
+      "- Everything's gonna be fine for you. - I just don't want people staring."
+    ]
+  },
+  {
+    "line": [
+      "अरे, चलो भी। तुम दुल्हन हो, जान। यह तुम्हारी ज़िंदगी का महत्वपूर्ण दिन है।",
+      "Oh, come on. You're the bride, sweetheart. It's your big day."
+    ]
+  },
+  { "line": ["तुम्हें थोड़ा इठलाना होगा।", "You've gotta flaunt it."] },
+  { "line": ["क्या आप डोरिस मैथिस हैं?", "Are you Doris Mathis?"] },
+  {
+    "line": [
+      "हाँ। हमारा काम लगभग ख़त्म हो चुका है। बस वहाँ इंतज़ार करो।",
+      "Yes. We're almost done here. Just go on through."
+    ]
+  },
+  {
+    "line": [
+      "मुझे नहीं पता। मुझे बस नहीं पता।",
+      "I don't know. I just don't know."
+    ]
+  },
+  { "line": ["आओ, आईने में देखो।", "Come and have a look at the mirror."] },
+  { "line": ["- वाह। - हाँ, देखा?", "- Wow. - Yeah, you see?"] },
+  {
+    "line": [
+      "- अगले हफ़्ते मिलेंगे। - ठीक है। तो अगले हफ़्ते मिलेंगे।",
+      "- See you next week. - Okay. See you next week then."
+    ]
+  },
+  { "line": ["अलविदा।", "Bye."] },
+  {
+    "line": [
+      "- मैं क्या मदद कर सकती हूँ? - वह बेहद ख़ूबसूरत दिखेगी।",
+      "- How can I help? - She's gonna look amazing."
+    ]
+  },
+  { "line": ["धन्यवाद।", "Thank you."] },
+  {
+    "line": [
+      "मेरा नाम डीएस जून लेंकर है। आपको परेशान करने के लिए माफ़ी चाहूँगी।",
+      "My name is DS June Lenker. I'm sorry to bother you."
+    ]
+  },
+  { "line": ["ठीक है।", "All right."] },
+  {
+    "line": [
+      "लटीशा, हमें कुछ देर के लिए अकेला छोड़ोगी?",
+      "Latisha, give us a minute, will you, love?"
+    ]
+  },
+  { "line": ["ज़रूर।", "Sure."] },
+  {
+    "line": [
+      "हम इस आदमी को ढूँढ रहे हैं।",
+      "We're trying to trace the whereabouts of this man."
+    ]
+  },
+  { "line": ["इसका नाम क्लाइव सिलकॉक्स है।", "His name's Clive Silcox."] },
+  { "line": ["पुलिस इसकी तलाश में है।", "He's wanted by police."] },
+  {
+    "line": [
+      "हम सुराग़ ढूँढने की कोशिश में हैं कि यह कहाँ छुपा हुआ हो सकता है? यह स्थानीय आदमी है।",
+      "We're trying to get a steer on where he might be sheltering? He's local."
+    ]
+  },
+  {
+    "line": [
+      "इसलिए, हम बस उन सभी से संपर्क कर रहे हैं जो शायद कभी इससे मिले हों",
+      "So, we're just reaching out to anyone that might have come across him"
+    ]
+  },
+  { "line": ["या इसे जानते हों।", "or might have been acquainted with him."] },
+  {
+    "line": [
+      "- तो, क्या आपको लगता है कि आप... - एक बात बताओ,",
+      "- So, do you think that you might-- - Tell me,"
+    ]
+  },
+  {
+    "line": [
+      "तुम जैसी अच्छी महिला पुलिस में क्या कर रही है?",
+      "what's a nice woman like you doing in the police?"
+    ]
+  },
+  { "line": ["आपके बेटे का क्या?", "What about your son?"] },
+  {
+    "line": [
+      "मेरा मतलब, शायद वे किसी समय एक-दूसरे को जानते हों।",
+      "I mean, maybe they knew each other back in the day."
+    ]
+  },
+  {
+    "line": [
+      "तुमने मेरे बेटे, एरॉल से बात की?",
+      "You've been talking to my Errol?"
+    ]
+  },
+  {
+    "line": [
+      "नहीं। मेरा मतलब, क्यों? क्या आपको...",
+      "No. I mean, why? Do you--"
+    ]
+  },
+  {
+    "line": [
+      "क्या आपको लगता है कि वे एक-दूसरे को जानते थे?",
+      "Do you think they knew each other?"
+    ]
+  },
+  {
+    "line": [
+      "मेरा मतलब, शायद यह एरॉल के फ़्लैट में गया हो? शायद यह एडालेइड को जानता था?",
+      "I mean, might he have gone to Errol's flat? Maybe he knew Adelaide?"
+    ]
+  },
+  {
+    "line": [
+      "एडालेइड? तुम एडालेइड का ज़िक्र क्यों कर रही हो?",
+      "Adelaide? Why are you bringing up Adelaide?"
+    ]
+  },
+  { "line": ["सुनो।", "Listen, love."] },
+  {
+    "line": [
+      "मुझे इसका काफ़ी अनुभव है। मैं तुरंत झूठ पकड़ सकती हूँ।",
+      "I'm not new to this. My bullshit radar is better than most."
+    ]
+  },
+  {
+    "line": [
+      "मैं बस जानकारी इकट्ठा करने की कोशिश कर रही हूँ।",
+      "I'm just trying to get some help here."
+    ]
+  },
+  {
+    "line": [
+      "तुम्हारे पास कार्ड है, मिस डीएस... क्या नाम है?",
+      "You got a card, Miss DS-- What is it?"
+    ]
+  },
+  { "line": ["लेंकर। जून लेंकर।", "Lenker. June Lenker."] },
+  { "line": ["मेरी बात सुनो, डीएस लेंकर,", "You listen to me, DS Lenker,"] },
+  {
+    "line": [
+      "अगर तुम्हें लगता है कि तुम यहाँ आकर",
+      "if you think you can come up here,"
+    ]
+  },
+  {
+    "line": [
+      "एरॉल पर नए इल्ज़ाम थोप सकती हो...",
+      "trying to pin some fresh trouble on my Errol--"
+    ]
+  },
+  {
+    "line": [
+      "- नहीं, मैं कोई नया इल्ज़ाम नहीं थोप रही। - कृपया, यहाँ से चली जाओ।",
+      "- No, that's not what I'm trying to do. - Get out, please."
+    ]
+  },
+  { "line": ["तुम्हें किसने भेजा?", "Who sent you?"] },
+  { "line": ["क्या उसने तुम्हें भेजा?", "Did he send you?"] },
+  { "line": ["- किसने? - हैगर्टी।", "- Who? - Hegarty."] },
+  { "line": ["और उसके सहकर्मी।", "And all his boys."] },
+  {
+    "line": [
+      "उसका दल, वे झूठ-पर-झूठ बोलते हैं।",
+      "His crew, they lie and they lie."
+    ]
+  },
+  { "line": ["और वे...", "And they--"] },
+  { "line": ["वे मेरे बेटे को ले गए।", "They took away my son, you know."] },
+  {
+    "line": [
+      "और जब तुम अपना बचाव करने की कोशिश करते हो, तो वे विनम्रता से कहते हैं,",
+      "And when you try standing up, very polite,"
+    ]
+  },
+  {
+    "line": [
+      "'माफ़ करना, शायद आपको ग़लतफ़हमी हुई है।'",
+      "'I'm sorry, I think you've made a mistake here.'"
+    ]
+  },
+  { "line": ["ग़लतफ़हमी! बस।", "A mistake! That's all."] },
+  { "line": ["उससे कहना मेरी तरफ़ से उससे कहना,", "You tell him from me,"] },
+  { "line": ["'मैं अब भी यहाँ मौजूद हूँ।'", "'I'm still here.'"] },
+  { "line": ["हाँ। क्लाइव सिलकॉक्स।", "Right. Clive Silcox."] },
+  {
+    "line": [
+      "मार्च 2011 में, वह 24बी लेक स्ट्रीट में रहता था।",
+      "March 2011, he's residing at 24B Lake Street."
+    ]
+  },
+  {
+    "line": ["लेक स्ट्रीट में। मोड़ के पास।", "Lake street. Round the corner."]
+  },
+  {
+    "line": [
+      "रूडिन के यहाँ नौकरी करता था। डिलीवरी करता था।",
+      "Employed at Rudin's. Deliveries."
+    ]
+  },
+  {
+    "line": [
+      "वह पुरानी यहूदी जगह? भगवान, जवानी के दिन याद आ गए।",
+      "The old Yiddish place? Christ, that takes me back."
+    ]
+  },
+  { "line": ["कहीं और होने का साक्ष्य?", "Any alibi?"] },
+  { "line": ["ऐसा कुछ नहीं मिला।", "Not that I could find."] },
+  {
+    "line": [
+      "अफ़सोस। और हमने उस समय उससे पूछताछ नहीं की थी?",
+      "Pity. And we never interviewed him at the time?"
+    ]
+  },
+  { "line": ["बेशक़ नहीं।", "Of course not."] },
+  {
+    "line": [
+      "क्या? हम लंदन के हर मामूली अपराधी का पीछा करते फिरें?",
+      "What? We gotta go chasing after every toe-rag in London?"
+    ]
+  },
+  { "line": ["हाँ, हमें हमारा अपराधी मिल गया था।", "Yeah, we had our man."] },
+  {
+    "line": [
+      "देखो, कोई भी चीज़ जो सिलकॉक्स को एडालेइड, एरॉल मैथिस या उस फ़्लैट से जोड़े...",
+      "Look, anything that puts Silcox near Adelaide, Errol Mathis or that flat--"
+    ]
+  },
+  {
+    "line": [
+      "जिससे जून मुझ पर इल्ज़ाम लगा सके या जाँच में रुकावट डाल सके,",
+      "Anything that she can use to get at me or the investigation,"
+    ]
+  },
+  { "line": ["तो मुझे ज़रूर बताना।", "I need to know."] },
+  { "line": ["समझे?", "Okay?"] },
+  { "line": ["मैं उन्हें परेशान नहीं कर रही थी।", "I wasn't harassing her."] },
+  { "line": ["उन्हें तो वैसा ही लगा।", "Well, that's how it felt to her."] },
+  {
+    "line": [
+      "तो या तुम मुझे अभी बताओगी कि मेरे क्लाइंट का क्लाइव सिलकॉक्स से क्या संबंध है,",
+      "So either you tell me right now what has my client got to do with Clive Silcox?"
+    ]
+  },
+  {
+    "line": [
+      "वरना, कसम से, मैं पुलिस कम्प्लेंट्स अथॉरिटी को शिकायत कर दूँगी।",
+      "Or I swear to God, my next call is to the Police Complaints Authority."
+    ]
+  },
+  {
+    "line": [
+      "इसकी संभावना है कि सिलकॉक्स के पास",
+      "There is a chance that Silcox might have information"
+    ]
+  },
+  {
+    "line": [
+      "एडालेइड की हत्या से संबंधित जानकारी है।",
+      "relevant to Adelaide's murder."
+    ]
+  },
+  {
+    "line": [
+      "तो जो भी सुराग़ सिलकॉक्स को एडालेइड या एरॉल से जोड़ता है, कोई भी सुराग़...",
+      "So anything that connects Silcox to Adelaide or Errol, anything at all--"
+    ]
+  },
+  { "line": ["'संबंधित जानकारी?'", "'Information relevant?'"] },
+  {
+    "line": [
+      "तुम क्या कह रही हो? कि वह गवाह है?",
+      "What are you saying? He's a witness?"
+    ]
+  },
+  { "line": ["या फिर संदिग्ध है?", "Or a suspect?"] },
+  {
+    "line": ["मैं नहीं बता सकती। यह गोपनीय है।", "I can't. It's confidential."]
+  },
+  { "line": ["भगवान के लिए।", "For God's sake."] },
+  { "line": ["- क्लोई? - हाँ?", "- Chloe? - Yeah?"] },
+  {
+    "line": [
+      "हैकनी डाउन्स में तुम्हारे दोस्त हैं, है न?",
+      "You've got mates at Hackney Downs, right?"
+    ]
+  },
+  { "line": ["हाँ?", "Yeah?"] },
+  { "line": ["मुझे एक मदद चाहिए।", "I need a favor."] },
+  {
+    "line": [
+      "देखो, अगर इसका संबंध तुम्हारे हत्या वाले केस से है...",
+      "Look, if this is about your murder case--"
+    ]
+  },
+  {
+    "line": [
+      "- तो मैं इसमें शामिल नहीं हूँगी। - चलो भी, क्लोई।",
+      "- And I'm not getting involved. - Come on, Chloe."
+    ]
+  },
+  {
+    "line": [
+      "मैं इसमें शामिल नहीं हो सकती, समझी? यह गोपनीय है।",
+      "You know I can't get into it, all right? It's confidential."
+    ]
+  },
+  {
+    "line": [
+      "कृपया। अगर यह ज़रूरी नहीं होता, तो मैं नहीं पूछती।",
+      "Please. I wouldn't ask if it wasn't important."
+    ]
+  },
+  { "line": ["कितनी बड़ी मदद चाहिए?", "How big is the favor?"] },
+  { "line": ["- यह लो। - धन्यवाद।", "- Here you go. - Thanks."] },
+  {
+    "line": [
+      "डैल्स्टन की सबसे कड़क कॉफ़ी है। चखने के बाद ही धन्यवाद कहना।",
+      "Strongest Java in Dalston. Don't thank me until you've tried it."
+    ]
+  },
+  {
+    "line": [
+      "तो, ख़ैर, मैंने डोरिस से बात की और एरॉल उसके साथ स्कूल गया था।",
+      "So, anyway, I spoke to Doris, and Errol went to school with him."
+    ]
+  },
+  {
+    "line": [
+      "- किसके साथ? - क्लाइव सिलकॉक्स के साथ।",
+      "- With who? - Clive Silcox."
+    ]
+  },
+  { "line": ["सेंट जोसेफ़्स अकैडमी।", "St. Joseph's Academy."] },
+  {
+    "line": [
+      "पर क्लाइव उससे दो क्लास आगे था, इसलिए वे दोस्त नहीं थे।",
+      "But Clive was like two years above, so not friends exactly."
+    ]
+  },
+  {
+    "line": [
+      "पर डोरिस ने कहा कि वह उसके परिवार को जानती थी। थोड़ा-बहुत।",
+      "But Doris said she knew the family. Kinda."
+    ]
+  },
+  { "line": ["थोड़ा-बहुत? थोड़ा-बहुत मतलब?", "Kinda? Kinda as in?"] },
+  {
+    "line": [
+      "एरॉल का एक कज़िन था, जमील, जिसे सिलकॉक्स की बहन बेहद पसंद थी।",
+      "Errol had a cousin, Jameel, who had the hots for Silcox's sister."
+    ]
+  },
+  {
+    "line": [
+      "पर डोरिस ने मना कर दिया, इसलिए...",
+      "But Doris put her foot down, so--"
+    ]
+  },
+  { "line": ["तो एरॉल उसे जानता था?", "So Errol knew him?"] },
+  { "line": ["एरॉल उसे जानता था।", "Errol knew him."] },
+  { "line": ["धन्यवाद।", "Thank you."] },
+  { "line": ["तुम्हारा स्वागत है।", "You're welcome."] },
+  {
+    "line": [
+      "क्या मैं तुम्हें आक्रामक लगती हूँ?",
+      "Do I come over as aggressive to you?"
+    ]
+  },
+  { "line": ["आक्रामक? मतलब? क...", "Aggressive? As in? S--"] },
+  { "line": ["मतलब क्षुब्ध।", "As in antsy."] },
+  {
+    "line": [
+      "गुस्सैल। बेचैन। पागल। मेरा मतलब, जब चाहो, बीच में टोककर रोक सकते हो।",
+      "Arsey. Shouty. Crazy. I mean, feel free to jump in at any point."
+    ]
+  },
+  { "line": ["रॉय ने कहा कि मैं नाराज़ थी।", "Roy said I was upset."] },
+  {
+    "line": [
+      "पर यह बस कोड है, है न? यह बस पागल महिला के लिए कोड है।",
+      "But it's just code, isn't it? It's just crazy-lady code."
+    ]
+  },
+  { "line": ["- जून। - क्या हुआ?", "- June. - What?"] },
+  {
+    "line": [
+      "तुम्हें सदमा लगा था, समझी। इसलिए, उसे पूछने का हक़ है।",
+      "You've been through a trauma, all right. So, he's entitled to ask."
+    ]
+  },
+  { "line": ["तो मैं ज़्यादा सोच रही हूँ।", "So I'm overthinking."] },
+  {
+    "line": [
+      "तुम्हें पता है, तुम कार को सेक्सी तरीके से पार्क करती हो?",
+      "You're a sexy parker, you know that?"
+    ]
+  },
+  { "line": ["यह बेहद अजीब तारीफ़ थी।", "That's a weirdly niche compliment."] },
+  { "line": ["- ऐसे? - नहीं।", "- Like that? - Nah."] },
+  { "line": ["- ऐसे? - अरे, नहीं।", "- Like that? - Oh, fuck."] },
+  {
+    "line": [
+      "- तुम अपना काम पूरा करना चाहते हो? - नहीं।",
+      "- Do you wanna finish yourself off? - No."
+    ]
+  },
+  {
+    "line": [
+      "चाहो तो, मैं जाकर आइसक्रीम ला सकती हूँ।",
+      "I can get an ice cream if you want."
+    ]
+  },
+  { "line": ["तुम ठीक हो?", "You okay in there?"] },
+  {
+    "line": [
+      "दरअसल, मैं थोड़ी मुसीबत में हूँ।",
+      "I'm in a bit of trouble actually."
+    ]
+  },
+  { "line": ["शाबाश।", "Come on."] },
+  { "line": ["यहाँ, यहाँ, यहाँ!", "Here, here, here!"] },
+  {
+    "line": [
+      "मुझे समझ नहीं आ रहा। तो, तुमने डेटाबेस में ढूँढा, तो क्या हुआ?",
+      "I don't understand. So, you searched the database, so what?"
+    ]
+  },
+  {
+    "line": [
+      "हर खोज को काम से संबंधित होना चाहिए। हमें केस नंबर डालना पड़ता है।",
+      "Every search has to be work-related. You're supposed to attach a case number."
+    ]
+  },
+  { "line": ["तो?", "So?"] },
+  {
+    "line": [
+      "तो, मैंने अपने लिए नहीं ढूँढा था। माँ के लिए ढूँढा था।",
+      "So, it wasn't for me. It was for Mum."
+    ]
+  },
+  { "line": ["ठीक है, तो कितनी बार ढूँढा था?", "Okay, so how many times?"] },
+  { "line": ["पता नहीं। आठ बार?", "Don't know. Eight?"] },
+  {
+    "line": [
+      "आठ बार? जून। तुमने मुझे बताया क्यों नहीं?",
+      "Eight? June. Why didn't you tell me?"
+    ]
+  },
+  {
+    "line": [
+      "क्योंकि मुझे पता था तुम क्या कहते।",
+      "Because I knew what you'd say."
+    ]
+  },
+  {
+    "line": [
+      "और मैं उन्हें दोबारा अस्पताल भिजवाना नहीं चाहती, समझे?",
+      "And I can't have her being sectioned again, okay?"
+    ]
+  },
+  {
+    "line": [
+      "मैं उनके साथ ऐसा नहीं करूँगी। दोबारा नहीं करूँगी।",
+      "I'm not doing that to her. Not anymore."
+    ]
+  },
+  {
+    "line": [
+      "ठीक है, तो यही उपाय है? तुम डेटाबेस में अवैध खोज करोगी?",
+      "Okay, so this is the big fix? You make illegal database searches?"
+    ]
+  },
+  {
+    "line": [
+      "यह सब उस कमबख़्त इंसान के कारण हो रहा है।",
+      "None of this would have happened if it wasn't for that fucking man."
+    ]
+  },
+  {
+    "line": [
+      "- हैगर्टी। ब्ला-ब्ला-ब्ला। - तुमने कहा कि यह यादृच्छिक जाँच था।",
+      "- Hegarty. Blah-blah-blah. - You just said that it was a random audit."
+    ]
+  },
+  {
+    "line": [
+      "उसके ऊपर तक संबंध हैं। वह लोगों को जानता है। सबको जानता है।",
+      "He gets around. He knows people. He knows everyone."
+    ]
+  },
+  {
+    "line": [
+      "ठीक है, तो समस्या को यहीं ख़त्म करो। अपने बॉस से बात करो।",
+      "All right, so you nip it in the bud. Talk to your line manager."
+    ]
+  },
+  {
+    "line": [
+      "- रॉय से? - हाँ। बस उसे बता दो कि तुमने क्या किया।",
+      "- Roy? - Yeah. Tell him what you did, big deal."
+    ]
+  },
+  {
+    "line": [
+      "यह सबसे बुरा फैसला होगा।",
+      "That is literally the worst thing that I could do."
+    ]
+  },
+  {
+    "line": [
+      "- क्यों? - क्योंकि वह नियमों का सख़्त पालन करता है।",
+      "- Why? - Because he's a policy nut."
+    ]
+  },
+  {
+    "line": [
+      "वह सोचेगा कि इसकी रिपोर्ट करना उसकी ज़िम्मेदारी है।",
+      "He'll think he's duty bound to report it."
+    ]
+  },
+  {
+    "line": [
+      "ठीक है। तो, उसके बॉस के पास जाओ। असिस्टेंट कमिश्नर से बात करो।",
+      "Okay. So, go up the food chain. Talk to that assistant commissioner."
+    ]
+  },
+  {
+    "line": [
+      "जिसकी तुम तारीफ़ कर रही थी। जिसने तुम्हें सीआईडी में आने के लिए प्रोत्साहित किया था।",
+      "You know, the one you were going on about. The one that pushed you for CID."
+    ]
+  },
+  { "line": ["बस फ़ोन कर दूँ?", "Just pick up the phone?"] },
+  { "line": ["'यो, मैं याद हूँ?", "'Yo, remember me?"] },
+  {
+    "line": [
+      "मैं वह महिला हूँ जिससे तुमने हाउनस्लो में भर्ती सप्ताहांत में अच्छा बर्ताव किया था।'",
+      "I'm that woman that you were nice to at a recruitment weekend in Hounslow.'"
+    ]
+  },
+  {
+    "line": [
+      "- क्यों नहीं? - क्योंकि मैं तुम जैसी नहीं हूँ, समझे?",
+      "- Why not? - Because I'm not you, okay?"
+    ]
+  },
+  {
+    "line": [
+      "मैं ख़ुद को हल्के में लेकर ज़िंदगी नहीं जी सकती।",
+      "I don't get to just walk through life taking myself for granted."
+    ]
+  },
+  {
+    "line": [
+      "मुखर होना कोई अपराध नहीं है।",
+      "It's not a crime to be assertive."
+    ]
+  },
+  { "line": ["मुखर होना?", "Assertive?"] },
+  {
+    "line": [
+      "मुझे पक्का नहीं पता कि इसका क्या मतलब है।",
+      "See, I'm not 100% sure what that means."
+    ]
+  },
+  {
+    "line": [
+      "हाँ। तो यह श्वेत विशेषाधिकार है।",
+      "Right. So this is a privilege thing."
+    ]
+  },
+  { "line": ["पता नहीं। पता नहीं, लियो।", "I don't know. I don't know, Leo."] },
+  {
+    "line": [
+      "पर मुझे यह ज़रूर पता है कि मैं किसी बेचारी एएंडई नर्स पर नहीं चिल्लाऊँगी",
+      "I guess what I do know is that I wouldn't shout at some poor A&E nurse"
+    ]
+  },
+  {
+    "line": [
+      "जो बस अपना काम कर रही थी क्योंकि मुझे बस अपना गुस्सा शांत करना था।",
+      "who happens to be there just 'cause I felt like blowing off some steam."
+    ]
+  },
+  {
+    "line": [
+      "- क्या इसे मुखर होना कहते हैं? पता नहीं। - माफ़ करना, क्या?",
+      "- Is that being assertive? I don't know. - I'm sorry, what?"
+    ]
+  },
+  {
+    "line": ["शायद कहते हैं। शायद। पता नहीं।", "Maybe. Probably. I don't know."]
+  },
+  {
+    "line": [
+      "- रेफ़! - दोबारा। सुनो, उससे दूर हटो। वह फ़ाउल था।",
+      "- Ref! - Again. Listen, come away. That's a foul."
+    ]
+  },
+  { "line": ["क्या हो रहा है?", "What's going on?"] },
+  { "line": ["- उसने फ़ाउल किया। - सच में?", "- Fouled him. - Did he?"] },
+  { "line": ["हाँ। उसने उसे गिरा दिया।", "Yeah. Tripped him."] },
+  { "line": ["जेक, बस उनकी बात सुनो।", "Jake, just listen to him, mate."] },
+  {
+    "line": [
+      "अभी तुम्हें चेतावनी दे रहा हूँ, समझे? दोबारा किया तो खेल से बाहर होगे। समझे?",
+      "You're gonna get a warning now, okay? Any more of that and you're off. Okay?"
+    ]
+  },
+  { "line": ["ठीक है। चलो, खेल जारी रखो।", "Right. Come on, play on."] },
+  { "line": ["शाबाश, जेकी। चलो।", "Come on, Jakey. Head up, mate."] },
+  { "line": ["देखो, मेरी बात सुनो, ठीक है।", "Look, listen, all right."] },
+  { "line": ["मुझे माफ़ कर दो, ठीक है?", "I apologize, okay?"] },
+  {
+    "line": [
+      "अगर मैंने किसी नर्स के साथ बुरा बर्ताव किया हो तो, पर मेरी दिमाग़ी हालत ठीक नहीं थी।",
+      "If I was rude to some nurse, but I was in a bad way."
+    ]
+  },
+  {
+    "line": [
+      "मैं घबराया हुआ था क्योंकि मुझे तभी वह फ़ोन आया था, हाँ?",
+      "I was upset because I just got a call, yeah?"
+    ]
+  },
+  {
+    "line": [
+      "और एक मिनट के लिए... तुम सुन भी रही हो?",
+      "And for a minute-- Are you even listening?"
+    ]
+  },
+  { "line": ["मुझे लगा तुम मर गई थी।", "I thought you were dead."] },
+  { "line": ["शाबाश, बेटे।", "Come on, mate."] },
+  { "line": ["जानते हो...", "You know..."] },
+  {
+    "line": [
+      "कभी-कभी मुझे लगता है कि हम दोनों के नज़रिए बेहद अलग हैं।",
+      "sometimes I don't know if we're on the same fucking planet."
+    ]
+  },
+  { "line": ["- हैलो? - हैलो, जून।", "- Hello? - Hi, June."] },
+  {
+    "line": [
+      "मैं शेल्टर मूर स्ट्रीट से बैका बोल रही हूँ।",
+      "It's Becca here from the Shelter Moore Street."
+    ]
+  },
+  {
+    "line": [
+      "- हाँ। हैलो। - तुम क्लाइव सिलकॉक्स के बारे में पूछ रही थी?",
+      "- Yeah. Hi. - You were inquiring about Clive Silcox?"
+    ]
+  },
+  {
+    "line": ["- जे? - बात यह है, कि हमें...", "- J? - The thing is, we found--"]
+  },
+  { "line": ["काम से फ़ोन है।", "It's work."] },
+  {
+    "line": [
+      "ठीक है। तो फिर हम बस से चले जाएँ?",
+      "Okay. Well, then we'll get the bus, shall we?"
+    ]
+  },
+  { "line": ["कोई है जिसने...", "See, someone's come forward--"] },
+  { "line": ["कोई बात नहीं। कोई बात नहीं।", "It's okay. It's fine."] },
+  {
+    "line": [
+      "हैलो, क्या तुम डॉन हो? डॉन टेयलर?",
+      "Hi, are you Dawn? Dawn Taylor?"
+    ]
+  },
+  {
+    "line": [
+      "- हाँ। - परेशान करने के लिए माफ़ी चाहूँगी।",
+      "- That's right. - Sorry to bother you."
+    ]
+  },
+  { "line": ["मेरा नाम डीएस जून लेंकर है।", "My name is DS June Lenker."] },
+  {
+    "line": [
+      "मैं एक आदमी को ढूँढने की कोशिश कर रही हूँ जिसे तुम जानती थी, क्लाइव सिलकॉक्स?",
+      "I'm trying to trace a man you were acquainted with, Clive Silcox?"
+    ]
+  },
+  {
+    "line": [
+      "तुम 2018 में एक-दूसरे को जानते थे।",
+      "I gather you knew each other back in 2018."
+    ]
+  },
+  {
+    "line": [
+      "कोई अंदाज़ा है वह कहाँ मिल सकता है?",
+      "Do you have any idea where he may be found?"
+    ]
+  },
+  {
+    "line": [
+      "या उसके किसी दोस्त को जानती हो? ऐसी जगहें जहाँ वह...",
+      "Or any friends? Places he might--"
+    ]
+  },
+  { "line": ["- नहीं। - नहीं? ठीक है।", "- No. - No? Okay."] },
+  { "line": ["मेरे साथ आओ।", "Come with me."] },
+  {
+    "line": [
+      "ठीक है। ख़ैर, अपना समय देने के लिए धन्यवाद।",
+      "Okay. Well, thank you for your time."
+    ]
+  },
+  { "line": ["क्यों नहीं?", "Why not?"] },
+  { "line": ["मेरी माँ।", "My mum."] },
+  {
+    "line": [
+      "ज़ीरो यैंकी डेल्टा। मैं डीएस जून लेंकर बोल रही हूँ।",
+      "Zero Yankee Delta. This is DS June Lenker."
+    ]
+  },
+  { "line": ["मैं 70 वर्लेन रोड में हूँ।", "I am at 70 Verlaine Road."] },
+  {
+    "line": [
+      "मुझे लगता है मुझे क्लाइव सिलकॉक्स मिल गया है।",
+      "I believe I have a sighting on Clive Silcox."
+    ]
+  },
+  { "line": ["समझ गई, ओवर।", "All received, over."] },
+  { "line": ["बैकअप आ रहा है।", "Support vehicles are on their way."] },
+  { "line": ["कितनी दूर है?", "How far away?"] },
+  {
+    "line": [
+      "ज़ीरो, डेल्टा, ब्रावो। छह मिनटों में पहुँचेंगे।",
+      "Zero, delta, bravo. ETA six minutes."
+    ]
+  },
+  {
+    "line": [
+      "छह मिनट दूर हैं। जहाँ हो वहीं रहो।",
+      "Six minutes away. Remain where you are."
+    ]
+  },
+  {
+    "line": [
+      "सपोर्ट टीम का इंतज़ार करो, ओवर।",
+      "Wait for the support team, over."
+    ]
+  },
+  { "line": ["समझ गई।", "Copy."] },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी। घर के अंदर खलबली मची है, ओवर।",
+      "Zero Delta Yankee. There is a disturbance inside of the house, over."
+    ]
+  },
+  {
+    "line": [
+      "इंतज़ार करो। बैकअप पहुँचने वाली है।",
+      "Stand by. Support team's on its way."
+    ]
+  },
+  { "line": ["भाड़ में गया।", "Fuck this."] },
+  { "line": ["पुलिस! दरवाज़ा खोलो।", "Police! Open the door."] },
+  { "line": ["पुलिस!", "Police!"] },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी। घर के अंदर किसी पर हमला हो रहा है।",
+      "Zero Delta Yankee. There is an assault inside of the house."
+    ]
+  },
+  {
+    "line": [
+      "- क्या हो रहा है? - मैं आपके बगीचे में जा सकती हूँ?",
+      "- What's happening? - Can I get access to your garden?"
+    ]
+  },
+  {
+    "line": [
+      "- हाँ। - बैकअप का इंतज़ार करो।",
+      "- Yeah. - Stand by for the unit support."
+    ]
+  },
+  { "line": ["सारे यूनिट। सारे यूनिट।", "All units. All units."] },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी। तुरंत फ़ायरमैन भेजो।",
+      "Zero Delta Yankee. Urgent firefighting assistance requested."
+    ]
+  },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी, कृपया दोहराओ।",
+      "Zero Delta Yankee, please repeat."
+    ]
+  },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी, कृपया दोहराओ।",
+      "Zero Delta Yankee, please repeat."
+    ]
+  },
+  {
+    "line": [
+      "ज़ीरो डेल्टा यैंकी, कृपया दोहराओ।",
+      "Zero Delta Yankee, please repeat."
+    ]
+  },
+  { "line": ["मैंने कहा घर में आग लगी है!", "I said the house is on fire!"] },
+  {
+    "line": [
+      "तुरंत फ़ायरमैन भेजने का अनुरोध कर रही हूँ।",
+      "Requesting urgent firefighting assistance."
+    ]
+  },
+  { "line": ["हैलो?", "Hello?"] },
+  { "line": ["डॉन?", "Dawn?"] },
+  { "line": ["हैलो?", "Hello?"] },
+  {
+    "line": [
+      "- अंदर कोई है? - मदद करो! हम यहाँ हैं!",
+      "- Is anybody in here? - Help! We're in here!"
+    ]
+  },
+  { "line": ["दरवाज़े से दूर हटो!", "Get away from the door!"] },
+  { "line": ["बाहर निकलो! नीचे जाओ!", "Get out! Go downstairs!"] },
+  { "line": ["जाओ!", "Go!"] },
+  { "line": ["जून।", "June."] },
+  { "line": ["जून।", "June."] },
+  { "line": ["हाँ?", "Yeah?"] },
+  { "line": ["यह मैंने नहीं दिखाया।", "This did not come from me."] },
+  { "line": ["क़सम खाओ।", "Swear."] },
+  {
+    "line": [
+      "तुम्हें पैथोलॉजी रिपोर्ट मिल गई?",
+      "You got the pathology report?"
+    ]
+  },
+  { "line": ["क़सम खाओ।", "Swear."] },
+  { "line": ["क़सम खाती हूँ।", "I swear."] },
+  {
+    "line": [
+      "देखने के बाद, तुरंत डिलीट कर दो।",
+      "Delete it the second that you are done."
+    ]
+  },
+  { "line": ["ठीक है।", "Yeah."] },
+  { "line": ["तैयार हो?", "Ready?"] },
+  { "line": ["हाँ।", "Yeah."] },
+  {
+    "line": [
+      "उसे पता है न कि मैं भी मीटिंग में रहूँगी?",
+      "He does know that I'll be attending the meeting?"
+    ]
+  },
+  {
+    "line": [
+      "हाँ। दरअसल, उसी ने इसका सुझाव दिया।",
+      "Yes. As a matter of fact, he suggested it."
+    ]
+  },
+  {
+    "line": [
+      "समय देने के लिए आप दोनों का धन्यवाद...",
+      "Well, thank you both for taking the time--"
+    ]
+  },
+  {
+    "line": [
+      "- यह तो हमारा कर्तव्य है। - तो, ताज़ी ख़बर।",
+      "- It's the least we could do. - So, breaking news."
+    ]
+  },
+  {
+    "line": [
+      "क्लाइव सिलकॉक्स ने हत्या की बात क़बूल की।",
+      "Clive Silcox confessed to the murder."
+    ]
+  },
+  { "line": ["बहुत बढ़िया।", "Fantastic."] },
+  {
+    "line": [
+      "उसने ज़्यादा विरोध नहीं किया, है न?",
+      "He rolled over easy, didn't he just?"
+    ]
+  },
+  {
+    "line": [
+      "मरिया डी सूज़ा की हत्या। गिरफ़्तारी से बचने की कोशिश।",
+      "Murder of Maria De Souza. Evading arrest."
+    ]
+  },
+  {
+    "line": [
+      "ख़ैर, वह ग़लत ऑफ़िसर से उलझा।",
+      "Well, he picked on the wrong officer there."
+    ]
+  },
+  { "line": ["बेशक़।", "Indeed."] },
+  {
+    "line": [
+      "हमने पूछा, 'तुमने उसकी हत्या क्यों की?' पता है उसने क्या कहा?",
+      "We asked, 'Why did you kill her?' You know what he said?"
+    ]
+  },
+  {
+    "line": ["उसने गलीचे पर पेंट गिरा दिया था।", "She spilt paint on the rug."]
+  },
+  { "line": ["- नहीं। - गलीचे पर पेंट।", "- No. - Paint on the rug."] },
+  {
+    "line": [
+      "ऐसा बेतुका कारण कभी सुना नहीं था।",
+      "Just when you think you've heard it all."
+    ]
+  },
+  {
+    "line": [
+      "सीपीएस ने हमें मंज़ूरी दे दी है, इसलिए हमने तीन घंटे पहले उस पर आरोप लगाए।",
+      "CPS gave us the nod, so we charged him as of three hours ago."
+    ]
+  },
+  { "line": ["तो, हम तैयार हैं।", "So, we're good to go."] },
+  {
+    "line": [
+      "मैं सिलकॉक्स से पूछताछ करने की अनुमति चाहूँगी।",
+      "I'd like your permission to interview Silcox."
+    ]
+  },
+  {
+    "line": [
+      "- किस बारे में? - एडालेइड बरौज़ की हत्या को लेकर।",
+      "- Regarding? - The murder of Adelaide Burrowes."
+    ]
+  },
+  {
+    "line": [
+      "यह पुराना केस है। यह बी... दो हज़ार...",
+      "It's an old case. It's twen-- Two thousand and--"
+    ]
+  },
+  {
+    "line": [
+      "बॉयफ्रेंड, एरॉल मैथिस, 24 साल की...",
+      "Boyfriend, Errol Mathis, serving..."
+    ]
+  },
+  {
+    "line": [
+      "- सज़ा काट रहा है। - हाँ। मैं बस उससे बात करना चाहती हूँ।",
+      "- Twenty-four years. - Yeah. I just want to talk to him."
+    ]
+  },
+  {
+    "line": [
+      "हाँ। ठीक है, शायद हमें स्थिति स्पष्ट कर लेनी चाहिए, समझे?",
+      "Yeah. Okay, I think we should clear the air here, you know?"
+    ]
+  },
+  { "line": ["और इसका हल निकालना चाहिए।", "And thrash this one out."] },
+  {
+    "line": [
+      "ठीक है, डिटेक्टिव ले... क्या मैं तुम्हें जून बुला सकता हूँ?",
+      "Okay, Detective Le-- Do you mind if I call you June?"
+    ]
+  },
+  { "line": ["- ज़रूर। - ठीक है, जून।", "- Sure. - Okay, June."] },
+  {
+    "line": [
+      "तुम्हारे पास ऐसी क्या नई जानकारी है जिससे यह साबित होता है कि क्लाइव सिलकॉक्स उस फ़्लैट में",
+      "What new information do you have putting Clive Silcox in that flat"
+    ]
+  },
+  { "line": ["एडालेइड बरौज़ के साथ था?", "with Adelaide Burrowes?"] },
+  { "line": ["उस समय वह पास ही रहता था।", "He was local at the time."] },
+  { "line": ["सही कहा।", "That's right."] },
+  {
+    "line": [
+      "- टावर्स से केवल 500 मीटर दूर। - वह बहुत बड़ा इलाका है।",
+      "- Only 500 meters from the Towers. - The big old neighborhood."
+    ]
+  },
+  {
+    "line": [
+      "सिलकॉक्स पर पहले भी महिलाओं के विरुद्ध हिंसा के आरोप दर्ज हुए थे।",
+      "Silcox had a history of allegations of violence against women."
+    ]
+  },
+  { "line": ["एक बार 2009 में, और फिर...", "Once in 2009, and then--"] },
+  { "line": ["मई 2011 में। हाँ। और?", "May 2011. Yeah. What else?"] },
+  {
+    "line": [
+      "वे एक ही स्कूल में पढ़े थे। सिलकॉक्स और एरॉल मैथिस।",
+      "They went to school together. Silcox and Errol Mathis."
+    ]
+  },
+  {
+    "line": [
+      "सेंट जोसेफ़्स। दो हज़ार से ज़्यादा बच्चे थे।",
+      "St. Joseph's. Two thousand plus kids."
+    ]
+  },
+  { "line": ["अलग-अलग क्लासों में थे।", "A couple of years apart."] },
+  {
+    "line": [
+      "सिलकॉक्स की एक बहन थी, लिएन, जो एरॉल के कज़िन के क़रीब थी।",
+      "Silcox had a sister, Leanne, who was close with Errol's cousin."
+    ]
+  },
+  {
+    "line": [
+      "कज़िन? हाँ, हम सभी के कज़िन हैं। किसी के अन्य लोगों से ज़्यादा कज़िन हैं।",
+      "Cousin? Yeah, we've all got cousins. Some more than others."
+    ]
+  },
+  {
+    "line": ["क्या आपने उससे पूछताछ की भी थी?", "Did you even interview him?"]
+  },
+  {
+    "line": [
+      "- जून... - उसे अपनी जाँच से बरी करने के लिए?",
+      "- June-- - To eliminate him from your investigation?"
+    ]
+  },
+  {
+    "line": [
+      "मुझे बताओ, जून, क्या तुम 'अचेतन पक्षपात' शब्द से परिचित हो?",
+      "Tell me, June, are you familiar with the term 'unconscious bias'?"
+    ]
+  },
+  {
+    "line": [
+      "मैंने अपने सहकर्मियों के साथ इस विषय पर चर्चा की थी। मुझे बैज मिल गया।",
+      "I did the away day, for my sins. I got the badge."
+    ]
+  },
+  {
+    "line": [
+      "वह काफ़ी, काफ़ी शिक्षाप्रद था।",
+      "It was all very, very instructive."
+    ]
+  },
+  {
+    "line": [
+      "अब, अचेतन पक्षपात की ज़रूरी बात यह है कि...",
+      "Now, you see, the thing about unconscious bias--"
+    ]
+  },
+  {
+    "line": [
+      "मुझे पता है अचेतन पक्षपात क्या होता है।",
+      "I'm aware of what unconscious bias is."
+    ]
+  },
+  {
+    "line": [
+      "हाँ, पर मैं सुस्त दिमाग़ वालों को समझा रहा हूँ। बुरा मत मानना, रॉय।",
+      "Yeah, well it's for the slow ones at the back. No offense, Roy."
+    ]
+  },
+  {
+    "line": [
+      "कभी-कभी, एक ऑफ़िसर एक केस को विकृत नज़रिए से देख सकता है।",
+      "Sometimes, you see, an officer can bring to a case a certain distorted view."
+    ]
+  },
+  {
+    "line": [
+      "अपने ही मन के पहले से उपस्थित पूर्वाग्रह के कारण।",
+      "Owing to their own, dare I say it, preexisting prejudice."
+    ]
+  },
+  { "line": ["पूर्वाग्रह। पूर्वाग्रह?", "Prejudice. Prejudice?"] },
+  {
+    "line": [
+      "ठीक है। ठीक है। तो, चलो कोई और शब्द इस्तेमाल करें। धारणा?",
+      "Okay. All right. Well, let's split the difference. Faith?"
+    ]
+  },
+  { "line": ["विश्वास? यह कैसा रहेगा?", "Conviction? How about that?"] },
+  {
+    "line": [
+      "देखो, जून को यह विश्वास है कि यह एरॉल मैथिस,",
+      "See, June here, she's got a conviction that this Errol Mathis,"
+    ]
+  },
+  {
+    "line": [
+      "यह आदमी जो मैं बता दूँ, मूल रूप से पश्चिमी अफ़्रीकी है, हाँ?",
+      "a man for the record, of West African heritage, yeah?"
+    ]
+  },
+  {
+    "line": [
+      "उसके साथ अस्पष्ट कारणों से अन्याय हुआ है।",
+      "Has been hard done by for reasons that are opaque."
+    ]
+  },
+  {
+    "line": [
+      "पर एक आपातकालीन फ़ोन कॉल आया था।",
+      "Except there was an emergency phone call."
+    ]
+  },
+  {
+    "line": [
+      "दोबारा ज़ोर डाल रहा हूँ। दो फ़ोन कॉल। दो महिलाएँ।",
+      "Once more with feeling. Two phone calls. Two women."
+    ]
+  },
+  { "line": ["दो फ़ोन कॉल। एक ही महिला।", "Two phone calls. One woman."] },
+  {
+    "line": [
+      "हम इस... हम इस संभावना को नकार नहीं सकते।",
+      "We can't-- We cannot rule it out."
+    ]
+  },
+  {
+    "line": [
+      "तुम्हें पता है इस शहर में केवल पिछले साल में ही कितनी महिलाएँ",
+      "You are aware of how many women were the subject of domestic abuse"
+    ]
+  },
+  {
+    "line": [
+      "घरेलू हिंसा का शिकार हुई थीं? बेशक़ पता है।",
+      "in this city, last year alone? Of course you are."
+    ]
+  },
+  {
+    "line": [
+      "- लगभग ढाई लाख। - हाँ। वाह, लगभग ढाई लाख।",
+      "- Almost a quarter of a million. - Yeah. Wow, almost a quarter of a million."
+    ]
+  },
+  { "line": ["दोनों पुर्तगाली बोलती थीं।", "Both Portuguese speakers."] },
+  {
+    "line": [
+      "पुर्तगाली, कई लोग पुर्तगाली बोलते हैं।",
+      "Portuguese, that's a broad church."
+    ]
+  },
+  {
+    "line": [
+      "यहाँ अभी लगभग 80,000, 90,000 पुर्तगाली बोलने वाले लोग हैं।",
+      "We're talking about 80,000,"
+    ]
+  },
+  {
+    "line": [
+      "इसलिए हमें फॉरेंसिक विशेषज्ञ द्वारा विश्लेषण का आदेश देना चाहिए...",
+      "Which is why we should commission forensic expert analysis..."
+    ]
+  },
+  { "line": ["बस भी करो।", "For God's sake."] },
+  {
+    "line": [
+      "...यह पुष्टि करने के लिए कि दोनों कॉल एक ही महिला ने की थी या नहीं?",
+      "...to confirm is it, or is it not, the same woman on both calls?"
+    ]
+  },
+  { "line": ["ठीक है।", "Okay."] },
+  { "line": ["और इसका क्या? मरिया?", "And what about her? Maria?"] },
+  {
+    "line": [
+      "कौन? पीड़ित। लैब के खर्चे की बात ही छोड़ो।",
+      "Who? The victim. Not to mention the lab costs."
+    ]
+  },
+  {
+    "line": [
+      "हम इस केस पर लाखों डॉलर खर्च कर चुके हैं।",
+      "We're running a five-figure overspend as it is."
+    ]
+  },
+  {
+    "line": [
+      "हमारी हिरासत में वह आदमी है जो इसकी हत्या क़बूल कर चुका है।",
+      "We've got a man in custody willing to plead guilty for her murder."
+    ]
+  },
+  {
+    "line": [
+      "जिससे उसकी माँ, उसका भाई, उसके दो अनाथ बच्चे मुक़दमे के झंझट से बच गए।",
+      "Saving her mother, her brother, her two orphan boys the agony of a trial."
+    ]
+  },
+  {
+    "line": [
+      "उसकी लाश अभी साओ पॉलो में उसके घर जा रही है। यह अच्छी ख़बर है।",
+      "Her body is already on its way home to São Paulo. This is good news."
+    ]
+  },
+  {
+    "line": [
+      "फिर भी तुम इस मुद्दे के चलते और परेशानियाँ खड़ी करना चाहती हो।",
+      "Yet you want to risk blowing all this up over some hobbyhorse."
+    ]
+  },
+  {
+    "line": [
+      "मरिया के शरीर पर घोंपने के दो पुराने निशान थे।",
+      "Maria had two old stab wounds."
+    ]
+  },
+  { "line": ["कंधे में। पेट में।", "Shoulder. Abdomen."] },
+  {
+    "line": [
+      "हेज़ लेन कॉलर ने भी बताया था कि उसके पार्टनर ने उसे चाकू से घोंपा था।",
+      "The Hayes Lane caller also reported receiving stab wounds from her partner."
+    ]
+  },
+  {
+    "line": [
+      "और उसने कहा था, 'उसने उसे घोंपा था,' यानी एडालेइड को,",
+      "And she said, 'he stabbed her,' meaning Adelaide,"
+    ]
+  },
+  {
+    "line": [
+      "'उसे उसी चाकू से कई बार घोंपा था जिससे मुझ पर हमला किया।'",
+      "'many, many times with the same knife he put in me.'"
+    ]
+  },
+  {
+    "line": [
+      "माफ़ करना, तुम्हें यह जानकारी कहाँ से मिली?",
+      "Sorry, where is this coming from?"
+    ]
+  },
+  {
+    "line": [
+      "- कॉल में उसने बिल्कुल यही कहा था। - मैं कॉल की बात नहीं कर रहा हूँ।",
+      "- These are her words from the call. - I'm not talking about the call."
+    ]
+  },
+  {
+    "line": [
+      "मैं मिस डी सूज़ा की चोटों की बात कर रहा था।",
+      "I was talking about Ms. De Souza's injuries."
+    ]
+  },
+  {
+    "line": [
+      "मुझे बताओ, जून, क्या तुमने पैथ रिपोर्ट देखी है?",
+      "Tell me, June, have you seen the path report?"
+    ]
+  },
+  { "line": ["यहाँ ज़रूरी बात यह है कि...", "I think what matters here--"] },
+  {
+    "line": [
+      "नहीं। इस पर ज़ोर डालने के लिए माफ़ी चाहूँगा,",
+      "No. I'm sorry to labor this,"
+    ]
+  },
+  {
+    "line": [
+      "पर वह पैथ रिपोर्ट विव और उसकी टीम को गोपनीय तरीके से भेजी गई थी, है न?",
+      "but that path report was sent confidentially to Viv and her team, right?"
+    ]
+  },
+  {
+    "line": [
+      "हाँ? तो, अग... विव, क्या तुमने वह डीएस लेंकर के साथ साझा की थी?",
+      "Yeah? So, unle-- Viv, did you share it with DS Lenker?"
+    ]
+  },
+  { "line": ["- नहीं, सर। -'नहीं, सर।'", "- No, sir. -'No, sir.'"] },
+  {
+    "line": [
+      "तो, मैं पूछने पर मजबूर हूँ, तुम्हें वह रिपोर्ट कैसे मिली?",
+      "So, I'm bound to ask, how did it come across your desk?"
+    ]
+  },
+  { "line": ["मुझे नहीं मिली।", "It didn't."] },
+  {
+    "line": [
+      "क्या किसी ने वह तुम्हारे साथ साझा की थी?",
+      "Someone share it with you?"
+    ]
+  },
+  { "line": ["नहीं।", "No."] },
+  {
+    "line": [
+      "तो, क्या? तो क्या तुम कोई हैकर हो और उत्तर कोरिया से मिली हुई हो?",
+      "So, what? You're a hacker then, and you're in league with North Korea?"
+    ]
+  },
+  {
+    "line": [
+      "तुम कह रही हो कि तुमने पैथ रिपोर्ट नहीं पढ़ी?",
+      "You're telling me you didn't read the path report?"
+    ]
+  },
+  { "line": ["हाँ, सर।", "No, sir."] },
+  {
+    "line": [
+      "तो, तुम्हें यह जानकारी कहाँ से मिली?",
+      "So, where are you getting your information?"
+    ]
+  },
+  { "line": ["मैंने उसकी चोटें देखी थीं।", "I saw them."] },
+  { "line": ["तुमने उसकी चोटें देखी थीं?", "You saw them?"] },
+  { "line": ["मैं वहाँ सबसे पहले पहुँची थी।", "I was first responder."] },
+  {
+    "line": [
+      "जब मुझे मरिया मिली थी, तो बेशक़, मैंने उसकी नब्ज़ वगैरह देखी।",
+      "When I found Maria, naturally, I checked her vitals."
+    ]
+  },
+  { "line": ["तब मुझे वे दिखीं।", "I saw them."] },
+  { "line": ["मुझे उसकी चोटें दिखीं।", "I saw her injuries."] },
+  {
+    "line": [
+      "दो फीके पड़े चोटों के निशान। एक सेकंड से कम में।",
+      "Two faded injuries. Split second."
+    ]
+  },
+  {
+    "line": [
+      "दो कॉलर। चाकू से हुई मेल खाती हुईं चोटें।",
+      "Two callers. Matching stab wounds."
+    ]
+  },
+  {
+    "line": [
+      "क्या इससे संभावनाएँ ज़्यादा नहीं होतीं?",
+      "Does that shorten the odds at all?"
+    ]
+  },
+  { "line": ["चलो।", "Go."] },
+  {
+    "line": [
+      "बिना फ़ाउल किए जूझना। समझे, बस समय पर बॉल छीनना होगा।",
+      "Clean contact. Right, so it's all in the timing."
+    ]
+  },
+  { "line": ["तुम्हें... देखा?", "Gotta-- You see?"] },
+  { "line": ["ठीक है।", "Okay."] },
+  { "line": ["दोबारा कोशिश करो। यह बढ़िया है।", "Go again. That's perfect."] },
+  { "line": ["हाँ! यह बढ़िया है।", "Yes! That's great."] },
+  { "line": ["- दोबारा कोशिश करो। - ठीक है।", "- Try again. - Okay."] },
+  { "line": ["चलो। हाँ, यह बढ़िया है।", "Come on. Yeah, that's good."] },
+  {
+    "line": [
+      "यह क्या हो रहा है? अतिरिक्त प्रशिक्षण?",
+      "What's this? Extra training?"
+    ]
+  },
+  {
+    "line": [
+      "ठीक है। तो चलो। रुको। चलो।",
+      "Right. Come on then. Hold on. Right there."
+    ]
+  },
+  { "line": ["रुको। ठीक है, रुको। रुको।", "Wait. Okay, wait. Wait."] },
+  { "line": ["क्या गोल है!", "What a goal!"] },
+  { "line": ["तुम मुझसे ही सब सीखते हो।", "You learn everything from me."] },
+  {
+    "line": [
+      "- मुझसे ही सब सीखते हो। - माँ, यह फ़ाउल है।",
+      "- Everything from me. - Mum, it's a handball."
+    ]
+  },
+  {
+    "line": ["आप ख़ुद को शर्मिंदा कर रही हैं।", "You're embarrassing yourself."]
+  },
+  { "line": ["चलो दोबारा खेलें।", "Let's go again."] },
+  { "line": ["हैलो?", "Hello?"] },
+  { "line": ["तो, तुम्हारी इच्छा पूरी हुई।", "Well, you've got your wish."] },
+  {
+    "line": [
+      "मैं उद्धृत करता हूँ, 'इन असाधारण परिस्थितियों को देखते हुए।'",
+      "Given, I quote, 'The exceptional nature of the circumstances.'"
+    ]
+  },
+  { "line": ["कैदी बाहर आ रहा है।", "Prisoner coming out."] },
+  {
+    "line": [
+      "आपको संदिग्ध से पूछताछ करने की अनुमति है।",
+      "You are cleared to interview the suspect."
+    ]
+  },
+  { "line": ["धन्यवाद।", "Thank you."] },
+  {
+    "line": [
+      "हाँ, पर, पहले पूछताछ की योजना की समीक्षा होगी, समझी?",
+      "Yeah, but, the interview plan will be vetted in advance, all right?"
+    ]
+  },
+  { "line": ["ठीक है।", "Okay."] },
+  {
+    "line": [
+      "एडालेइड बरौज़ की हत्या का",
+      "Specific reference to the murder of Adelaide Burrowes"
+    ]
+  },
+  {
+    "line": [
+      "कोई ख़ास तौर पर ज़िक्र नहीं होगा। समझी?",
+      "is off-limits. Understood?"
+    ]
+  },
+  { "line": ["ठीक है।", "Fine."] },
+  {
+    "line": [
+      "उसके अलावा, तुम पूछताछ कर सकती हो।",
+      "Other than that, you're good to go."
+    ]
+  },
+  { "line": ["धन्यवाद, सर।", "Thank you, sir."] },
+  {
+    "line": [
+      "क्लाइव सिलकॉक्स, तुम मरिया डी सूज़ा की हत्या क़बूल कर चुके हो।",
+      "Clive Silcox, you've confessed to the murder of Maria De Souza."
+    ]
+  },
+  {
+    "line": [
+      "पर मैं आज यहाँ किसी और मामले में तुम्हारा सहयोग माँगने आई हूँ।",
+      "But I'm here today to ask for your cooperation with another matter."
+    ]
+  },
+  {
+    "line": [
+      "मार्च 2011 में, तुम 24बी लेक स्ट्रीट में रह रहे थे। है न?",
+      "In March 2011, you were residing at 24B Lake Street. Is that correct?"
+    ]
+  },
+  { "line": ["हाँ।", "Yeah."] },
+  { "line": ["इस आदमी को पहचानते हो?", "Do you recognize this man?"] },
+  { "line": ["इसे जानते हो?", "Do you know him?"] },
+  { "line": ["एरॉल।", "Errol."] },
+  {
+    "line": [
+      "एरॉल मैथिस। तुम एक साथ सेंट जोसेफ़्स में पढ़ते थे?",
+      "Errol Mathis. You went to St. Joseph's together?"
+    ]
+  },
+  { "line": ["हाँ।", "Yeah."] },
+  { "line": ["तुम इसके परिवार को जानते थे?", "You knew the family?"] },
+  { "line": ["हाँ।", "Right."] },
+  { "line": ["तुम जानते हो कि एरॉल मैथिस", "You're aware that Errol Mathis"] },
+  {
+    "line": [
+      "- एक लंबी सज़ा काट रहा है? - धन्यवाद।",
+      "- is serving a lengthy prison sentence? - Thanks."
+    ]
+  },
+  { "line": ["चौबीस साल, है न?", "Twenty-four years, right?"] },
+  { "line": ["हाँ। जानते हो वह कहाँ है?", "Correct. Do you know where?"] },
+  {
+    "line": [
+      "- वाइटक्रॉस में? - वाइटक्रॉस प्रिज़न में, हाँ, सही कहा।",
+      "- Whitecross? - Whitecross Prison, yeah, that's correct."
+    ]
+  },
+  { "line": ["- तो क्या हुआ? - डीएस लेंकर।", "- So what? - DS Lenker."] },
+  { "line": ["तुम्हें कारण पता है?", "Do you know why?"] },
+  { "line": ["हाँ।", "Yeah."] },
+  {
+    "line": [
+      "- माफ़ करना... - यह सब जानते हैं।",
+      "- Sorry-- - It's common knowledge."
+    ]
+  },
+  {
+    "line": [
+      "अगर तुम मेरे मुवक्किल को फाँसने की कोशिश कर रही हो...",
+      "If you're trying to entrap my client--"
+    ]
+  },
+  {
+    "line": [
+      "नहीं। मैं बस उसके मुँह से सुनना चाहती हूँ।",
+      "No. I just want him to say it."
+    ]
+  },
+  { "line": ["इसका नाम क्या है?", "What's her name?"] },
+  {
+    "line": [
+      "- ठीक है। - बताओ। इसका नाम बताओ।",
+      "- Right. - Say it. Say her name."
+    ]
+  },
+  {
+    "line": [
+      "मैं यह पूछताछ यहीं ख़त्म कर रही हूँ।",
+      "I am now terminating this interview."
+    ]
+  },
+  { "line": ["अभी समय हुआ है, 14:36।", "The time now is 14:36."] },
+  { "line": ["वह क्या बकवास कर रही थी?", "The fuck is she on about?"] },
+  {
+    "line": [
+      "- वह उन्हें जानता था। दोनों को जानता था। - जून।",
+      "- He knew 'em. He knew them both. - June."
+    ]
+  },
+  {
+    "line": [
+      "- डैन, क्या तुम... - नहीं। तुम ही बता दो।",
+      "- Dan, do you wanna-- - No. You go ahead."
+    ]
+  },
+  {
+    "line": [
+      "तुम्हारे अनुरोध के चलते, डीसीआई हैगर्टी ने",
+      "In light of your request, DCI Hegarty thought it prudent to go the extra mile"
+    ]
+  },
+  {
+    "line": [
+      "दोनों आपातकालीन कॉल का फॉरेंसिक विश्लेषण करवाया।",
+      "and run a complete forensic analysis on the two emergency calls."
+    ]
+  },
+  { "line": ["यह स्पष्ट है।", "It's definitive."] },
+  {
+    "line": [
+      "फ़ोनेटीशियन और इंजीनियर, दोनों एक ही निष्कर्ष पर पहुँचे।",
+      "The phonetician and the engineer both reached the same conclusion."
+    ]
+  },
+  {
+    "line": [
+      "भिन्न लहज़े। भिन्न स्वर ध्वनियाँ।",
+      "Different stresses. Different vowel sounds."
+    ]
+  },
+  { "line": ["भिन्न महिलाएँ।", "Different women."] },
+  {
+    "line": [
+      "- क्या? - इसमें कोई शक़ नहीं था।",
+      "- What? - There was absolutely no doubt."
+    ]
+  },
+  {
+    "line": [
+      "तुम्हारी हेज़ लेन कॉलर मरिया डी सूज़ा नहीं थी।",
+      "Your Hayes Lane caller was not Maria De Souza."
+    ]
+  },
+  {
+    "line": [
+      "क्लाइव सिलकॉक्स का इस पुरानी हत्या से कोई संबंध नहीं है।",
+      "There is nothing whatsoever to tie Clive Silcox to this old murder."
+    ]
+  },
+  { "line": ["समझी?", "Yes?"] },
+  { "line": ["सहमत हो?", "Agreed?"] },
+  {
+    "line": [
+      "चलो इस बात को अब यहीं ख़त्म करें।",
+      "Let's put it to bed once and for all."
+    ]
+  },
+  { "line": ["ठीक है?", "All right?"] },
+  {
+    "line": [
+      "तुम्हें क्या समस्या है? मेरा मतलब, क्लोई को देखो।",
+      "What is it with you? I mean, look at Chloe."
+    ]
+  },
+  { "line": ["उसे कोई समस्या नहीं है।", "She hasn't got a problem."] },
+  { "line": ["वह बस अपना काम करती है।", "She just gets on with it."] },
+  {
+    "line": [
+      "और प्रोफ़ेशनल स्टैंडर्ड्स का क्या? तुमने उनका जवाब दिया? नहीं?",
+      "And what about Professional Standards? You got back to them? No?"
+    ]
+  },
+  { "line": ["तो तुरंत जवाब दो।", "Get on with it."] },
+  {
+    "line": [
+      "वे तुम पर अनुचित आचरण का आरोप लगा देंगे।",
+      "They'll be on you for misconduct."
+    ]
+  },
+  { "line": ["जून।", "June."] },
+  { "line": ["वह सही था। मैं ग़लत थी।", "He was right. I was wrong."] },
+  { "line": ["धत्। मुझे इससे नफ़रत है।", "Fuck. I fucking hate that."] },
+  { "line": ["देखो...", "Look..."] },
+  { "line": ["एक अफ़वाह है।", "There's a rumor."] },
+  {
+    "line": [
+      "जिस दिन सिलकॉक्स ने मरिया डी सूज़ा की हत्या की, उसके अगले दिन...",
+      "The day after Silcox murdered Maria De Souza..."
+    ]
+  },
+  {
+    "line": [
+      "हैगर्टी ने रातों-रात उन दो कॉल की फॉरेंसिक रिपोर्ट मँगवाई थी।",
+      "Hegarty had that forensic report on the two calls fast-tracked overnight."
+    ]
+  },
+  { "line": ["क्या?", "What?"] },
+  {
+    "line": [
+      "उसे पता था कि वे दोनों कॉलर अलग थीं और उसने...",
+      "He knew the two callers were different and he--"
+    ]
+  },
+  { "line": ["उसने रिपोर्ट छुपाए रखी।", "He sat on the report."] },
+  { "line": ["रुको।", "Wait."] },
+  { "line": ["वह मीटिंग।", "That whole meeting."] },
+  { "line": ["पूछताछ के लिए सहमत होना।", "Agreeing to the interview."] },
+  { "line": ["क्यों? उसने ऐसा क्यों किया?", "Why? Why would he do that?"] },
+  {
+    "line": [
+      "कभी एक अच्छी आपदा को व्यर्थ मत जाने दो।",
+      "Never waste a good crisis."
+    ]
+  },
+  { "line": ["उसने मुझे बेवकूफ़ बनाया।", "He played me."] },
+  {
+    "line": [
+      "वह एक जाल था और मैं सीधे फँस गई।",
+      "It was a trap and I walked right into it."
+    ]
+  },
+  {
+    "line": [
+      "उसे लगता है, इतनी बुरी मात दो कि सामने वाला इंसान दोबारा खड़ा न हो सके।",
+      "He thinks, knock me down so hard I won't get back up again."
+    ]
+  },
+  { "line": ["नहीं।", "No."] },
+  { "line": ["नहीं।", "No."] },
+  { "line": ["मैं वैसी नहीं हूँ।", "Not me."] },
+  {
+    "line": [
+      "काफ़ी समय पहले उसकी एक गर्लफ्रेंड थी।",
+      "He had a girlfriend, long time ago. Same like me."
+    ]
+  },
+  {
+    "line": [
+      "उसने कहा, 'बेवकूफ़ कमीनी। कभी नहीं सुनती थी।'",
+      "He said, 'Dumb bitch. Never listen.'"
+    ]
+  },
+  {
+    "line": [
+      "वह कभी उसे ख़ुश नहीं रखती थी।",
+      "Never keep him, you know, happy."
+    ]
+  },
+  {
+    "line": [
+      "मेरे बॉयफ़्रेंड ने उसे उसी चाकू से कई बार घोंपा जिससे मुझ पर हमला किया।",
+      "He stabbed her many, many times with the same knife he put in me."
+    ]
+  },
+  {
+    "line": [
+      "जेल में एक आदमी है जो उसकी हत्या के लिए 24 साल की सज़ा काट रहा है।",
+      "There's a man in prison doing 24 years for killing her."
+    ]
+  },
+  {
+    "line": [
+      "और वह कहता रहता है कि यह आदमी जो वाइटक्रॉस में है...",
+      "And he keeps saying this guy in Whitecross--"
+    ]
+  },
+  {
+    "line": [
+      "उसने कहा कि वह इतना बेवकूफ़ है और...",
+      "He says he's such a loser and that--"
+    ]
+  },
+  { "line": ["यह कब की बात है?", "When was this?"] },
+  { "line": ["पिछले मंगलवार की।", "Last Tuesday."] },
+  {
+    "line": [
+      "सुनो, ये कॉल गोपनीय हैं।",
+      "Listen, these calls are confidential."
+    ]
+  },
+  {
+    "line": [
+      "अगर तुमने इसके बारे में किसी को बताया, तो वे मुझे बर्बाद कर देंगे।",
+      "If you tell anyone about this, they will fucking destroy me."
+    ]
+  },
+  { "line": ["यह लो।", "Here."] },
+  { "line": ["मुझे लगा था कि तुम मुस्लिम हो।", "I thought you were Muslim."] },
+  {
+    "line": [
+      "मैं सिख हूँ, बेवकूफ़। सिंह? सोन्या सिंह?",
+      "I'm Sikh, you knob. Singh? Sonya Singh?"
+    ]
+  },
+  {
+    "line": [
+      "हम शराब पीने में काफ़ी माहिर हैं।",
+      "We drink this shit like it's Lucozade."
+    ]
+  },
+  { "line": ["ठीक है। तुम ग़लत थी।", "All right. You were wrong."] },
+  {
+    "line": [
+      "तुम युद्ध हार गई, बू-हू।",
+      "You lost the battle, boo-fucking-hoo."
+    ]
+  },
+  { "line": ["पर पता है क्या?", "You know what?"] },
+  { "line": ["वह ज़िंदा है।", "She's alive."] },
+  {
+    "line": [
+      "वह इकलौती इंसान है जो एरॉल की मदद कर सकती है और वह ज़िंदा है।",
+      "She's the one person who can help Errol and she is alive."
+    ]
+  },
+  { "line": ["हाँ।", "Yeah."] },
+  { "line": ["और हम उसे ढूँढकर ही रहेंगे।", "And we're gonna find her. "] }
+]
