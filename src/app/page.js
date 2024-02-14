@@ -36,7 +36,11 @@ export default function Home() {
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014">The Fault In Our Stars 2014</Link></li>
             <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li>            
           </ul>
-          <ul>          
+          <ul>        
+          <li><span className='season-name'>The new look</span> - 
+              <Link href="/english/season/the-new-look/S01E01">S01E01 </Link>
+              <Link href="/english/season/the-new-look/S01E02">S01E02 </Link>
+            </li>
           <li><span className='season-name'>Masters of the Air</span> - 
               <Link href="/english/season/masters-of-the-air/S01E01">S01E01 </Link>
               <Link href="/english/season/masters-of-the-air/S01E02">S01E02 </Link> 
