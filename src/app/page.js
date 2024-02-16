@@ -45,7 +45,8 @@ export default function Home() {
               <Link href="/english/season/masters-of-the-air/S01E01">S01E01 </Link>
               <Link href="/english/season/masters-of-the-air/S01E02">S01E02 </Link> 
               <Link href="/english/season/masters-of-the-air/S01E03">S01E03 </Link> 
-              <Link href="/english/season/masters-of-the-air/S01E04">S01E04 </Link> 
+              <Link href="/english/season/masters-of-the-air/S01E04">S01E04 </Link>
+              <Link href="/english/season/masters-of-the-air/S01E05">S01E05 </Link> 
             </li>
             <li><span className='season-name'>Reacher</span> - 
               <Link href="/english/season/reacher/s02e01">S01E01 </Link>
