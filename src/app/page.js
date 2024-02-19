@@ -40,6 +40,9 @@ export default function Home() {
             <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li>            
           </ul>
           <ul>        
+          <li><span className='season-name'>Slow horses</span> - 
+              <Link href="/english/season/slow-horses/S01E01">S01E01 </Link>
+            </li>
           <li><span className='season-name'>The new look</span> - 
               <Link href="/english/season/the-new-look/S01E01">S01E01 </Link>
               <Link href="/english/season/the-new-look/S01E02">S01E02 </Link>

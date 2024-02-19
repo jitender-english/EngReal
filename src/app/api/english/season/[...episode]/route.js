@@ -1,4 +1,6 @@
 //import { promises as fs } from 'fs';
+import slowHorses01e01 from "@/json/english/season/slow-horses/S01E01.json";
+
 import theNewLook01e01 from "@/json/english/season/the-new-look/S01E01.json";
 import theNewLook01e02 from "@/json/english/season/the-new-look/S01E02.json";
 
@@ -51,10 +53,12 @@ export async function GET(request, {episode}) {
     return Response.json(siloS01E02);
   } else if(request.nextUrl.pathname === "/api/english/season/silo/S01E03"){
     return Response.json(siloS01E03);
-  }  else if(request.nextUrl.pathname === "/api/english/season/the-new-look/S01E01"){
+  } else if(request.nextUrl.pathname === "/api/english/season/the-new-look/S01E01"){
     return Response.json(theNewLook01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/the-new-look/S01E02"){
     return Response.json(theNewLook01e02);
+  } else if(request.nextUrl.pathname === "/api/english/season/slow-horses/S01E01"){
+    return Response.json(slowHorses01e01);
   } 
 
   return Response.json([]);
