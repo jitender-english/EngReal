@@ -32,6 +32,8 @@ export default function Home() {
             <p className='ffSeg fs14'>Learn english listening and speaking by english movie and season</p>
           </header>
           <ul>
+          
+          <li><Link href="/english/movie/the-family-plan-2023">The family plan 2023</Link></li>
           <li><Link href="/english/movie/this-is-me-now-2024">This is me now 2024</Link></li>
             <li><Link href="/english/movie/upgraded-2024">Upgraded 2024</Link></li>
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014">The Fault In Our Stars 2014</Link></li>
