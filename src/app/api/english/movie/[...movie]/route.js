@@ -5,6 +5,7 @@ import ThisIsMeNow2024 from "@/json/english/movie/this-is-me-now-2024.json";
 import TheFaultInOurStars2014 from "@/json/english/movie/The-Fault-In-Our-Stars-2014.json";
 import orionAndTheDark2024 from "@/json/english/movie/orion-and-the-dark-2024.json";
 import upgraded2024 from "@/json/english/movie/upgraded-2024.json";
+import luck2022 from "@/json/english/movie/luck-2022.json";
 
 
 export async function GET(request, {episode}) {
@@ -21,6 +22,8 @@ export async function GET(request, {episode}) {
     return Response.json(ThisIsMeNow2024);
   } else if(request.nextUrl.pathname === "/api/english/movie/the-family-plan-2023"){
     return Response.json(theFamilyPlan2023);
+  } else if(request.nextUrl.pathname === "/api/english/movie/luck-2022"){
+    return Response.json(luck2022);
   }
 
   return Response.json([]);

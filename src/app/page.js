@@ -37,7 +37,9 @@ export default function Home() {
           <li><Link href="/english/movie/this-is-me-now-2024">This is me now 2024</Link></li>
             <li><Link href="/english/movie/upgraded-2024">Upgraded 2024</Link></li>
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014">The Fault In Our Stars 2014</Link></li>
-            <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li>            
+            <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li> 
+            <li><Link href="/english/movie/luck-2022">Luck 2022</Link></li>
+                     
           </ul>
           <ul>
           <li><span className='season-name'>Constellation</span> - 
