@@ -1,0 +1,1500 @@
+[
+  { "line": ["Alice, baby, talk to me.", "ऐलिस, जान, मुझसे बात करो।"] },
+  { "line": ["You gotta stay awake.", "तुम्हें जगे रहना होगा।"] },
+  { "line": ["Can't fall asleep. Alice!", "तुम सो नहीं सकती। ऐलिस!"] },
+  { "line": ["How did you get there?", "तुम वहाँ कैसे पहुँची?"] },
+  { "line": ["Alice? Baby?", "ऐलिस? जान?"] },
+  { "line": ["My baby.", "मेरी बच्ची।"] },
+  { "line": ["Are you a ghost?", "क्या आप भूत हैं?"] },
+  { "line": ["Mummy's gonna be right back, okay?", "माँ अभी लौटेगी, ठीक है?"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Everything's gonna be okay.", "सब ठीक हो जाएगा।"] },
+  { "line": ["Mummy's gonna take care of you.", "माँ तुम्हारी देखभाल करेगी।"] },
+  { "line": ["My love.", "मेरी जान।"] },
+  {
+    "line": ["You smell like you again.", "तुमसे फिर से तुम जैसी महक आ रही है।"]
+  },
+  {
+    "line": ["Who else should I smell like?", "मुझसे और किसकी महक आनी चाहिए?"]
+  },
+  {
+    "line": [
+      "This might sting a little bit.",
+      "इससे थोड़ा सा दर्द महसूस हो सकता है।"
+    ]
+  },
+  { "line": ["But it's gonna get you warm.", "पर यह तुम्हें गर्म रखेगा।"] },
+  { "line": ["Mamma...", "माँ..."] },
+  { "line": ["I missed you.", "मुझे आपकी काफ़ी याद आई थी।"] },
+  { "line": ["I missed you too.", "मुझे भी।"] },
+  {
+    "line": [
+      "Oh, no. We're out of hot water.",
+      "अरे, नहीं। गर्म पानी ख़त्म हो गया।"
+    ]
+  },
+  {
+    "line": ["I'm gonna boil you some more.", "मैं और थोड़ा उबाल कर लाती हूँ।"]
+  },
+  { "line": ["Don't go.", "मत जाइए।"] },
+  { "line": ["Mamma. I'm cold.", "माँ। मुझे ठंड लग रही है।"] },
+  { "line": ["Mummy?", "माँ?"] },
+  { "line": ["Alice?", "ऐलिस?"] },
+  { "line": ["Alice?", "ऐलिस?"] },
+  { "line": ["Where are you?", "तुम कहाँ हो?"] },
+  { "line": ["- Where's-- - I'm here.", "- कहाँ... - मैं यहाँ हूँ।"] },
+  { "line": ["What's the matter?", "क्या हुआ?"] },
+  { "line": ["Where is she?", "वह कहाँ है?"] },
+  { "line": ["Who?", "कौन?"] },
+  {
+    "line": [
+      "TsUP, this is Station. Do you copy?",
+      "सुप, यह स्टेशन है। तुम सुन रहे हो?"
+    ]
+  },
+  { "line": ["Can you hear me?", "क्या तुम मुझे सुन सकते हो?"] },
+  { "line": ["I've lost time.", "मैंने समय गँवा दिया।"] },
+  { "line": ["I've lost hours.", "मैंने कई घंटे गँवा दिए।"] },
+  {
+    "line": [
+      "I think my blood oxygen is low.",
+      "शायद मेरे ख़ून में ऑक्सीजन की कमी हुई है।"
+    ]
+  },
+  { "line": ["I passed out in--", "मैं बेहोश हो गई थी..."] },
+  {
+    "line": [
+      "Remaining life support, six hours 45 minutes.",
+      "शेष लाइफ़ सपोर्ट, छह घंटे और 45 मिनट।"
+    ]
+  },
+  { "line": ["Major Lysenko.", "मेजर लिसेन्को।"] },
+  { "line": ["Commander Caldera.", "कमांडर कॉल्डैरा।"] },
+  {
+    "line": [
+      "You make me feel obscurely better.",
+      "तुम मुझे अस्पष्ट रूप से बेहतर महसूस कराते हो।"
+    ]
+  },
+  { "line": ["You always say that,", "तुम हमेशा यही कहती हो,"] },
+  {
+    "line": [
+      "but I never know if it's true.",
+      "पर कभी समझ नहीं आता कि यह सच है या झूठ।"
+    ]
+  },
+  {
+    "line": [
+      "I have equipment here that immediately needs to go",
+      "मेरे पास यहाँ ऐसे उपकरण हैं जिन्हें तुरंत सोयूज़ वन के"
+    ]
+  },
+  {
+    "line": [
+      "with search and rescue for Soyuz 1.",
+      "खोज-बचाव दल के साथ भेजना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "It is not certain that there will be a search and rescue for Soyuz 1.",
+      "यह निश्चित नहीं है कि सोयूज़ वन की खोज और बचाव किया जाएगा।"
+    ]
+  },
+  { "line": ["Why?", "क्यों?"] },
+  { "line": ["There is no sign of life.", "जीवन का कोई संकेत नहीं है।"] },
+  { "line": ["Let's go.", "चलो चलें।"] },
+  { "line": ["Okay. Do it.", "ठीक है। यह करो।"] },
+  { "line": ["It's gonna work.", "यह काम करेगा।"] },
+  { "line": ["Nice and steady.", "आराम से।"] },
+  { "line": ["Nice and ste--", "आराम से..."] },
+  { "line": ["Yes.", "हाँ।"] },
+  {
+    "line": [
+      "I don't know if you can hear me in the blind.",
+      "मुझे तो कुछ सुनाई नहीं दे रहा है, पर पता नहीं तुम सुन सकते हो या नहीं।"
+    ]
+  },
+  { "line": ["This is Station.", "यह स्टेशन है।"] },
+  {
+    "line": [
+      "That's battery two transferred to Soyuz.",
+      "मैंने दूसरी बैटरी सोयूज़ में लगा दी है।"
+    ]
+  },
+  {
+    "line": [
+      "It's taken approximately 55 minutes to switch one battery.",
+      "एक बैटरी बदलने में लगभग 55 मिनट लगे।"
+    ]
+  },
+  { "line": ["I have four left.", "मेरे पास और चार बची हैं।"] },
+  {
+    "line": [
+      "And then 90 minutes undocking procedure.",
+      "और फिर अनडॉकिंग प्रक्रिया में 90 मिनट लगेंगे।"
+    ]
+  },
+  { "line": ["Oh, shit.", "अरे, धत्।"] },
+  { "line": ["Hello?", "हैलो?"] },
+  { "line": ["Can anyone hear me?", "क्या कोई मुझे सुन सकता है?"] },
+  { "line": ["This is Station.", "यह स्टेशन है।"] },
+  { "line": ["I'm afraid of the dark.", "मुझे अँधेरे से डर लग रहा है।"] },
+  { "line": ["There are other rockets, right?", "अन्य रॉकेट भी हैं, है न?"] },
+  {
+    "line": [
+      "I mean, there's all those insane billionaires. StarCosm. Yes?",
+      "मेरा मतलब, वे सभी पागल अरबपति भी हैं। स्टारकॉज़म। हाँ?"
+    ]
+  },
+  {
+    "line": [
+      "Even if StarCosm went crazy, there--",
+      "अगर स्टारकॉज़म सहमत हुआ भी, तो भी..."
+    ]
+  },
+  {
+    "line": [
+      "there's no way they'd launch in under a day.",
+      "तो भी वे एक ही दिन में लॉन्च नहीं करेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "And she doesn't have a day. She has a few hours.",
+      "और उसके पास एक दिन नहीं है। उसके पास बस कुछ घंटे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "There must be a way for her to get back.",
+      "पक्का उसके पास वापस लौटने का कोई तो ज़रिया होगा।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, that has to be possible.",
+      "मेरा मतलब, यह संभव होना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "They didn't manage to send her the deorbit parameters in time.",
+      "वे हम उसे समय पर डिऑर्बिट पैरामीटर नहीं भेज सके।"
+    ]
+  },
+  {
+    "line": [
+      "I don't know-- What is a deorbit parameter, Frederic?",
+      "पता नहीं... डीऑर्बिट पैरामीटर क्या होता है, फ़्रेडरिक?"
+    ]
+  },
+  {
+    "line": [
+      "Meaning even if she fixes the capsule,",
+      "मतलब अगर वह कैप्सूल ठीक कर भी ले,"
+    ]
+  },
+  {
+    "line": [
+      "she's going to have to calculate her own reentry.",
+      "तो भी उसे अपनी पुनः प्रविष्टि की गणना ख़ुद करनी होगी।"
+    ]
+  },
+  { "line": ["This is very dangerous.", "यह बेहद ख़तरनाक है।"] },
+  {
+    "line": [
+      "But this is what she's trained for.",
+      "पर उसे इसी के लिए प्रशिक्षित किया गया है।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, you trained her for four years.",
+      "मेरा मतलब, तुमने उसे चार साल प्रशिक्षण दिया।"
+    ]
+  },
+  { "line": ["Yes?", "है न?"] },
+  {
+    "line": ["Oh, for God's sake, don't you cry.", "अरे, भगवान के लिए, मत रोओ।"]
+  },
+  {
+    "line": [
+      "Don't you sit there crying, for fuck's sake.",
+      "हद है, यहाँ बैठकर मत रोओ।"
+    ]
+  },
+  { "line": ["- Wendy! - Coming!", "- वेंडी! - आ रही हूँ!"] },
+  {
+    "line": [
+      "- Bye, Alice. - See you later.",
+      "- अलविदा, ऐलिस। - बाद में मिलेंगे।"
+    ]
+  },
+  { "line": ["Alice...", "ऐलिस..."] },
+  { "line": ["You done?", "खेलना हो गया?"] },
+  {
+    "line": [
+      "I just need to talk to the others before they leave.",
+      "इससे पहले कि वे चले जाएँ, मुझे अन्य लोगों से बात करनी है।"
+    ]
+  },
+  { "line": ["Is she dead?", "क्या वह मर चुकी हैं?"] },
+  { "line": ["No.", "नहीं।"] },
+  {
+    "line": [
+      "She doesn't have a lot of time though.",
+      "पर उनके पास ज़्यादा समय नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "She's not dead until we know that she's dead, is she?",
+      "वह तब तक मरी हुई नहीं हैं जब तक मरने की जानकारी नहीं मिलती, है न?"
+    ]
+  },
+  { "line": ["No.", "हाँ।"] },
+  { "line": ["I love you, kiddo.", "मुझे तुमसे प्यार है, जान।"] },
+  { "line": ["Hey, baby. Hey, Magnus.", "ए, जान। ए, मैग्नस।"] },
+  {
+    "line": [
+      "I thought I'd record something since I can't talk to you guys.",
+      "मैंने सोचा कि चूँकि मैं तुम लोगों से बात नहीं कर सकती, मैं कुछ रिकॉर्ड कर लूँ।"
+    ]
+  },
+  {
+    "line": [
+      "Okay, so I gotta fix all this stuff so I can get home.",
+      "ठीक है, तो मुझे ये सारी चीज़ें ठीक करनी होंगी ताकि मैं घर लौट सकूँ।"
+    ]
+  },
+  {
+    "line": [
+      "It's nice to hear a voice...",
+      "किसी की आवाज़ सुनकर अच्छा लग रहा है..."
+    ]
+  },
+  {
+    "line": ["even if it's just my own.", "भले ही वह मेरी अपनी ही क्यों न हो।"]
+  },
+  { "line": ["Yes.", "हाँ।"] },
+  { "line": ["This is the third.", "यह तीसरी है।"] },
+  { "line": ["Kind of need to hurry up.", "मुझे थोड़ी जल्दबाज़ी करनी होगी।"] },
+  {
+    "line": [
+      "...is the third. Kind of need to hurry up.",
+      "...तीसरी है। मुझे थोड़ी जल्दबाज़ी करनी होगी।"
+    ]
+  },
+  { "line": ["...is the third.", "...तीसरी है।"] },
+  { "line": ["Kind of need to hurry up.", "मुझे थोड़ी जल्दबाज़ी करनी होगी।"] },
+  { "line": ["You gotta stop breathing.", "तुम्हें साँस लेना बंद करना होगा।"] },
+  { "line": ["Stop breathing, Jo.", "साँस लेना बंद करो, जो।"] },
+  { "line": ["You stay in Destiny.", "तुम डेस्टिनी में रहो।"] },
+  { "line": ["Paul?", "पॉल?"] },
+  {
+    "line": ["What the hell are StarCosm doing?", "स्टारकॉज़म क्या कर रहे हैं?"]
+  },
+  {
+    "line": [
+      "We're talking to Alyanna. They are scrambling,",
+      "हम एलियाना से बात कर रहे हैं। वे तेज़ी से काम कर रहे हैं,"
+    ]
+  },
+  {
+    "line": [
+      "but, Henry, she'll be dead by then.",
+      "पर, हेनरी, तब तक वह मर चुकी होगी।"
+    ]
+  },
+  {
+    "line": [
+      "That's a third of a billion dollars to retrieve two dead bodies",
+      "दो लाशों और कुछ प्रायोगिक उपकरणों को वापस हासिल करने के लिए"
+    ]
+  },
+  {
+    "line": [
+      "and some experimental equipment.",
+      "एक अरब डॉलर का एक तिहाई खर्चा होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Some experimental equipment, Michaela?",
+      "कुछ प्रायोगिक उपकरण, मिकेला?"
+    ]
+  },
+  {
+    "line": [
+      "It's a highly significant piece of research.",
+      "वह शोध का एक बेहद महत्वपूर्ण हिस्सा है।"
+    ]
+  },
+  {
+    "line": [
+      "Not only for our understanding of the theoretical universe,",
+      "न केवल सैद्धांतिक ब्रह्मांड की हमारी समझ के लिए,"
+    ]
+  },
+  {
+    "line": [
+      "but also for about a thousand different practical applications",
+      "बल्कि लगभग एक हज़ार विभिन्न व्यावहारिक अनुप्रयोगों के लिए भी,"
+    ]
+  },
+  {
+    "line": [
+      "that can make a fundamental difference to life on this planet.",
+      "जिनसे इस ग्रह पर जीवन में एक मौलिक अंतर आ सकता है।"
+    ]
+  },
+  {
+    "line": [
+      "The science cannot trump the people, Henry.",
+      "विज्ञान इंसानों से ज़्यादा महत्वपूर्ण नहीं हो सकता, हेनरी।"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Station, this is TsUP.", "स्टेशन, यह सुप है।"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Hi. Read loud and clear.", "हैलो। मुझे साफ़ सुनाई दे रहा है।"] },
+  {
+    "line": [
+      "Any chance for a chat with my family today?",
+      "क्या आज मेरे परिवार के साथ बातचीत करने की कोई गुंजाइश है?"
+    ]
+  },
+  { "line": ["Station, this is TsUP.", "स्टेशन, यह सुप है।"] },
+  {
+    "line": ["This is a recorded message.", "यह एक रिकॉर्ड किया हुआ संदेश है।"]
+  },
+  {
+    "line": [
+      "We have S-band failure and cannot hear you.",
+      "एस-बैंड विफल हो गया है और हम तुम्हें सुन नहीं पा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "- Open all bands for local transmission. - Christ.",
+      "- स्थानीय प्रसारण के लिए सभी बैंड खोल दो। - हे भगवान।"
+    ]
+  },
+  {
+    "line": [
+      "We're attempting to upload your deorbit parameters.",
+      "हम तुम्हारे डिऑर्बिट पैरामीटर अपलोड करने की कोशिश कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "RPL requests that you retrieve CAL data core.",
+      "जेपीएल सीएएल डेटा कोर हासिल करने को कह रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "Restore full power to Soyuz 1.",
+      "सोयूज़ वन में संपूर्ण ऊर्जा बहाल करो।"
+    ]
+  },
+  {
+    "line": [
+      "Initiate undock as soon as possible.",
+      "जितनी जल्दी हो सके अनडॉक शुरू करो।"
+    ]
+  },
+  {
+    "line": [
+      "You have approximately two hours and 30 minutes of life support",
+      "तुम्हारे पास 15/10 को 9:38 बजे, लगभग दो घंटे और 30 मिनटों का"
+    ]
+  },
+  { "line": ["as of 9:38 on 10/15.", "लाइफ़ सपोर्ट बचा है।"] },
+  { "line": ["Come on.", "चलो भी।"] },
+  {
+    "line": [
+      "Station, this is TsUP. This is a recorded message.",
+      "स्टेशन, यह सुप है। यह एक रिकॉर्ड किया हुआ संदेश है।"
+    ]
+  },
+  {
+    "line": [
+      "- You open on loops one and four? - Sure we did.",
+      "- तुम लूप एक और चार पर सक्रीय हो? - हाँ।"
+    ]
+  },
+  {
+    "line": [
+      "There is nothing near her, not from us.",
+      "हमारी तरफ़ से, उसके क़रीब कुछ भी नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "We don't put satellites in the vicinity of the ISS.",
+      "हम आईएसएस के आस-पास सैटेलाइट नहीं रखते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Between you and me, the US Air Force has moveable satellites.",
+      "यह हमारे बीच रहेगा, यूएस एयर फ़ोर्स के पास स्थानान्तरणीय सैटेलाइट हैं।"
+    ]
+  },
+  {
+    "line": [
+      "I've requested that they put them higher.",
+      "मैंने अनुरोध किया है कि वे उन्हें थोड़ी ऊँचाई पर भेजें।"
+    ]
+  },
+  { "line": ["We know that, Henry,", "हम यह जानते हैं, हेनरी,"] },
+  {
+    "line": [
+      "but moving them closer isn't going to help reach her.",
+      "पर उन्हें क़रीब भेजकर उस तक पहुँच नहीं सकेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "If the damage is too significant, she may not be able to hear anyone.",
+      "अगर क्षति ज़्यादा हुई है, तो वह किसी को भी सुनने में सक्षम नहीं होगी।"
+    ]
+  },
+  {
+    "line": [
+      "Commander Caldera, you have a call from Skagerrak Marine Observatory.",
+      "कमांडर कॉल्डैरा, आपके लिए स्कागराक मरीन ऑब्ज़र्वेटरी से फ़ोन है।"
+    ]
+  },
+  { "line": ["Oh, Christ.", "हे भगवान।"] },
+  { "line": ["Skagerrak?", "स्कागराक?"] },
+  { "line": ["Don't look at me like that.", "मुझे ऐसे मत देखो।"] },
+  {
+    "line": [
+      "I'm not losing the CAL. I am not losing her.",
+      "मैं सीएएल नहीं खोऊँगा। मैं जो को नहीं खोऊँगा।"
+    ]
+  },
+  { "line": ["That is not what happens.", "ऐसा नहीं होगा।"] },
+  {
+    "line": [
+      "Station, TsUP. This is a recorded message.",
+      "स्टेशन, सुप। यह एक रिकॉर्ड किया हुआ संदेश है।"
+    ]
+  },
+  {
+    "line": [
+      "We have S-band failure and cannot hear you.",
+      "एस-बैंड विफल हो गया है और हम तुम्हें सुन नहीं पा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "You heard from your sister?",
+      "तुम्हारी बहन ने तुमसे संपर्क किया?"
+    ]
+  },
+  {
+    "line": [
+      "I think you know that she has passed away.",
+      "शायद तुम्हें पता है कि वह गुज़र चुकी है।"
+    ]
+  },
+  {
+    "line": [
+      "Have you heard from your brother?",
+      "तुम्हारे भाई ने तुमसे संपर्क किया?"
+    ]
+  },
+  { "line": ["Not in many years.", "कई सालों से नहीं किया।"] },
+  { "line": ["Thank God.", "शुक्र है।"] },
+  { "line": ["...as we wait to find out", "...जबकि हम यह जानने का"] },
+  {
+    "line": [
+      "what's become of the astronaut still left on the International Space Station",
+      "इंतज़ार कर रहे हैं कि इंटरनेशनल स्पेस स्टेशन में अब भी अकेली बची एस्ट्रोनॉट का क्या हुआ..."
+    ]
+  },
+  {
+    "line": [
+      "now literally the loneliest person in the universe.",
+      "...जो अब सच में ब्रह्मांड की सबसे अकेली इंसान है।"
+    ]
+  },
+  {
+    "line": [
+      "With me is retired astronaut Bud Caldera.",
+      "मेरे साथ हैं सेवानिवृत्त एस्ट्रोनॉट, बड कॉल्डैरा।"
+    ]
+  },
+  {
+    "line": [
+      "Commander, what happens when the structure of the ISS is damaged in such a way?",
+      "कमांडर, क्या होता है जब आईएसएस का ढांचा इस तरह से क्षतिग्रस्त होता है?"
+    ]
+  },
+  {
+    "line": [
+      "That would lead to what is called a 'depress.'",
+      "इससे वह होता है जिसे 'दबाव कम होना' कहते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Depressurization of the various modules on the ISS.",
+      "यानी आईएसएस के विभिन्न मॉड्यूल में दबाव कम होने लगता है।"
+    ]
+  },
+  {
+    "line": [
+      "That's pretty much the most serious thing that can happen.",
+      "यह काफ़ी हद तक सबसे गंभीर दुर्घटना है जो घट सकती है।"
+    ]
+  },
+  {
+    "line": [
+      "Just talk through what would be taking place up there",
+      "बस हमें समझाइए कि वहाँ ऊपर उस अकेली बची एस्ट्रोनॉट के साथ"
+    ]
+  },
+  { "line": ["with the astronaut that's left.", "क्या हो रहा होगा।"] },
+  {
+    "line": ["Well, it goes by protocol.", "दरअसल, सब नियमों के अनुसार होगा।"]
+  },
+  {
+    "line": [
+      "We have these flip-books with checklists,",
+      "हमारे पास चेकलिस्ट वाली ये फ़्लिप-बुक हैं"
+    ]
+  },
+  {
+    "line": [
+      "and we prepare pretty much every scenario during training.",
+      "और हम प्रशिक्षण के दौरान हर तरह के परिदृश्य के लिए तैयारी करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "So even if it's an unusual situation, they'll be working according to a scheme.",
+      "इसलिए भले ही यह एक असामान्य स्थिति हो, वे एक योजना के तहत काम कर रहे होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "But you have experience of what can happen if something goes wrong up there.",
+      "पर आपको इसका अनुभव है कि अगर वहाँ ऊपर कुछ ग़लत हो, तो क्या हो सकता है।"
+    ]
+  },
+  { "line": ["Sure.", "ज़रूर।"] },
+  {
+    "line": [
+      "It must bring back some memories for you.",
+      "पक्का इससे आपकी पुरानी यादें ताज़ा हो गई होंगी।"
+    ]
+  },
+  { "line": ["No, I'm not looking for--", "नहीं, मैं नहीं..."] },
+  {
+    "line": [
+      "I don't spend my time bringing up memories.",
+      "मैं पुरानी चीज़ें याद करके अपना समय नहीं गँवाता हूँ।"
+    ]
+  },
+  { "line": ["But you do have experience", "पर आपको इसका अनुभव है"] },
+  {
+    "line": [
+      "on what it's like to bring bodies back home.",
+      "कि लाशों को घर वापस लाना कैसा महसूस होता है।"
+    ]
+  },
+  {
+    "line": [
+      "That's not a question. That's an observation.",
+      "यह कोई सवाल नहीं है। यह एक टिप्पणी है।"
+    ]
+  },
+  {
+    "line": [
+      "Can you maybe just tell me a little",
+      "क्या आप मुझे बस इस बारे में थोड़ा बता सकते हैं"
+    ]
+  },
+  {
+    "line": [
+      "about what you imagine they must be feeling right now?",
+      "कि आपको क्या लगता है कि अभी वे कैसा महसूस कर रहे होंगे?"
+    ]
+  },
+  {
+    "line": [
+      "Yeah, and why the hell should I do that?",
+      "हाँ, और मैं यह क्यों करूँ?"
+    ]
+  },
+  {
+    "line": [
+      "And you instruct me on what's 'a little'?",
+      "और तुम मुझे बताओ कि 'थोड़ा' क्या है?"
+    ]
+  },
+  {
+    "line": [
+      "I don't get paid to use my goddamn imagination.",
+      "मुझे अपनी कमबख़्त कल्पना का इस्तेमाल करने के लिए पैसे नहीं मिलते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Henry Caldera, many thanks.",
+      "हेनरी कॉल्डैरा, बहुत-बहुत धन्यवाद।"
+    ]
+  },
+  {
+    "line": [
+      "It's Bud! Bud Caldera, for Christ's sakes!",
+      "मेरा नाम बड है! भगवान के लिए, बड कॉल्डैरा!"
+    ]
+  },
+  { "line": ["Fuck.", "धत्।"] },
+  {
+    "line": ["TsUP, this is Station. Come in.", "सुप, यह स्टेशन है। जवाब दो।"]
+  },
+  { "line": ["Okay.", "ठीक है।"] },
+  {
+    "line": [
+      "So that is power fully restored to Soyuz 1.",
+      "तो सोयूज़ वन में पूरी तरह से ऊर्जा बहाल हो गई है।।"
+    ]
+  },
+  {
+    "line": [
+      "- Station, this is TsUP. - This is Station. Come in.",
+      "- स्टेशन, यह सुप है। - यह स्टेशन है। जवाब दो।"
+    ]
+  },
+  {
+    "line": ["This is a recorded message.", "यह एक रिकॉर्ड किया हुआ संदेश है।"]
+  },
+  { "line": ["You have approximately", "तुम्हारे पास 10:48 बजे,"] },
+  {
+    "line": [
+      "- 98 minutes of life support as of 10:48. - Of course.",
+      "- लगभग 98 मिनटों का लाइफ़ सपोर्ट बचा है। - बेशक।"
+    ]
+  },
+  {
+    "line": [
+      "Minimum undock time is 90 minutes.",
+      "न्यूनतम अनडॉक समय 90 मिनट है।"
+    ]
+  },
+  { "line": ["Fuck.", "धत्।"] },
+  {
+    "line": [
+      "RPL requests you retrieve CAL data core.",
+      "आरपीएल तुमसे सीएएल डेटा कोर हासिल करने का अनुरोध कर रहा है।"
+    ]
+  },
+  { "line": ["You're kidding me.", "तुम मज़ाक कर रहे हो।"] },
+  {
+    "line": [
+      "We're attempting to upload your deorbit parameters.",
+      "हम तुम्हारे डिऑर्बिट पैरामीटर अपलोड करने की कोशिश कर रहे हैं।"
+    ]
+  },
+  { "line": ["I can't wait for you.", "मैं तुम्हारा इंतज़ार नहीं कर सकती।"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  {
+    "line": [
+      "Come on. Come on, come on, come on, come on.",
+      "चलो। चलो, चलो, चलो, चलो।"
+    ]
+  },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["What the--", "यह क्या..."] },
+  { "line": ["'Oxygen, 19%.'", "'ऑक्सीजन, 19 प्रतिशत।'"] },
+  { "line": ["I gotta go.", "मुझे जाना होगा।"] },
+  { "line": ["In the blind.", "बिना तुम्हारे पैरामीटर दिए।"] },
+  {
+    "line": [
+      "Initiating undocking procedure, Soyuz 1.",
+      "अनडॉकिंग प्रक्रिया शुरू कर रही हूँ, सोयूज़ वन।"
+    ]
+  },
+  { "line": ["Go.", "चलो।"] },
+  { "line": ["'Input deorbit parameters.'", "'डिऑर्बिट पैरामीटर डालें।'"] },
+  {
+    "line": [
+      "So I'm gonna use yesterday's figures 'cause that's all I got.",
+      "तो, मैं कल के आंकड़े इस्तेमाल करूँगी क्योंकि मेरे पास बस वही हैं।"
+    ]
+  },
+  {
+    "line": [
+      "'Deorbit parameters outdated.'",
+      "'डिऑर्बिट पैरामीटर पुराने हो गए हैं।'"
+    ]
+  },
+  {
+    "line": [
+      "Yeah, I know, but you gotta work with me.",
+      "हाँ, जानती हूँ, पर तुम्हें मेरा साथ देना होगा।"
+    ]
+  },
+  { "line": ["Oh, come on.", "अरे, चलो भी।"] },
+  { "line": ["Come on, come on. Please come on.", "चलो, चलो। कृपया काम करो।"] },
+  { "line": ["'Undock initiated.'", "'अनडॉक शुरू हो गया है।'"] },
+  {
+    "line": ["'Ninety minutes to launch.'", "'लॉन्च होने में नब्बे मिनट हैं।'"]
+  },
+  { "line": ["Station, this is TsUP.", "स्टेशन, यह सुप है।"] },
+  {
+    "line": ["This is a recorded message.", "यह एक रिकॉर्ड किया हुआ संदेश है।"]
+  },
+  {
+    "line": [
+      "We have S-band failure and cannot hear you.",
+      "एस-बैंड विफल हो गया है और हम तुम्हें सुन नहीं पा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Please open all bands for local transmission.",
+      "कृपया स्थानीय प्रसारण के लिए सभी बैंड खोल दो।"
+    ]
+  },
+  {
+    "line": [
+      "We are attempting to upload deorbit parameters.",
+      "हम डिऑर्बिट पैरामीटर अपलोड करने की कोशिश कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Daddy, what are deorbit parameters?",
+      "डैडी, डिऑर्बिट पैरामीटर क्या होते हैं?"
+    ]
+  },
+  { "line": ["Well, as I understand it,", "जहाँ तक मुझे पता है,"] },
+  {
+    "line": [
+      "it's the place on the edge of the Earth",
+      "अगर तुम पृथ्वी पर वापस लौटना चाहते हो,"
+    ]
+  },
+  {
+    "line": [
+      "that you have to hit if you wanna come home.",
+      "तो यह पृथ्वी का वह छोर है जहाँ से तुम्हें प्रवेश करना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Does Mummy know what they are?",
+      "क्या माँ को पता है कि वे क्या होते हैं?"
+    ]
+  },
+  { "line": ["I don't know.", "पता नहीं।"] },
+  { "line": ["I'm sure she does.", "पक्का उन्हें पता है।"] },
+  { "line": ["She's very clever.", "वह बेहद होशियार हैं।"] },
+  { "line": ["Fuck...", "धत्..."] },
+  {
+    "line": [
+      "- Station, it's TsUP. - Shut up.",
+      "- स्टेशन, यह सुप है। - चुप रहो।"
+    ]
+  },
+  {
+    "line": [
+      "We have S-band failure and cannot hear you.",
+      "एस-बैंड विफल हो गया है और हम तुम्हें सुन नहीं पा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "You have approximately",
+      "तुम्हारे पास लगभग 45 मिनटों का लाइफ़ सपोर्ट बचा है।"
+    ]
+  },
+  {
+    "line": [
+      "Please calculate your own deorbit parameters.",
+      "कृपया ख़ुद ही अपने डिऑर्बिट पैरामीटरों की गणना करो।"
+    ]
+  },
+  { "line": ["Done it.", "हो गया।"] },
+  {
+    "line": [
+      "RPL requests you retrieve CAL data core.",
+      "आरपीएल तुमसे सीएएल डेटा कोर हासिल करने का अनुरोध कर रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "- Don't endanger yourself. - Oh, for fuck's sake.",
+      "- ख़ुद को ख़तरे में मत डालो। - अरे, हद है।"
+    ]
+  },
+  { "line": ["Hey, Magnus.", "ए, मैग्नस।"] },
+  {
+    "line": [
+      "I'm going to put in the deorbit parameters.",
+      "मैं डिऑर्बिट पैरामीटर डालने वाली हूँ।"
+    ]
+  },
+  { "line": ["My own calculations.", "मैंने ख़ुद गणना की है।"] },
+  {
+    "line": [
+      "Let's just hope it takes me back.",
+      "चलो बस उम्मीद करें कि ये मुझे घर वापस पहुँचा देंगे।"
+    ]
+  },
+  { "line": ["Forty-one...", "इकतालीस..."] },
+  { "line": ["Magnus, I know you.", "मैग्नस, मैं तुम्हें जानती हूँ।"] },
+  {
+    "line": [
+      "And you know why I had to do this.",
+      "और तुम्हें पता है कि मुझे यह क्यों करना पड़ा।"
+    ]
+  },
+  {
+    "line": [
+      "And I am so grateful for your love and your trust.",
+      "और मैं तुम्हारे प्यार और विश्वास के लिए बेहद आभारी हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I know it hasn't been easy. You've sacrificed a lot...",
+      "मुझे पता है कि यह आसान नहीं रहा है। तुमने काफ़ी बलिदान किए..."
+    ]
+  },
+  { "line": ["I'm sorry I--", "माफ़ करना कि मैंने..."] },
+  {
+    "line": [
+      "I left you alone with all this...",
+      "मैंने तुम्हें इन सबके साथ अकेला छोड़ दिया..."
+    ]
+  },
+  { "line": ["I love you.", "मुझे तुमसे प्यार है।"] },
+  { "line": ["Alice...", "ऐलिस..."] },
+  { "line": ["You're everything to me.", "तुम मेरे लिए सब कुछ हो।"] },
+  { "line": ["And I wanted to--", "और मैं तुम्हें..."] },
+  {
+    "line": [
+      "I wanted to make you proud.",
+      "मैं तुम्हें गर्वित महसूस करवाना चाहती थी।"
+    ]
+  },
+  { "line": ["You.", "तुम्हें।"] },
+  {
+    "line": [
+      "And I wanted to show you that...",
+      "और मैं तुम्हें दिखाना चाहती थी कि..."
+    ]
+  },
+  { "line": ["Even if I'm not here...", "भले ही मैं यहाँ न रहूँ..."] },
+  {
+    "line": [
+      "I'm always with you and Daddy.",
+      "मैं हमेशा तुम्हारे और डैडी के साथ हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I don't think you understand how much I--",
+      "मुझे नहीं लगता कि तुम्हें यह अंदाज़ा है कि मैं कितना..."
+    ]
+  },
+  {
+    "line": [
+      "I just wanted to be around and see you grow up",
+      "मैं बस तुम्हारे पास रहकर तुम्हें बड़ी होते हुए"
+    ]
+  },
+  { "line": ["and go to high school", "और हाई स्कूल जाते हुए"] },
+  {
+    "line": [
+      "and have your first boyfriend and...",
+      "और पहला बॉयफ्रेंड बनाते हुए देखना चाहती थी और..."
+    ]
+  },
+  {
+    "line": [
+      "then go out dancing with you",
+      "और फिर तुम्हारे साथ डांस करने जाना चाहती थी"
+    ]
+  },
+  {
+    "line": [
+      "when you get old and just-- just be around to see you grow up.",
+      "और जब तुम बड़ी हो जाती और बस... तुम्हें और बड़ी होते देखने के लिए मौजूद रहना चाहती थी।"
+    ]
+  },
+  { "line": ["No matter what happens,", "चाहे जो हो जाए,"] },
+  {
+    "line": ["my eyes are always on you.", "मेरी नज़रें हमेशा तुम पर रहेंगी।"]
+  },
+  { "line": ["And--", "और..."] },
+  {
+    "line": [
+      "And my heart beats with you, baby.",
+      "और मेरा दिल तुम्हारे साथ धड़कता है, जान।"
+    ]
+  },
+  {
+    "line": [
+      "I love you so much, more than you can ever imagine.",
+      "मैं तुम्हें बेहद प्यार करती हूँ, तुम्हारी कल्पना से भी ज़्यादा।"
+    ]
+  },
+  {
+    "line": [
+      "Okay. So, I've only got 12 minutes left,",
+      "ठीक है। तो, मेरे पास केवल 12 मिनट बचे हैं"
+    ]
+  },
+  { "line": ["and I kind of gotta--", "और मुझे जाना होगा..."] },
+  {
+    "line": [
+      "I just hope I got my sums right.",
+      "बस उम्मीद है कि मेरी गणनाएँ सही हैं।"
+    ]
+  },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["'Bolt malfunction'?", "'बोल्ट की खराबी'?"] },
+  { "line": ["What? What the fuck?", "क्या? क्या बकवास है?"] },
+  {
+    "line": [
+      "Arm bolts are fine. Can't be the data.",
+      "आर्म बोल्ट ठीक हैं। डेटा नहीं हो सकता।"
+    ]
+  },
+  {
+    "line": [
+      "'In the event of bolt system malfunction,",
+      "'बोल्ट प्रणाली की खराबी की स्थिति में,"
+    ]
+  },
+  {
+    "line": [
+      "bolts to be armed and fired from entry dock of ISS",
+      "बोल्टों को हैच के दूसरी तरफ़ आईएसएस के प्रवेश डॉक से"
+    ]
+  },
+  { "line": ["on the other side of the hatch.", "लैस करके फ़ायर करना होगा।"] },
+  { "line": ["Requires two crew.'", "दो कर्मियों की ज़रूरत है।'"] },
+  { "line": ["Fuck.", "धत्।"] },
+  { "line": ["Come on.", "चलो भी।"] },
+  { "line": ["Come on, please.", "कृपया, चलो भी।"] },
+  { "line": ["Forty-one, 40, 39,", "इकतालीस, 40, 39,"] },
+  { "line": ["thirty-eight, 37, 36, 35...", "अड़तीस, 37, 36, 35..."] },
+  {
+    "line": [
+      "Anything on triangulation?",
+      "त्रिकोणीय सर्वेक्षण से कुछ पता चला?"
+    ]
+  },
+  { "line": ["Nothing. Still nothing.", "नहीं। अब भी कुछ पता नहीं चला।"] },
+  { "line": ["...thirty, 29, 28, 27, 26,", "...तीस, 29, 28, 27, 26,"] },
+  { "line": ["twenty-five, 24, 23, 22,", "पच्चीस, 24, 23, 22,"] },
+  { "line": ["twenty-one, 20, 19, 18", "इक्कीस, 20, 19, 18"] },
+  { "line": ["seventeen, 16, 15,", "सत्रह, 16, 15,"] },
+  { "line": ["fourteen, 13, 12, 11,", "चौदह, 13, 12, 11,"] },
+  { "line": ["ten, nine, eight, seven,", "दस, नौ, आठ, सात,"] },
+  {
+    "line": ["six, five, four, three, two, one.", "छह, पाँच, चार, तीन, दो, एक।"]
+  },
+  { "line": ["Listen.", "सुनो।"] },
+  { "line": ["Close your eyes.", "अपनी आँखें बंद करें।"] },
+  {
+    "line": [
+      "When the names of those who have fallen asleep are remembered in prayers,",
+      "जो हमेशा के लिए सो गए हैं, जब उनके नाम दुआओं में याद किए जाते हैं,"
+    ]
+  },
+  {
+    "line": [
+      "what can be more beneficial for them than this?",
+      "उनके लिए इससे ज़्यादा लाभदायक और क्या हो सकता है?"
+    ]
+  },
+  {
+    "line": [
+      "We who live believe that the dead are not deprived of existence,",
+      "हम जो जीवित हैं, यह मानते हैं कि मृतकों का अस्तित्व ख़त्म नहीं होता है,"
+    ]
+  },
+  { "line": ["but live with God.", "बल्कि वे ईश्वर के साथ रहते हैं।"] },
+  {
+    "line": [
+      "As we pray for our brothers and sisters",
+      "जैसे हम अपने भाइयों और बहनों के लिए प्रार्थना करते हैं"
+    ]
+  },
+  {
+    "line": [
+      "who with faith and hope are traveling",
+      "जो विश्वास और आशा के साथ सफ़र कर रहे हैं,"
+    ]
+  },
+  {
+    "line": [
+      "so we pray for those who have departed from this world.",
+      "वैसे ही हम उनके लिए भी प्रार्थना करते हैं जो इस दुनिया से चले गए हैं।"
+    ]
+  },
+  { "line": ["Jo, this is TsUP.", "जो, यह सुप है।"] },
+  { "line": ["Do you copy?", "तुम सुन रही हो?"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Detached from ISS.", "आईएसएस से अलग हो गई हूँ।"] },
+  {
+    "line": [
+      "Three hours and 20 minutes to reentry...",
+      "पुनः प्रवेश में तीन घंटे और 20 मिनट लगेंगे..."
+    ]
+  },
+  { "line": ["I think.", "शायद।"] },
+  {
+    "line": [
+      "Thought you might not want to be alone.",
+      "मैंने सोचा कि शायद तुम अकेले नहीं रहना चाहोगे।"
+    ]
+  },
+  { "line": ["I'm quite happy to be alone.", "मैं अकेले रहकर बेहद ख़ुश हूँ।"] },
+  {
+    "line": [
+      "So, how much you guys charging for a return trip on Soyuz these days?",
+      "तो, आज-कल तुम लोग सोयूज़ पर वापसी यात्रा के लिए कितने पैसे ले रहे हो?"
+    ]
+  },
+  { "line": ["That is coming to an end.", "यह बंद होने की कग़ार पर है।"] },
+  {
+    "line": [
+      "Unless you start sending tourists.",
+      "अगर तुम पर्यटक भेजना शुरू न करो तो।"
+    ]
+  },
+  { "line": ["Tourists? Oh, please.", "पर्यटक? अरे, छोड़ो भी।"] },
+  { "line": ["Cheers.", "चियर्स।"] },
+  { "line": ["Jo and Paul.", "जो और पॉल के नाम।"] },
+  { "line": ["Jo and Paul.", "जो और पॉल के नाम।"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Fire in...", "प्रवेश कर रही हूँ..."] },
+  { "line": ["five, four, three,", "पाँच, चार, तीन,"] },
+  { "line": ["two, one.", "दो, एक में।"] },
+  {
+    "line": [
+      "The ISS was not designed to run more than 20 years.",
+      "आईएसएस को 20 सालों से ज़्यादा चलने के लिए डिज़ाइन नहीं किया गया था।"
+    ]
+  },
+  { "line": ["It's been running nearly 30.", "पर वह तीस सालों से चल रहा है।"] },
+  { "line": ["And it's full of holes.", "और उसमें कई खराबियाँ आई हैं।"] },
+  {
+    "line": [
+      "Your own president says another seven years max.",
+      "तुम्हारे अपने राष्ट्रपति ने कहा है कि वह ज़्यादा से ज़्यादा और सात साल चलेगा।"
+    ]
+  },
+  {
+    "line": [
+      "My own president is wrong. I'm working on my own president.",
+      "मेरे अपने राष्ट्रपति ही ग़लत हैं। मैं अपने राष्ट्रपति को मनाने की कोशिश कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "We are going to withdraw from the program.",
+      "हम इस प्रोग्राम से पीछे हटने वाले हैं।"
+    ]
+  },
+  { "line": ["Just abandon things", "बस छोड़ दोगी"] },
+  {
+    "line": [
+      "because something went wrong, because someone dies?",
+      "क्योंकि कुछ ग़लत हुआ, क्योंकि कोई मारा गया?"
+    ]
+  },
+  {
+    "line": [
+      "NASA abandoned the moon after Apollo 18.",
+      "नासा ने अपोलो 18 के बाद चंद्रमा को छोड़ दिया था।"
+    ]
+  },
+  {
+    "line": [
+      "So that's what this is all about, huh?",
+      "तो यह सब इसी बारे में है, हँ?"
+    ]
+  },
+  {
+    "line": [
+      "You know what I've been doing all these years.",
+      "तुम्हें पता है कि इतने सालों से मैं क्या कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": ["Perhaps for me, it is about that.", "शायद मेरे लिए, यही वजह है।"]
+  },
+  {
+    "line": [
+      "For Roscosmos, it's about taking advantage of a natural stop.",
+      "रॉसकॉस्मोस के लिए, यह एक आम स्टॉप का फ़ायदा उठाने के बारे में है।"
+    ]
+  },
+  {
+    "line": [
+      "You are not the least bit curious about the illness of which you are an expert?",
+      "तुम जिस बीमारी की विशेषज्ञ हो, तुम्हें उसके बारे में ज़रा भी जिज्ञासा नहीं है?"
+    ]
+  },
+  {
+    "line": [
+      "There was a fatal accident after years of warning about debris.",
+      "मलबे के बारे में सालों की चेतावनियों के बाद एक घातक दुर्घटना हुई।"
+    ]
+  },
+  { "line": ["This will happen again, Henry.", "यह दोबारा होगा, हेनरी।"] },
+  {
+    "line": [
+      "And there are a whole lot of answers we are never going to get.",
+      "और ढेरों जवाब हैं जो हमें कभी नहीं मिलेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "Agreed. We will designate the ISS as an international grave,",
+      "मैं सहमत हूँ। हम आईएसएस को अंतरराष्ट्रीय कब्र घोषित करेंगे"
+    ]
+  },
+  {
+    "line": [
+      "and leave space to the people with money.",
+      "और अंतरिक्ष को पैसे वाले लोगों के लिए छोड़ देंगे।"
+    ]
+  },
+  {
+    "line": [
+      "Soyuz 1, this is TsUP. Can you hear me?",
+      "सोयूज़ वन, यह सुप है। तुम मुझे सुन सकती हो?"
+    ]
+  },
+  {
+    "line": [
+      "TsUP, this is Soyuz 1 reentry. Are you receiving?",
+      "सुप, सोयूज़ वन पुनः प्रवेश कर रहा है। तुम सुन रहे हो?"
+    ]
+  },
+  {
+    "line": [
+      "This is Soyuz 1. Come in, please.",
+      "यह सोयूज़ वन है। कृपया, जवाब दो।"
+    ]
+  },
+  {
+    "line": [
+      "Soyuz 1 has reentered Earth atmosphere. She is not responding.",
+      "सोयूज़ वन पृथ्वी के वायुमंडल में पुनः प्रवेश कर चुका है। वह जवाब नहीं दे रही है।"
+    ]
+  },
+  { "line": ["It's in ballistic entry.", "वह बैलिस्टिक गति से गिर रहा है।"] },
+  {
+    "line": [
+      "- Where's she gonna hit? - Anywhere within 300 kilometers.",
+      "- वह कहाँ गिरेगी? - 300 किलोमीटर के दायरे में कहीं भी।"
+    ]
+  },
+  {
+    "line": [
+      "Get your ham radio guys and get her. We need to know where the hell she is.",
+      "अपने हैम रेडियो कर्मियों से संपर्क करो और उसे ढूँढो। हमें जानना होगा कि वह कहाँ है।"
+    ]
+  },
+  {
+    "line": [
+      "- This is a needle in a haystack. - Can't you call NORAD?",
+      "- यह भूसे के ढेर में सुई ढूँढने जैसा है। - तुम नोराड को फ़ोन नहीं कर सकते?"
+    ]
+  },
+  {
+    "line": [
+      "Call your fucking guy in Egypt.",
+      "मिस्र में अपने संपर्क को फ़ोन करो।"
+    ]
+  },
+  {
+    "line": [
+      "Roscosmos Control, this is Soyuz 1.",
+      "रॉसकॉस्मोस कंट्रोल, यह सोयूज़ वन है।"
+    ]
+  },
+  { "line": ["Do you read me?", "मुझे सुन रहे हो?"] },
+  {
+    "line": [
+      "Roscosmos Control, this is Soyuz 1.",
+      "रॉसकॉस्मोस कंट्रोल, यह सोयूज़ वन है।"
+    ]
+  },
+  { "line": ["Do you read me?", "मुझे सुन रहे हो?"] },
+  { "line": ["Soyuz 1...", "सोयूज़ वन..."] },
+  {
+    "line": [
+      "Soyuz 1, this is TsUP. Do you copy?",
+      "सोयूज़ वन, यह सुप है। सुन रही हो?"
+    ]
+  },
+  { "line": ["Soyuz 1, this is TsUP.", "सोयूज़ वन, यह सुप है।"] },
+  { "line": ["- We can't... - Oh, shit.", "- हमें नहीं... - अरे, धत्।"] },
+  {
+    "line": [
+      "- Open all VHF bands. - I need to--",
+      "- सारे वीएचएफ़ बैंड खोलो। - मुझे..."
+    ]
+  },
+  {
+    "line": [
+      "Soyuz 1, this is TsUP. Repeat. Open all VHF bands.",
+      "सोयूज़ वन, यह सुप है। दोहराता हूँ। सारे वीएचएफ़ बैंड खोलो।"
+    ]
+  },
+  {
+    "line": [
+      "There's a-- I'm trying! I'm trying!",
+      "यहाँ... मैं कोशिश कर रही हूँ! मैं कोशिश कर रही हूँ!"
+    ]
+  },
+  { "line": ["TsUP!", "सुप!"] },
+  { "line": ["Soyuz 1, we hear you.", "सोयूज़ वन, हम तुम्हें सुन रहे हैं।"] },
+  {
+    "line": [
+      "You've hit 6.5 degrees off optimal, you need to correct.",
+      "तुम 6.5 डिग्री भटक गई हो, तुम्हें यह ठीक करना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "I'm on ballistic approach, I can't.",
+      "मैं बैलिस्टिक गति से गिर रही हूँ, मैं ठीक नहीं कर सकती।"
+    ]
+  },
+  {
+    "line": [
+      "Ask her if she retrieved the data core.",
+      "उससे पूछो उसने डेटा कोर हासिल किया या नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "- Oh, Henry, for Christ's sake. - Ask her.",
+      "- अरे, हेनरी, भगवान के लिए। - उससे पूछो।"
+    ]
+  },
+  {
+    "line": [
+      "Do you have the CAL phase four data core?",
+      "क्या तुम्हारे पास सीएएल फेज़ फ़ोर डेटा कोर है?"
+    ]
+  },
+  { "line": ["Yes.", "हाँ।"] },
+  { "line": ["Jo? Jo?", "जो? जो?"] },
+  {
+    "line": ["Do you have her? Where is she?", "तुम्हें वह मिल गई? वह कहाँ है?"]
+  },
+  {
+    "line": [
+      "You're going in ballistic at a very steep angle.",
+      "तुम बैलिस्टिक गति में बेहद खड़ी कोण में गिर रही हो।"
+    ]
+  },
+  {
+    "line": ["You've got 8G coming up.", "तुम्हें जल्द ही 8जी नेटवर्क मिलेगा।"]
+  },
+  { "line": ["Understood.", "समझ गई।"] },
+  { "line": ["Jo! Jo?", "जो! जो?"] },
+  { "line": ["Hi. Hi.", "हैलो। हैलो।"] },
+  {
+    "line": [
+      "Jo, you're going into the black.",
+      "जो, हम तुमसे संपर्क खोने वाले हैं।"
+    ]
+  },
+  {
+    "line": [
+      "It's gonna take us some time to find you.",
+      "हमें तुम्हें ढूँढने में थोड़ा समय लगेगा।"
+    ]
+  },
+  { "line": ["Good luck.", "शुभकामनाएँ।"] },
+  { "line": ["Hi. Guess what?", "हैलो। अंदाज़ा लगाओ क्या हुआ?"] },
+  { "line": ["What?", "क्या?"] },
+  {
+    "line": ["It's marked with RPL flashes.", "वह आरपीएल फ़्लैश से चिह्नित है।"]
+  },
+  {
+    "line": [
+      "It goes on Search and Rescue helicopter number 1.",
+      "उसे खोज और बचाव हेलीकाप्टर नंबर एक पर रखना।"
+    ]
+  },
+  {
+    "line": [
+      "- Now, goddamn it, let's move it. - Will do.",
+      "- अब, कमबख़्त, चलो चलें। - ठीक है।"
+    ]
+  },
+  {
+    "line": [
+      "She's got a super short time. It's gonna be very tough to locate her.",
+      "उसके पास काफ़ी कम समय है। उसे ढूँढना बेहद कठिन होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Don't bloody do this to me, Frederic.",
+      "मेरे साथ ऐसा मत करो, फ़्रेडरिक।"
+    ]
+  },
+  {
+    "line": [
+      "I've just told my daughter it's gonna be all right!",
+      "मैंने अभी-अभी मेरी बेटी से कहा कि सब ठीक हो जाएगा!"
+    ]
+  },
+  {
+    "line": [
+      "Heading north east, can't see anything from the helicopters.",
+      "उत्तर पूर्व की ओर जा रहे हैं, हेलीकॉप्टर से कुछ नहीं दिख रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "Helicopter 5, check south east above the mountain.",
+      "पाँचवाँ हेलीकॉप्टर, पहाड़ के ऊपर दक्षिण पूर्व में ढूँढो।"
+    ]
+  },
+  {
+    "line": [
+      "Helicopter 2, north west 22 degrees.",
+      "दूसरा हेलीकॉप्टर, उत्तर पश्चिम में 22 डिग्री।"
+    ]
+  },
+  { "line": ["What can you see?", "तुम्हें क्या दिख रहा है?"] },
+  { "line": ["Still nothing, Team 1.", "अब भी कुछ नहीं दिखा, टीम वन।"] },
+  { "line": ["Mummy!", "माँ!"] },
+  { "line": ["That's my baby.", "वह मेरी बेटी है।"] },
+  {
+    "line": [
+      "Put me down. Put me down. That's my baby.",
+      "मुझे नीचे रखो। मुझे नीचे रखो। वह मेरी बेटी है।"
+    ]
+  },
+  { "line": ["Mummy!", "माँ!"] },
+  { "line": ["I love you.", "मुझे आपसे प्यार है।"] },
+  { "line": ["I love you so much.", "मुझे तुमसे बेहद प्यार है।"] },
+  { "line": ["Hi, Jo.", "हैलो, जो।"] },
+  { "line": ["You all right? You okay?", "तुम ठीक हो? तुम ठीक हो?"] },
+  {
+    "line": [
+      "I'm so h-- I'm so happy to be-- I'm so happy to be here.",
+      "मुझे वापस आ... मुझे वापस आकर बेहद... मुझे वापस आकर बेहद ख़ुशी हुई।"
+    ]
+  },
+  { "line": ["I love you guys so much.", "मुझे तुम दोनों से बेहद प्यार है।"] },
+  { "line": ["I love you guys so much.", "मुझे तुम दोनों से बेहद प्यार है।"] },
+  { "line": ["I-- Welcome back.", "मैं... वापसी पर स्वागत है।"] },
+  { "line": ["Thank you.", "धन्यवाद।"] },
+  { "line": ["Give it to me, please.", "कृपया, वह मुझे दो।"] },
+  { "line": ["Open the case.", "केस खोलो।"] },
+  {
+    "line": ["The canisters should be prepped.", "कैनिस्टर तैयार होने चाहिए।"]
+  },
+  { "line": ["This is my baby.", "यह मेरा बच्चा है।"] },
+  { "line": ["Give me the iPad.", "मुझे iPad दो।"] },
+  { "line": ["Give me some space.", "थोड़ी जगह दो।"] },
+  { "line": ["Is that Wendy's dad?", "क्या वह वेंडी के डैड हैं?"] },
+  {
+    "line": [
+      "You don't have to look, my love. Don't look.",
+      "तुम्हें देखने की ज़रूरत नहीं है, जान। मत देखो।"
+    ]
+  },
+  { "line": ["So, how are things?", "तो, चीज़ें कैसी हैं?"] },
+  { "line": ["I don't know.", "पता नहीं।"] },
+  { "line": ["Wow. You look great.", "वाह। तुम अच्छे दिख रहे हो।"] },
+  {
+    "line": [
+      "I'm back. I made it back, right?",
+      "मैं वापस आ गई। मैं वापस आ गई, है न?"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["Hey.", "ए।"] },
+  {
+    "line": [
+      "- Hi. Jo, I-- - Come on. Let's go. Let's go.",
+      "- हैलो। जो, मैं... - चलो। चलो चलें। चलो चलें।"
+    ]
+  },
+  { "line": ["Go, guys! Go!", "चलो, दोस्तों! चलो!"] },
+  { "line": ["I'll be right back, baby.", "मैं अभी आई, जान।"] },
+  {
+    "line": [
+      "- I'm back now. - She's home.",
+      "- अब मैं लौट आई हूँ। - वह लौट आई हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We'll take you directly to Star City.",
+      "हम तुम्हें सीधे स्टार सिटी ले जाएँगे।"
+    ]
+  },
+  { "line": ["Excuse me.", "माफ़ करना।"] },
+  { "line": ["Put that fucking camera away.", "वह कमबख़्त कैमरा दूर रखो।"] },
+  { "line": ["Holy shit. It's there.", "हे भगवान। यह वहाँ है।"] },
+  { "line": ["Goddamn it.", "अरे, वाह।"] },
+  { "line": ["It can't be there.", "यह वहाँ नहीं हो सकता।"] },
+  {
+    "line": [
+      "What is Russian for 'eureka'?",
+      "'यूरेका' को रूसी भाषा में क्या कहते हैं?"
+    ]
+  },
+  { "line": ["Mummy?", "माँ?"] },
+  { "line": ["Mummy?", "माँ?"] },
+  { "line": ["Alice?", "ऐलिस?"] },
+  { "line": ["Are you okay?", "तुम ठीक हो?"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["What?", "क्या?"] },
+  { "line": ["You forget how Earth smells.", "मैं पृथ्वी की महक भूल गई थी।"] },
+  { "line": ["Where is she?", "वह कहाँ है?"] },
+  { "line": ["Who?", "कौन?"] },
+  { "line": ["Where's my baby? Alice!", "मेरी बेटी कहाँ है? ऐलिस!"] },
+  { "line": ["- What? - Where is she?", "- क्या? - वह कहाँ है?"] },
+  { "line": ["- Who? - You.", "- कौन? - तुम।"] },
+  {
+    "line": [
+      "I don't know what you mean.",
+      "मुझे समझ नहीं आया आप क्या बोल रही हैं।"
+    ]
+  },
+  { "line": ["Didn't you see yourself?", "तुमने ख़ुद को नहीं देखा?"] },
+  { "line": ["- In the mirror? - No! Here.", "- आईने में? - नहीं! यहाँ।"] },
+  { "line": ["Mummy, I didn't see anything.", "माँ, मैंने कुछ नहीं देखा।"] },
+  { "line": ["Get dressed.", "कपड़े पहनो।"] },
+  { "line": ["Mummy!", "माँ!"] },
+  { "line": ["Get ready.", "तैयार हो जाओ।"] },
+  { "line": ["Come on, we gotta go!", "चलो, हमें जाना होगा!"] },
+  {
+    "line": [
+      "It's too cold. She'll freeze to death. We gotta find her.",
+      "काफ़ी ठंड है। वह ठंड से जमकर मर जाएगी। हमें उसे ढूँढना होगा।"
+    ]
+  },
+  { "line": ["Who?", "किसे?"] },
+  { "line": ["The other you.", "दूसरी ऐलिस को।"] }
+]

@@ -39,7 +39,12 @@ export default function Home() {
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014">The Fault In Our Stars 2014</Link></li>
             <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li>            
           </ul>
-          <ul>        
+          <ul>
+          <li><span className='season-name'>Constellation</span> - 
+              <Link href="/english/season/constellation/s01e01">S01E01 </Link>
+              <Link href="/english/season/constellation/s01e02">S01E02 </Link> 
+              <Link href="/english/season/constellation/s01e03">S01E03 </Link>
+            </li>        
           <li><span className='season-name'>Slow horses</span> - 
               <Link href="/english/season/slow-horses/S01E01">S01E01 </Link>
             </li>
@@ -55,10 +60,10 @@ export default function Home() {
               <Link href="/english/season/masters-of-the-air/S01E05">S01E05 </Link> 
             </li>
             <li><span className='season-name'>Reacher</span> - 
-              <Link href="/english/season/reacher/s02e01">S01E01 </Link>
-              <Link href="/english/season/reacher/s02e02">S01E02 </Link> 
-              <Link href="/english/season/reacher/s02e03">S01E03 </Link> 
-              <Link href="/english/season/reacher/s02e04">S01E04 </Link>
+              <Link href="/english/season/reacher/s02e01">S02E01 </Link>
+              <Link href="/english/season/reacher/s02e02">S02E02 </Link> 
+              <Link href="/english/season/reacher/s02e03">S02E03 </Link> 
+              <Link href="/english/season/reacher/s02e04">S02E04 </Link>
             </li>
             <li><span className='season-name'>Criminal Record</span> - 
               <Link href="/english/season/criminal-record/s01e01">S01E01 </Link>
