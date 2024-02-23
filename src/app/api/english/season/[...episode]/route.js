@@ -19,6 +19,7 @@ import MastersOfTheAirs01e02 from "@/json/english/season/masters-of-the-air/S01E
 import MastersOfTheAirs01e03 from "@/json/english/season/masters-of-the-air/S01E03.json";
 import MastersOfTheAirs01e04 from "@/json/english/season/masters-of-the-air/S01E04.json";
 import MastersOfTheAirs01e05 from "@/json/english/season/masters-of-the-air/S01E05.json";
+import MastersOfTheAirs01e06 from "@/json/english/season/masters-of-the-air/S01E06.json";
 
 import criminalRecordS01e01 from "@/json/english/season/criminal-record/s01e01.json";
 import criminalRecordS01e02 from "@/json/english/season/criminal-record/s01e01.json";
@@ -48,6 +49,8 @@ export async function GET(request, {episode}) {
     return Response.json(MastersOfTheAirs01e04);
   } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E05"){
     return Response.json(MastersOfTheAirs01e05);
+  } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E06"){
+    return Response.json(MastersOfTheAirs01e06);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e01"){
     return Response.json(criminalRecordS01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e02"){
