@@ -1,0 +1,3200 @@
+[
+  {
+    "line": [
+      "A voyage around the moon must be made in two phases.",
+      "चाँद का चक्कर लगाने वाली यात्रा दो चरणों में पूरी करनी चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "A rocket ship taking off from the Earth's surface",
+      "एक रॉकेट जहाज़ धरती से उड़ते वक्त"
+    ]
+  },
+  {
+    "line": [
+      "will use almost all the fuel it will carry",
+      "अपने सारे ईंधन का इस्तेमाल कर लेता है"
+    ]
+  },
+  {
+    "line": [
+      "just to attain a speed great enough to balance the pull of gravity.",
+      "ताकि वो एक ऐसी गति बना सके जो गुरुत्वाकर्षण की शक्ति को संतुलित करे।"
+    ]
+  },
+  {
+    "line": [
+      "Here we have a scale drawing of the Earth with the moon 240,000 miles away.",
+      "हमारे पास धरती और चाँद की बीच 240,000 मील की दूरी दिखाता एक माप आरेख है।"
+    ]
+  },
+  {
+    "line": [
+      "This is the elliptical path which our rocket ship will follow",
+      "यह एक दीर्घवृत्तीय मार्ग है जिसके अनुसार हमारा रॉकेट जहाज़"
+    ]
+  },
+  { "line": ["going out and coming back.", "उड़ेगा और वापस आएगा।"] },
+  {
+    "line": [
+      "And then you will use its primary system, the AGS instead of the PGNCS,",
+      "फिर तुम पिंग्ज़ के बजाए, प्राथमिक प्रणाली ऐगज़ का इस्तेमाल करोगे,"
+    ]
+  },
+  { "line": ["for separation and ascent.", "अलग होने और चढ़ाई करने के लिए।"] },
+  {
+    "line": [
+      "Copy all that, Tranquility Base?",
+      "संदेश मिला, ट्रैंक्विलीटी बेस?"
+    ]
+  },
+  {
+    "line": [
+      "Guidance control AGS. Roger, Houston.",
+      "निदेश नियंत्रण ऐगज़। ठीक है, ह्यूस्टन।"
+    ]
+  },
+  {
+    "line": [
+      "We are definitely concerned about stability",
+      "इस थोड़ी हिली हुई जगह से एक बार चढ़ाव वाले इंजन के चालू होने पर"
+    ]
+  },
+  {
+    "line": [
+      "once we fire the ascent engine from this canted position.",
+      "उसके स्थिर रहने की चिंता बड़ी है।"
+    ]
+  },
+  {
+    "line": [
+      "In the meantime, we're losing extra weight.",
+      "इस दौरान, हम अतिरिक्त वज़न कम रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "I don't like the margins, Wernher.",
+      "इसकी सफलता सीमा से खुश नहीं हूँ, वर्नर।"
+    ]
+  },
+  {
+    "line": [
+      "Getting back to vertical's gonna cost him a lot of ascent fuel.",
+      "वापस लम्बवत होने से बहुत सा चढ़ावी ईंधन खर्च हो जाएगा।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, they may not be able to rendezvous with Columbia.",
+      "मतलब, वे कॉलंबिया से नहीं मिल पाएँगे।"
+    ]
+  },
+  { "line": ["The plan is sound, Gene.", "प्लान में कोई खराबी नहीं है, जीन।"] },
+  {
+    "line": [
+      "Tranquility, you have go for liftoff.",
+      "ट्रैंक्विलिटी, उड़ान भरने की तैयारी करो।"
+    ]
+  },
+  { "line": ["Okay, Buzz. Engine Arm on.", "ठीक है, बज़। इंजन आर्म चालू।"] },
+  {
+    "line": [
+      "Mike, we'll see you in a bit.",
+      "माइक, तुमसे कुछ ही देर में मुलाकात होगी।"
+    ]
+  },
+  {
+    "line": ["Keep our beers cold for us.", "हमारे लिए ठंडी बियर तैयार रखना।"]
+  },
+  {
+    "line": ["Copy that, Tranquility Base.", "संदेश मिला, ट्रेंक्विलिटी बेस।"]
+  },
+  { "line": ["Abort Stage.", "विफलन चरण।"] },
+  {
+    "line": [
+      "-Engine Arm, Ascent. -Engine Arm, Ascent.",
+      "इंजन आर्म, चढ़ाई। इंजन आर्म, चढ़ाई।"
+    ]
+  },
+  { "line": ["Here goes nothing.", "कुछ भी हो सकता है।"] },
+  { "line": ["Ignition.", "प्रज्वलन।"] },
+  {
+    "line": [
+      "Houston, we're definitely picking up a little shimmy.",
+      "ह्यूस्टन, थोड़ी बहुत हलचल शुरू हो गई है।"
+    ]
+  },
+  { "line": ["We're leveling out.", "संतुलित करने की कोशिश जारी।"] },
+  { "line": ["The Eagle has wings.", "वायुयान उड़ने को तैयार।"] },
+  { "line": ["Excuse me...", "माफ़ करना..."] },
+  { "line": ["Good morning, sir.", "गुड मॉर्निंग, जनाब।"] },
+  { "line": ["Green suits you, Emma.", "हरा रंग तुम पर जचता है, एमा।"] },
+  {
+    "line": [
+      "Administrator Paine just arrived, sir.",
+      "प्रबंधक पैन अभी-अभी आए हैं, जनाब।"
+    ]
+  },
+  {
+    "line": ["Hope he's got good news.", "उम्मीद है कोई अच्छी खबर लाए होंगे।"]
+  },
+  { "line": ["-Could use that. -Deke.", "-सुनकर खुशी होगी। -डीक।"] },
+  { "line": ["I'll catch up.", "मैं बाद में मिलता हूँ।"] },
+  {
+    "line": [
+      "How much longer do I have to eat shit before you put me back on flight status?",
+      "मुझे और कितनी धूल चाटनी होगी फिर से अंतरिक्ष यात्री बनने के लिए?"
+    ]
+  },
+  {
+    "line": [
+      "I've been cooling my heels for two damn months now.",
+      "मैं दो महीनों से इंतज़ार कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "Look, it's not only up to me.",
+      "देखो, मैं अकेले कुछ नहीं कर सकता।"
+    ]
+  },
+  {
+    "line": [
+      "You pissed off a lot of people.",
+      "तुमने बहुत लोगों को नाराज़ किया है।"
+    ]
+  },
+  {
+    "line": [
+      "I'm never going back up, am I?",
+      "मुझे अंतरिक्ष में कभी नहीं भेजेंगे, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Not as long as von Braun's director.",
+      "जबतक वॉन ब्रॉन निर्देशक है तबतक तो नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "I'm sorry. But you made your bed.",
+      "मुझे माफ़ करो। यह रायता तुमने फैलाया है।"
+    ]
+  },
+  {
+    "line": [
+      "So, what the hell am I supposed to do, just keep pushing paper?",
+      "तो, मैं क्या करूँ, कागज़ी काम में लगा रहा हूँ?"
+    ]
+  },
+  { "line": ["There are worse things.", "इससे भी बुरा हो सकता है।"] },
+  {
+    "line": [
+      "Yeah, I guess you'd know, wouldn't ya?",
+      "तुमसे बेहतर कौन जान सकता है, क्यों?"
+    ]
+  },
+  { "line": ["Watch it, Ed.", "ज़बान संभालकर, एड।"] },
+  {
+    "line": [
+      "It's from a trusted source in the Kremlin.",
+      "क्रेम्लिन के एक विश्वासु ज़रिए से मिला है।"
+    ]
+  },
+  {
+    "line": [
+      "And if this is even close to ready...",
+      "अगर ये करीब-करीब भी तैयार हो चुका है तो..."
+    ]
+  },
+  { "line": ["It's merely blueprints.", "यह महज़ ब्लूप्रिंट्स हैं।"] },
+  {
+    "line": [
+      "I have hundreds of blueprints. It means nothing.",
+      "मेरे पास ऐसे कई ब्लूप्रिंट्स हैं। इससे कुछ साबित नहीं होता।"
+    ]
+  },
+  {
+    "line": [
+      "We can't afford to be cautious now, Wernher.",
+      "यह एतिहात बरतने का वक्त नहीं है, वर्नर।"
+    ]
+  },
+  {
+    "line": [
+      "This is the new front in the Cold War.",
+      "यह शीत युद्ध के दौरान एक नया मोर्चा है।"
+    ]
+  },
+  {
+    "line": [
+      "If the Soviets are gonna build a lunar military outpost up there,",
+      "अगर सोवियत चाँद पर एक शिविर बनाएँगे,"
+    ]
+  },
+  {
+    "line": [
+      "the president wants one too, and he wants it first.",
+      "तो राष्ट्रपति जी भी ऐसा कुछ करना चाहेंगे, और वो भी उनसे पहले।"
+    ]
+  },
+  { "line": ["He can't be serious.", "वह मज़ाक तो नहीं कर रहे।"] },
+  {
+    "line": [
+      "Frankly, I've never seen him more serious.",
+      "सच कहूँ तो, इस मामले में वह बेहद संजीदा हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We're talking a major realignment of priorities here.",
+      "प्राथमिकताओं में भारी बदलाव होने वाले हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We may have lost the moon, but we can still win the race for the base.",
+      "भले ही चाँद पर पहले न पहुँच पाएँ हों पर अभी भी हम केंद्र की दौड़ जीत सकते हैं।"
+    ]
+  },
+  { "line": ["'Race for the base'?", "'केंद्र की दौड़'?"] },
+  { "line": ["Catchy, right?", "आकर्षक है, है न?"] },
+  {
+    "line": [
+      "Your testimony before the committee",
+      "नासा की नई योजना को सामने लाने का"
+    ]
+  },
+  {
+    "line": [
+      "is the perfect time to unveil NASA's new strategy.",
+      "कमेटी के सामने तुम्हारा बयान सही समय पर है।"
+    ]
+  },
+  { "line": ["Beginning with Apollo 12,", "अपोलो 12 से,"] },
+  {
+    "line": [
+      "we will be scouting for the location",
+      "हम चाँद पर स्थायी सैन्य अधिष्ठापन के लिए"
+    ]
+  },
+  {
+    "line": [
+      "of a permanent military installation on the moon.",
+      "एक जगह ढूँढ़ना शुरू करेंगे।"
+    ]
+  },
+  { "line": ["Absolutely not.", "बिल्कुल नहीं।"] },
+  {
+    "line": [
+      "We're a scientific program, not a playground for G.I. Joe.",
+      "हम वैज्ञानिक प्रोग्राम बना रहे हैं, लड़ाई के लिए मैदान नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "Wernher. This is a good thing.",
+      "वर्नर। हम एक अच्छी चीज़ कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Nixon's doubling down on the program.",
+      "निक्सन इस प्रोग्रम को अपना पूरा सहयोग दे रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "Our budgets will go up exponentially.",
+      "हमारे बजट में भी बढ़ोतरी हो जाएगी।"
+    ]
+  },
+  {
+    "line": [
+      "We can bring in three, four more classes of astronauts.",
+      "तो हम तीन या चार और अंतरिक्ष यात्रियों को इसमें शामिल कर सकते हैं।"
+    ]
+  },
+  { "line": ["What do you think, Deke?", "तुम क्या कहते हो, डीक?"] },
+  {
+    "line": [
+      "Well, I could sure use the extra manpower,",
+      "अतिरिक्त लोगों की मुझे ज़रूरत तो है,"
+    ]
+  },
+  {
+    "line": [
+      "but I don't know, 12's flight is right around the corner.",
+      "पर अपोलो 12 के उड़ान भरने में ज़्यादा समय नहीं बचा है।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. We may need to move that up a tad.",
+      "हाँ। उसकी तारीख हमें बदलनी होगी।"
+    ]
+  },
+  { "line": ["Thomas, listen to me.", "थॉमस, मेरी बात सुनो।"] },
+  {
+    "line": [
+      "We cannot allow this encroachment.",
+      "हम इस तरह की दखलअंदाज़ी नहीं होने दे सकते।"
+    ]
+  },
+  { "line": ["I've seen it before.", "मैं यह पहले भी देख चुका हूँ।"] },
+  {
+    "line": [
+      "My Aggregat 4, it was designed for low-Earth orbit.",
+      "मेरा ऐग्रीगाट चार, उसे लो अर्थ ऑर्बिट के लिए बनाया गया था।"
+    ]
+  },
+  {
+    "line": [
+      "When the Wehrmacht saw its potential, it became the V-2, a terrible weapon.",
+      "जब वर्मेक्ट को यह उपयोगी लगा तो इसे वी-2 में बदल दिया, एक खतरनाक हथियार।"
+    ]
+  },
+  {
+    "line": [
+      "We cannot allow space to become another battlefield.",
+      "हम अंतरिक्ष पर एक और जंग का मैदान नहीं बना सकते।"
+    ]
+  },
+  { "line": ["It already is.", "वह जंग का मैदान बन चुका है।"] },
+  {
+    "line": [
+      "If we don't respond in kind, we'll be sitting ducks.",
+      "अगर हम करारा जवाब नहीं देंगे तो जान जोखिम में डाल देंगे।"
+    ]
+  },
+  {
+    "line": [
+      "I will not watch, yet again, as my work is defiled by men with guns.",
+      "मैं हथियार वालों को अपने काम पर दोबारा से कब्ज़ा नहीं करने दूँगा।"
+    ]
+  },
+  { "line": ["This isn't Germany, Wernher.", "यह जर्मनी नहीं है, वर्नर।"] },
+  {
+    "line": [
+      "Dick Nixon's been fighting communists for 30 years,",
+      "डिक निक्सन साम्यवादियों से 30 सालों से लड़ रहा है,"
+    ]
+  },
+  {
+    "line": [
+      "and a red moon isn't something our nation can accept.",
+      "और हमारा देश सोवियती लाल चाँद को नहीं अपनाएगा।"
+    ]
+  },
+  {
+    "line": [
+      "Red moon, blue moon, green moon. Enough with this nonsense.",
+      "लाल चाँद, नीला चाँद, हरा चाँद। बस करो यह बकवास।"
+    ]
+  },
+  { "line": ["This is happening.", "यह होकर रहेगा।"] },
+  {
+    "line": [
+      "I suggest you get on the train before it runs you over.",
+      "मेरी सलाह है इस सफ़र पर हमारे साथ चलो वरना पीछे छोड़ दिए जाओगे।"
+    ]
+  },
+  { "line": ["Who does he think he is,", "अपने आप को समझता क्या है,"] },
+  {
+    "line": [
+      "to say 'no' to the President of the United States?",
+      "जो अमेरिका के राष्ट्रपति को 'न' कहने की हिम्मत कर रहा है?"
+    ]
+  },
+  {
+    "line": [
+      "If I say put a military base on the moon, that's it.",
+      "अगर मैंने कह दिया कि चाँद पर सैन्य केंद्र होगा तो होगा।"
+    ]
+  },
+  { "line": ["End of story.", "बात खत्म।"] },
+  {
+    "line": [
+      "I want that Kraut bastard gone.",
+      "मन तो हो रहा है उस कमीने क्रॉट की छुट्टी कर दूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I'm afraid he is quite untouchable, Mr. President.",
+      "राष्ट्रपति जी, हम उसका बाल भी बाँका नहीं कर सकते।"
+    ]
+  },
+  {
+    "line": [
+      "A beloved figure... he taught the country about space travel.",
+      "एक प्रिय हस्ती जिसने... देश को अंतरिक्ष यात्रा के बारे में सिखाया।"
+    ]
+  },
+  { "line": ["Well, then,", "तो, फिर,"] },
+  {
+    "line": [
+      "we'll have to get creative now, won't we?",
+      "हमें और बेहतर रास्ते ढूँढ़ने होंगे, है न?"
+    ]
+  },
+  {
+    "line": [
+      "I miss the barbecue back in Huntsville.",
+      "हंटसविल का बारबेक्यू बहुत याद आता है।"
+    ]
+  },
+  {
+    "line": [
+      "Maybe it's time to retire. Go back to Alabama.",
+      "शायद रिटायर होने का समय आ गया है। एलाबामा लौट जाना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. You could sit on your porch.",
+      "हाँ। आप अपने बरामदे में बैठ सकते हैं।"
+    ]
+  },
+  { "line": ["Smoke your pipe.", "पाइप फूँक सकते हैं।"] },
+  { "line": ["Maybe take up painting?", "शायद चित्रकारी सीख सकते हैं?"] },
+  {
+    "line": [
+      "Besides, who would I eat lunch with?",
+      "वैसे भी, मैं खाना किसके साथ खाऊँगी?"
+    ]
+  },
+  { "line": ["I don't know.", "मुझे पता नहीं।"] },
+  {
+    "line": [
+      "Perhaps a handsome young suitor?",
+      "शायद किसी खूबसूरत नौजवान लड़के के साथ?"
+    ]
+  },
+  {
+    "line": [
+      "We're doing this again? You know I don't have time.",
+      "हम फिर वही बातें लेकर बैठ गए हैं? आपको पता है मेरे पास समय नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "Yes. You're a very busy young woman.",
+      "हाँ, तुम एक बहुत व्यस्त सुंदर कन्या हो।"
+    ]
+  },
+  {
+    "line": [
+      "I heard about this interview of yours with Gene.",
+      "मैंने जीन के साथ तुम्हारे इंटर्व्यू के बारे में सुना।"
+    ]
+  },
+  {
+    "line": [
+      "I was going to tell you. I just wanted--",
+      "मैं आपको बताने ही वाली थी। मैं चाहती थी..."
+    ]
+  },
+  {
+    "line": [
+      "Wanted to do it yourself. I know.",
+      "खुद से करने चाहती थी। मुझे पता है।"
+    ]
+  },
+  {
+    "line": [
+      "You worry too much about what others might think, Margo.",
+      "मार्गो, तुम्हें दूसरे क्या सोचेंगे इसकी बड़ी फ़िक्र है।"
+    ]
+  },
+  { "line": ["You always have.", "हमेशा से रही है।"] },
+  {
+    "line": [
+      "The boys couldn't stop talking about that Apollo 11 landing.",
+      "लड़के तो अपोलो 11 की लैन्डिंग के बारे में ही बातें कर रहे थे।"
+    ]
+  },
+  {
+    "line": [
+      "Good old-fashioned controlled crash.",
+      "बहुत ही खराब लैन्डिंग थी।"
+    ]
+  },
+  { "line": ["Yeah, Neil's a good stick.", "हाँ, नील एक अच्छा पायलट है।"] },
+  {
+    "line": [
+      "Though I still think your landing on the Kearsarge,",
+      "फिर भी मुझे लगता है तुम्हारा कियासार्ज पर"
+    ]
+  },
+  {
+    "line": [
+      "outta that Dutch roll, takes the cake.",
+      "डच रोल करते हुए लैन्डिंग से बढ़िया कुछ नहीं हो सकता।"
+    ]
+  },
+  {
+    "line": [
+      "So when you going back up, Ed? 15, right?",
+      "तो तुम्हारा अगला चक्कर कब है, एड? अपोलो 15, है न?"
+    ]
+  },
+  { "line": ["Well. It's unclear at the moment.", "अभी कुछ पक्का नहीं है।"] },
+  {
+    "line": [
+      "Sort of why I asked you to come grab a beer.",
+      "इसी वजह से मैंने तुम्हें मिलने के बुलाया है।"
+    ]
+  },
+  {
+    "line": [
+      "I've been thinking about maybe moving back navy side.",
+      "मैं सोच रहा हूँ क्यों न वापस नौसेना में चला जाऊँ।"
+    ]
+  },
+  { "line": ["Yeah, right.", "अच्छा मज़ाक है।"] },
+  {
+    "line": [
+      "Now why on God's green earth would you wanna do something like that?",
+      "ऐसी क्या नौबत आ गई जो तुम यह करने की सोच रहे हो?"
+    ]
+  },
+  {
+    "line": [
+      "Pilots become astronauts, Ed. Not the other way around.",
+      "पायलट अंतरिक्ष यात्री बनते हैं, एड। इसका उल्टा नहीं होता।"
+    ]
+  },
+  {
+    "line": [
+      "Well, the only thing I've been flying lately is a desk.",
+      "इस वक्त तो मैं मेज़ पर बैठे काम कर रहा हूँ।"
+    ]
+  },
+  { "line": ["This about that article?", "यह सब उस लेख के वजह से, है न?"] },
+  { "line": ["Yeah.", "हाँ।"] },
+  {
+    "line": [
+      "You always did have a way of pissing off your superior officers.",
+      "अपने अधिकारियों को नाराज़ करने का तुम कोई न कोई तरीका ढूँढ़ ही लेते हो।"
+    ]
+  },
+  { "line": ["Present company included.", "इसमें मैं भी शामिल हूँ।"] },
+  {
+    "line": [
+      "But you're also one of the best aviators I've ever seen.",
+      "पर मेरी जानकारी में तुम बेहतरीन हवाबाज़ों में से एक हो।"
+    ]
+  },
+  { "line": ["'One of'?", "'बेहतरीन हवाबाज़ों में से एक'?"] },
+  { "line": ["Don't be a smart-ass.", "अब ऐंठो मत।"] },
+  {
+    "line": [
+      "Navy would just about shit themselves though to get a guy like you back.",
+      "नौसेना वाले तो तुम्हें वापस पाकर खुशी से झूम जाएँगे।"
+    ]
+  },
+  {
+    "line": [
+      "Especially now. We're making a big push in Vietnam.",
+      "खासकर अभी। हम पूरी ताकत से वियतनाम से भिड़ रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Could be the turning point in the war.",
+      "इससे लड़ाई का रुख बदल सकता है।"
+    ]
+  },
+  {
+    "line": [
+      "And that means commanding a squadron or--",
+      "और इसका मतलब है एक टुकड़ी का प्रधान होना या..."
+    ]
+  },
+  { "line": ["Squadron?", "एक टुकड़ी?"] },
+  {
+    "line": [
+      "You'd probably get command of an entire air wing.",
+      "शायद तुम एक पूरी विंग के प्रधान बना दिए जाओ।"
+    ]
+  },
+  {
+    "line": [
+      "And wait till you fly this new Phantom.",
+      "और नए फ़ैनटम को उड़ाकर तो देखो।"
+    ]
+  },
+  {
+    "line": [
+      "Puts those Panthers we flew in Korea to shame.",
+      "कोरिया में जो पैंथर्स उड़ाए थे वे इसके सामने पानी कम चाय हैं।"
+    ]
+  },
+  {
+    "line": ["It's a fire-breathing beast, Ed.", "वो एक आग उगलता शैतान है, एड।"]
+  },
+  { "line": ["I'm sorry, Ed.", "मुझे माफ़ करना, एड।"] },
+  { "line": ["It's just, I can't.", "बात यह है कि, मैं और नहीं सह सकती।"] },
+  {
+    "line": [
+      "Ed. I can't get another phone call that your plane was shot down.",
+      "एड, फ़ोन पर तुम्हारे विमान गिरने की खबर नहीं झेल पाऊँगी।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, every time the phone rang, my heart just fell.",
+      "मेरा मतलब है, जब भी वो फ़ोन बजता है, मेरा कलेजा मुँह को आ जाता है।"
+    ]
+  },
+  {
+    "line": [
+      "I coulda gotten killed just as easily going up on 10.",
+      "जब अपोलो 10 में गया तब भी मेरे साथ ऐसा कुछ हो सकता था।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. Well, at least you weren't being shot at.",
+      "हाँ। पर, कम से कम वहाँ तुम पर गोली तो नहीं चल रही थी।"
+    ]
+  },
+  {
+    "line": [
+      "It's what I signed up for, Karen.",
+      "मैंने यह काम सोच समझकर चुना था, कैरन।"
+    ]
+  },
+  {
+    "line": [
+      "No, Ed. It's what we signed up for.",
+      "नहीं, एड। हमने यह काम सोच समझकर चुना था।"
+    ]
+  },
+  { "line": ["Remember?", "याद है?"] },
+  { "line": ["Oh, my God, would you just--", "हे, राम, क्या तुम बस..."] },
+  {
+    "line": [
+      "Cut that out. You're making a mess of things.",
+      "यह काम मत करो। सब बिगाड़ रहे हो।"
+    ]
+  },
+  {
+    "line": [
+      "While in Washington, the political fallout from the Soviet moon landing continues,",
+      "वॉशिंग्टन में, सोवियत में चाँद पर अवतरण के चलते राजनीतिक लड़ाई जारी है,"
+    ]
+  },
+  {
+    "line": [
+      "as a joint congressional committee looks deeper",
+      "संयुक्त सम्मलेन कमेटी अंतरिक्ष प्रोग्राम की असफ़लताओं की"
+    ]
+  },
+  {
+    "line": [
+      "into the alleged failures of the space program.",
+      "गहरी जाँच करेगी।"
+    ]
+  },
+  {
+    "line": [
+      "Administrator Thomas Paine grilled by Senator Ted Kennedy of Massachusetts,",
+      "मैसाचुसेट्स के सेनेटर टेड केनेडी ने प्रबंधक थॉमस पैन से पूछताछ की,"
+    ]
+  },
+  {
+    "line": [
+      "who's quickly established himself as a leading voice on the committee",
+      "जो कम समय में कमेटी की मुख्य आवाज़ बन चुके हैं"
+    ]
+  },
+  {
+    "line": [
+      "questioning President Nixon's leadership.",
+      "जो राष्ट्रपति निक्सन की नेतृत्व पर सवाल खड़े कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "And how, sir, do you justify canceling production of the Saturn V rocket",
+      "और जनाब, सैटर्न पाँच रॉकेट के निर्माण को रद्द करने वाली बात कैसे समझाएँगे"
+    ]
+  },
+  {
+    "line": [
+      "a full year before Apollo 11?",
+      "वो भी अपोलो 11 के पूरे एक साल पहले?"
+    ]
+  },
+  { "line": ["It was part of a broader--", "यह एक बड़े प्लान का हिस्सा..."] },
+  {
+    "line": [
+      "These were drastic reductions of NASA's funding by President Nixon.",
+      "राष्ट्रपति जी ने नासा के निधीयन में भारी मात्रा से कटौती कर दी थी।"
+    ]
+  },
+  {
+    "line": [
+      "Excuse me. That's not accurate, Senator.",
+      "माफ़ करना। यह बात सच नहीं है, सेनेटर।"
+    ]
+  },
+  {
+    "line": [
+      "The president is fully committed to the space program.",
+      "राष्ट्रपति जी का पूरा ध्यान इस अंतरिक्ष प्रोग्राम पर है।"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["Hey.", "हेलो।"] },
+  {
+    "line": [
+      "Where'd you put those vacuum tubes? TV's fritzing again.",
+      "तुमने वो वेक्यूम नलियाँ कहाँ रखी हैं? टीवी फिर से बिगड़ गया है।"
+    ]
+  },
+  { "line": ["Jesus.", "हे, राम।"] },
+  { "line": ["I don't know. Maybe...", "पता नहीं। शायद..."] },
+  { "line": ["What time is it?", "क्या वक्त हो रहा है?"] },
+  { "line": ["Tell me you're not still drunk.", "तुम अभी भी नशे में हो।"] },
+  {
+    "line": [
+      "Hey, no, baby, I'm... just beat, is all.",
+      "अरे, नहीं, जान, मैं... बस थका हुआ हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "They're really working us down here.",
+      "वे यहाँ हमसे बहुत मेहनत करवा रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "You know I hate being away from you and the kiddos.",
+      "तुम्हें पता है न तुमसे और बच्चों से दूर रहना मुझे पसंद नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. I'm sure it's just torture.",
+      "हाँ। यकीनन तुम्हें बहुत कष्ट हो रहा होगा।"
+    ]
+  },
+  { "line": ["Mine, give it back!", "मेरा है, वापस दो!"] },
+  { "line": ["Hey! Daniel, Jimmy!", "ऐ! डैनिएल, जिमी!"] },
+  {
+    "line": [
+      "Anything you put on that floor, you will pick up. Are we clear?",
+      "अगर ज़मीन पर कुछ भी गिराया, तो तुम्हें उठाना पड़ेगा। समझे?"
+    ]
+  },
+  {
+    "line": [
+      "Hey, you tell Danny that I said--",
+      "ऐ, तुम डैनी से कहना मैंने कहा है कि..."
+    ]
+  },
+  {
+    "line": [
+      "Listen to his mom, yeah. Tell him I said that, hon.",
+      "अपनी माँ की सुने, ठीक है। उससे कहना मैंने ऐसा कहा है, जान।"
+    ]
+  },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["Guess I'll see you soon.", "जल्द ही मिलेंगे।"] },
+  { "line": ["Hey, Trace.", "ट्रेस।"] },
+  { "line": ["I love you.", "मैं तुमसे प्यार करता हूँ।"] },
+  {
+    "line": [
+      "Look, I know you're smart, Margo.",
+      "देखो, मैं जानता हूँ तुम समझदार हो, मार्गो।"
+    ]
+  },
+  {
+    "line": [
+      "But it gets intense down there.",
+      "वहाँ काम का दबाव बहुत ज़्यादा है।"
+    ]
+  },
+  {
+    "line": [
+      "They call it the trench for a reason.",
+      "उस जगह का नाम खाई एक वजह से पड़ा है।"
+    ]
+  },
+  {
+    "line": [
+      "I need to know you're not some pogue",
+      "मुझे जानना है कि तुम कोई कच्चा घर तो नहीं"
+    ]
+  },
+  {
+    "line": [
+      "who's gonna wilt at the first sign of pressure.",
+      "जो एक ही तूफ़ान में ढह जाए।"
+    ]
+  },
+  { "line": ["No, sir. That wouldn't be--", "नहीं, जनाब। ऐसा नहीं है..."] },
+  {
+    "line": [
+      "I've had guys on FIDO, solid guys,",
+      "फ़ाईडो में ऐसे बंदे है, बहुत दिलेर,"
+    ]
+  },
+  {
+    "line": [
+      "damn near piss their pants during a rocky re-entry.",
+      "पर रॉकेट पुनर्प्रवेश के दौरान उनकी पतलून खराब हो जाती है।"
+    ]
+  },
+  { "line": ["Well, sir...", "ऐसा है, जनाब..."] },
+  { "line": ["I don't wear pants.", "मैं पतलून नहीं पहनती।"] },
+  { "line": ["That is a fact.", "यह एक सच है।"] },
+  {
+    "line": [
+      "Dr. von Braun sure thinks the world of you.",
+      "डॉक्टर वॉन ब्रॉन तुम्हारी बड़ी तारीफ़ करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "How do you two know each other?",
+      "तुम दोनों एक दूसरे को कैसे जानते हो?"
+    ]
+  },
+  {
+    "line": [
+      "I've known him most of my life, actually.",
+      "मैं उन्हें बचपन से जानती हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "My father, he taught at the university over in Huntsville.",
+      "मेरे पिताजी, हंटसविल की विश्वविद्यालय में पढ़ाते थे।"
+    ]
+  },
+  {
+    "line": [
+      "Dr. von Braun would come over for dinners and regale us with stories",
+      "डॉक्टर वॉन ब्रॉन रात के खाने पर अंतरिक्ष में भेजे गए रॉकेट,"
+    ]
+  },
+  {
+    "line": [
+      "about rockets to outer space, journeys to the moon.",
+      "चाँद के सफ़र की कहानियाँ सुनाकर हमारा मनोरंजन करते थे।"
+    ]
+  },
+  { "line": ["Mars.", "मंगल गृह।"] },
+  {
+    "line": [
+      "I'd never even been outside of Huntsville.",
+      "मैं कभी हंटसविल से बाहर नहीं गई।"
+    ]
+  },
+  {
+    "line": [
+      "But he made me think anything was possible.",
+      "पर उन्होंने मुझे अहसास दिलाया कि कुछ भी मुमकिन है।"
+    ]
+  },
+  {
+    "line": [
+      "He's the reason I became an engineer.",
+      "आज मैं इंजीनियर उन्हीं की वजह से बनी हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I'm sorry. Am I rambling?",
+      "माफ़ कीजिए। क्या मैं बड़बड़ा रही हूँ?"
+    ]
+  },
+  { "line": ["No. It's nice.", "नहीं। अच्छा लग रहा है।"] },
+  { "line": ["Tell me a bit more about yourself.", "अपने बारे में कुछ बताओ।"] },
+  { "line": ["What do you do for fun?", "मज़े के लिए क्या करती हो?"] },
+  { "line": ["I...", "मैं..."] },
+  {
+    "line": [
+      "Relax. Margo, it's not a test.",
+      "घबराओ मत। मार्गो, यह कोई टेस्ट नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "Astronauts aren't the only ones allowed to have fun around here.",
+      "यहाँ मज़े करने का हक केवल अंतरिक्ष यात्रियों को नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "But you are not exactly a spring chicken.",
+      "पर अब तुम्हारी भी वो उम्र नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "I give you this job, you're not gonna run off on me to start a family, are you?",
+      "अगर मैंने तुम्हें यह नौकरी दी, तो परिवार बढ़ाने के चलते छोड़ तो नहीं दोगी?"
+    ]
+  },
+  {
+    "line": [
+      "I don't think kids are in the cards, sir.",
+      "मुझे नहीं लगता ऐसा कुछ होने वाला है, जनाब।"
+    ]
+  },
+  {
+    "line": [
+      "Really? You don't want kids?",
+      "सच? क्या तुम्हें बच्चे नहीं चाहिए?"
+    ]
+  },
+  { "line": ["I mean...", "मेरा मतलब..."] },
+  {
+    "line": [
+      "it's not that I don't, it's just, right now--",
+      "ऐसा नहीं है कि नहीं चाहिए, बस यह कि इस वक्त..."
+    ]
+  },
+  { "line": ["It's okay.", "कोई बात नहीं।"] },
+  {
+    "line": [
+      "Not every woman is cut out to be a mother.",
+      "हर कोई माँ की ज़िम्मेदारी उठाने के लिए नहीं बनी है।"
+    ]
+  },
+  { "line": ["Seen Aleida?", "अलीदा को देखा?"] },
+  { "line": ["Aleida.", "अलीदा।"] },
+  { "line": ["Papa is home.", "पापा घर आ गए हैं।"] },
+  { "line": ["Octavio.", "ऑक्टावियो।"] },
+  { "line": ["I caught her doing it again.", "मैंने उसे फिर वही करते पकड़ा।"] },
+  {
+    "line": [
+      "Livi almost burned her hand.",
+      "लिवी ने करीब-करीब हाथ जला लिया था।"
+    ]
+  },
+  { "line": ["You have to get her under control", "तुम्हें उसे समझाना होगा"] },
+  {
+    "line": ["or find someplace else to live.", "या फिर उसे घर से जाना होगा।"]
+  },
+  { "line": ["No. No, Cata. Cata, wait.", "नहीं। नहीं, कता। कता, रुको।"] },
+  { "line": ["Where is she?", "वह कहाँ है?"] },
+  { "line": ["Aleida!", "अलीदा!"] },
+  {
+    "line": [
+      "Aleida, you need to stop doing this.",
+      "अलीदा, तुम्हें यह सब करना बंद करना होगा।"
+    ]
+  },
+  { "line": ["It's dangerous. You know that.", "यह खतरनाक है।"] },
+  {
+    "line": [
+      "Why do you do it? Talk to me.",
+      "तुम ऐसा क्यों करती हो। बात करो मुझसे।"
+    ]
+  },
+  {
+    "line": ["I don't know. I like it.", "मुझे पता नहीं। मुझे अच्छा लगता है।"]
+  },
+  { "line": ["-English. ", "अंग्रेज़ी में बोलो।"] },
+  { "line": ["-I don't want to.", "मैं नहीं बोलना चाहती।"] },
+  { "line": ["Aleida...", "अलीदा..."] },
+  { "line": ["you need to talk to me.", "तुम्हें मुझसे बात करनी होगी।"] },
+  {
+    "line": [
+      "Do you remember how we used to talk all the time?",
+      "तुम्हें याद है हम अक्सर आपस में बात किया करते थे?"
+    ]
+  },
+  {
+    "line": [
+      "Look, I know this is hard. I know.",
+      "देखो, मैं समझता हूँ यह कठिन है। पता है।"
+    ]
+  },
+  {
+    "line": [
+      "It's a new home, a new country, a--",
+      "यह एक नया घर है, नया देश है..."
+    ]
+  },
+  {
+    "line": [
+      "But we can help each other.",
+      "पर हम एक दूसरे की ंमदद कर सकते हैं।"
+    ]
+  },
+  { "line": ["Just leave me alone.", "मुझे अकेला छोड़ दीजिए।"] },
+  { "line": ["Thank God.", "शुक्र है।"] },
+  {
+    "line": [
+      "I'm so glad you called.",
+      "मुझे खुशी हुई जो तुमने मुझे फ़ोन किया।"
+    ]
+  },
+  { "line": ["How's she doing?", "वह कैसी है?"] },
+  { "line": ["How do you think?", "तुम्हें क्या लगता है?"] },
+  { "line": ["All right. Here.", "ठीक है।"] },
+  { "line": ["-Okay. -Give this to me.", "-ठीक है। -यह मुझे दो।"] },
+  { "line": ["Are you sure?", "पक्का?"] },
+  {
+    "line": [
+      "I will take it from here. You can go.",
+      "यहाँ से मैं संभाल लूँगी। तुम जा सकती हो।"
+    ]
+  },
+  {
+    "line": [
+      "-All right. -I'll get it. Thank you, Doris.",
+      "-ठीक है। -मैं देखती हूँ। शुक्रिया, डॉरिस।"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["-Bye-bye. -Bye.", "-अलविदा। -अलविदा।"] },
+  { "line": ["Trace?", "ट्रेस?"] },
+  { "line": ["Hon, it's Karen. I--", "जान, मैं कैरन। मैं..."] },
+  {
+    "line": [
+      "Don't you dare make excuses for him.",
+      "उसकी गलतियों को छिपाने की कोशिश मत करना।"
+    ]
+  },
+  {
+    "line": [
+      "Gordo can stay with that Cape cookie for all I care.",
+      "गॉर्डो उस केप की बर्फ़ी के साथ जो चाहे करे मुझे परवाह नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "-Okay. -I'm not letting him back in this home.",
+      "-ठीक है। -अब उसे घर में नहीं आने दूँगी।"
+    ]
+  },
+  { "line": ["Yes, let's calm down, all right?", "शांत हो जाओ, ठीक है?"] },
+  { "line": ["I could hear her!", "मुझे उसकी आवाज़ सुनाई दे रही थी!"] },
+  { "line": ["She was in the room with him.", "वह उसके साथ उस कमरे में थी।"] },
+  {
+    "line": [
+      "Maybe some of you other wives can grin and bear it for the program,",
+      "हो सकता है प्रोग्राम के लिए तुममें से कुछ बीवियाँ यह सब सहने को तैयार होंगी,"
+    ]
+  },
+  { "line": ["but... fuck the program!", "पर... भाड़ में जाए यह प्रोग्राम!"] },
+  { "line": ["Trace...", "ट्रेस..."] },
+  { "line": ["come here.", "यहाँ आओ।"] },
+  { "line": ["You know...", "पता है..."] },
+  {
+    "line": [
+      "I have this fantasy I'm married to another man.",
+      "मुझे यह सपना आता है कि मेरी शादी किसी और से हो रही है।"
+    ]
+  },
+  { "line": ["Yeah?", "अच्छा?"] },
+  { "line": ["Yeah, his name's Bert.", "हाँ, उसका नाम बर्ट है।"] },
+  {
+    "line": [
+      "He's an accountant, 9:00 to 5:00, drives a Buick.",
+      "वह एक अकाउंटेंट है, 9 से 5 की नौकरी है, ब्यूइक चलाता है।"
+    ]
+  },
+  { "line": ["Does Bert have a brother?", "क्या बर्ट का कोई भाई है?"] },
+  { "line": ["Come on. Ed's a rock.", "छोड़ो भी। एड वफ़ादार है।"] },
+  {
+    "line": [
+      "Believe you me, being married to Edward Baldwin is no picnic.",
+      "मेरा यकीन करो, ए़ड के साथ रहना किसी पहाड़ चढ़ने से कम नहीं।"
+    ]
+  },
+  {
+    "line": [
+      "I'm not saying our problems are the same,",
+      "भले ही हम एक ही नाव में सवार ना हो,"
+    ]
+  },
+  {
+    "line": [
+      "but that doesn't mean we don't have problems.",
+      "पर इसका मतलब यह नहीं कि हमारे बीच कोई मतभेद नहीं हैं।"
+    ]
+  },
+  { "line": ["You know...", "पता है..."] },
+  { "line": ["I think I always knew.", "शायद यह बात मुझे हमेशा से पता थी।"] },
+  { "line": ["I was just--", "मैं बस..."] },
+  {
+    "line": [
+      "I fooled myself into-- to feeling like a--",
+      "मैं अपने आप को ही उल्लू बनाती रही... ऐसे समझती रही..."
+    ]
+  },
+  {
+    "line": [
+      "Christ, he's not even trying to hide it anymore.",
+      "अब तो वह छिपाने की भी कोशिश नहीं कर रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "I do everything for that man, Karen.",
+      "मैं उसके लिए क्या नहीं करती हूँ, कैरन।"
+    ]
+  },
+  { "line": ["I know.", "मुझे पता है।"] },
+  { "line": ["I know it's not easy, I do.", "मैं जानती हूँ यह आसान नहीं है।"] },
+  { "line": ["Divorce.", "तलाक।"] },
+  {
+    "line": [
+      "I mean, that's what we're talking about.",
+      "हम इसी बारे में बात कर रहे हैं।"
+    ]
+  },
+  { "line": ["That's where this leads.", "इसका अंत यही होता है।"] },
+  {
+    "line": [
+      "I mean, it's-- it is hard enough for any woman.",
+      "मेरा मतलब, पहले ही... पहले ही औरतों का जीवन कठिन है।"
+    ]
+  },
+  {
+    "line": [
+      "But for women like us, it's--",
+      "पर हमारी जैसी औरतों के लिए, वो..."
+    ]
+  },
+  {
+    "line": [
+      "Do you remember Harriet and Don?",
+      "तुम्हें हैरियट और डॉन याद हैं?"
+    ]
+  },
+  {
+    "line": [
+      "There were reporters camped out in their front lawn.",
+      "उनके बागीचे पर तो रिपोर्टरों ने डेरा जमा लिया था।"
+    ]
+  },
+  {
+    "line": [
+      "Their kids' photos were in magazines.",
+      "बच्चों की तस्वीरें पत्रिकाओं में छप चुकी थीं।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, Trace, you gotta think about those things.",
+      "ट्रेस, तुम्हें इस सबके बारे में सोचना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "You know, I mean, a divorced single mother of two. I--",
+      "मेरा मतलब, एक तलाकशुदा दो बच्चों की माँ। मैं..."
+    ]
+  },
+  {
+    "line": [
+      "How do you support yourself? I mean, what do you tell your kids?",
+      "अपनी खर्चा कैसे चलाओगी? मेरा मतलब, अपने बच्चों से क्या कहोगी?"
+    ]
+  },
+  { "line": ["Your parents?", "अपने माता-पिता से क्या कहोगी?"] },
+  {
+    "line": [
+      "I mean, you're not just leaving Gordo, you're leaving your entire life.",
+      "तुम सिर्फ़ गॉर्डो को ही नहीं छोड़ रही, तुम अपनी पूरी ज़िंदगी को छोड़ रही हो।"
+    ]
+  },
+  { "line": ["I'm sorry. I--", "मुझे माफ़ करना। मैं..."] },
+  {
+    "line": [
+      "Trace, I want what's best for you, I do.",
+      "ट्रेस, मैं तुम्हारा भला चाहती हूँ, सच में।"
+    ]
+  },
+  {
+    "line": [
+      "Look me in the eye and tell me you don't love him.",
+      "मुझे देखो और कहो कि तुम्हें उससे प्यार नहीं है।"
+    ]
+  },
+  { "line": ["Well...", "वो..."] },
+  { "line": ["shit.", "धत्।"] },
+  { "line": ["Margo.", "मार्गो।"] },
+  {
+    "line": [
+      "I thought you'd already left for DC.",
+      "मुझे लगा आप डीसी के लिए निकल चुके हैं।"
+    ]
+  },
+  { "line": ["I am disappointed in you.", "मैं तुमसे बहुत निराश हूँ।"] },
+  { "line": ["Why? What happened?", "क्यों? क्या हुआ?"] },
+  {
+    "line": [
+      "You've made me look very bad.",
+      "तुमने मेरी मेहनत पर पानी फेर दिया।"
+    ]
+  },
+  {
+    "line": [
+      "I was second to the moon.",
+      "मैं चाँद पर जाने वाला दूसरा व्यक्ति था।"
+    ]
+  },
+  {
+    "line": [
+      "And now you, you will be the first woman in Mission Control.",
+      "और अब तुम, मिशन नियंत्रण में पहली औरत होगी।"
+    ]
+  },
+  {
+    "line": [
+      "You didn't have to convince him, did you?",
+      "उससे आपने मेरी कोई सिफ़ारिश तो नहीं की न?"
+    ]
+  },
+  { "line": ["I did not say a word.", "मैंने एक शब्द भी नहीं कहा।"] },
+  {
+    "line": [
+      "Gene is a smart man. He could see how talented you are.",
+      "जीन एक समझदार आदमी है। उसे दिखा तुम कितनी प्रतिभाशाली हो।"
+    ]
+  },
+  { "line": ["No, this is you alone.", "यह तुम्हारी मेहनत का फल है।"] },
+  { "line": ["No, it wasn't.", "नहीं, ऐसा नहीं है।"] },
+  { "line": ["Yes.", "हाँ।"] },
+  { "line": ["Well, I...", "तो, मैंने..."] },
+  {
+    "line": [
+      "I've had this for over 20 years.",
+      "यह मैंने अपने पास 20 सालों से भी ज़्यादा समय तक रखा।"
+    ]
+  },
+  {
+    "line": [
+      "And now I would like you to have it.",
+      "और अब मैं चाहता हूँ कि तुम इसे रखो।"
+    ]
+  },
+  { "line": ["I was hoping for cognac.", "मुझे लगा आप शराब पिलाएँगे।"] },
+  { "line": ["Welcome to the trench,", "खाई में तुम्हारा स्वागत है,"] },
+  {
+    "line": [
+      "-Eva von Braun! -Eva von Braun!",
+      "-इवा वॉन ब्रॉन! -इवा वॉन ब्रॉन!"
+    ]
+  },
+  {
+    "line": [
+      "All right, people. Let's get those handover briefs started.",
+      "ठीक है, लोगों, उन संक्षेपों पर काम शुरू करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "White Team is on-console in 35 minutes.",
+      "पैंतीस मिनटों में श्र्वेत टीम कंप्यूटर पर तैयार मिलेगी।"
+    ]
+  },
+  { "line": ["Don't take it personal.", "इस बात को मन पर न लेना।"] },
+  {
+    "line": [
+      "They pull this stuff with all the new guys.",
+      "वे हर नए सदस्य के साथ ऐसा मज़ाक करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Feeling like we should make a little detour here, Freddie.",
+      "फ़्रेडी, मुझे लगता है हमें यहाँ से थोड़ा सा रास्ता बदलना चाहिए।"
+    ]
+  },
+  { "line": ["Come on, Gordo.", "छोड़ो भी, गॉर्डो।"] },
+  {
+    "line": [
+      "Don't you remember the ass-chewing we got last time?",
+      "पिछली बार जो डांट पड़ी थी वो भूल गए हो क्या?"
+    ]
+  },
+  { "line": ["Ellington Tower, NASA 963.", "एलिंग्टन टावर, नासा 963।"] },
+  { "line": ["Boys, Daddy's home.", "लड़को, पापा घर आ गए हैं।"] },
+  { "line": ["Hello.", "हेलो।"] },
+  { "line": ["Hey.", "हेलो।"] },
+  { "line": ["-Daddy! -Daddy!", "-पापा! -पापा!"] },
+  { "line": ["Yeah!", "वाह!"] },
+  {
+    "line": [
+      "I got you something. I got you this.",
+      "मैं तुम्हारे लिए कुछ लाया हूँ। तुम्हारे लिए यह लाया।"
+    ]
+  },
+  {
+    "line": [
+      "It's the biggest because you're the biggest.",
+      "सबसे बड़ा वाला क्योंकि तुम सबसे बड़े हो।"
+    ]
+  },
+  {
+    "line": [
+      "Smelling good, Trace. What you cooking?",
+      "बहुत अच्छी खुशबू आ रही है, ट्रेस। क्या बना रही हो?"
+    ]
+  },
+  {
+    "line": [
+      "It's just some casserole. Hands off. It's for the barbecue.",
+      "दम बिरयानी। छूना मत। पार्टी के लिए है।"
+    ]
+  },
+  { "line": ["-Barbecue? -Mm-hmm.", "-पार्टी? -हाँ।"] },
+  { "line": ["All right!", "ठीक है!"] },
+  { "line": ["It's good to see you.", "तुमसे मिलकर इतना अच्छा लग रहा है।"] },
+  { "line": ["-You too. -Okay.", "-मुझे भी। -ठीक है।"] },
+  { "line": ["-That's the casserole. -Yeah.", "-बिरयानी तैयार है। -हाँ।"] },
+  { "line": ["Guys.", "बच्चों।"] },
+  { "line": ["Hey, you. Glad you could make it.", "हैलो। खुशी हुई तुम आए।"] },
+  { "line": ["Yeah, well, wouldn't miss it.", "मुझे तो आना ही था।"] },
+  {
+    "line": [
+      "-Come here. Come here! -He loves those boys.",
+      "-यहाँ आओ! -उसे लड़कों से बहुत प्यार है।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah, I know. But this would be great for the...",
+      "हाँ, पता है। पर यह अच्छा रहेगा उस..."
+    ]
+  },
+  { "line": ["Come on. Come on over here. Come on--", "चलो। यहाँ आओ। चलो..."] },
+  {
+    "line": [
+      "That's great. Great! That's great. Up here! Big smiles.",
+      "बहुत बढ़िया। बढ़िया! यहाँ देखो! मुस्कुराओ।"
+    ]
+  },
+  {
+    "line": [
+      "Buzz, take a bite of the hamburger.",
+      "बज़, हैमबर्गर का एक टुकड़ा खाओ।"
+    ]
+  },
+  { "line": ["There we go! Nice. Excellent.", "बहुत बढ़िया! बहुत अच्छा।"] },
+  {
+    "line": [
+      "I'm just saying, word is we're putting a base up there.",
+      "मैं बस कह रहा हूँ कि खबर है हम वहाँ एक केंद्र बनाने वाले हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We wanna be on the crew, Deke.",
+      "हम उस दल का हिस्सा होना चाहेंगे, डीक।"
+    ]
+  },
+  {
+    "line": [
+      "Guys, drink some beer. Eat some dogs. Enjoy yourselves.",
+      "यारों, थोड़ी बियर पियो। खाना खाओ। मज़ा करो।"
+    ]
+  },
+  {
+    "line": [
+      "Her niece just got back from London,",
+      "उसकी भतीजी अभी-अभी लंदन से लौटी है,"
+    ]
+  },
+  {
+    "line": [
+      "and apparently all the kids over there were wearing hammer and sickle T-shirts.",
+      "और वहाँ सभी बच्चे रूसी क्रांति के चिह्न वाली टी-शर्ट पहने घूम रहे हैं।"
+    ]
+  },
+  { "line": ["Can you imagine?", "ऐसा कुछ कभी सोचा था?"] },
+  {
+    "line": [
+      "Karen, I cannot believe how well you put this all together,",
+      "कैरन, तुमने एक बहुत बढ़िया पार्टी का इंतज़ाम किया है,"
+    ]
+  },
+  {
+    "line": [
+      "what with all you and Ed are going through.",
+      "अपने और एड के बीच के मनमुटाव को परे रख।"
+    ]
+  },
+  { "line": ["Well, we do what we can.", "हमसे जो हो सकता है हम करते हैं।"] },
+  { "line": ["Gordo! Stop it!", "गॉर्डो! बस करो!"] },
+  { "line": ["You got me all wet.", "तुमने मुझे पूरी तरह से भिगो दिया है।"] },
+  {
+    "line": [
+      "I wish Harry and me still had that kind of passion.",
+      "काश मेरे और हैरी के बीच अब भी ऐसा प्यार होता।"
+    ]
+  },
+  { "line": ["Ed.", "एड।"] },
+  {
+    "line": [
+      "Plotting your escape too?",
+      "तुम भी यहाँ से भागने की योजना बना रहे हो?"
+    ]
+  },
+  { "line": ["Yeah. Something like that.", "हाँ। ऐसा ही कुछ समझ लो।"] },
+  {
+    "line": [
+      "Look, I know you came out here to get away from all the questions,",
+      "देखो, मैं जानता हूँ कि तुम सवालों से पीछा छुड़ाने के लिए यहाँ आए हो,"
+    ]
+  },
+  { "line": ["but it's still my backyard.", "पर यह मेरा घर का पिछवाड़ा है।"] },
+  { "line": ["So, spit it out.", "तो, जो मन में है बोल दो।"] },
+  {
+    "line": [
+      "Did they really make you go through customs when you came back?",
+      "जब वापस लौटे तो क्या तुम्हें कस्टम की जाँच से गुज़रवाया?"
+    ]
+  },
+  {
+    "line": [
+      "I got the receipt to prove it.",
+      "सबूत के तौर पर मेरे पास रसीद भी है।"
+    ]
+  },
+  { "line": ["Jesus.", "हे, भगवान।"] },
+  {
+    "line": [
+      "That was... a hell of a landing, Neil.",
+      "वो एक बेहतरीन लेन्डिंग थी, नील।"
+    ]
+  },
+  { "line": ["If you can call it that.", "अगर तुम ऐसा कहते हो तो।"] },
+  {
+    "line": [
+      "Maintaining attitude control was no joke.",
+      "रुख का नियंत्रण रखना कोई मज़ाक नहीं है।"
+    ]
+  },
+  { "line": ["I bet.", "सही कहा।"] },
+  { "line": ["Tell you the truth?", "सच बताऊँ?"] },
+  {
+    "line": [
+      "I can't believe I didn't abort.",
+      "मुझे यकीन नहीं होता कि मैंने मिशन रद्द नहीं किया।"
+    ]
+  },
+  {
+    "line": [
+      "Well, you pulled it off. It was a good call.",
+      "तुमने हिम्मत बनाए रखी। अच्छा फ़ैसला था।"
+    ]
+  },
+  { "line": ["Easy to say that looking back.", "अब देखो तो कहना आसान है।"] },
+  {
+    "line": ["Couple things go different,", "अगर थोड़ी सी भी गड़बड़ हो जाती,"]
+  },
+  {
+    "line": [
+      "we drift a little bit further into those rocks...",
+      "अगर उन पत्थरों की ओर थोड़ा सा और पहुँच जाते..."
+    ]
+  },
+  { "line": ["we're a smoking hole", "तो हम धुँआ हो जाते"] },
+  {
+    "line": [
+      "and I got my name on the biggest disaster in NASA history.",
+      "और मेरा नाम नासा के इतिहास में सबसे बड़ी त्रासदी के लिए दर्ज हो जाता।"
+    ]
+  },
+  { "line": ["Then why'd you go for it?", "तो फिर तुम गए ही क्यों?"] },
+  {
+    "line": [
+      "I don't know. You're in flight test...",
+      "पता नहीं। तुम एक विमान टेस्ट दे रहे हो..."
+    ]
+  },
+  { "line": ["and, every once in a while,", "और, ऐसा होता ही है,"] },
+  {
+    "line": [
+      "you get to that point where part of your brain is saying, 'Eject.'",
+      "ऐसी स्थिति आ ही जाती है जहाँ दिमाग कहता है 'निकल जाओ।'"
+    ]
+  },
+  {
+    "line": [
+      "But another part of your brain is saying, 'Go for it.'",
+      "पर दिमाग का दूसरा हिस्सा कहता, 'टिके रहो।'"
+    ]
+  },
+  {
+    "line": [
+      "And you just have to make the call...",
+      "और तभी फ़ैसला लेना होता है..."
+    ]
+  },
+  {
+    "line": [
+      "and hope you're not wrong.",
+      "और उम्मीद होती है कि वो फ़ैसला गलत न हो।"
+    ]
+  },
+  { "line": ["There he is.", "लो आ गया।"] },
+  {
+    "line": [
+      "Ed, I want you to meet Congressman Charles Sandman.",
+      "एड, मैं तुम्हें सभा सदस्य चार्लस सैंडमन से मिलवाना चाहता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "He's on the committee looking at this whole mess, and he's a big fan of yours.",
+      "यह उस कमेटी का हिस्सा हैं जो इस झमेले पर काम कर रही है और यह तुम्हारे प्रशंसक हैं।"
+    ]
+  },
+  {
+    "line": [
+      "You know, before I headed back to Washington,",
+      "पता है, वॉशिंग्टन जाने से पहले,"
+    ]
+  },
+  {
+    "line": [
+      "I told Tom here I had to meet the man who almost won the moon for us.",
+      "मैंने टॉम से कहा उस आदमी से मिलना चाहूँगा जो करीब-करीब चाँद पर उतरा।"
+    ]
+  },
+  {
+    "line": [
+      "I watched Apollo 10 on TV, Commander.",
+      "मैंने अपोलो 10 टीवी पर देखा था, कमांडर।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, you boys, you came so damn close. Must have just about killed you.",
+      "तुम लोगों ने काम लगभग पूरा कर ही लिया था। दिल टूट गया होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Not exactly a secret these days, huh?",
+      "आजकल ऐसी बातें कहाँ छिपती हैं?"
+    ]
+  },
+  {
+    "line": [
+      "You know, I would love for you to come talk to the committee,",
+      "मुझे अच्छे लगेगा अगर तुम कमेटी को यह सब बताओगे,"
+    ]
+  },
+  {
+    "line": [
+      "hear what you have to say about all this.",
+      "वो इस सब पर तुम्हारे मत के बारे में सुनना चाहेगी।"
+    ]
+  },
+  {
+    "line": [
+      "With all due respect, sir, I think my mouth has done enough damage.",
+      "बुरा न माने, जनाब, मेरी बड़बड़ से पहले ही काफ़ी बवाल मच चुका है।"
+    ]
+  },
+  { "line": ["You see?", "देखो?"] },
+  {
+    "line": [
+      "The fact that you were punished for speaking the truth...",
+      "बात तो यह है कि तुम्हें सच बोलने की सज़ा दी गई है..."
+    ]
+  },
+  {
+    "line": [
+      "I mean, if they'd listened to you before, we wouldn't be in this mess to begin with.",
+      "मेरा मतलब है, अगर वे पहले ही तुम्हारी बात सुन लेते तो हम सब इस बवाल में न फंसे होते।"
+    ]
+  },
+  { "line": ["We're at war here.", "यहाँ जंग छिड़ चुकी है।"] },
+  {
+    "line": [
+      "Well, you, you know what I'm saying, you're navy.",
+      "समझ सकते हो मैं क्या कह रहा हूँ, तुम सैनिक हो।"
+    ]
+  },
+  {
+    "line": [
+      "All you astronauts, you're all military, aren't you?",
+      "तुम सारे अंतरिक्ष यात्री, तुम सारे सैनिक हो, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Well, technically, yes, sir. But--",
+      "तकनीकी तौर पर, हाँ, जनाब। पर..."
+    ]
+  },
+  {
+    "line": ["They're on loan to NASA.", "नासा वालों ने इन्हें उधार लिया है।"]
+  },
+  {
+    "line": [
+      "Still military, but they can't even wear their uniforms in public.",
+      "सैनिक हैं, पर लोगों के सामने अपनी वर्दी तक नहीं पहन सकते।"
+    ]
+  },
+  { "line": ["See? What a disgrace.", "देखो? कितने शर्म की बात है।"] },
+  {
+    "line": [
+      "That is exactly the kinda ticky-tack crap that's undermining our fight for the moon.",
+      "इसी तरह की बकवास हमें चाँद पर नहीं पहुँचने दे रही है।"
+    ]
+  },
+  {
+    "line": [
+      "I know you're not happy, Ed.",
+      "मैं जानता हूँ तुम खुश नहीं हो, एड।"
+    ]
+  },
+  {
+    "line": [
+      "And I've spoken with the president. He's not happy either.",
+      "और मैंने राष्ट्रपति जी से भी बात की थी। वह भी खुश नहीं हैं।"
+    ]
+  },
+  {
+    "line": [
+      "He wants to make some big changes at the agency, and he needs your help.",
+      "वह ऐजेंसी में बड़े बदलाव लाना चाहते हैं और उन्हें तुम्हारी मदद चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "Come on up to DC and tell my colleagues exactly what you told that reporter.",
+      "डीसी आ जाओ और मेरे सहकर्मियों को वो सारी बातें बताओ जो उस रिपोर्टर को बताई थी।"
+    ]
+  },
+  {
+    "line": [
+      "That von Braun is too cautious. That he cost us the moon.",
+      "वॉन ब्रॉन ने एहतियाती रवैया अपनाया। इसलिए हम चाँद पर नहीं जा सके।"
+    ]
+  },
+  { "line": ["I don't know.", "मुझे पता नहीं।"] },
+  {
+    "line": [
+      "Look, I don't always see eye to eye with von Braun. But I respect him.",
+      "हालांकि मेरी वॉन ब्रॉन से पटती नहीं है। पर मैं उनकी इज़्ज़त करता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "-You know, he built the Saturn V. -Yeah, yeah, yeah.",
+      "-पता है न, उन्होंने सैटर्न पाँच को बनाया। -हाँ।"
+    ]
+  },
+  {
+    "line": [
+      "No, Wernher is a great man. Don't get me wrong.",
+      "नहीं, वर्नर एक अच्छे इंसान हैं। मुझे गलत मत समझो।"
+    ]
+  },
+  {
+    "line": [
+      "But men like him, they don't see the tide till they're drowning in it.",
+      "पर उनके जैसे लोग, जबतक मुसीबत दरवाज़े तक नहीं आ जाती तबतक अनदेखा करते रहते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "The president is clear-eyed about the threat we're facing here.",
+      "यहाँ जो खतरा हम महसूस कर रहे हैं राष्ट्रपति जी से कुछ छिपा नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "He thinks astronauts should be running things.",
+      "उन्हें लगता है यह सारा काम अंतरिक्ष यात्रियों को संभालना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "Men who actually know what it feels like to be in a dogfight.",
+      "वे लोग जो जानते हैं कि ऐसी स्थिति में होना क्या होता है।"
+    ]
+  },
+  {
+    "line": [
+      "You astronauts, you're holding all the cards.",
+      "सारे अवसर तो तुम अंतरिक्ष यात्रियों के पास होते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, hell, you're already the face of the program. Why not be the voice too?",
+      "तुम प्रोग्राम का चेहरा तो बन ही चुके हो। अब उसकी आवाज़ क्यों नहीं बन जाते?"
+    ]
+  },
+  {
+    "line": [
+      "The president's real keen on this, Ed.",
+      "इसके लिए राष्ट्रपति जी बहुत इच्छुक है, एड।"
+    ]
+  },
+  {
+    "line": [
+      "And he remembers his friends.",
+      "और वह अपने दोस्तों को कभी नहीं भूलते।"
+    ]
+  },
+  {
+    "line": [
+      "Could be your ticket back up there.",
+      "ऐसा करने से तुम दोबारा चाँद पर जा सकोगे।"
+    ]
+  },
+  { "line": ["So, what do you say?", "तो, क्या कहते हो?"] },
+  {
+    "line": [
+      "Maybe if you do what they want, things will go back to the way they were before.",
+      "अगर तुम उनके कहे मुताबिक चलोगे तो हो सकता है स्थिति पहले जैसी हो जाए।"
+    ]
+  },
+  { "line": ["Yeah.", "हाँ।"] },
+  { "line": ["I'd be back on 15...", "अपोलो 15 में मेरी वापसी हो जाए..."] },
+  {
+    "line": [
+      "headed for the Apennine Highlands.",
+      "और उसे ऐपीनाइन हाईलैंड्स पर ले जा सकूँ।"
+    ]
+  },
+  { "line": ["Yeah. No desk duty.", "हाँ। कागज़ी काम से छुट्टी।"] },
+  { "line": ["No Vietnam.", "वियतनाम भी नहीं जाना पड़ेगा।"] },
+  {
+    "line": [
+      "You know, you said yourself that NASA could use a good kick in the rear.",
+      "तुमने कहा था न कि नासा को नींद से उठाने का वक्त आ गया है।"
+    ]
+  },
+  { "line": ["That's true.", "यह तो सच है।"] },
+  { "line": ["But von Braun, he--", "पर वॉन ब्रॉन, वह..."] },
+  { "line": ["he would be...", "वह क्या..."] },
+  { "line": ["Yeah.", "हाँ।"] },
+  {
+    "line": [
+      "Now, Commander Baldwin, if I'm not mistaken...",
+      "कमांडर बॉल्डविन, अगर मैं गलत नहीं हूँ तो,"
+    ]
+  },
+  {
+    "line": [
+      "both Apollo 10 and Apollo 11 lunar modules,",
+      "अपोलो 10 और अपोलो 11, दोनों ही लूनार मॉड्यूल हैं,"
+    ]
+  },
+  {
+    "line": [
+      "they had almost the same amount of fuel, correct?",
+      "दोनों में लगभग एक समान ईंधन होता है, है न?"
+    ]
+  },
+  { "line": ["Yes, sir.", "जी, जनाब।"] },
+  {
+    "line": [
+      "A little shy of 18,000 pounds in the descent stage,",
+      "अवतरण के चरण पर 18,000 पाउंड से थोड़ा कम,"
+    ]
+  },
+  { "line": ["and 5,000 in the ascent.", "और चढ़ाई पर 5,000 से थोड़ा कम।"] },
+  {
+    "line": [
+      "Okay. Were there any other differences in the spacecraft?",
+      "ठीक है। अंतरिक्ष यान में और कोई अंतर थे?"
+    ]
+  },
+  {
+    "line": [
+      "Anything that would prevent you from landing.",
+      "ऐसा कुछ जिससे लैन्डिंग में तुम्हें तकलीफ़ हो।"
+    ]
+  },
+  { "line": ["Well, Snoopy was--", "स्नूपी में..."] },
+  { "line": ["Wait. I'm sorry. Snoopy?", "एक मिनट। माफ़ करना। स्नूपी?"] },
+  {
+    "line": [
+      "Yes, sir. We named our LEM Snoopy.",
+      "हाँ, जनाब। हमने अपने लिम का नाम स्नूपी रखा था।"
+    ]
+  },
+  {
+    "line": [
+      "And the command module was Charlie Brown.",
+      "और कमांड मॉड्यूल नाम था चार्ली ब्राउन।"
+    ]
+  },
+  { "line": ["Okay.", "ठीक है।"] },
+  {
+    "line": [
+      "Our LEM was heavier than Eagle,",
+      "हमारा लिम ईगल से भारी था, तो चिंता यह थी कि"
+    ]
+  },
+  {
+    "line": [
+      "so the concern was whether we'd have enough thrust to re-enter lunar orbit.",
+      "क्या हमारे पास इतना ज़ोर होगा जिससे हम चंद्रीय ग्रहपथ में फिर से प्रवेश कर सकें।"
+    ]
+  },
+  {
+    "line": [
+      "You share in that concern?",
+      "इस मामले पर तुम्हारे विचार क्या हैं?"
+    ]
+  },
+  {
+    "line": [
+      "Well, it wasn't within NASA's safety margins.",
+      "वह नासा की सुरक्षा सीमा के अनूरुप नहीं था।"
+    ]
+  },
+  { "line": ["Uh-huh.", "अच्छा।"] },
+  {
+    "line": [
+      "You were a naval test pilot, were you not, Commander? At Pax River.",
+      "तुम एक दरियाई परीक्षक विमानचालक थे, है कि नहीं, कमांडर? पैक्स रिवर में।"
+    ]
+  },
+  { "line": ["I was, sir.", "जी, जनाब।"] },
+  {
+    "line": [
+      "And when was playing it safe part of being a test pilot?",
+      "तो क्या एक परीक्षक विमानचालक के लिए सावधानी बरतना एक विकल्प रहा है?"
+    ]
+  },
+  { "line": ["Never, sir.", "कभी नहीं, जनाब।"] },
+  {
+    "line": [
+      "You pushed and you pushed for Apollo 10 to land on the moon, didn't you?",
+      "तुमने सबसे बहुत मिन्नतें की कि अपोलो 10 को चाँद पर उतारा जाए, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Well, during planning, yes, sir. I pushed for us to land.",
+      "योजना के दौरान की थी, जनाब। मैंने काफ़ी कोशिश की।"
+    ]
+  },
+  {
+    "line": [
+      "And you were overruled by Wernher von Braun.",
+      "और वर्नर वॉन ब्रॉन ने तुम्हारी बात को नकार दिया।"
+    ]
+  },
+  {
+    "line": [
+      "Well, it was ultimately his decision",
+      "बद्किस्मति से यह उनका फ़ैसला था"
+    ]
+  },
+  {
+    "line": [
+      "to view Apollo 10 as a trial run for 11.",
+      "कि अपोलो 10 को अपोलो 11 के पूर्व परीक्षण की तरह इस्तमाल किया जाए।"
+    ]
+  },
+  { "line": ["But were it not for him,", "पर अगर वे न होते,"] },
+  {
+    "line": [
+      "you would've been the first man to set foot on the moon, right?",
+      "तो चाँद पर कदम रखने वाले तुम पहले आदमी होते, है न?"
+    ]
+  },
+  { "line": ["It's not that simple, sir.", "इतना आसान नहीं है, जनाब।"] },
+  { "line": ["It's not-- I'm sorry?", "आसान नहीं... माफ़ करिए?"] },
+  {
+    "line": [
+      "Well, it's true von Braun made the call on the ground, but...",
+      "यह सच है कि धरती पर फ़ैसला वॉन ब्रॉन ने लिया, पर..."
+    ]
+  },
+  {
+    "line": [
+      "when we were up in lunar orbit...",
+      "जब हम चंद्रीय ग्रहपथ पर थे..."
+    ]
+  },
+  {
+    "line": [
+      "I knew I could bring the LEM safely down to the surface.",
+      "मैं जानता था कि सतह पर लिम को सुरक्षित उतार सकता था।"
+    ]
+  },
+  { "line": ["I mean, we were so close.", "मेरा मतलब, हम बहुत करीब थे।"] },
+  {
+    "line": [
+      "Snoopy, Houston. We put you one minute ahead of the timeline.",
+      "स्नूपी, ह्यूस्टन। हमने घटनाक्रम में तुम्हें एक मिनट का ज़्यादा समय दिया है।"
+    ]
+  },
+  {
+    "line": [
+      "Take a minute and enjoy the view, gentlemen.",
+      "सज्जनों, नज़ारे का आनंद उठाइए।"
+    ]
+  },
+  {
+    "line": [
+      "Roger that, Houston. We got the best seat in the house.",
+      "ठीक है, ह्यूस्टन। हम सबसे बेहतरीन सीटों पर बैठे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "All I had to do was hit Engine Arm, Descent...",
+      "मुझे बस इंजन आर्म, अवतरण का बटन दबाना था..."
+    ]
+  },
+  {
+    "line": [
+      "let the burn run all the way to completion.",
+      "और बाकी का काम विमान कर देता।"
+    ]
+  },
+  {
+    "line": [
+      "Except that wasn't your mission, Commander.",
+      "पर यह तुम्हारा मिशन नहीं था, कमांडर।"
+    ]
+  },
+  {
+    "line": [
+      "I mean, von Braun, you know, he made it very clear that that was not--",
+      "वॉन ब्रॉन ने, यह स्पष्ट कर दिया था कि ऐसा नहीं..."
+    ]
+  },
+  {
+    "line": [
+      "After launch, it's my ship to command.",
+      "प्रशेक्षपण के बाद, जहाज़ मेरे आदेश से चलेगा।"
+    ]
+  },
+  {
+    "line": [
+      "There's boulders in every one of those little--",
+      "उन हर छोटे-छोटे गड्ढों में..."
+    ]
+  },
+  { "line": ["little craters. You see that?", "गोलाशम है। तुम देख रहे हो?"] },
+  { "line": ["On the ridge.", "ऊँचे भाग पर।"] },
+  {
+    "line": [
+      "Boulders are black, but whatever's ejected out of them is white.",
+      "गोलाशम काले हैं, पर उनमें से जो भी निकला वह सफ़ेद है।"
+    ]
+  },
+  {
+    "line": [
+      "White, but... still some black around them.",
+      "सफ़ेद, पर... घेरा कुछ काला सा है।"
+    ]
+  },
+  {
+    "line": [
+      "It almost looks windblown down there, right?",
+      "ऐसा लग रहा है यहाँ तेज़ हवा चली है, है न?"
+    ]
+  },
+  { "line": ["Uh-huh.", "हाँ।"] },
+  { "line": ["What a place.", "क्या जगह है।"] },
+  { "line": ["Snoopy, Houston.", "स्नूपी, ह्यूस्टन।"] },
+  {
+    "line": [
+      "Hate to rain on your parade, but that's as close as you get this trip.",
+      "तुम्हारे मीठे सफ़र में विघ्न डाल रहा हूँ पर और करीब नहीं जा सकते।"
+    ]
+  },
+  { "line": ["Time to head for the barn.", "वापस आने का समय हो गया है।"] },
+  { "line": ["Roger that.", "ठीक है।"] },
+  { "line": ["Heading for the barn.", "वापस लौट रहे हैं।"] },
+  {
+    "line": [
+      "I wanna just reach down there and scoop up a handful of moon dust.",
+      "ऐसा मन हो रहा है कि हाथ बढ़ाकर चाँद पर से एक मुट्ठी भर रेत ले चलूँ।"
+    ]
+  },
+  { "line": ["Engine Arm, Ascent.", "इंजन आर्म, चढ़ाई।"] },
+  { "line": ["Engine Arm, Ascent.", "इंजन आर्म, चढ़ाई।"] },
+  { "line": ["Abort Descent Stage.", "अवतरण चरण रद्द।"] },
+  { "line": ["Three, two, one...", "तीन, दो, एक..."] },
+  { "line": ["Skipper?", "स्कीपर?"] },
+  {
+    "line": [
+      "And if I would've said we can land,",
+      "और मैं कहता हम उतर सकते हैं,"
+    ]
+  },
+  {
+    "line": [
+      "I knew Gene would've backed me.",
+      "मुझे पता है जीन मेरा साथ देता।"
+    ]
+  },
+  {
+    "line": [
+      "Just like he backed Neil on 11.",
+      "जैसे उसने अपोलो 11 में नील का साथ दिया था।"
+    ]
+  },
+  { "line": ["It was maybe a few seconds...", "कुछ सेकंड लगते..."] },
+  {
+    "line": [
+      "but I knew I could've flown her right down to the deck.",
+      "पर मुझे पता है मैं उसे सीधा नीचे उतार सकता था।"
+    ]
+  },
+  { "line": ["Abort Descent Stage.", "अवतरण चरण रद्द।"] },
+  { "line": ["Three, two, one...", "तीन, दो, एक..."] },
+  { "line": ["And I almost did.", "और मैं करीब-करीब पहुँच चुका था।"] },
+  { "line": ["But I pulled back.", "पर मैंने विमान पीछे ले लिया।"] },
+  { "line": ["And it was my call...", "और यह मेरा फ़ैसला था..."] },
+  { "line": ["no one else's.", "किसी और का नहीं।"] },
+  { "line": ["Hang on, now.", "एक मिनट रुको।"] },
+  { "line": ["You said--", "तुमने कहा..."] },
+  { "line": ["Just hang on a minute.", "एक मिनट रुको।"] },
+  { "line": ["You said-- Here! Right here.", "तुमने यहाँ कहा! यहीं।"] },
+  {
+    "line": [
+      "You said, 'We don't have guts at NASA anymore. That's why we lost the moon.'",
+      "तुमने कहा, 'नासा में अब हिम्मत नहीं रही। इसलिए हम चाँद पर नहीं पहुँच पाए।'"
+    ]
+  },
+  { "line": ["Now what are you saying?", "अब तुम क्या कह रहे हो?"] },
+  {
+    "line": [
+      "Now you're saying, 'I could've landed. I just didn't'?",
+      "अब तुम कह रहे हो, 'जहाज़ चाँद पर उतार सकता। पर किया नहीं'?"
+    ]
+  },
+  {
+    "line": [
+      "I think about it every day, sir.",
+      "मैं इस बारे में हर रोज़ सोचता हूँ, जनाब।"
+    ]
+  },
+  {
+    "line": [
+      "Whether it was the right call or not.",
+      "क्या वह फ़ैसला सही था या गलत।"
+    ]
+  },
+  {
+    "line": [
+      "Ten years ago when I was in flight test,",
+      "दस साल पहले जब मैं विमान परिक्षा में था,"
+    ]
+  },
+  {
+    "line": [
+      "maybe I would've said, 'Hell with it.'",
+      "तो शायद कहता, 'जो होगा देखा जाएगा।'"
+    ]
+  },
+  { "line": ["Brought the LEM down.", "लिम को नीचे उतार देता।"] },
+  {
+    "line": [
+      "But up there I wasn't just some test pilot trying to break another record.",
+      "पर वहाँ मैं कोई परीक्षण पायलट नहीं था जो और एक रिकॉर्ड की कोशिश कर रहा हो।"
+    ]
+  },
+  {
+    "line": ["I was the commander of Apollo 10.", "मैं अपोलो 10 का कमांडर था।"]
+  },
+  {
+    "line": [
+      "So if this committee is looking for someone to blame...",
+      "तो अगर यह कमेटी को किसी पर इल्ज़ाम लगाना है..."
+    ]
+  },
+  {
+    "line": [
+      "don't look to von Braun or Neil or anyone else.",
+      "तो वॉन ब्रॉन या नील या किसी और पर न डालें।"
+    ]
+  },
+  { "line": ["You look to me.", "मुझसे बात करें।"] },
+  { "line": ["I lost the moon.", "चाँद पर न उतरने का फ़ैसला मेरा था।"] },
+  { "line": ["Right.", "ठीक है।"] },
+  {
+    "line": [
+      "Thank you, Commander. That'll be all for today. Thank you.",
+      "शुक्रिया, कमांडर। आज के लिए काफ़ी हो गया। शुक्रिया।"
+    ]
+  },
+  { "line": ["Thank you, everyone.", "सभी को, धन्यवाद।"] },
+  {
+    "line": [
+      "The new rocket can carry over one million pounds into Earth orbit.",
+      "नया रॉकेट धरती के ग्रहपथ में एक मिलियन पाउंड ईंधन ले जा सकता है।"
+    ]
+  },
+  {
+    "line": [
+      "Nearly four times the payload of the Saturn V.",
+      "सैटर्न पाँच से करीबन चार गुणा अंतरिक्ष उपकरण।"
+    ]
+  },
+  { "line": ["This is possible...", "यह मुमकिन है..."] },
+  {
+    "line": [
+      "So you just weren't gonna tell me?",
+      "तो क्या तुम मुझे बताने वाले थे?"
+    ]
+  },
+  {
+    "line": [
+      "-What do you want me to say, Gordo? -It wasn't just your decision to make, Ed.",
+      "-क्या बोलूँ, गॉर्डो? -यह फ़ैसला तुम्हारे अकेला का नहीं था, एड?"
+    ]
+  },
+  { "line": ["I was up there too.", "वहाँ ऊपर मैं भी तुम्हारे साथ था।"] },
+  {
+    "line": [
+      "Did it ever even occur to you to ask me what I thought?",
+      "क्या तुमने यह जानने की भी कोशिश की कि मैं क्या सोचता हूँ?"
+    ]
+  },
+  {
+    "line": [
+      "Pushing the envelope. That's what all this is about.",
+      "यह सब कुछ सहनशक्ति की परीक्षा है, और कुछ नहीं।"
+    ]
+  },
+  { "line": ["Or did you just forget that?", "या यह भी तुम भूल गए?"] },
+  {
+    "line": [
+      "Right now it should be you and me doing all these ticker tape parades.",
+      "इन सनकी प्रेसवालों का सामना हमें मिलकर करना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "Instead I'm backing up Pete Conrad on 12.",
+      "पर उसकी बजाए मैं अपोलो 12 पर पीट कॉनरेड की मदद कर रहा हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "Hey, don't blame every bad decision you've ever made on me.",
+      "सुनो, अपने गलत फ़ैसलों का इल्ज़ाम मेरे मत्थे मत मढ़ो।"
+    ]
+  },
+  {
+    "line": [
+      "'Cause you do enough damage yourself.",
+      "क्योंकि तुम अकेले ही बहुत रायता फैला चुके हो।"
+    ]
+  },
+  {
+    "line": [
+      "What do you think it says when you wander into sim an hour late",
+      "क्या छवि बनती होगी तुम्हारी जब तुम नशे में धुत्त, बदहाल"
+    ]
+  },
+  {
+    "line": [
+      "just reeking of booze and pussy?",
+      "अनुकरण में एक घंटा देरी से पहुँचते हो?"
+    ]
+  },
+  {
+    "line": [
+      "That the American dream is alive and well.",
+      "यही अमेरिकी सपना ज़िंदा और मस्त है।"
+    ]
+  },
+  {
+    "line": [
+      "Yeah. Everything's a goddamn joke to you, huh?",
+      "बिल्कुल। तुम्हारे लिए सबकुछ एक मज़ाक है, है न?"
+    ]
+  },
+  {
+    "line": [
+      "At least I own what I did.",
+      "कम से कम मैंने जो किया उसकी ज़िम्मेदारी उठाई।"
+    ]
+  },
+  {
+    "line": [
+      "And what the hell's that supposed to mean?",
+      "और इसका क्या मतलब हुआ?"
+    ]
+  },
+  { "line": ["I resigned.", "मैंने इस्तीफ़ा दे दिया।"] },
+  { "line": ["I'm going back to the navy.", "मैं नौसेना में लौट रहा हूँ।"] },
+  { "line": ["You for real?", "मज़ाक तो नहीं कर रहे?"] },
+  {
+    "line": ["What are you doing drinking beer?", "तुम बियर क्यों पी रहे हो?"]
+  },
+  { "line": ["Hey, Pam.", "सुनो, पैम।"] },
+  {
+    "line": [
+      "We're gonna need a couple of whiskeys.",
+      "हमें एकाध ग्लास व्हिस्की चाहिए।"
+    ]
+  },
+  { "line": ["All right, all right, all right.", "ठीक है।"] },
+  {
+    "line": [
+      "NASA will be pressing forward. Pursuing more ambitious projects.",
+      "नासा आगे बढ़ता रहेगा। नए प्रोजेक्ट बनाने में लगा रहेगा।"
+    ]
+  },
+  {
+    "line": ["Journeys to Mars, to Jupiter,", "मंगल पर सफ़र, बृहस्पति पर सफ़र,"]
+  },
+  {
+    "line": [
+      "and perhaps, even deeper into the solar system.",
+      "और हो सके तो सौर-मंडल के बाकी गृहों की ओर भी।"
+    ]
+  },
+  {
+    "line": [
+      "Right, yeah. That's a very impressive presentation, Director.",
+      "अच्छा, ठीक है। यह बहुत बढ़िया प्रस्तुति है, निर्देशक।"
+    ]
+  },
+  { "line": ["But while we sit here,", "हम यहाँ बैठे समय बरबाद कर रहे हैं,"] },
+  { "line": ["the Soviets are pushing ahead", "और वहाँ सोवियत चाँद पर"] },
+  {
+    "line": [
+      "with their plans for a lunar military foothold.",
+      "सैन्य पकड़ की योजना पर जी जान से काम कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We cannot cede the beachhead!",
+      "हम ऐसी मोर्चाबंदी के सामने झुक नहीं सकते!"
+    ]
+  },
+  {
+    "line": [
+      "I mean, it's not a time for pie in the sky ideas",
+      "मेरा मतलब, यह समय नहीं मंगल और सौर-मंडल की..."
+    ]
+  },
+  { "line": ["about Mars and the solar system--", "आदर्शवादी बातें करने का।"] },
+  {
+    "line": [
+      "Respectfully, Congressman. Now is precisely the time.",
+      "बुरा न माने, महासभा के सदस्य। यही सही समय है।"
+    ]
+  },
+  {
+    "line": [
+      "We cannot allow fear to drive us from our purpose.",
+      "हम डर को अपने मकसद पर हावी नहीं होने दे सकते।"
+    ]
+  },
+  {
+    "line": [
+      "What we are seeking is the key to our future.",
+      "जो हम ढूँढ़ रहे हैं वह हमारे भविष्य के लिए बहुत महत्वपूर्ण है।"
+    ]
+  },
+  {
+    "line": [
+      "We are expanding the mind of man.",
+      "हम इंसानी दिमाग को फैला रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Extending this God-given brain and these God-given hands to their outermost limits.",
+      "भगवान द्वारा दी गई बुद्धि और हाथों का उनके हदों से बढ़कर इस्तमाल कर रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "And in so doing, everyone will reap the harvest.",
+      "और ऐसा करने से, सभी को फ़ायदा होगा।"
+    ]
+  },
+  { "line": ["He's good.", "वह अच्छा बोलते हैं।"] },
+  {
+    "line": [
+      "Well, for someone who claims not be guided by fear,",
+      "निडरता की बातें करने वाले, आप ही के संचालन ने,"
+    ]
+  },
+  {
+    "line": [
+      "your leadership created a culture of caution after the Apollo 1 fire, right?",
+      "अपोलो 1 की दूर्घटना के बाद सतर्कता का वातावरण बना दिया, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Yes, of course. We were more cautious.",
+      "यह सही है। हम और भी सतर्क हो गए थे।"
+    ]
+  },
+  { "line": ["Lives were lost.", "जाने गईं थी।"] },
+  {
+    "line": [
+      "We test, we retest, and we prepare.",
+      "हम परीक्षण, पुन: परीक्षण, और पूरी तैयारी करते हैं।"
+    ]
+  },
+  { "line": ["Because, unlike the Soviets,", "क्योंकि, सोवियतों के मुकाबले,"] },
+  {
+    "line": [
+      "we care about the lives of our astronauts.",
+      "हमें अपने अंतरिक्ष यात्रियों की जान की परवाह है।"
+    ]
+  },
+  {
+    "line": [
+      "You must understand, Congressman, that this is not the end of the race.",
+      "आपको समझना चाहिए, महासभा के सदस्य, यहाँ दौड़ अभी खत्म नहीं हुई है।"
+    ]
+  },
+  { "line": ["It's simply the first stage.", "यह तो बस पहला चरण है।"] },
+  {
+    "line": [
+      "We must keep our eyes to the future.",
+      "हमारा ध्यान भविष्य पर होना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "As Mr. Armstrong so aptly put it,",
+      "जैसा श्री. आर्मस्ट्रॉंग ने इतने सही से कहा,"
+    ]
+  },
+  {
+    "line": [
+      "'We pick ourselves up and go back to work.'",
+      "'हमें अपने आप को संभालकर वापस काम पर लग जाना चाहिए।'"
+    ]
+  },
+  { "line": ["Well, if you had-- If you--", "तो अगर आपको..."] },
+  { "line": ["Come here.", "सुनो।"] },
+  {
+    "line": [
+      "Okay. Sorry. Just one more thing, Director.",
+      "ठीक है। माफ़ करना। एक और बात पूछनी थी, निर्देशक।"
+    ]
+  },
+  {
+    "line": [
+      "Now, you're such a familiar face to Americans.",
+      "अमेरिकियों में आप काफ़ी मशहूर हैं।"
+    ]
+  },
+  {
+    "line": [
+      "Honestly, if I didn't know any better, I'd say you were born in Alabama.",
+      "सच कहूँ, अगर मुझे पता न होता, तो यही कहता आप एलाबामा में पैदा हुए।"
+    ]
+  },
+  {
+    "line": [
+      "Unfortunately my accent gives me away, Congressman.",
+      "मेरा लहज़ा मेरी पोल खोल देता है, महासभा के सदस्य।"
+    ]
+  },
+  {
+    "line": [
+      "And most people know that during World War II,",
+      "और काफ़ी लोगों को पता है कि द्वितीय विश्वयुद्ध के दौरान,"
+    ]
+  },
+  {
+    "line": [
+      "you built the German V-2 rocket...",
+      "आपने एक जर्मन वी-2 रॉकेट बनाया..."
+    ]
+  },
+  {
+    "line": [
+      "that killed thousands of innocent Londoners.",
+      "जिसने हज़ारों मासूम लंदन वासियों की जान ली।"
+    ]
+  },
+  { "line": ["Well... I, of course...", "वो... मैं, बिल्कुल..."] },
+  {
+    "line": [
+      "have great regret that my rockets,",
+      "मुझे इस बात का खेद है कि मेरे रॉकेटों ने,"
+    ]
+  },
+  {
+    "line": [
+      "which were born of idealism, much like the Saturn V,",
+      "जो आदर्शवाद की उपज थे, बिल्कुल सैटर्न पाँच की तरह,"
+    ]
+  },
+  {
+    "line": [
+      "had joined in the business of killing.",
+      "जान लेने के व्यवसाय का हिस्सा बन गए।"
+    ]
+  },
+  {
+    "line": [
+      "Then why-- why didn't you stop manufacturing it?",
+      "फिर क्यों... क्यों आपने उनके निर्माण पर रोक नहीं लगाई?"
+    ]
+  },
+  { "line": ["If I may, Mr. Chairman,", "क्या मैं पूछ सकता हूँ, सभापति जी,"] },
+  {
+    "line": [
+      "I'm not sure how any of this is relevant to the hearing.",
+      "उस मामले का इस सुनवाई से क्या लेना-देना?"
+    ]
+  },
+  { "line": ["There is--", "लेना-देना है..."] },
+  {
+    "line": [
+      "Congressman, I was not a soldier, merely an engineer.",
+      "महासभा के सदस्य, मैं एक सैनिक नहीं था, केवल एक इंजीनियर था।"
+    ]
+  },
+  { "line": ["Well, that's interesting.", "यह तो दिलचस्प है।"] },
+  {
+    "line": [
+      "Because what most people don't know,",
+      "क्योंकि बहुत सारे लोग नहीं जानते कि,"
+    ]
+  },
+  { "line": ["since, until very recently,", "अभी हाल ही में,"] },
+  {
+    "line": [
+      "it was classified as part of Operation Paperclip,",
+      "उसे ऑपरेशन पेपरक्लिप का हिस्सा माना गया,"
+    ]
+  },
+  {
+    "line": [
+      "is that you were also a member",
+      "और आप एसएस नामक एक उच्च नाज़ी संगठन के"
+    ]
+  },
+  {
+    "line": [
+      "of the elite Nazi organization known as the SS.",
+      "सदस्य भी रह चुके थे।"
+    ]
+  },
+  {
+    "line": [
+      "That was a matter in which I had no choice.",
+      "वो एक ऐसा मामला था जिसमें मेरी नहीं चली।"
+    ]
+  },
+  {
+    "line": [
+      "Not everybody gets invited to a photo op with the Führer.",
+      "हर किसी को हिटलर के साथ फ़ोटो खिंचवाने नहीं बुलाया जाता।"
+    ]
+  },
+  {
+    "line": [
+      "Dr. von Braun, only a few minutes ago,",
+      "डॉक्टर वॉन ब्रॉन, कुछ ही मिनटों पहले,"
+    ]
+  },
+  { "line": ["you stated that,", "आपने कहा,"] },
+  {
+    "line": [
+      "'We care about the lives of our astronauts.'",
+      "'हमें अपने अंतरिक्ष यात्रियों की जान की परवाह है।'"
+    ]
+  },
+  { "line": ["Yes.", "हाँ।"] },
+  {
+    "line": [
+      "And what about the lives of the workers from the Dora-Mittelbau concentration camp",
+      "और डोरा-मिटलबॉ के बंदी शिविर के उन मज़दूरों की जान का क्या"
+    ]
+  },
+  {
+    "line": [
+      "that were, in fact, building your rockets?",
+      "जो आप ही रॉकेट के निर्माण में लगे हुए थे?"
+    ]
+  },
+  {
+    "line": [
+      "Do you care about their lives?",
+      "क्या आपको उनकी जान की परवाह थी?"
+    ]
+  },
+  {
+    "line": [
+      "I saw no camp or any sort of thing like this--",
+      "मैंने इस तरह का शिविर या ऐसा कुछ नहीं देखा..."
+    ]
+  },
+  {
+    "line": [
+      "You did visit the Mittelwerk factory, yeah, quite a few times.",
+      "आप मिटलवर्क फ़ैक्ट्री कई बार गए थे।"
+    ]
+  },
+  {
+    "line": ["I visited the factory, yes.", "मैं फ़ैक्ट्री देखने गया था, हाँ।"]
+  },
+  {
+    "line": [
+      "Did you not wonder where all these workers came from?",
+      "आपने कभी सोचा नहीं कि यह सारे मज़दूर कहाँ से आते हैं?"
+    ]
+  },
+  {
+    "line": [
+      "I didn't know. This was handled by others.",
+      "मुझे पता नहीं है। कोई और यह काम संभालता था।"
+    ]
+  },
+  {
+    "line": [
+      "You must understand that I had no real authority in--",
+      "आपको समझना चाहिए इन चीज़ों पर मेरा अधिकार नहीं था..."
+    ]
+  },
+  {
+    "line": [
+      "I'm sorry. Are you saying you had no authority over your own rocket factory?",
+      "माफ़ करीए। क्या आप यह कह रहे हैं कि आपका अपनी रॉकेट फ़्रैक्टरी पर अधिकार नहीं था?"
+    ]
+  },
+  {
+    "line": [
+      "Well, yes. I had authority insomuch as I was chief--",
+      "हाँ। एक अध्यक्ष होने के नाते अधिकार था..."
+    ]
+  },
+  {
+    "line": [
+      "But I never worked there. I had only visited.",
+      "पर मैंने वहाँ कभी काम नहीं किया। मैं वहाँ बस मुआयना करने जाता था।"
+    ]
+  },
+  {
+    "line": [
+      "The camp was less than half a mile",
+      "वह शिविर आपकी फ़्रैक्टरी से जहाँ आप रॉकेट बनाते थे,"
+    ]
+  },
+  {
+    "line": [
+      "from the factory where you made your rockets.",
+      "महज़ आधे मील की दूरी पर था।"
+    ]
+  },
+  { "line": ["So, how could you not know?", "तो, आपको कैसे कुछ पता नहीं था?"] },
+  {
+    "line": [
+      "You know, over 20,000 men and women died building your V-2.",
+      "पता है, आपका वी-2 बनाते-बनाते, 20,000 से ज़्यादा लोग मारे गए।"
+    ]
+  },
+  {
+    "line": [
+      "Ten times more than were killed by it as a weapon.",
+      "उस हथियार से मारे गए लोगों से दस गुना ज़्यादा।"
+    ]
+  },
+  {
+    "line": [
+      "They were worked to death,",
+      "इतना काम करवाया कि उनकी जान निकल गई,"
+    ]
+  },
+  {
+    "line": [
+      "starved, hung from machinery, shot.",
+      "उन्हें भूखा रखा गया, मशीनों से लटकाया गया, गोली से मारा गया।"
+    ]
+  },
+  { "line": ["That photograph?", "वो तस्वीर?"] },
+  {
+    "line": [
+      "That was taken by American soldiers",
+      "वह अमेरिकी सैनिकों ने खींची है"
+    ]
+  },
+  {
+    "line": [
+      "upon their arrival at Dora Camp.",
+      "उनके डोरा शिविर में पहुँचने के बाद।"
+    ]
+  },
+  {
+    "line": [
+      "That's the camp that supplied your workers, Director von Braun.",
+      "यह वही शिविर है जो आपके लिए मज़दूर भेजता था, निर्देशक वॉन ब्रॉन।"
+    ]
+  },
+  { "line": ["I...", "मैं..."] },
+  { "line": ["I...", "मैं..."] },
+  {
+    "line": [
+      "They paid for your scientific pursuits with their lives, sir.",
+      "आपके वैज्ञानिक लक्ष्यों की कीमत उन्होंने अपनी जान देकर चुकाई, जनाब।"
+    ]
+  },
+  {
+    "line": [
+      "You knew exactly what was going on, didn't you?",
+      "आपको अच्छे से पता था कि क्या चल रहा है, है न?"
+    ]
+  },
+  { "line": ["And you did nothing.", "और फिर भी आपने कुछ नहीं किया।"] },
+  { "line": ["I--", "मैं..."] },
+  { "line": ["I had no authority.", "मेरे पास कोई अधिकार नहीं थे।"] },
+  { "line": ["I was... limited.", "मेरे हाथ... बंधे हुए थे।"] },
+  { "line": ["You--", "आपको..."] },
+  { "line": ["You must understand--", "तुम्हें समझना चाहिए..."] },
+  {
+    "line": [
+      "Gather 'round while I sing you Of Wernher von Braun",
+      "सुनिए, सुनिए, सुनाता हूँ वर्नर वॉन ब्रॉन की कहानी"
+    ]
+  },
+  {
+    "line": [
+      "A man whose allegiance Is ruled by expedience",
+      "जिसकी राजभक्ति पड़ गई फिकी क्योंकि मुनाफ़ा था बड़ा"
+    ]
+  },
+  {
+    "line": [
+      "Call him a Nazi, he won't even frown",
+      "नाज़ी बुलाओ, नहीं मानेंगे बुरा"
+    ]
+  },
+  {
+    "line": [
+      "'Nazi, Schmazi' says Wernher von Braun",
+      "'नाज़ी-वाज़ी कुछ नहीं' कहेंगे वर्नर वॉन ब्रॉन"
+    ]
+  },
+  {
+    "line": [
+      "Some have harsh words For this man of renown",
+      "कुछ ताने कस रहे हैं इस सफ़ल आदमी पर बेशुमार"
+    ]
+  },
+  {
+    "line": [
+      "But some think our attitude Should be one of gratitude",
+      "पर कुछ कह रहे हैं हमें मानना चाहिए आभार"
+    ]
+  },
+  {
+    "line": [
+      "Like the widows and cripples In old London town",
+      "जैसे लंदन शहर की विधवाएँ और अपंग"
+    ]
+  },
+  {
+    "line": [
+      "Who owe their large pensions To Wernher von Braun",
+      "जिन्हें करना होगा भारी भुगतान वह हैं वर्नर वॉन ब्रॉन"
+    ]
+  },
+  { "line": ["You too may be a big hero", "आप भी बन सकते हैं बड़ी हस्ती"] },
+  {
+    "line": [
+      "Once you've learned To count backwards to zero",
+      "अगर सीख जाएँगा करना उल्टी गिनती"
+    ]
+  },
+  {
+    "line": [
+      "'In German, oder Englisch I know how to count down",
+      "'जर्मन हो अंग्रेजी पता है मुझे उल्टी गिनती"
+    ]
+  },
+  { "line": ["Und I'm learning Chinese!'", "और मैं सीख रहा हूँ भाषा चीनी!'"] },
+  { "line": ["Says Wernher von Braun", "कहते है वर्नर वॉन ब्रॉन"] },
+  { "line": ["Margo.", "मार्गो।"] },
+  {
+    "line": [
+      "Apparently, the Soviets have launched another N1...",
+      "सुना है, सोवियतों ने अपोलो 12 से ठीक पहले"
+    ]
+  },
+  {
+    "line": ["right ahead of Apollo 12.", "एक और एन 1 प्रक्षेपित कर दिया है..."]
+  },
+  {
+    "line": [
+      "Imagine both of them on the moon at the same time.",
+      "सोचो दोनों एक ही वक्त पर चाँद पर होंगे।"
+    ]
+  },
+  { "line": ["Margo.", "मार्गो।"] },
+  { "line": ["Did you know?", "आपको पता था?"] },
+  { "line": ["It was an ambush.", "वह एक अचानक हुआ हमला था।"] },
+  {
+    "line": [
+      "Nixon and his lackeys, they laid a trap for me. I--",
+      "निक्सन और टटपुंजों ने मेरे लिए जाल बिछाया था। मैं..."
+    ]
+  },
+  { "line": ["But...", "पर..."] },
+  { "line": ["is it true?", "क्या यह सच है?"] },
+  { "line": ["How can you ask me this?", "तुम मुझसे यह कैसे पूछ सकती हो?"] },
+  { "line": ["Sit down, Margo.", "बैठ जाओ, मार्गो।"] },
+  {
+    "line": [
+      "I had to keep my work moving forward.",
+      "मुझे अपना काम बढ़ाना था।"
+    ]
+  },
+  {
+    "line": [
+      "You of all people must understand this--",
+      "कम से कम तुम्हें तो यह समझना चाहिए..."
+    ]
+  },
+  { "line": ["Your work?", "आपका काम?"] },
+  { "line": ["What do you expect me to say?", "मुझसे क्या सुनना चाहती हो?"] },
+  { "line": ["'I don't know.", "'मुझे पता नहीं।"] },
+  {
+    "line": ["Maybe I could have done more.'", "शायद मुझे कुछ करना चाहिए था।'"]
+  },
+  {
+    "line": [
+      "But then I would probably be dead.",
+      "पर फिर मुझे अपनी जान से हाथ धोना पड़ता।"
+    ]
+  },
+  {
+    "line": [
+      "And all the things I have spent my life building,",
+      "और जिन चीज़ों को बनाने में मैंने अपनी सारी ज़िंदगी लगा दी,"
+    ]
+  },
+  {
+    "line": [
+      "they would never have come to pass.",
+      "वह कभी सामने नहीं आ पातीं।"
+    ]
+  },
+  {
+    "line": [
+      "You can't know that, what might have been.",
+      "जो हुआ नहीं, उसके बारे में कैसे कह सकते हैं।"
+    ]
+  },
+  { "line": ["Something is or it isn't.", "कुछ होता है या नहीं होता है।"] },
+  { "line": ["Remember?", "याद है?"] },
+  { "line": ["When the war was ending...", "जब जंग खत्म हो रही थी..."] },
+  { "line": ["we gathered everything...", "हमने सबकुछ समेटा..."] },
+  {
+    "line": [
+      "schematics, calculations, designs...",
+      "योजनाबद्ध, परिकलन, डिज़ाइन..."
+    ]
+  },
+  {
+    "line": [
+      "and buried it in the hills above Peenemünde",
+      "और उन्हें पेनेमुंडे के ऊपर जो पहाड़ियाँ हैं वहाँ दफ़ना दिया"
+    ]
+  },
+  {
+    "line": ["so the Soviets couldn't find it.", "ताकि सोवियतों के हाथ न लगे।"]
+  },
+  {
+    "line": [
+      "I chose America to give my life's work.",
+      "मैंने अमेरिका पर अपने जीवन भर की पूँजी लगा दी।"
+    ]
+  },
+  { "line": ["I gave them everything.", "मैंने उन्हें सबकुछ दिया।"] },
+  {
+    "line": [
+      "And now I'm an old man and no longer indispensable.",
+      "और अब मैं बूढ़ा हो गया हूँ और मेरी ज़रूरत खत्म हो चुकी है।"
+    ]
+  },
+  {
+    "line": [
+      "They throw me to the wolves.",
+      "उन्होंने मुझे भूखे शेरों के सामने छोड़ दिया।"
+    ]
+  },
+  { "line": ["Did you know?", "क्या आपको पता था?"] },
+  {
+    "line": [
+      "Progress is never free, Margo.",
+      "प्रगति कभी मुफ़्त में नहीं मिलती, मार्गो।"
+    ]
+  },
+  { "line": ["There's always a cost.", "उसकी एक कीमत चुकानी पड़ती है।"] },
+  { "line": ["Aleida?", "अलीदा?"] },
+  { "line": ["Aleida!", "अलीदा!"] },
+  { "line": ["Aleida!", "अलीदा!"] },
+  { "line": ["Are you okay?", "क्या तुम ठीक हो?"] },
+  {
+    "line": [
+      "What is wrong with you?! What were you thinking?!",
+      "तुम्हें हो क्या गया है? क्या सोच रही थी?"
+    ]
+  },
+  { "line": ["I could have put it out...", "मैं बुझा देती... सब ठीक है।"] },
+  { "line": ["-It's fine. -No, it's not fine!", "नहीं, कुछ ठीक नहीं है!"] },
+  {
+    "line": [
+      "Tell me, why do you keep setting these fires?",
+      "मुझे बताओ, तुम यह आग क्यों लगाती रहती हो?"
+    ]
+  },
+  { "line": ["Aleida...", "अलीदा..."] },
+  { "line": ["Tell me.", "बात करो मुझसे।"] },
+  { "line": ["I want...", "मैं..."] },
+  { "line": ["I want...", "मैं..."] },
+  {
+    "line": ["I want to be inside the fire.", "मैं आग के अंदर जाना चाहती हूँ।"]
+  },
+  { "line": ["But...", "पर..."] },
+  {
+    "line": [
+      "Why would you want to be inside the fire?",
+      "तुम आग के अंदर क्यों जाना चाहती हो?"
+    ]
+  },
+  { "line": ["I don't know.", "मुझे पता नहीं।"] },
+  { "line": ["I don't know.", "मुझे पता नहीं।"] },
+  { "line": ["It's okay, it's okay...", "कोई बात नहीं, कोई बात नहीं..."] },
+  {
+    "line": [
+      "I want to show you something.",
+      "मैं तुम्हें कुछ दिखाना चाहता हूँ।"
+    ]
+  },
+  { "line": ["Tu mamá...", "तुम्हारी माँ..."] },
+  {
+    "line": [
+      "she had a dream of what your future could be.",
+      "उन्हें सपना आया था कि तुम्हारा भविष्य कैसा होगा।"
+    ]
+  },
+  { "line": ["That's why we came here.", "हम इसी वजह से यहाँ आए थे।"] },
+  { "line": ["I miss her.", "मुझे उनकी याद आती है।"] },
+  { "line": ["I know.", "मुझे पता है।"] },
+  { "line": ["I miss her too, mija.", "मुझे भी उसकी याद आती है, मेरी बेटी।"] },
+  {
+    "line": [
+      "You know, maybe one day, Aleida, you'll build a fire inside one of these.",
+      "हो सकता है एक दिन, अलीदा, तुम इनमेंं से एक में अग्नि का निर्माण करो।"
+    ]
+  },
+  {
+    "line": [
+      "I have been informed by Dr. Kissinger that,",
+      "मुझे डॉक्टर किसिनजर ने बताया है कि,"
+    ]
+  },
+  {
+    "line": [
+      "thanks to our recent military operations, we may be within reach",
+      "हमारे हाल ही के सैन्य संचालन के चलते हम उत्तरी वियतनाम के साथ"
+    ]
+  },
+  {
+    "line": [
+      "of an honorable peace with the North Vietnamese.",
+      "शांति बनाने में सक्षम होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "I have instructed him to begin negotiations with Lê Ðuc Tho",
+      "मैंने ले डक थो के साथ समझौता शुरू करने के आदेश दे दिए हैं"
+    ]
+  },
+  {
+    "line": [
+      "so that we may focus our efforts and resources",
+      "ताकि हम हमारी मेहनत और संसाधन"
+    ]
+  },
+  {
+    "line": [
+      "on the new challenges facing our nation.",
+      "राष्ट्र के सामने आई नई चुनौतियों का सामना करने में लगा सकें।"
+    ]
+  },
+  {
+    "line": [
+      "And on this momentous day, as Apollo 12 readies to begin the search",
+      "और आज इस एतिहासिक दिन पर, जहाँ अपोलो 12 तैयार हो रहा है"
+    ]
+  },
+  {
+    "line": [
+      "for the location of the first American lunar base,",
+      "अमेरिका के पहले चंद्रीय संचालन केंद्र की खोज में निकलने को,"
+    ]
+  },
+  {
+    "line": [
+      "I commit that we will do whatever it takes.",
+      "मैं वादा करता हूँ हमसे जो हो सकेगा करेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "We will bear any burden to secure our place in the heavens,",
+      "जन्नत में जगह बनाने के लिए हम कोई भी भार उठा लेंगे,"
+    ]
+  },
+  {
+    "line": [
+      "and bring the fight for freedom to the new frontier.",
+      "और आज़ादी की इस लड़ाई को नई सीमाओं तक पहुँचाएँगे।"
+    ]
+  },
+  {
+    "line": [
+      "We are on time for our planned liftoff of 32 minutes past the hour.",
+      "निर्धारित उड़ान भरने के लिए हम तैयार हैं 32 मिनटों में।"
+    ]
+  },
+  {
+    "line": [
+      "Test supervisor now going through some status checks.",
+      "परीक्षण अध्यक्ष दशा जाँच कर रहे हैं।"
+    ]
+  },
+  { "line": ["Okay. Here we go.", "ठीक है। हम तैयार हैं।"] },
+  { "line": ["Give me status, people.", "लोगों, दशा की जानकारी दो।"] },
+  { "line": ["-Booster? -Go.", "-बूस्टर? -तैयार।"] },
+  { "line": ["-Retro. -Go, Flight.", "-रेट्रो। -तैयार।"] },
+  { "line": ["-FIDO. -Go.", "-फ़ाईडो। -तैयार।"] },
+  { "line": ["-GUIDO. -Go, Flight.", "-गाइडो। -तैयार।"] },
+  { "line": ["-EECOM. -Go.", "-ईकॉम। -तैयार।"] },
+  { "line": ["-GNC. -Good to go, Flight.", "-जीएनसी। -विमान उड़ने को तैयार।"] },
+  {
+    "line": [
+      "Launch control, this is Houston. We are go for launch of Apollo 12.",
+      "प्रक्षेपण नियंत्रण, यह ह्यूस्टन है। आपोलो 12 के प्रक्षेपण के लिए तैयार हैं।"
+    ]
+  },
+  { "line": ["Go for launch.", "प्रक्षेपण के लिए तैयार।"] },
+  {
+    "line": [
+      "Ten, nine, eight, ignition sequence has started,",
+      "दस, नौ, आठ, प्रज्वलन क्रम शुरू हो चुका है,"
+    ]
+  },
+  {
+    "line": ["six, five, four, three, two, one.", "छह, पाँच, चार, तीन, दो, एक।"]
+  },
+  { "line": ["All engines running.", "सारे इंजन चालू हैं।"] },
+  { "line": ["Liftoff. We have a liftoff!", "उड़ान शुरू। उड़ रहा है!"] },
+  { "line": ["Thirty-two minutes past the hour.", "बत्तीस मिनटों में।"] },
+  { "line": ["Tower cleared!", "टावर खाली हो चुका है!"] },
+  { "line": ["Yeah, we got a roll program.", "रोल प्रोग्राम चालू हो गया है।"] },
+  {
+    "line": [
+      "Roger! I've got the pitch and roll program, and this baby's really going.",
+      "ठीक है! मेरे पास पिच और रॉल प्रोग्राम है और तेज़ी से चढ़ रहा है।"
+    ]
+  },
+  { "line": ["Roger, Pete. Forty seconds.", "ठीक है, पीट। चालीस सेकंड।"] },
+  { "line": ["Mark one, bravo.", "मार्क वन, ब्रावो।"] },
+  {
+    "line": [
+      "First stage tank pressures, all nominal.",
+      "पहले चरण के टैंक दबाव सामान्य हैं।"
+    ]
+  },
+  { "line": ["Altitude a mile and a half.", "ऊँचाई डेढ़ मील।"] },
+  { "line": ["FIDO, how we looking?", "फ़ाईडो, सब ठीक है?"] },
+  {
+    "line": [
+      "FIDO is good, Flight. Right down the middle.",
+      "फ़ाईडो ठीक है, फ़्लाइट। कहीं कोई दिक्कत नहीं।"
+    ]
+  },
+  { "line": ["Good.", "बहुत बढ़िया।"] },
+  { "line": ["-Here you go. -Thanks, Karen.", "-यह लो। -शुक्रिया, कैरन।"] },
+  { "line": ["Mm-hmm.", "कोई बात नहीं।"] },
+  { "line": ["How you holding up?", "तुम कैसे हो?"] },
+  {
+    "line": [
+      "Just fine. And how's everybody at MSC?",
+      "ठीक हूँ? एमएससी में सब कैसे हैं?"
+    ]
+  },
+  {
+    "line": [
+      "This whole von Braun mess was a real black eye.",
+      "इस वॉन ब्रॉन वाले किस्से ने कहीं मुँह दिखाने लायक नहीं छोड़ा।"
+    ]
+  },
+  {
+    "line": [
+      "And now Nixon's got us putting all hands on deck for this military lunar outpost.",
+      "और अब निक्सन ने हम सबको चंद्रीय शिविर के काम पर लगाया है।"
+    ]
+  },
+  { "line": ["Dark days.", "बहुत ही बुरे दिन चल रहे हैं।"] },
+  {
+    "line": [
+      "What can I do for you, Deke?",
+      "मैं तुम्हारे लिए क्या कर सकता हूँ, डीक?"
+    ]
+  },
+  { "line": ["I brought you something.", "मैं तुम्हारे लिए कुछ लाया था।"] },
+  {
+    "line": [
+      "Couldn't figure out what to do with the damn thing.",
+      "समझ में नहीं आया इसके साथ क्या करूँ।"
+    ]
+  },
+  {
+    "line": [
+      "I almost threw it away when Leonov landed, but I couldn't quite bring myself to.",
+      "जब लियोनोव चाँद पर उतरा था तभी फेंकना चाहता था पर ऐसा कर न सका।"
+    ]
+  },
+  {
+    "line": [
+      "'Here men from the planet Earth first set foot upon the moon.",
+      "'यहाँ धरती से आदमियों ने चाँद पर पहला कदम रखा।"
+    ]
+  },
+  {
+    "line": [
+      "We came in peace for all mankind.'",
+      "पूरी मानवजति के लिए हम शांति का संदेश लाए।'"
+    ]
+  },
+  {
+    "line": [
+      "Presidents come and go, Ed, but we're the ones carrying the fire.",
+      "राष्ट्रपति तो बदलते रहते हैं, एड, एक हम ही हैं जो मिशन जारी रखते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "It took a lot of guts, what you did up there in DC.",
+      "डीसी में तुमने जो किया उसके लिए बहुत हिम्मत चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "I need guys like you around for what's coming down the pike.",
+      "कठिन हालातों से जुझने के लिए मुझे तुम जैसे बंदे की ज़रूरत है।"
+    ]
+  },
+  {
+    "line": [
+      "I'm not coming back to sit behind a desk.",
+      "मैं कागज़ी काम करने के लिए वापस नहीं आने वाला।"
+    ]
+  },
+  { "line": ["No, you're not.", "नहीं, ऐसा कुछ नहीं करना पड़ेगा।"] },
+  { "line": ["What exactly does that mean?", "तुम कहना क्या चाहते हो?"] },
+  {
+    "line": [
+      "It means you're back on Apollo 15.",
+      "मैं कह रहा हूँ कि तुम्हें अपोलो 15 पर वापस रख लिया है।"
+    ]
+  },
+  { "line": ["Wait-- Are you--", "क्या... तुम कह रहे हो..."] },
+  {
+    "line": [
+      "Ed, maybe just once, shut the fuck up.",
+      "एड, इस बार प्लीज़ कुछ मत बोलना।"
+    ]
+  },
+  { "line": ["You're going back to the moon.", "तुम चाँद पर वापस जा रहे हो।"] },
+  { "line": ["Yes, sir.", "जी, जनाब।"] },
+  { "line": ["Thank you, sir.", "शुक्रिया, जनाब।"] },
+  { "line": ["I'm sorry. Hon, Deke,", "माफ़ करना। जान, डीक,"] },
+  {
+    "line": [
+      "you guys should come and see this.",
+      "तुम लोगों को यह खबर देखनी चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "And even now, while Apollo 12 is hurtling towards the moon,",
+      "और जहाँ अभी, अपोलो 12 चाँद की ओर बढ़ रहा है,"
+    ]
+  },
+  {
+    "line": [
+      "the Soviets have upped the ante in the space race once again.",
+      "अंतरिक्ष की इस दौड़ में सोवियत और एक कदम आगे हो गया है।"
+    ]
+  },
+  { "line": ["The video is coming in now.", "वीडियो जारी कर रहे हैं।"] },
+  {
+    "line": [
+      "There's the cosmonaut now, descending the ladder.",
+      "एक अंतरिक्ष यात्री सीढ़ी से नीचे उतर रहा है।"
+    ]
+  },
+  { "line": ["There we have it.", "साफ़ दिख रहा है।"] },
+  {
+    "line": [
+      "The cosmonaut is now on the lunar surface.",
+      "अंतरिक्ष यात्री चाँद की सतह पर खड़ा है।"
+    ]
+  },
+  { "line": ["It's a woman.", "वह एक औरत है।"] },
+  {
+    "line": [
+      "Ladies and gentlemen, it's been confirmed that it's a woman.",
+      "देवियों और सज्जनों, खबर पक्की है वह एक औरत है।"
+    ]
+  },
+  {
+    "line": [
+      "Her name is Anastasia Belikova,",
+      "उसका नाम है ऐनेसताज़िया बेलिकोवा,"
+    ]
+  },
+  {
+    "line": [
+      "a former pilot in the Soviet Air Forces.",
+      "सोवियत हवाई वायु सेना की एक पूर्व पायलट।"
+    ]
+  },
+  {
+    "line": [
+      "What a truly, truly historic moment for women watching across the world.",
+      "दुनिया भर में देख रही सभी औरतें के लिए यह एक ऐतिहासिक पल है।"
+    ]
+  },
+  {
+    "line": [
+      "The 32-year-old Soviet cosmonaut",
+      "बत्तीस वर्षीय सोवियत अंतरिक्ष यात्री"
+    ]
+  },
+  {
+    "line": [
+      "has become the first woman to set foot on the moon.",
+      "चाँद पर कदम रखने वाली पहली औरत बनी है।"
+    ]
+  }
+]
