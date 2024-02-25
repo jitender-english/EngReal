@@ -42,6 +42,9 @@ export default function Home() {
                      
           </ul>
           <ul>
+          <li><span className='season-name'>For all mankind</span> - 
+              <Link href="/english/season/for-all-mankind/s01e01">S01E01 </Link>
+            </li>
           <li><span className='season-name'>Constellation</span> - 
               <Link href="/english/season/constellation/s01e01">S01E01 </Link>
               <Link href="/english/season/constellation/s01e02">S01E02 </Link> 
