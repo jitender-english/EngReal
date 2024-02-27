@@ -42,6 +42,20 @@ export default function Home() {
                      
           </ul>
           <ul>
+          <li><span className='season-name'>Earthsounds</span> - 
+              <Link href="/english/season/earthsounds/S01E01">S01E01 </Link>
+              <Link href="/english/season/earthsounds/S01E02">S01E02 </Link>
+              <Link href="/english/season/earthsounds/S01E03">S01E03 </Link>
+              <Link href="/english/season/earthsounds/S01E04">S01E04 </Link>
+              <Link href="/english/season/earthsounds/S01E05">S01E05 </Link>
+              <Link href="/english/season/earthsounds/S01E06">S01E06 </Link>
+              <Link href="/english/season/earthsounds/S01E07">S01E07 </Link>
+              <Link href="/english/season/earthsounds/S01E08">S01E08 </Link>
+              <Link href="/english/season/earthsounds/S01E09">S01E09 </Link>
+              <Link href="/english/season/earthsounds/S01E10">S01E10 </Link>
+              <Link href="/english/season/earthsounds/S01E11">S01E11 </Link>
+              <Link href="/english/season/earthsounds/S01E12">S01E12 </Link>
+            </li>
           <li><span className='season-name'>For all mankind</span> - 
               <Link href="/english/season/for-all-mankind/s01e01">S01E01 </Link>
               <Link href="/english/season/for-all-mankind/s01e02">S01E02 </Link>
