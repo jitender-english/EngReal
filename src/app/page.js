@@ -70,6 +70,7 @@ export default function Home() {
               <Link href="/english/season/constellation/s01e01">S01E01 </Link>
               <Link href="/english/season/constellation/s01e02">S01E02 </Link> 
               <Link href="/english/season/constellation/s01e03">S01E03 </Link>
+              <Link href="/english/season/constellation/s01e04">S01E04 </Link>
             </li>        
           <li><span className='season-name'>Slow horses</span> - 
               <Link href="/english/season/slow-horses/S01E01">S01E01 </Link>
