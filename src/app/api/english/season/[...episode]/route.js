@@ -1,5 +1,8 @@
 //import { promises as fs } from 'fs';
 
+import dickTurpinS01e01 from "@/json/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e01.json";
+import dickTurpinS01e02 from "@/json/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e02.json";
+
 import earthsoundsS01e01 from "@/json/english/season/earthsounds/S01E01.json";
 import earthsoundsS01e02 from "@/json/english/season/earthsounds/S01E02.json";
 import earthsoundsS01e03 from "@/json/english/season/earthsounds/S01E03.json";
@@ -37,6 +40,7 @@ import MastersOfTheAirs01e03 from "@/json/english/season/masters-of-the-air/S01E
 import MastersOfTheAirs01e04 from "@/json/english/season/masters-of-the-air/S01E04.json";
 import MastersOfTheAirs01e05 from "@/json/english/season/masters-of-the-air/S01E05.json";
 import MastersOfTheAirs01e06 from "@/json/english/season/masters-of-the-air/S01E06.json";
+import MastersOfTheAirs01e07 from "@/json/english/season/masters-of-the-air/S01E07.json";
 
 import criminalRecordS01e01 from "@/json/english/season/criminal-record/s01e01.json";
 import criminalRecordS01e02 from "@/json/english/season/criminal-record/s01e01.json";
@@ -68,6 +72,8 @@ export async function GET(request, {episode}) {
     return Response.json(MastersOfTheAirs01e05);
   } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E06"){
     return Response.json(MastersOfTheAirs01e06);
+  } else if(request.nextUrl.pathname === "/api/english/season/masters-of-the-air/S01E07"){
+    return Response.json(MastersOfTheAirs01e07);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e01"){
     return Response.json(criminalRecordS01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/criminal-record/s01e02"){
@@ -120,6 +126,10 @@ export async function GET(request, {episode}) {
     return Response.json(earthsoundsS01e11);
   } else if(request.nextUrl.pathname === "/api/english/season/earthsounds/S01E12"){
     return Response.json(earthsoundsS01e12);
+  } else if(request.nextUrl.pathname === "/api/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e01"){
+    return Response.json(dickTurpinS01e01);
+  } else if(request.nextUrl.pathname === "/api/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e02"){
+    return Response.json(dickTurpinS01e02);
   } 
 
   return Response.json([]);

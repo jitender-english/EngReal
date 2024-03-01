@@ -42,6 +42,11 @@ export default function Home() {
                      
           </ul>
           <ul>
+          
+          <li><span className='season-name'>The completely made-up adventures of dick turpin</span> - 
+              <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e01">S01E01 </Link>
+              <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e02">S01E02 </Link>
+          </li>
           <li><span className='season-name'>Earthsounds</span> - 
               <Link href="/english/season/earthsounds/S01E01">S01E01 </Link>
               <Link href="/english/season/earthsounds/S01E02">S01E02 </Link>
@@ -80,6 +85,7 @@ export default function Home() {
               <Link href="/english/season/masters-of-the-air/S01E04">S01E04 </Link>
               <Link href="/english/season/masters-of-the-air/S01E05">S01E05 </Link> 
               <Link href="/english/season/masters-of-the-air/S01E06">S01E06 </Link> 
+              <Link href="/english/season/masters-of-the-air/S01E07">S01E07 </Link> 
             </li>
             <li><span className='season-name'>Reacher</span> - 
               <Link href="/english/season/reacher/s02e01">S02E01 </Link>
