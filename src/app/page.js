@@ -43,6 +43,9 @@ export default function Home() {
           </ul>
           <ul>
           
+          <li><span className='season-name'>Ted Lasso</span> - 
+              <Link href="/english/season/ted-lasso/s01e01">S01E01 </Link>
+            </li>
           <li><span className='season-name'>The completely made-up adventures of dick turpin</span> - 
               <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e01">S01E01 </Link>
               <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e02">S01E02 </Link>
