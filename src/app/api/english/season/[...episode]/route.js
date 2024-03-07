@@ -26,6 +26,7 @@ import constellationS01e01 from "@/json/english/season/constellation/s01e01.json
 import constellationS01e02 from "@/json/english/season/constellation/s01e02.json";
 import constellationS01e03 from "@/json/english/season/constellation/s01e03.json";
 import constellationS01e04 from "@/json/english/season/constellation/s01e04.json";
+import constellationS01e05 from "@/json/english/season/constellation/s01e05.json";
 
 import slowHorses01e01 from "@/json/english/season/slow-horses/S01E01.json";
 
@@ -101,6 +102,8 @@ export async function GET(request, {episode}) {
     return Response.json(constellationS01e03);
   } else if(request.nextUrl.pathname === "/api/english/season/constellation/s01e04"){
     return Response.json(constellationS01e04);
+  } else if(request.nextUrl.pathname === "/api/english/season/constellation/s01e05"){
+    return Response.json(constellationS01e05);
   } else if(request.nextUrl.pathname === "/api/english/season/for-all-mankind/s01e01"){
     return Response.json(forAllMankindS01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/for-all-mankind/s01e02"){
