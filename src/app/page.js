@@ -43,6 +43,9 @@ export default function Home() {
           </ul>
           <ul>
           
+          <li><span className='season-name'>Dark Matter</span> - 
+              <Link href="/english/season/dark-matter/s01e01">S01E01 </Link>
+            </li>
           <li><span className='season-name'>Ted Lasso</span> - 
               <Link href="/english/season/ted-lasso/s01e01">S01E01 </Link>
             </li>
