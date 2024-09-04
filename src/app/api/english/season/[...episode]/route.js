@@ -1,5 +1,8 @@
 //import { promises as fs } from 'fs';
 
+
+import theLordOfTheRingsS01e01 from "@/json/english/season/the-lord-of-the-rings/s01e01.json";
+
 import darkMatterS01e01 from "@/json/english/season/dark-matter/s01e01.json";
 
 import tedLassoS01e01 from "@/json/english/season/ted-lasso/s01e01.json";
@@ -144,6 +147,8 @@ export async function GET(request, {episode}) {
     return Response.json(tedLassoS01e01);
   } else if(request.nextUrl.pathname === "/api/english/season/dark-matter/s01e01"){
     return Response.json(darkMatterS01e01);
+  } else if(request.nextUrl.pathname === "/api/english/season/the-lord-of-the-rings/s01e01"){
+    return Response.json(theLordOfTheRingsS01e01);
   }
 
   
