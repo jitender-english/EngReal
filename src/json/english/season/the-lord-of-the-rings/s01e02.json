@@ -1,0 +1,2111 @@
+[
+  {
+    "line": [
+      "My brother gave his life hunting Sauron.",
+      "मेरा भाई सौरॉन से लड़ते हुए शहीद हो गया।"
+    ]
+  },
+  { "line": ["His task is now mine.", "उसका दायित्व अब मेरा है।"] },
+  { "line": ["Commander Galadriel.", "कमांडर गैलाड्रिएल।"] },
+  {
+    "line": [
+      "This company has followed you to the very edge of the world.",
+      "यह दल आपके पीछे-पीछे दुनिया के छोर तक आ गया है।"
+    ]
+  },
+  {
+    "line": [
+      "It's been years since the last Orc was sighted.",
+      "कई वर्षों से कोई ओर्क नहीं देखा गया है।"
+    ]
+  },
+  {
+    "line": [
+      "This mark's very existence proves Sauron escaped.",
+      "इस निशान का होना ही यह साबित करता है कि सौरॉन बच निकला था।"
+    ]
+  },
+  { "line": ["The question now is, where?", "प्रश्न यह है, कि कहाँ?"] },
+  { "line": ["The evil is gone.", "वो शैतान मर गया।"] },
+  {
+    "line": [
+      "Then why is it not gone from in here?",
+      "तो वो मेरे जेहन से क्यों नहीं निकलता?"
+    ]
+  },
+  {
+    "line": [
+      "These heroes shall be granted a passage across the sea to dwell for all eternity.",
+      "इन वीरों को सागर के पार अनंत काल तक बसने के लिए मार्ग प्रदान किया जाएगा।"
+    ]
+  },
+  {
+    "line": [
+      "You have fought long enough, Galadriel.",
+      "तुम अब बहुत लड़ चुकीं, गैलाड्रिएल।"
+    ]
+  },
+  { "line": ["Put up your sword.", "अपनी तलवार गिरा दो।"] },
+  { "line": ["Without it, what am I to be?", "इसके बिना, मैं क्या रहूँगी?"] },
+  {
+    "line": [
+      "Are you acquainted with the work of Lord Celebrimbor?",
+      "क्या तुम शिल्रपकार कैलेब्रिम्बोर के काम से परिचित हो?"
+    ]
+  },
+  {
+    "line": [
+      "The greatest of Elven-smiths, of course.",
+      "बेशक, आज तक के सबसे महान एल्फ शिल्पकार।"
+    ]
+  },
+  { "line": ["What's one of them doing here?", "वह यहाँ क्या कर रहा है?"] },
+  {
+    "line": ["She's got some sort of a sickness.", "इसे कोई बीमारी हो गई है।"]
+  },
+  {
+    "line": [
+      "- Where has she been grazing? - She wandered east a few days ago.",
+      "-यह क्या चर रही थी? -कुछ दिन पहले यह पूरब की ओर गई थी।"
+    ]
+  },
+  { "line": ["How far east?", "कितनी दूर?"] },
+  { "line": ["Hordern.", "हॉर्डर्न..."] },
+  {
+    "line": [
+      "Haven't you ever wondered what else is out there?",
+      "आपने कभी सोचा नहीं कि बाहर और क्या हो सकता है?"
+    ]
+  },
+  { "line": ["Beyond our wanderin'.", "हमारी पहुँच से परे।"] },
+  {
+    "line": [
+      "Nobody goes off trail and nobody walks alone.",
+      "जो कारवां से जुड़ा रहे, वो कभी अकेला ना पड़े।"
+    ]
+  },
+  { "line": ["- Nori! - Poppy!", "-नोरी! -पॉपी!"] },
+  {
+    "line": [
+      "Have the wheels come off your cart? Get away from there! Shh!",
+      "तुम बावली हो गई हो क्या? वहाँ से दूर हटो!"
+    ]
+  },
+  {
+    "line": [
+      "You shouldn't sneak up on folk like that.",
+      "तुम्हें यूँ लोगों को डराना नहीं चाहिए।"
+    ]
+  },
+  {
+    "line": ["- Well, you shouldn't be here. - Shh!", "यहाँ नहीं होना चाहिए।"]
+  },
+  { "line": ["It's not hot.", "यह गर्म नहीं है।"] },
+  { "line": ["Fine. It's not hot.", "ठीक है। यह गर्म नहीं है।"] },
+  {
+    "line": [
+      "Doesn't change the fact that there's a giant in there.",
+      "इससे यह सच नहीं बदलता कि वहाँ एक दानव है।"
+    ]
+  },
+  {
+    "line": [
+      "She's making that face. Not that face, Nori...",
+      "यह वो चेहरा बना रही है। वह चेहरा मत बनाओ, नोरी..."
+    ]
+  },
+  { "line": ["Nori!", "नोरी!"] },
+  { "line": ["Nori, don't!", "नोरी, मत करो!"] },
+  {
+    "line": [
+      "Nori, don't! He's dead! Come on!",
+      "नोरी, मत करो! वह मर चुका है! चलो भी!"
+    ]
+  },
+  { "line": ["- No! Don't! Don't! Please!", "नहीं! मत करो! रहम करो!"] },
+  { "line": ["No!", "नहीं!"] },
+  { "line": ["What...", "यह क्या..."] },
+  { "line": ["Your mam's gonna kill ya.", "माँ तुमको छोड़ेगी नहीं।"] },
+  {
+    "line": [
+      "You're not telling her. Neither am I. Quick sticks.",
+      "तुम उन्हें नहीं बताओगी। न ही मैं। ज़रा जल्दी करो।"
+    ]
+  },
+  {
+    "line": [
+      "We can't leave him like this or the wolves will get him.",
+      "इसे यूँ नहीं छोड़ सकते, भेड़िए नोच खाएँगे।"
+    ]
+  },
+  {
+    "line": [
+      "- So? - So, that's not who we are.",
+      "-तो? -तो, हम ऐसे लोग नहीं हैं।"
+    ]
+  },
+  { "line": ["That's not who you are.", "तुम ऐसी नहीं हो।"] },
+  {
+    "line": [
+      "I can't carry him alone. Are you gonna help me or not?",
+      "मैं इसे अकेले नहीं उठा पाऊँगी। तुम मदद करोगी या नहीं?"
+    ]
+  },
+  { "line": ["- Not. - Poppy!", "-नहीं। -पॉपी!"] },
+  {
+    "line": [
+      "How exactly are we supposed to carry a giant?",
+      "हम एक दानव को कैसे उठाकर ले जाएँगे?"
+    ]
+  },
+  { "line": ["Must've been a star fall.", "कोई तारा टूटा होगा।"] },
+  { "line": ["A big one.", "बहुत बड़ा तारा।"] },
+  { "line": ["How many signs do you need?", "तुम्हें और कितने संकेत चाहिए?"] },
+  {
+    "line": [
+      "Ask me, we ought to break camp this moment.",
+      "मेरी मानो तो, हमें तत्काल शिविर समेटकर चले जाना चाहिए।"
+    ]
+  },
+  { "line": ["- What about the festival?", "पर्व का क्या?"] },
+  {
+    "line": [
+      "Let's not do anything rash just yet.",
+      "अभी कोई जल्दबाज़ी नहीं करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "More'n likely we're safer in camp than we are out.",
+      "बाहर से ज़्यादा हम शिविर में सुरक्षित रहेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "But keep an eye out, the both of you.",
+      "लेकिन तुम दोनों चौकन्नी रहना।"
+    ]
+  },
+  { "line": ["- Malva's right. - Yes.", "-मालवा सही कह रही है। -हाँ।"] },
+  { "line": ["This does not bode well.", "यह अच्छा शकुन नहीं है।"] },
+  { "line": ["Now, away with you. Go on. Pssk!", "अब, तुम दोनों जाओ। जाओ।"] },
+  {
+    "line": [
+      "- All right, all right, all right. - Go on. Hurry up.",
+      "-ठीक है... -जाओ। जल्दी करो।"
+    ]
+  },
+  {
+    "line": [
+      "Look at him. He's bleeding massive.",
+      "ज़रा इसे देखो। कितना खून बह रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "- He's got to be... - He's not a troll!",
+      "-यह पक्का कोई... -यह त्रासक नहीं है!"
+    ]
+  },
+  {
+    "line": [
+      "All right, smart-foot. Then what is he?",
+      "अगर इतनी ही अक्ल है| तो बताओ क्या है ये?"
+    ]
+  },
+  { "line": ["Uh, maybe he's big folk.", "शायद कोई विशाल जीव है।"] },
+  { "line": ["Human?", "इंसान?"] },
+  { "line": ["No way. He'd be squished.", "बिलकुल नहीं। यह कुचल गया होता।"] },
+  { "line": ["Elf, maybe?", "कहीं एल्फ़ तो नहीं?"] },
+  {
+    "line": [
+      "- Wrong ears. And he's not handsome.",
+      "कान उनके जैसे नहीं हैं। और यह सुंदर भी नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "Not to mention, Elves don't fall from the sky.",
+      "और एल्व्स आसमान से नहीं आते।"
+    ]
+  },
+  {
+    "line": [
+      "Nobody does. As far as I know.",
+      "कोई नहीं आता। जितना मुझे पता है।"
+    ]
+  },
+  { "line": ["He did.", "यह तो आया था।"] },
+  {
+    "line": [
+      "- Are you even pullin'? - Yeah, of course I'm pullin'!",
+      "-तुम खींच भी रही हो? -हाँ, बेशक खींच रही हूँ!"
+    ]
+  },
+  { "line": ["- Well, pull harder! - Shh!", "तो, और ज़ोर से खींचो!"] },
+  {
+    "line": [
+      "This is ludicrous. He's never gonna fit in that old cart.",
+      "मूर्खता। यह उस पुराने छकड़े में नहीं आएगा।"
+    ]
+  },
+  { "line": ["It's just for one night.", "केवल एक रात की बात है।"] },
+  {
+    "line": [
+      "In the mornin', we'll pack him up some food and send him on his way.",
+      "सुबह, हम इसके लिए खाना बाँध देंगे और इसे इसके रास्ते भेज देंगे।"
+    ]
+  },
+  {
+    "line": [
+      "- What way? - That's a tomorrow problem.",
+      "-किस रास्ते? -वह कल देखेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "- This isn't an adventure. - What's that supposed to mean?",
+      "-यह कोई कारनामा नहीं है। -इसका क्या मतलब है?"
+    ]
+  },
+  {
+    "line": [
+      "- I didn't go looking for this. - But you're not turning away.",
+      "-मैंने थोड़े ही बुलाया इसे| -छोड़ भी तो नहीं रहीं।"
+    ]
+  },
+  {
+    "line": [
+      "- Because I can't. - Because you won't.",
+      "-नहीं छोड़ सकती। -तुम नहीं छोड़ोगी।"
+    ]
+  },
+  {
+    "line": [
+      "This stranger isn't a Man, or an Elf,",
+      "यह अजनबी कोई मनुष्य या एल्फ़ नहीं है,"
+    ]
+  },
+  {
+    "line": [
+      "or some baby eagle with a broken wing.",
+      "न ही किसी चील का घायल बच्चा।"
+    ]
+  },
+  {
+    "line": [
+      "- That was one time. - He's something else.",
+      "-वह बस एक बार की बात है। -यह कुछ और ही है।"
+    ]
+  },
+  { "line": ["Maybe he's something dangerous.", "शायद कुछ ख़तरनाक होगा।"] },
+  {
+    "line": [
+      "Now you sound just like Malva and the sisters.",
+      "तुम मालवा और बहनों जैसी डरने लगीं।"
+    ]
+  },
+  { "line": ["Oh, it's not just them.", "बात बस उनकी नहीं।"] },
+  {
+    "line": [
+      "Anybody finds out that we helped a stranger,",
+      "किसी को भी पता चला कि हमने अजनबी की मदद की,"
+    ]
+  },
+  {
+    "line": [
+      "and anything bad that happens the next three seasons",
+      "तो अगले तीन मौसम तक जो भी बुरा होगा"
+    ]
+  },
+  { "line": ["will be our fault.", "वह हमारी ग़लती होगी।"] },
+  {
+    "line": [
+      "If a fog lasts a little too long, a wheel gets stuck in a rut...",
+      "चाहे कोहरा ज़्यादा दिन रहे, या कोई पहिया कीचड़ में अटके।"
+    ]
+  },
+  {
+    "line": [
+      "Oh, great goats! Faster, before it crashes!",
+      "-अरे, ये क्या! -भागो, वो गिर जाएगा!"
+    ]
+  },
+  { "line": ["Oh, so now you care about him.", "तो अब इसकी चिंता हो रही है।"] },
+  {
+    "line": [
+      "No, no! The wheelbarrow, it's not mine!",
+      "नहीं! वह ठेलागाड़ी मेरी नहीं है!"
+    ]
+  },
+  { "line": ["Why you doing this, Nori?", "यह क्यों कर रही हो, नोरी?"] },
+  {
+    "line": [
+      "- I feel like he's my responsibility. - You feel like everyone",
+      "लगता है वह मेरी ज़िम्मेदारी है।"
+    ]
+  },
+  {
+    "line": ["- is your responsibility. - No.", "-सभी को वही समझती हो। -नहीं।"]
+  },
+  { "line": ["This is different.", "यह बात अलग है।"] },
+  {
+    "line": [
+      "He could've landed anywhere, and he landed here.",
+      "वह कहीं भी गिर सकता था, और वह यहाँ गिरा।"
+    ]
+  },
+  {
+    "line": [
+      "I know it sounds strange, but somehow I just know he's important.",
+      "मुझे पता है यह विचित्र लगता है, पर मुझे महसूस हो रहा है कि वह ख़ास है।"
+    ]
+  },
+  {
+    "line": [
+      "It's like there's a reason this happened.",
+      "मानो ऐसा होने की कोई ठोस वजह थी।"
+    ]
+  },
+  {
+    "line": [
+      "Like I was supposed to find him. Me.",
+      "जैसे वह मुझे ही मिलना था। मुझे।"
+    ]
+  },
+  {
+    "line": [
+      "I can't walk away from that. Not till I know he's safe.",
+      "मैं उससे नज़र नहीं फेर सकती। उसके सुरक्षित होने तक नहीं।"
+    ]
+  },
+  { "line": ["Can you?", "तुम फेर सकती हो?"] },
+  { "line": ["Fine. I won't tell anyone.", "ठीक है। किसी को नहीं बताऊँगी।"] },
+  { "line": ["Thank you.", "शुक्रिया।"] },
+  { "line": ["What does a giant eat, anyway?", "वैसे, एक दानव खाता क्या है?"] },
+  {
+    "line": ["Hope it's not Harfoots.", "आशा है हार्फुटों को नहीं खाता होगा।"]
+  },
+  {
+    "line": [
+      "Just the ones that can't keep a secret.",
+      "केवल उनको जो राज़ नहीं रख पाते।"
+    ]
+  },
+  {
+    "line": [
+      "The earth is riven with fissures.",
+      "धरती दरारों से फट चुकी है। मानो भूकंप आया हो।"
+    ]
+  },
+  { "line": ["Like in a ground-shake.", "कोई शव नहीं हैं।"] },
+  { "line": ["No bodies.", "कोई घायल नहीं है।"] },
+  { "line": ["No wounded.", "शायद वे सब भाग गए हों।"] },
+  { "line": ["Perhaps they all fled.", "मुमकिन है।"] },
+  { "line": ["Perhaps.", "यह कियरन का घर था।"] },
+  { "line": ["This was Ciaran's home.", "और... हाना। हाना उसकी पत्नी थी।"] },
+  {
+    "line": [
+      "And... Hana. His wife was Hana.",
+      "यह कोई भूकंप नहीं था। किसी व्यक्ति ने यह सुरंग खोदी थी।"
+    ]
+  },
+  {
+    "line": [
+      "This was no ground-shake. Someone dug this passage.",
+      "किसी चीज़ ने।"
+    ]
+  },
+  { "line": ["Something.", "यह इंसानों ने नहीं किया।"] },
+  { "line": ["Men did not do this.", "जाओ। अपने लोगों को सावधान कर दो।"] },
+  { "line": ["Go. Warn your people.", "तुम मेरे साथ नहीं चल रहे?"] },
+  { "line": ["You're not coming with me?", "मुझे सुरंग से जाना होगा।"] },
+  {
+    "line": [
+      "I must follow the passage. The other direction.",
+      "-तुम्हें क्या पता कि नीचे क्या होगा। -इसी वजह से मुझे जाना होगा।"
+    ]
+  },
+  {
+    "line": [
+      "- You don't know what's down there. - That is the reason I must go.",
+      "एरेगियन एल्फ़ शिल्पकारों की सल्तनत"
+    ]
+  },
+  { "line": ["Fëanor's hammer.", "फ़ेयनॉर का हथौड़ा।"] },
+  {
+    "line": [
+      "The tool that wrought the Silmarils.",
+      "प्रकाशरत्नों को गढ़ने वाला औज़ार।"
+    ]
+  },
+  {
+    "line": [
+      "The jewels that contain the very light of Valinor.",
+      "वे रत्न जिनमें वालिनोर की रोशनी बसती है।"
+    ]
+  },
+  { "line": ["Strange, isn't it?", "विचित्र है, है न?"] },
+  {
+    "line": [
+      "How one object could be responsible for creating so much beauty...",
+      "कैसे एक वस्तु इतनी सुंदरता की रचना के लिए ज़िम्मेदार हो सकती है..."
+    ]
+  },
+  { "line": ["And so much pain.", "और इतनी पीड़ा को भी।"] },
+  {
+    "line": [
+      "True creation requires sacrifice.",
+      "सच्ची रचना के लिए बलिदान की आवश्यकता होती है।"
+    ]
+  },
+  {
+    "line": [
+      "They say that Morgoth found the Silmarils so beautiful",
+      "कहा जाता है कि मॉरगौथ को सिल्मारिल्स इतने सुंदर लगे"
+    ]
+  },
+  {
+    "line": [
+      "that after he'd stolen them, for weeks,",
+      "कि उन्हें चुराने के हफ्तों बाद तक,"
+    ]
+  },
+  {
+    "line": [
+      "he could do nothing but stare into their depths.",
+      "वह उनकी गहराइयों में झाँकने के सिवा कुछ न कर सका।"
+    ]
+  },
+  {
+    "line": [
+      "It was only after one of his tears fell upon the jewels",
+      "रत्नों पर उसके आँसू गिरने पर"
+    ]
+  },
+  {
+    "line": [
+      "and he was faced with the evil of his own reflection,",
+      "और अपने प्रतिबिंब में अपनी बुराई देखने की बाद ही,"
+    ]
+  },
+  {
+    "line": ["that the reverie was finally broken.", "अंतत: उसकी माया भंग हुई।"]
+  },
+  { "line": ["From that moment, he...", "उस क्षण के बाद, उसने..."] },
+  {
+    "line": [
+      "He looked upon their light no more.",
+      "उसने फिर कभी उनकी रोशनी को नहीं देखा।"
+    ]
+  },
+  {
+    "line": [
+      "Fëanor's work nearly turned the heart of the Great Foe himself.",
+      "फ़ेयनॉर की रचना ने लगभग उस महाशत्रु का हृदय परिवर्तन कर दिया था।"
+    ]
+  },
+  {
+    "line": [
+      "What has mine ever accomplished?",
+      "मेरी रचना ने क्या हासिल किया है?"
+    ]
+  },
+  {
+    "line": [
+      "I... It has turned my heart, my lord.",
+      "उसने मेरा हृदय परिवर्तित किया है, प्रभु।"
+    ]
+  },
+  { "line": ["The heart of many an Elf.", "कई एल्फ़ों का हृदय।"] },
+  {
+    "line": [
+      "But I aspire to do far more than that.",
+      "लेकिन मैं इससे कहीं ज़्यादा की इच्छा रखता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "An Age ago, our kind brought war to these shores.",
+      "एक युग पहले, हम लोग इन तटों तक युद्ध लाए थे।"
+    ]
+  },
+  {
+    "line": ["I want to fill them with beauty.", "मैं सुंदरता भरना चाहता हूँ।"]
+  },
+  {
+    "line": [
+      "To grow beyond petty works of jewel-craft, and devise something of real power.",
+      "आभूषणों के तुच्छ हस्त-कौशल से बहुत परे, कोई ठोस शक्ति वाली चीज़ बनाना चाहता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "What is it you hope to craft?",
+      "आप क्या बनाने की आशा कर रहे हैं?"
+    ]
+  },
+  {
+    "line": [
+      "'What' is but a glint on the far horizon.",
+      "'क्या' ऐसा प्रश्न है जो अभी दूर क्षितिज पर है।"
+    ]
+  },
+  {
+    "line": [
+      "You have come to Eregion to help me achieve the 'how.'",
+      "तुम 'कैसे' को सिद्ध करने में मेरी मदद करने के लिए एरेगियन आए हो।"
+    ]
+  },
+  { "line": ["A tower?", "एक मीनार?"] },
+  {
+    "line": [
+      "One that can host a forge more powerful than any ever built.",
+      "ऐसी मीनार जिसमें इतनी शक्तिशाली भट्टी समा सके जो आज तक न बनी हो।"
+    ]
+  },
+  {
+    "line": [
+      "Able to birth a flame as hot as a dragon's tongue,",
+      "जिसमें इतनी प्रबल लौ जले जो अजगर के मुँह से निकली आग हो,"
+    ]
+  },
+  { "line": ["and as pure as starlight.", "और नक्षत्र-प्रकाश सी शुद्ध।"] },
+  {
+    "line": [
+      "The things we could use it to create could transform Middle-earth.",
+      "उससे हम जो चीज़ें बना सकते हैं वे मध्य-धरती की कायापलट कर देंगी।"
+    ]
+  },
+  { "line": ["What seems to be the difficulty?", "तो कठिनाई क्या है?"] },
+  { "line": ["I need it completed by spring.", "वह बसंत तक बन जानी चाहिए।"] },
+  {
+    "line": ["My lord, that would require a...", "प्रभु, उसके लिए आवश्यक है..."]
+  },
+  {
+    "line": [
+      "A workforce greater than any ever assembled.",
+      "अब तक का सबसे बड़ा एकत्रित कार्यबल।"
+    ]
+  },
+  {
+    "line": [
+      "Yes. The High King cannot provide one.",
+      "हाँ। महाराज उसकी व्यवस्था नहीं कर पाएँगे।"
+    ]
+  },
+  {
+    "line": [
+      "So he has sent me you instead.",
+      "इसलिए उन्होंने बदले में तुम्हें भेजा है।"
+    ]
+  },
+  {
+    "line": [
+      "Have you considered seeking partners outside the confines of our own race?",
+      "क्या हमारी प्रजाति के दायरे से बाहर भागीदारों की तलाश करने पर विचार किया है?"
+    ]
+  },
+  { "line": ["How far outside?", "कितने बाहर?"] },
+  {
+    "line": [
+      "An alliance with the Dwarves would be the diplomatic achievement of the age.",
+      "बौनों के साथ हुआ गठबंधन इस युग की सबसे बड़ी कूटनीतिक उपलब्धि होगी।"
+    ]
+  },
+  {
+    "line": [
+      "Their prince, Durin, is an old and dear friend.",
+      "उनका राजकुमार, डुरिन, मेरा पुराना और प्रिय मित्र है।"
+    ]
+  },
+  { "line": ["Almost like a brother to me.", "मेरे लिए लगभग भाई जैसा है।"] },
+  {
+    "line": [
+      "I've heard the Dwarves have greatly expanded their halls of late.",
+      "मैंने सुना है बौनों ने हाल में अपने सभाग्रह बहुत भव्य बना दिए हैं।"
+    ]
+  },
+  {
+    "line": [
+      "They... They sculpt the rock",
+      "वे चट्टान को उस सम्मान के साथ तराशते हैं"
+    ]
+  },
+  {
+    "line": [
+      "with the respect of one who cares for an aged parent.",
+      "जैसे श्रवण कुमार अपने वृद्ध माता-पिता की देखभाल करता था।"
+    ]
+  },
+  {
+    "line": [
+      "I've long wanted to see them work.",
+      "मैं लंबे समय से उन्हें काम करते देखना चाहता था।"
+    ]
+  },
+  {
+    "line": [
+      "I had no idea you admired them so.",
+      "पता नहीं था कि आप उनके प्रशंसक हैं।"
+    ]
+  },
+  {
+    "line": [
+      "I admire all who can see into the mystery of things,",
+      "उन सबका हूँ जो चीज़ों का रहस्य देख सकते हैं,"
+    ]
+  },
+  {
+    "line": [
+      "who can divine from the plainness of what is,",
+      "चीज़ों की सादगी में कुछ दैवीय देख सकते हैं,"
+    ]
+  },
+  {
+    "line": [
+      "the beauty of what could be...",
+      "जो सौंदर्य हो सकता है वह देख..."
+    ]
+  },
+  {
+    "line": [
+      "Might your friend be able to grant me access to their workshops?",
+      "क्या तुम्हारा मित्र मुझे उनकी कार्यशाला में प्रवेश दिला देगा?"
+    ]
+  },
+  {
+    "line": [
+      "Oh, if I know Durin, he'll do far more than that.",
+      "डुरिन को जानता हूँ, वह इससे कहीं ज़्यादा करेगा।"
+    ]
+  },
+  {
+    "line": [
+      "He'll welcome us with open arms,",
+      "वह खुले दिल से हमारा स्वागत करेगा,"
+    ]
+  },
+  { "line": ["rams' horns blaring,", "ढोल-बाजे के साथ,"] },
+  {
+    "line": [
+      "tables filled with salted pork,",
+      "मसालेदार गोश्त से भरी मेज़ के साथ,"
+    ]
+  },
+  {
+    "line": [
+      "- and enough malt beer to fill the Anduin.",
+      "और इतनी मदिरा कि पूरी एंड्यून डूब जाए।"
+    ]
+  },
+  { "line": ["What do you want?", "तुम्हें क्या चाहिए?"] },
+  { "line": ["It is Elrond of Lindon,", "लिंडन से एलरॉन्ड आया हूँ,"] },
+  {
+    "line": [
+      "accompanied by Celebrimbor, Lord of Eregion.",
+      "एरेगियन के सरदार, कैलेब्रिम्बोर के साथ।"
+    ]
+  },
+  {
+    "line": [
+      "We seek an audience with Prince Durin.",
+      "हमें राजकुमार डुरिन से बात करनी है।"
+    ]
+  },
+  { "line": ["My apologies.", "मैं माफ़ी चाहूँगा।"] },
+  {
+    "line": [
+      "Inform Lord Durin that his friend, Elrond...",
+      "सरदार डुरिन से कह दो कि उनका मित्र, एलरॉन्ड आया..."
+    ]
+  },
+  {
+    "line": [
+      "His judgment has already been rendered, Elf.",
+      "वह निर्णय पहले ही सुना चुके हैं, एल्फ़।"
+    ]
+  },
+  { "line": ["Rams' horns?", "ढोल-बाजे के साथ?"] },
+  { "line": ["All right, then, my friend.", "तो ठीक है, मित्र।"] },
+  {
+    "line": [
+      "I invoke the Rite of Sigin-tarâg.",
+      "मैं बौनों को शक्ति परीक्षण की चुनौती देता हूँ |"
+    ]
+  },
+  { "line": ["What is the Rite of...", "यह शक्ति परीक्षण..."] },
+  { "line": ["I'll rejoin you in Eregion.", "आपसे एरेगियन में मिलूँगा।"] },
+  {
+    "line": [
+      "Are you certain you know what you're doing?",
+      "-पता है तुम क्या कर रहे हो? "
+    ]
+  },
+  {
+    "line": [
+      "Lord Celebrimbor, trust me.",
+      "-सरदार कैलेब्रिम्बोर, विश्वास करें।"
+    ]
+  },
+  {
+    "line": [
+      "You are master of your craft, my friend.",
+      "आप अपनी कला के उस्ताद हैं, बंधु।"
+    ]
+  },
+  {
+    "line": [
+      "Allow me a few days to work mine.",
+      "मुझे अपनी कला का जादू दिखाने के लिए कुछ दिन दीजिए।"
+    ]
+  },
+  { "line": ["Elmendéa...", "-खाज़ाद! "] },
+  { "line": ["- Dûm!", "-डुम!"] },
+  {
+    "line": [
+      "My heart sings to see you, old...",
+      "दिल तुम्हें देख कर खिल उठा..."
+    ]
+  },
+  {
+    "line": [
+      "The Elf Elrond has invoked the Rite of Sigin-tarâg.",
+      "एल्फ़ एलरॉन्ड ने शक्ति परीक्षण की चुनौती पेश की है |"
+    ]
+  },
+  {
+    "line": ["The Dwarven test of endurance,", "बौनों की सहनशक्ति की परीक्षा,"]
+  },
+  { "line": ["fashioned by Aulë himself.", "जिसका विधान स्वयं औले ने लिखा।"] },
+  {
+    "line": [
+      "Once we lift our hammers,",
+      "एक बार जो हमने अपना हथौड़ा उठा लिया,"
+    ]
+  },
+  {
+    "line": [
+      "we shall break the great stones until one of us can break no more.",
+      "हम तब तक विशाल पत्थरों को तोड़ते रहेंगे जब तक हमारी हिम्मत न टूट जाए।"
+    ]
+  },
+  { "line": ["Should the Elf forfeit,", "यदि एल्फ़ ने पराजय स्वीकार कर ली,"] },
+  {
+    "line": [
+      "he will be banished from all Dwarven lands.",
+      "तो इसे सभी बौनों के देशों से निर्वासित कर दिया जाएगा।"
+    ]
+  },
+  { "line": ["Forever!", "सदा के लिए!"] },
+  { "line": ["Does the Elf understand?", "क्या एल्फ़ की समझ में आया?"] },
+  { "line": ["The Elf does.", "एल्फ़ समझ गया।"] },
+  {
+    "line": [
+      "In the unlikely event the Elf should win...",
+      "अगर एल्फ़ की विजय की असंभावित घटना घटती है..."
+    ]
+  },
+  {
+    "line": [
+      "We shall grant a single boon. But should he lose...",
+      "तो हम उसे एक वरदान देंगे। परंतु अगर यह हार गया..."
+    ]
+  },
+  { "line": ["Banished. Yes. Understood.", "निर्वासित। हाँ। समझ गया।"] },
+  { "line": ["Begin!", "आरंभ हो।"] },
+  { "line": ["Durin! ", "डुरिन!"] },
+  { "line": ["Here we go, Elf.", "शुरू हो जाओ, एल्फ़।"] },
+  { "line": ["Hello?", "नमस्ते?"] },
+  { "line": ["Wait! Wait, it's me!", "रुको! यह मैं हूँ!"] },
+  { "line": ["It's me! Stop!", "यह मैं हूँ! बस करो!"] },
+  { "line": ["Wait!", "रुक जाओ!"] },
+  {
+    "line": [
+      "I helped you last night. You remember me, don't you?",
+      "मैंने कल रात तुम्हारी मदद की थी। तुम्हें याद तो होगा?"
+    ]
+  },
+  { "line": ["Don't you?", "याद नहीं है?"] },
+  { "line": ["Okay.", "ठीक है।"] },
+  { "line": ["How 'bout this then...", "तो यह कैसा रहेगा..."] },
+  { "line": ["I won't harm you.", "मैं नुकसान नहीं पहुँचाऊँगी।"] },
+  {
+    "line": ["You won't harm me. Deal?", "तुम मुझे नुकसान नहीं पहुँचाना। वादा?"]
+  },
+  {
+    "line": [
+      "Well, that's a start then, isn't it?",
+      "ख़ैर, यह एक अच्छी शुरुआत है, है न?"
+    ]
+  },
+  {
+    "line": [
+      "Now, proper things first. Father always says,",
+      "पिताजी कहते हैं,परिचय ठीक से होना चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "'A Harfoot without manners is as like to get far in life as a square wheel.' So...",
+      "'एक अशिष्ट हार्फुट जीवन में चौकोर पहिए की तरह ही आगे नहीं बढ़ पाता।' इसलिए..."
+    ]
+  },
+  { "line": ["I'm Nori.", "मैं नोरी हूँ।"] },
+  { "line": ["I'm Nori.", "मैं नोरी हूँ।"] },
+  { "line": ["I...", "मैं नोरी।"] },
+  { "line": ["No, I'm Nori.", "नहीं, मैं नोरी हूँ।"] },
+  {
+    "line": [
+      "What about your name? You?",
+      "नहीं, तुम्हारा नाम क्या है? तुम्हारा?"
+    ]
+  },
+  { "line": ["You don't remember, do you?", "तुम्हें याद नहीं है, है न?"] },
+  {
+    "line": [
+      "Suppose you did fall quite a long way.",
+      "तुम वाकई काफ़ी ऊपर से गिरे थे।"
+    ]
+  },
+  {
+    "line": [
+      "Anybody's head would be a bit higgledy-piggledy.",
+      "ऐसे में तो किसी का भी सिर चकरा जाए।"
+    ]
+  },
+  { "line": ["I fell out of a tree once.", "एक बार पेड़ से गिरी थी।"] },
+  {
+    "line": [
+      "For a whole week, I kept calling strawberries 'pigberries.'",
+      "पूरे हफ़्ते भर, बेर को 'बैर' बुला रही थी।"
+    ]
+  },
+  { "line": ["Can you imagine? A pigberry?", "सोच सकते हो? एक बैर?"] },
+  { "line": ["It's food.", "यह खाना है।"] },
+  {
+    "line": [
+      "They do eat where you're from, don't they?",
+      "जहाँ से आए हो, वहाँ खाना तो खाते होंगे न?"
+    ]
+  },
+  {
+    "line": [
+      "Of course they do, Nori, what a silly question.",
+      "बेशक खाते होंगे, नोरी, कैसा बेहूदा सवाल है।"
+    ]
+  },
+  { "line": ["No... That's not how you...", "नहीं... इस तरह नहीं खाते..."] },
+  { "line": ["- Largo! Largo!", "लार्गो!"] },
+  {
+    "line": [
+      "Leave him, Malva. Why don't you help?",
+      "उसे बख्श दो, मालवा। तुम मदद कर दो?"
+    ]
+  },
+  {
+    "line": [
+      "I am helping by asking him to help.",
+      "मैं उससे मदद माँगकर मदद कर रही हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "Aw, stop your lounge-a-daising and lend us a foot.",
+      "यह आवारागर्दी बंद करो और हमारा हाथ बँटाओ।"
+    ]
+  },
+  {
+    "line": [
+      "Well, I think Nori was looking forward to helping out with that.",
+      "मेरे ख़्याल से नोरी इसमें मदद करने का इंतज़ार कर रही थी।"
+    ]
+  },
+  { "line": ["Nori? Nori?", "नोरी?"] },
+  { "line": ["Where is it you're from, anyway?", "वैसे, तुम कहाँ से हो?"] },
+  {
+    "line": [
+      "Where do you belong? Where are all the others?",
+      "कहाँ से आए हो? बाकी के लोग कहाँ हैं?"
+    ]
+  },
+  {
+    "line": [
+      "You know, of your kind? Like you?",
+      "तुम्हारी जाति के? तुम्हारे जैसे?"
+    ]
+  },
+  { "line": ["Are there any others?", "क्या तुम्हारे जैसे और हैं?"] },
+  { "line": ["- And up she goes...", "और यह गई ऊपर..."] },
+  { "line": ["Come on, big fella.", "चलो, गबरू जवान।"] },
+  { "line": ["- Put your back into it, lads!", "पूरा दम लगाकर, लड़को!"] },
+  { "line": ["What is it?", "यह क्या है?"] },
+  { "line": ["Mana...", "माना..."] },
+  { "line": ["Is it some sort of map?", "यह कोई नक्शा है क्या?"] },
+  { "line": ["Come on, lads!", "चलो, लड़को!"] },
+  { "line": ["It's got space.", "उसमें जगह है।"] },
+  { "line": ["Mana... Mana...", "माना..."] },
+  { "line": ["Úrë...", "ऊरै..."] },
+  { "line": ["Mana... Mana...", "माना..."] },
+  { "line": ["Úrë... Úrë...", "ऊरै..."] },
+  {
+    "line": [
+      "It just looks like a batch of dots and loops.",
+      "बस बहुत सारे बिंदु और गोले बने हुए हैं।"
+    ]
+  },
+  { "line": ["-Úrë... - I don't understand.", "मेरी समझ में नहीं आ रहा।"] },
+  { "line": ["- Mana! ", "माना!"] },
+  {
+    "line": [
+      "- I'm trying to help you, but I...",
+      "मैं मदद करना चाहती हूँ, पर मैं..."
+    ]
+  },
+  { "line": ["Úrë!", "ऊरै!"] },
+  { "line": ["I'm just a Harfoot!", "मैं एक साधारण हार्फुट हूँ!"] },
+  { "line": ["Friend!", "दोस्त!"] },
+  { "line": ["Friend. Just a friend.", "यह दोस्त है। बस एक दोस्त।"] },
+  { "line": ["Nori.", "नोरी।"] },
+  { "line": ["It's your father.", "तुम्हारे पिता।"] },
+  { "line": ["Wow! Blueberry indeed.", "नीला हो गया है।"] },
+  { "line": ["Nori, I'm fine.", "नोरी, मैं ठीक हूँ।"] },
+  {
+    "line": [
+      "I... I slipped on wet grass is all. It's just a twist.",
+      "बस गीली घास पर फिसल गया था। छोटी सी मोच आई है।"
+    ]
+  },
+  { "line": ["There's nothing to worry...", "चिंता करने की कोई बात नहीं..."] },
+  { "line": ["- Mam... - Never you mind.", "-माँ... -रहने दो।"] },
+  { "line": ["I should've been here.", "मुझे होना चाहिए था।"] },
+  { "line": ["You're here now, all right?", "तुम अब यहाँ हो, है न?"] },
+  {
+    "line": [
+      "Now, go on, fetch me some cold water and some salt.",
+      "अब जाओ, और मेरे लिए ठंडा पानी और थोड़ी बालू लेकर आओ।"
+    ]
+  },
+  {
+    "line": [
+      "How bad is it? Can he migrate?",
+      "कितनी बुरी चोट है? वह यात्रा कर पाएगा?"
+    ]
+  },
+  { "line": ["You saw him.", "तुमने उसे देखा।"] },
+  {
+    "line": [
+      "Couldn't put the weight of a leaf on that leg.",
+      "अपने पैर से पत्ते का भार भी नहीं उठा सकता।"
+    ]
+  },
+  {
+    "line": [
+      "- Much less pull a cart. - Mind your own fire, Malva.",
+      "-गाड़ी खींचना तो भूल जाओ। -अपने आप से मतलब रखो, मालवा।"
+    ]
+  },
+  { "line": ["Over here!", "यहाँ पर!"] },
+  { "line": ["Come. Come closer.", "आओ। करीब आओ।"] },
+  {
+    "line": [
+      "- What do you think you're doing? - I'm not leaving her adrift.",
+      "-तुम कर क्या रही हो? -मैं इसे समंदर में नहीं छोड़ सकती।"
+    ]
+  },
+  {
+    "line": [
+      "Suppose you'll be sharing your rations?",
+      "तो तुम इसके साथ अपना राशन बाँटोगी?"
+    ]
+  },
+  { "line": ["The tides of fate are flowing.", "भाग्य की धाराएँ बह रही हैं।"] },
+  { "line": ["If no one else will.", "भले ही कुछ और न बहे।"] },
+  {
+    "line": [
+      "Yours may be heading in, or out.",
+      "तुम या तो डूबोगी या बच जाओगी।"
+    ]
+  },
+  {
+    "line": [
+      "Refuse to bring her aboard, and her death will be on our hands.",
+      "इसे नाव पर न आने दिया, तो इसकी मौत का पाप हमारे माथे होगा।"
+    ]
+  },
+  {
+    "line": [
+      "Didn't seem bothered when we was debating Doble's death.",
+      "डोबल की मौत के वक़्त तो तुम्हें परवाह नहीं हुई थी।"
+    ]
+  },
+  {
+    "line": [
+      "Cruelty will not be our deliverance.",
+      "क्रूरता दिखाकर हमें मुक्ति नहीं मिलेगी।"
+    ]
+  },
+  { "line": ["Don't let her on.", "उसे ऊपर मत आने दो।"] },
+  { "line": ["Pull her up.", "कमान खींचो।"] },
+  { "line": ["No.", "नहीं।"] },
+  { "line": ["Answers first.", "पहले जवाब देने होंगे।"] },
+  { "line": ["Why are you out here?", "तुम यहाँ क्या कर रही हो?"] },
+  { "line": ["I was separated from my ship.", "मैं अपने जहाज़ से अलग हो गई।"] },
+  { "line": ["Attacked?", "हमला हुआ था?"] },
+  { "line": ["Then you've not seen it?", "फिर तुमने वह नहीं देखा?"] },
+  { "line": ["Seen what?", "क्या नहीं देखा?"] },
+  { "line": ["The worm.", "सर्पीला राक्षस।"] },
+  {
+    "line": [
+      "We set out two weeks ago, sailing...",
+      "हम दो हफ़्ते पहले नाव से रवाना हुए..."
+    ]
+  },
+  {
+    "line": [
+      "- Need we tell her all our affairs? - Why not?",
+      "-इसे अपनी सारी बातें बता दें? -क्यों नहीं?"
+    ]
+  },
+  { "line": ["Does she look dangerous to you?", "क्या यह ख़तरनाक लगती है?"] },
+  { "line": ["Looks can be deceiving.", "चेहरा धोखा दे सकता है।"] },
+  { "line": ["An Elf.", "एक एल्फ़।"] },
+  {
+    "line": ["Remove your hand from me, sir.", "मुझसे अपना हाथ हटाओ, श्रीमान।"]
+  },
+  { "line": ["You liar.", "झूठी कहीं की।"] },
+  {
+    "line": [
+      "- We're saved. We're saved. Look! - Hurry!",
+      "-हम बच गए। देखो! -जल्दी करो!"
+    ]
+  },
+  { "line": ["Look! Over here!", "देखो! हम यहाँ पर हैं!"] },
+  { "line": ["Help us!", "हमारी मदद करो!"] },
+  {
+    "line": [
+      "Hurry, help me build a torch. Hurry!",
+      "मशाल बनाने में मेरी मदद करो। जल्दी!"
+    ]
+  },
+  {
+    "line": [
+      "Wait! Until we can see the sails.",
+      "रुक जाओ! जब तक हम पाल नहीं देख लेते।"
+    ]
+  },
+  {
+    "line": [
+      "Corsairs prowl these waters. Do you want to be skinned alive?",
+      "यहाँ समुद्री डाकू भरे पड़े हैं। ज़िंदा खाल उधड़वानी है?"
+    ]
+  },
+  { "line": ["That's no corsair ship.", "वह समुद्री डाकू का जहाज़ नहीं है।"] },
+  { "line": ["That's our ship.", "वह हमारा जहाज़ है।"] },
+  { "line": ["The worm!", "सर्पीला राक्षस।"] },
+  { "line": ["Be still.", "कोई हरकत मत करना।"] },
+  { "line": ["- The Elf led it right to us.", "यह एल्फ़ हमें इस तक लाई।"] },
+  { "line": ["It's coming!", "वह आ रहा है!"] },
+  { "line": ["Help!", "बचाओ!"] },
+  { "line": ["What are you called?", "नाम क्या है?"] },
+  { "line": ["Galadriel.", "गैलाड्रिएल।"] },
+  { "line": ["I'm Halbrand.", "मैं हॉलब्रांड हूँ।"] },
+  { "line": ["What's our heading?", "किस दिशा में जाना है?"] },
+  { "line": ["Yes!", "हाँ!"] },
+  { "line": ["A dog may bark at the moon.", "कुत्ता चाँद पर भौंक सकता है।"] },
+  {
+    "line": ["But he cannot bring it down.", "लेकिन उसे ज़मीन पर नहीं ला सकता।"]
+  },
+  { "line": ["Take your leave.", "विदा ले लो।"] },
+  {
+    "line": [
+      "Perhaps His Lordship would be willing to escort me to the exit?",
+      "क्या राजकुमार मुझे द्वार तक छोड़ने का कष्ट उठाना चाहेंगे?"
+    ]
+  },
+  { "line": ["Gladly.", "ख़ुशी से।"] },
+  {
+    "line": [
+      "Remarkable. I never dreamed to find your city so changed.",
+      "अद्भुत। मुझे सपने में भी नहीं लगा था कि तुम्हारा शहर इतना बदल जाएगा।"
+    ]
+  },
+  {
+    "line": ["Now, 20 years will do that.", "बीस साल काफ़ी कुछ बदल देते हैं।"]
+  },
+  { "line": ["Has it been only 20?", "केवल बीस साल हुए हैं?"] },
+  {
+    "line": [
+      "You must tell me your secret.",
+      "तुम्हें मुझे अपना रहस्य बताना होगा।"
+    ]
+  },
+  { "line": ["Our secrets are our own.", "हमारे रहस्य हमारे अपने हैं।"] },
+  { "line": ["Durin, have I offended you?", "मैंने कोई अपमान किया?"] },
+  {
+    "line": [
+      "To answer that, we'd need a longer lift.",
+      "इसका जवाब देने के लिए और समय चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "If you wish to discharge me without explanation,",
+      "बिना सफ़ाई के मुझे निकालना तुम्हारा फ़ैसला है।"
+    ]
+  },
+  {
+    "line": [
+      "- that is your choice. - You bet your feathery shirts it is.",
+      "बिल्कुल है, अमीरज़ादे।"
+    ]
+  },
+  {
+    "line": [
+      "But before squandering the best opportunity",
+      "एक उत्तम अवसर गँवाने से पहले जो सालों से"
+    ]
+  },
+  {
+    "line": [
+      "any Dwarf-prince has had in a generation,",
+      "किसी बौने राजकुमार को नहीं मिला,"
+    ]
+  },
+  {
+    "line": [
+      "you might at least listen to the proposal I bring.",
+      "कम से कम मेरा प्रस्ताव सुनना चाहोगे।"
+    ]
+  },
+  { "line": ["Ah, there it is.", "तो यह है।"] },
+  {
+    "line": [
+      "The true purpose of your visit. You want something.",
+      "तुम्हारे आने का असली मकसद। तुम्हें कुछ चाहिए।"
+    ]
+  },
+  {
+    "line": [
+      "I journeyed here to see my friend, whom I've greatly missed.",
+      "दोस्त से मिलने आया था, जिसे याद करता था।"
+    ]
+  },
+  {
+    "line": [
+      "Missed? You missed my wedding.",
+      "याद करते थे? मेरी शादी में नहीं आए।"
+    ]
+  },
+  {
+    "line": [
+      "The birth of my children, two of them!",
+      "मेरे दोनों बच्चों के जन्म के समय नदारद थे!"
+    ]
+  },
+  {
+    "line": [
+      "You cannot barge into my mountain and demand I welcome you with open arms.",
+      "मेरे पहाड़ में धड़धड़ाते हुए आकर खुली बाँहों से स्वागत की माँग नहीं कर सकते।"
+    ]
+  },
+  {
+    "line": [
+      "You cannot claim that which you discarded.",
+      "उस पर दावा नहीं कर सकते जिसे तुमने दरकिनार कर दिया।"
+    ]
+  },
+  { "line": ["Discarded? Durin, I...", "दरकिनार? डुरिन, मैं..."] },
+  {
+    "line": [
+      "Twenty years might be the blink of an eye to an Elf.",
+      "एक एल्फ़ के लिए बीस साल भले ही पलक झपकते बीत जाते होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "But I've lived an entire life in that time.",
+      "पर मैंने उस समय में अपनी पूरी ज़िंदगी जी ली।"
+    ]
+  },
+  { "line": ["A life you missed.", "उस ज़िंदगी में तुम नहीं थे।"] },
+  {
+    "line": [
+      "So, what do you have to say to that...",
+      "तो, इस बारे में क्या कहना चाहोगे..."
+    ]
+  },
+  { "line": ["'Friend?'", "'दोस्त?'"] },
+  { "line": ["Congratulations.", "बधाई हो।"] },
+  {
+    "line": ["On your wife, your children.", "तुम्हारी पत्नी और बच्चों के लिए।"]
+  },
+  {
+    "line": [
+      "I hope you can come to forgive me.",
+      "आशा है कि तुम मुझे माफ़ कर सकोगे।"
+    ]
+  },
+  {
+    "line": [
+      "And I would like very much to apologize to your family as well.",
+      "और मैं तुम्हारे परिवार से भी माफ़ी माँगना चाहूँगा।"
+    ]
+  },
+  {
+    "line": [
+      "One apology to Disa and you're off.",
+      "डिसा से माफ़ी माँगना और रवाना हो जाना।"
+    ]
+  },
+  {
+    "line": [
+      "No getting better acquainted.",
+      "जान-पहचान बढ़ाने की ज़रूरत नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "No reminiscing about the past. And absolutely no staying for dinner.",
+      "अतीत को याद करने की ज़रूरत नहीं है। और रात के खाने के लिए तो हरगिज़ मत रुकना।"
+    ]
+  },
+  { "line": ["Understood.", "समझ गया।"] },
+  { "line": ["Aulë's beard! No!", "हे औले! नहीं!"] },
+  {
+    "line": [
+      "This cannot be Elrond, can it?",
+      "यह एलरॉन्ड नहीं हो सकता, है क्या?"
+    ]
+  },
+  { "line": ["I fear so, fair lady.", "मुझे खेद है, मोहतरमा।"] },
+  {
+    "line": [
+      "Durin didn't tell me you were coming.",
+      "डुरिन ने बताया नहीं कि तुम आने वाले हो।"
+    ]
+  },
+  { "line": ["Durin didn't know.", "डुरिन को नहीं पता था।"] },
+  {
+    "line": [
+      "I've been remiss in not visiting sooner.",
+      "मिलने के लिए इससे पहले न आने की भारी भूल हो गई मुझसे ।"
+    ]
+  },
+  {
+    "line": [
+      "An oversight, for which I am here to humbly ask forgiveness.",
+      "ऐसी गुस्ताख़ी जिसके लिए मैं तहेदिल से माफ़ी माँगता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "- You're staying for dinner. - He's leaving.",
+      "-रात का खाना खाकर जाओगे। -यह जा रहा है।"
+    ]
+  },
+  {
+    "line": [
+      "- He's staying. - He's leaving!",
+      "-यह रुक रहा है। -यह जा रहा है!"
+    ]
+  },
+  { "line": ["He's staying.", "यह रुक रहा है।"] },
+  {
+    "line": [
+      "Hey! I told you two to stay out of my heads!",
+      "अरे! मैंने तुम दोनों से मूर्तियों से दूर रहने को कहा था!"
+    ]
+  },
+  {
+    "line": [
+      "And I told you wee monsters to stay in bed.",
+      "और मैंने तुम शैतानों से सोने को कहा था।"
+    ]
+  },
+  { "line": ["Oh, come on!", "चलो!"] },
+  {
+    "line": [
+      "Gerda! Gamli! Come on, hurry along.",
+      "गेर्डा! गमली! चलो, जल्दी करो।"
+    ]
+  },
+  { "line": ["Make yourself comfortable, please.", "आराम से तशरीफ़ फ़रमाओ।"] },
+  { "line": ["But not too comfortable.", "लेकिन ज़्यादा आराम से नहीं।"] },
+  { "line": ["Gamli, please.", "गमली, मान जाओ!"] },
+  {
+    "line": [
+      "It's off to the salt mines the both of ya!",
+      "तुम दोनों को बड़ी सज़ा भुगतनी पड़ेगी!"
+    ]
+  },
+  {
+    "line": [
+      "Cave-trolls and stalagmite spiders galore!",
+      "गुफा-त्रासक और स्टलैग्माइट मर्कटक भरे पड़े हैं!"
+    ]
+  },
+  {
+    "line": [
+      "How did you two first become acquainted?",
+      "आप दोनों की मुलाकात कैसे हुई?"
+    ]
+  },
+  {
+    "line": [
+      "I was resonating a freshly-opened chamber,",
+      "मैं एक नयी खुली खदान की गूँज परख रही थी"
+    ]
+  },
+  {
+    "line": [
+      "fairly confident we were onto a sizable silver deposit...",
+      "जहाँ हमें चांदी का बहुत बड़ा खजाना मिलने का यकीन था |"
+    ]
+  },
+  {
+    "line": [
+      "'Resonating?' I've not heard of resonating.",
+      "'गूँज की परख?' इस बारे में कभी नहीं सुना |"
+    ]
+  },
+  {
+    "line": ["It's when we sing to the stone.", "जब हम चट्टान के लिए गाते हैं।"]
+  },
+  {
+    "line": [
+      "You see, a mountain's like a person.",
+      "असल में, पहाड़ एक व्यक्ति की तरह होता है।"
+    ]
+  },
+  {
+    "line": [
+      "It's a long and ever-changing story made of countless small parts.",
+      "यह अनगिनत छोटे हिस्सों से बनी एक लंबी और निरंतर बदलती कहानी है।"
+    ]
+  },
+  {
+    "line": ["- Earth and ore, air and water.", "पृथ्वी और अयस्क, वायु और जल।"]
+  },
+  {
+    "line": [
+      "Sing to it properly, each of those parts will reflect your song back to you,",
+      "उसके लिए सही तरह से गाओ, तो ये सारे तत्व उस गीत की गूँज तुम तक लौटायेंगे,"
+    ]
+  },
+  {
+    "line": [
+      "telling you its story, showing you what might be hidden,",
+      "और अपनी कहानी बयां करके, वहाँ के छिपे राज़ बता सकते हैं,"
+    ]
+  },
+  {
+    "line": [
+      "where to mine, where to tunnel, and...",
+      "कहाँ खोदना है, कहाँ सुरंग बनानी है, और..."
+    ]
+  },
+  {
+    "line": [
+      "And where to leave the mountain untouched.",
+      "और कहाँ उस पहाड़ को अछूता छोड़ना है।"
+    ]
+  },
+  { "line": ["It is a beautiful tradition.", "बहुत ही सुंदर परंपरा है।"] },
+  {
+    "line": [
+      "Anyway, we're unpacking our tools, and my team suddenly grows quiet.",
+      "बहरहाल, हम अपने औज़ार निकाल रहे थे और अचानक मेरा दल बिल्कुल शांत हो गया।"
+    ]
+  },
+  { "line": ["Then, I see our prince.", "फिर, मैंने हमारे राजकुमार को देखा।"] },
+  { "line": ["He's come to check on us.", "यह हमारा काम देखने आए थे।"] },
+  {
+    "line": ["Far below his purview, mind you.", "जो इनकी शान के बहुत नीचे था।"]
+  },
+  {
+    "line": [
+      "First, I thought it merely curious.",
+      "पहले, मैंने सोचा कि जिज्ञासा होगी।"
+    ]
+  },
+  {
+    "line": [
+      "That is, until he showed up at our next survey.",
+      "फिर, यह हमारे अगले सर्वेक्षण में भी आ गए।"
+    ]
+  },
+  {
+    "line": [
+      "And the one after that. And the one after that.",
+      "और फिर उसके बाद वाले। और उसके बाद वाले।"
+    ]
+  },
+  {
+    "line": [
+      "Always did have a talent for lurking.",
+      "हमेशा से घात लगाने में माहिर था।"
+    ]
+  },
+  {
+    "line": [
+      "Took weeks before he worked up the courage to court me proper.",
+      "इन्हें मुझसे ठीक से इज़हार करने में कई हफ़्ते लग गए।"
+    ]
+  },
+  { "line": ["Two weeks at most.", "ज़्यादा से ज़्यादा दो हफ़्ते।"] },
+  {
+    "line": [
+      "- It was five. - You're lying.",
+      "-पाँच हफ़्ते थे। -झूठ बोल रही हो।"
+    ]
+  },
+  { "line": ["She's lying.", "यह झूठ बोल रही है।"] },
+  { "line": ["She may play coy now,", "भले ही अभी संकोच कर रही हो,"] },
+  {
+    "line": [
+      "but she was a moon-eyed girl in love from the moment we met.",
+      "लेकिन जिस पल हम मिले थे यह तभी से मेरी दीवानी हो गई थी।"
+    ]
+  },
+  {
+    "line": [
+      "A very happy match, indeed.",
+      "वास्तव में, बहुत ही ख़ुशहाल जोड़ी है।"
+    ]
+  },
+  {
+    "line": ["Should've been at the wedding.", "तुम्हें शादी में आना चाहिए था।"]
+  },
+  { "line": ["Enough.", "बहुत हो गया।"] },
+  { "line": ["- Your friend is here now.", "अब तुम्हारा दोस्त आ गया है।"] },
+  {
+    "line": ["Can we not take joy in that?", "इस बात से ख़ुश नहीं होना चाहिए?"]
+  },
+  { "line": ["He's not here for us.", "वह हमसे मिलने नहीं आया है।"] },
+  {
+    "line": [
+      "His king sent him here to take what's ours.",
+      "इसके राजा ने इसे वह लेने भेजा है जो हमारा है।"
+    ]
+  },
+  {
+    "line": [
+      "To the contrary. Coming to Khazad-dûm was my idea.",
+      "इसका उल्टा है, खाज़ाद-डुम आने का सुझाव मेरा था।"
+    ]
+  },
+  {
+    "line": [
+      "And I have asked for nothing but your ear.",
+      "और मैंने बस तुम्हारी तवज्जो माँगी।"
+    ]
+  },
+  {
+    "line": [
+      "Aye, and that's how it starts.",
+      "हाँ, सिलसिला ऐसे ही शुरू होता है।"
+    ]
+  },
+  {
+    "line": [
+      "And soon enough, we're left with our thumbs in our eyes.",
+      "और जल्द ही, हम एक-दूसरे की गर्दन पकड़े होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "- Elves for Elves, no? - Has it ever been so between us?",
+      "-एल्व्स हमेशा एल्व्स का साथ देंगे। -कभी ऐसा था?"
+    ]
+  },
+  {
+    "line": [
+      "- I don't know! Has it? - Aulë's beard!",
+      "-मुझे नहीं पता! था क्या? -हे औले!"
+    ]
+  },
+  {
+    "line": [
+      "Can you not find a way to mend this?",
+      "रिश्ता सुधारने का कोई रास्ता नहीं है?"
+    ]
+  },
+  {
+    "line": [
+      "I see you planted the sapling.",
+      "देख रहा हूँ तुमने वह पौधा लगाया।"
+    ]
+  },
+  { "line": ["Planted it. Raised it up.", "उसे लगाया। उसे बड़ा किया।"] },
+  {
+    "line": [
+      "Tends it like it's our third child.",
+      "ऐसे ख़्याल रखता है जैसे हमारा तीसरा बच्चा हो।"
+    ]
+  },
+  {
+    "line": [
+      "What sort of tree is it, exactly?",
+      "वैसे, यह किस तरह का पेड़ है?"
+    ]
+  },
+  {
+    "line": [
+      "A seedling of our Great Tree in Lindon.",
+      "एक अंकुर है। लिंडन के हमारे दिव्य वृक्ष का।"
+    ]
+  },
+  {
+    "line": [
+      "The very symbol of our people's strength and vitality.",
+      "हमारे लोगों की ताक़त और जीवन शक्ति का प्रतीक।"
+    ]
+  },
+  { "line": ["Some called him a fool", "कुछ लोगों ने इसे मूर्ख कहा,"] },
+  {
+    "line": [
+      "for believing it would grow in such darkness.",
+      "इतने अंधेरे में इसके पनपने की आशा करने के लिए।"
+    ]
+  },
+  {
+    "line": [
+      "Where there is love, it is never truly dark.",
+      "जहाँ प्रेम है, वहाँ कभी अंधकार नहीं होता।"
+    ]
+  },
+  {
+    "line": [
+      "How could it not grow in a home like yours?",
+      "आपके घर में यह कैसे नहीं फलता-फूलता?"
+    ]
+  },
+  { "line": ["You're not leaving already?", "तुम जा भी रहे हो?"] },
+  {
+    "line": [
+      "I fear I've overstayed my welcome.",
+      "मैं कुछ ज़्यादा ही देर रुक गया।"
+    ]
+  },
+  {
+    "line": [
+      "Thank you, Disa, for your hospitality.",
+      "डिसा, आपकी मेज़बानी के लिए शुक्रिया।"
+    ]
+  },
+  { "line": ["Durin.", "डुरिन।"] },
+  { "line": ["Sod it, sit down.", "छोड़ो भी, बैठ जाओ।"] },
+  {
+    "line": [
+      "- Please. I hardly wish to intrude. - I said sit.",
+      "-रहने दो। मैं परेशान नहीं करना चाहता। -बैठ जाओ।"
+    ]
+  },
+  { "line": ["Are you certain?", "पक्का?"] },
+  {
+    "line": [
+      "No. And I'm still angry. Tell me about your king's proposal",
+      "नहीं। और मैं अब भी नाराजृ हूँ। अपने राजा का प्रस्ताव बताओ"
+    ]
+  },
+  {
+    "line": [
+      "so I can decide whether to present it to my father",
+      "ताकि यह तय कर सकूँ कि उसे अपने पिता के पास ले जाऊँ"
+    ]
+  },
+  {
+    "line": [
+      "or toss it in the nearest slag pit.",
+      "या फिर उसे कूड़ेदान में फेंक दूँ।"
+    ]
+  },
+  {
+    "line": ["You needn't keep your distance.", "दूरी बनाने की ज़रूरत नहीं है।"]
+  },
+  {
+    "line": [
+      "I am simply wondering what manner of man",
+      "मैं बस इतना सोच रही हूँ कि किस तरह का आदमी"
+    ]
+  },
+  {
+    "line": [
+      "would so readily abandon his companions to death.",
+      "इतनी आसानी से साथीओं को मौत के मुँह में छोड़ सकता है।"
+    ]
+  },
+  {
+    "line": [
+      "The sort that knows how to survive.",
+      "वैसा आदमी जिसे अपनी जान बचाना आता है।"
+    ]
+  },
+  {
+    "line": [
+      "Why be part of the larger target?",
+      "बड़े निशाने का हिस्सा क्यों बनो?"
+    ]
+  },
+  { "line": ["You are a target still.", "तुम फिर भी एक निशाना हो।"] },
+  {
+    "line": [
+      "I doubt we shall find safety until we make landfall.",
+      "लगता नहीं कि तट पर पहुँचने तक हम कहीं सुरक्षित होंगे।"
+    ]
+  },
+  {
+    "line": [
+      "I suspect finding safety won't be that easy.",
+      "शायद सुरक्षित जगह पाना इतना आसान नहीं होगा।"
+    ]
+  },
+  { "line": ["Leastways not for you.", "कम से कम तुम्हारे लिए तो नहीं।"] },
+  {
+    "line": ["'Separated' from your ship.", "अपने जहाज़ से 'बिछुड़' गईं थीं।"]
+  },
+  { "line": ["Really?", "सच में?"] },
+  {
+    "line": [
+      "- You're a deserter, aren't you? - Do I have the look of a deserter?",
+      "-तुम एक भगोड़ी हो। -क्या मैं वैसी दिखती हूँ?"
+    ]
+  },
+  {
+    "line": [
+      "You don't have the look of someone to whom things happen by accident.",
+      "तुम ऐसी भी नहीं लगतीं जिसके साथ संयोग से हादसे होते हैं।"
+    ]
+  },
+  { "line": ["Which means you were running.", "जिसका मतलब तुम भाग रही थीं।"] },
+  {
+    "line": [
+      "Whether toward or from something, I haven't yet decided.",
+      "किसी चीज़ की तरफ़ या उससे दूर, यह मैं तय नहीं कर पाया हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "Duty demanded I return to Middle-earth.",
+      "कर्तव्य ने मुझे मध्य-धरती की ओर पुकारा।"
+    ]
+  },
+  {
+    "line": [
+      "And that is all you need to know.",
+      "और तुम्हें बस इतना जानने की ज़रूरत है।"
+    ]
+  },
+  {
+    "line": [
+      "- Important Elf business, no doubt. - What have Elves ever done to you?",
+      "-यकीनन अहम एल्फ़ मसले के लिए। -एल्व्स ने तुम्हारा क्या बिगाड़ा है?"
+    ]
+  },
+  {
+    "line": [
+      "Do you blame us for your being stranded here?",
+      "यहाँ पर फँसे होने के लिए हमें दोष दे रहे हो?"
+    ]
+  },
+  {
+    "line": [
+      "The way I see it, it wasn't Elves that chased me from my homeland.",
+      "एल्व्स ने मुझे मेरे देश से भागने पर मजबूर नहीं किया था।"
+    ]
+  },
+  { "line": ["It was Orcs.", "ऑर्क्स ने किया था।"] },
+  { "line": ["Your home. Where was it?", "तुम्हारा घर। वह कहाँ था?"] },
+  { "line": ["What's it matter?", "उससे क्या फ़र्क पड़ता है?"] },
+  { "line": ["It's ashes now.", "वह जलकर राख हो गया।"] },
+  {
+    "line": [
+      "I know something of the pain you carry.",
+      "मैं तुम्हारे दर्द को समझती हूँ।"
+    ]
+  },
+  { "line": ["I grieve for you.", "मुझे अफ़सोस है।"] },
+  { "line": ["For those you lost.", "उनका जिन्हें तुमने खोया।"] },
+  { "line": ["Around your neck.", "तुम्हारे गले में जो है।"] },
+  {
+    "line": [
+      "Was that the mark of your people's king?",
+      "वह तुम लोगों के राजा का निशान है?"
+    ]
+  },
+  {
+    "line": [
+      "- My people have no king. - But if they did,",
+      "हमारा कोई राजा नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "- where might that kingdom be found? - To what end?",
+      "-पर अगर होता, तो वह राज्य कहाँ मिलता? -किसलिए पूछ रही हो?"
+    ]
+  },
+  {
+    "line": [
+      "What if I told you we might be able to reclaim it?",
+      "अगर मैं तुमसे यह कहूँ कि हम उसे वापस पा सकते हैं?"
+    ]
+  },
+  {
+    "line": [
+      "- I'm afraid you're short an army. - Leave the army to me.",
+      "-सेना नहीं है। -मुझ पर छोड़ दो।"
+    ]
+  },
+  {
+    "line": [
+      "Why're you dodging the question?",
+      "मेरे सवाल को टाल क्यों रहे हो?"
+    ]
+  },
+  { "line": ["Why're you stranded at sea?", "समंदर में क्यों फँसी हो?"] },
+  {
+    "line": [
+      "Because rather than rest in glory, I chose to seek out",
+      "क्योंकि झूठे यश के बजाय मुझे तलाश है"
+    ]
+  },
+  {
+    "line": [
+      "the very enemy responsible for your suffering.",
+      "उस दुश्मन की जिसने तुम्हें भी दर्द दिया।"
+    ]
+  },
+  {
+    "line": [
+      "Look, Elf. You didn't cause my suffering and you can't fix it.",
+      "देखो, एल्फ़। न ये दर्द तुमने दिया, न तुम इसे मिटा सकती हो ।"
+    ]
+  },
+  {
+    "line": [
+      "No matter how strong your will. Or your pride.",
+      "चाहे तुम्हारा इरादा कितना पक्का हो। या फिर तुम्हारा अहंकार।"
+    ]
+  },
+  { "line": ["So let it lie.", "तो यह तलाश छोड़ दो।"] },
+  {
+    "line": [
+      "I have pursued this foe since before the first sunrise bloodied the sky.",
+      "मैंने पहले सूर्योदय की लालिमा छाने से पहले से इस दुश्मन का पीछा किया है।"
+    ]
+  },
+  {
+    "line": [
+      "It would take longer than your lifetime",
+      "तुम्हें उन लोगों का नाम तक लेने में"
+    ]
+  },
+  {
+    "line": [
+      "even to speak the names of those they have taken from me.",
+      "पूरा जीवन लग जाएगा जिन्हें उन्होंने मुझसे छीना है।"
+    ]
+  },
+  {
+    "line": [
+      "So letting it lie is not an option.",
+      "तो उसे यूँ भूल जाना, मेरे लिए मुमकिन नहीं।"
+    ]
+  },
+  { "line": ["At last, a little honesty.", "तो आखिर में सच बोल ही दिया।"] },
+  {
+    "line": [
+      "If you want to murder Orcs and settle a score, that's your affair.",
+      "अगर ऑर्क्स को मार के हिसाब बराबर करना है, तो शौक से करो।"
+    ]
+  },
+  {
+    "line": ["Don't dress it up as heroism.", "पर उसे वीरता का चोला मत पहनाओ।"]
+  },
+  {
+    "line": [
+      "Are you going to tell me where the enemy is or not?",
+      "मुझे बताओगे कि दुश्मन कहाँ है या नहीं?"
+    ]
+  },
+  { "line": ["The Southlands.", "दक्षिणभूमि में।"] },
+  {
+    "line": [
+      "I need to know how many the enemy were,",
+      "मुझे उनकी तादाद की पक्की जानकारी चाहिए,"
+    ]
+  },
+  { "line": ["under whose banner they marched,", "वे किसके लिए लड़ रहे थे,"] },
+  {
+    "line": [
+      "and then you are going to take me to their last-known location.",
+      "और फिर तुम मुझे उनके आख़िरी ठिकाने तक ले जाओगे।"
+    ]
+  },
+  { "line": ["I've got my own plans, Elf.", "मेरी अपनी योजनाएँ हैं, एल्फ़।"] },
+  { "line": ["Prepare yourself.", "तैयार हो जाओ।"] },
+  { "line": ["- Watch it! - Easy now, love.", "-देखकर चलो! -आराम से, जान।"] },
+  {
+    "line": ["- What do you mean, 'no bodies?'", "क्या मतलब 'कोई शव नहीं हैं?'"]
+  },
+  {
+    "line": [
+      "I mean the entire village was empty.",
+      "मेरी मतलब पूरा गाँव खाली था।"
+    ]
+  },
+  {
+    "line": [
+      "It was as if the ground has swallowed up the people of Hordern like flies.",
+      "मानो धरती ने हॉर्डर्न की जनता को मक्खियों की तरह निगल लिया हो।"
+    ]
+  },
+  {
+    "line": [
+      "The ground here is tetchy. Always has been.",
+      "यहाँ की मिट्टी धँसती है। हमेशा से ऐसी है।"
+    ]
+  },
+  {
+    "line": [
+      "And Crookfinger Lake's always seepin' vapors.",
+      "और क्रुकफ़िंगर झील से हमेशा भाप निकलती आई है।"
+    ]
+  },
+  { "line": ["- Mmm. - I saw a tunnel.", "मैंने एक सुरंग देखी।"] },
+  { "line": ["Dug deep, and with care.", "गहरी और सावधानी से खोदी गई।"] },
+  {
+    "line": [
+      "By what, I cannot say, but they were digging towards us.",
+      "किस चीज़ से, मैं नहीं जानती, पर वे हमारी ओर आ रहे हैं।"
+    ]
+  },
+  {
+    "line": [
+      "I tell you, we remain here at our peril.",
+      "मैं कह रही हूँ, यहाँ हमारी जान जोखिम में है।"
+    ]
+  },
+  { "line": ["We must spread the word.", "यह बात सबको बतानी होगी।"] },
+  {
+    "line": [
+      "- No! I will not have this gossip, Bronwyn.",
+      "नहीं! मुझे यह अफ़वाह मंज़ूर नहीं है, ब्रॉनविन।"
+    ]
+  },
+  {
+    "line": [
+      "I've seen landslides less dangerous than a wayward tongue,",
+      "बेतुकी अफ़वाहें भूस्खलन से भी ज़्यादा ख़तरनाक होती हैं,"
+    ]
+  },
+  {
+    "line": [
+      "and without proof or puddin', that's all it'd be.",
+      "और बिना सबूत या गवाह के, वह महज़ गप ही होती है।"
+    ]
+  },
+  { "line": ["Waldreg, we're all alone.", "वालड्रेग, हम बिल्कुल अकेले हैं।"] },
+  {
+    "line": [
+      "Ostirith is empty. The watchtower abandoned.",
+      "ऑस्टिरिथ खाली है। रक्षा मीनार में कोई नहीं है।"
+    ]
+  },
+  {
+    "line": [
+      "Yes, I know, and I'm not invitin' them Elves",
+      "जानता हूँ, और मैं किसी सुराख की वजह से"
+    ]
+  },
+  {
+    "line": [
+      "back on account of some sinkhole.",
+      "उन एल्व्स को वापस न्योता नहीं दूँगा।"
+    ]
+  },
+  {
+    "line": [
+      "Havin' them gone is a relief. Well, for most of us, anyhow.",
+      "उनका जाना राहत की बात है। बहरहाल, हम में से ज़्यादातर लोगों के लिए।"
+    ]
+  },
+  { "line": ["Bloody mice.", "साले चूहे।"] },
+  { "line": ["- Stupid, bastard mice!", "बेवकूफ़, कमबख़्त चूहे!"] },
+  { "line": ["Theo?", "थीओ?"] },
+  { "line": ["Theo?", "थीओ?"] },
+  {
+    "line": [
+      "Theo, what's wrong? What happened?",
+      "थीओ, क्या बात है? क्या हुआ?"
+    ]
+  },
+  { "line": ["Get help. Go.", "मदद लेकर आइए। जाइए।"] },
+  { "line": ["- Theo, run!", "भागो! थीओ, भागो!"] },
+  { "line": ["Hey!", "ए!"] },
+  { "line": ["Stop!", "रुक जाओ!"] },
+  {
+    "line": [
+      "If there are any of you here who want to live,",
+      "अगर तुम में से कोई भी जिंदा रहना चाहता है,"
+    ]
+  },
+  {
+    "line": [
+      "we make for the Elven tower at first light.",
+      "तो हम भोर होते ही एल्वन मीनार के लिए निकलेंगे।"
+    ]
+  },
+  {
+    "line": [
+      "We need to tie the boat! It's coming apart!",
+      "हमें नाव को बाँधना होगा। यह टूट रही है!"
+    ]
+  },
+  { "line": ["The wind is too strong.", "हवा बहुत तेज़ है।"] },
+  { "line": ["Grab the ropes!", "रस्सियों को पकड़ो!"] },
+  { "line": ["Come on! Give me your hand!", "चलो! मुझे अपना हाथ दो!"] },
+  { "line": ["Bind yourself to me!", "अपने आप को मुझसे बाँधो!"] },
+  { "line": ["Come on! Give me your hand!", "चलो! मुझे अपना हाथ दो!"] },
+  {
+    "line": ["Hello? It's me. It's me, Nori.", "तुम हो? मैं आई हूँ। मैं, नोरी।"]
+  },
+  {
+    "line": [
+      "You see, the next migration is in just a few days now, and everything's gone...",
+      "पता है हमारा कारवाँ कुछ दिनों में यहाँ से चला जाएगा, फिर हम बिछड़ जायेंगे..."
+    ]
+  },
+  { "line": ["Three rabbits to the moon.", "बस तीन दिनों का वक्त है।"] },
+  { "line": ["I wanted to help you.", "मैं तुम्हारी मदद करना चाहती थी।"] },
+  {
+    "line": [
+      "I thought I could, but I'm sorry.",
+      "मुझे लगा मैं कर पाऊँगी, माफ़ कर दो।"
+    ]
+  },
+  {
+    "line": [
+      "It's a lantern. We use fireflies.",
+      "यह लालटेन है। हम जुगनू इस्तेमाल करते हैं।"
+    ]
+  },
+  { "line": ["What's he saying to them?", "यह उनसे क्या कह रहा है?"] },
+  { "line": ["I don't speak firefly.", "मुझे जुगनुओं की भाषा नहीं आती।"] },
+  { "line": ["They're stars.", "ये तारे हैं।"] },
+  { "line": ["A kind of constellation.", "किसी प्रकार का नक्षत्र है।"] },
+  {
+    "line": [
+      "Okay? They're stars? What does that mean?",
+      "अच्छा? ये तारे हैं। इसका क्या मतलब है?"
+    ]
+  },
+  { "line": ["This is how we help him.", "हम इसी तरह इसकी मदद करेंगे।"] },
+  {
+    "line": [
+      "He wants us to help him find those stars.",
+      "यह चाहता है कि हम तारों को ढूँढ़ने में इसकी मदद करें।"
+    ]
+  },
+  { "line": ["That's it, isn't it?", "यही चाहते हो, है न?"] },
+  { "line": ["Isn't it?", "है न?"] },
+  {
+    "line": [
+      "I've never seen those stars before.",
+      "मैंने पहले कभी ये तारे नहीं देखे।"
+    ]
+  },
+  {
+    "line": [
+      "But I have a pretty good idea where I can find them.",
+      "लेकिन मुझे पता है कि मुझे ये कहाँ मिलेंगे?"
+    ]
+  },
+  { "line": ["Nori?", "नोरी?"] },
+  {
+    "line": [
+      "I'm certain of it. He doesn't know.",
+      "मुझे यकीन है। वह नहीं जानता है."
+    ]
+  },
+  { "line": ["Perhaps.", "शायद।"] },
+  { "line": ["Perhaps not.", "शायद नहीं।"] },
+  {
+    "line": [
+      "You've always had sandstone in your granite",
+      "जब-जब एल्व्स की बात आती है,"
+    ]
+  },
+  {
+    "line": [
+      "as far as the Elves were concerned.",
+      "तुम्हारा दिल हमेशा पसीज जाता है।"
+    ]
+  },
+  {
+    "line": [
+      "Tell me, do you not think it's a coincidence",
+      "मुझे बताओ, तुम्हें यह संयोग नहीं लगता"
+    ]
+  },
+  {
+    "line": [
+      "that an Elf should just land on our doorstep? Now?",
+      "कि एक एल्फ़ यूँ ही हमारी चौखट पर आ गया? अब?"
+    ]
+  },
+  {
+    "line": [
+      "I've known Elrond for half a century, Father.",
+      "मुझे एलरॉन्ड को जाने हुए आधी सदी हो गई है, पिताजी।"
+    ]
+  },
+  {
+    "line": [
+      "I'd sense it if he were hiding something.",
+      "वह कुछ छुपा रहा होता तो मुझे आभास हो जाता।"
+    ]
+  },
+  {
+    "line": [
+      "Perhaps he sensed that it was you who was hiding something.",
+      "शायद उसे आभास हो गया था कि तुम कुछ छुपा रहे हो।"
+    ]
+  },
+  {
+    "line": [
+      "You think too much of their kind.",
+      "आप उन पर बहुत संदेह करते हैं।"
+    ]
+  },
+  {
+    "line": [
+      "We're the ones holding the long end of the hammer here.",
+      "यहाँ पर हमारा पलड़ा भारी है।"
+    ]
+  },
+  { "line": ["Aye. For now.", "हाँ। अभी के लिए।"] },
+  {
+    "line": [
+      "Elrond is a friend. I trust him.",
+      "एलरॉन्ड मेरा दोस्त है। भरोसा करता हूँ।"
+    ]
+  },
+  {
+    "line": [
+      "There can be no trust between hammer and rock.",
+      "एक हथौड़े और पत्थर के बीच कभी भरोसा नहीं हो सकता।"
+    ]
+  },
+  {
+    "line": [
+      "Eventually one or the other must surely break.",
+      "आख़िरकार उनमें से एक न एक टूट ही जाता है।"
+    ]
+  },
+  { "line": ["Theo!", "थीओ!"] },
+  { "line": ["You ready?", "चलने को तैयार हो?"] },
+  { "line": ["Yes, Mother. I'm ready.", "हाँ, माँ। मैं तैयार हूँ।"] }
+]

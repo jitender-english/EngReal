@@ -44,7 +44,8 @@ export default function Home() {
           <ul>
           
           <li><span className='season-name'>The-Lord of the Rings</span> - 
-              <Link href="/english/season/the-lord-of-the-rings/s01e01">S01E01 </Link>
+              <Link href="/english/season/the-lord-of-the-rings/s01e01">S01E01 </Link> 
+              <Link href="/english/season/the-lord-of-the-rings/s01e02">S01E02 </Link>
             </li>
           <li><span className='season-name'>Dark Matter</span> - 
               <Link href="/english/season/dark-matter/s01e01">S01E01 </Link>
