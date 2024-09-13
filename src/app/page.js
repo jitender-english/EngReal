@@ -27,6 +27,7 @@ export default function Home() {
             <li><Link href="/lesson-15"><span className="lesson-marker">Lesson 15</span> <span className="lesson-name">Future Perfect Continuous Tense</span></Link></li>
             <li><Link href="/lesson-12-15"><span className="lesson-name">Revision of Lessons 12-15</span></Link></li>
             <li><Link href="/lesson-test-tenses-active-voice"><span className="lesson-name">Test Paper I  - Active Voice</span></Link></li>
+            <li><Link href="/lesson-test-tenses-passive-voice"><span className="lesson-name">Test Paper II  - Passive Voice</span></Link></li>
           </ul>
           <header className={styles.title}>
             <p className='ffSeg fs14'>Learn english listening and speaking by english movie and season</p>
