@@ -1,961 +1,756 @@
 [
-{
-  "line": [
-    "यह काम हर दिन किया जाता है।",
-    "This work is done every day."
-  ]
-},
-{
-  "line": [
-    "स्कूल में बच्चों को पढ़ाया जाता है।",
-    "Children are taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र हर हफ्ते भेजे जाते हैं।",
-    "Letters are sent every week."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जाता है।",
-    "Food is cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग हर सोमवार को आयोजित की जाती है।",
-    "A meeting is held every Monday."
-  ]
-},
-{
-  "line": [
-    "नई किताबें हर साल प्रकाशित की जाती हैं।",
-    "New books are published every year."
-  ]
-},
-{
-  "line": [
-    "यहाँ अंग्रेजी पढ़ाई जाती है।",
-    "English is taught here."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जाती है।",
-    "We are informed on time."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स को ठीक से पूरा किया जाता है।",
-    "All projects are completed properly."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई हर दिन की जाती है।",
-    "This room is cleaned every day."
-  ]
-},
-{
-  "line": [
-    "नए नियम सभी कर्मचारियों को बताए जाते हैं।",
-    "New rules are told to all employees."
-  ]
-},
-{
-  "line": [
-    "मछली को हर शुक्रवार को तला जाता है।",
-    "Fish is fried every Friday."
-  ]
-},
-{
-  "line": [
-    "यहाँ परिजनों को मिलाया जाता है।",
-    "Relatives are reunited here."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जाते हैं।",
-    "All questions are answered."
-  ]
-},
-{
-  "line": [
-    "सुझाव हमेशा स्वीकार किए जाते हैं।",
-    "Suggestions are always accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत कक्षाओं में सिखाया जाता है।",
-    "Music is taught in the classes."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेल खेलने की अनुमति दी जाती है।",
-    "Children are allowed to play games."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को बार-बार दोहराया जाता है।",
-    "These lines are repeated often."
-  ]
-},
-{
-  "line": [
-    "यह कोर्स तीन महीनों में पूरा किया जाता है।",
-    "This course is completed in three months."
-  ]
-},
-{
-  "line": [
-    "नये विचारों को प्रोत्साहित किया जाता है।",
-    "New ideas are encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा रहा है।",
-    "Work is being done."
-  ]
-},
-{
-  "line": [
-    "स्कूल में बच्चों को पढ़ाया जा रहा है।",
-    "Children are being taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा रहे हैं।",
-    "Letters are being sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा रहा है।",
-    "Food is being cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा रही है।",
-    "A meeting is being held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा रही हैं।",
-    "New books are being published."
-  ]
-},
-{
-  "line": [
-    "यहाँ अंग्रेजी पढ़ाई जा रही है।",
-    "English is being taught here."
-  ]
-},
-{
-  "line": [
-    "समय पर जानकारी दी जा रही है।",
-    "Information is being given on time."
-  ]
-},
-{
-  "line": [
-    "प्रोजेक्ट्स को पूरा किया जा रहा है।",
-    "Projects are being completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा रही है।",
-    "This room is being cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जा रहे हैं।",
-    "New rules are being explained."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा रही है।",
-    "Fish is being fried."
-  ]
-},
-{
-  "line": [
-    "यहाँ परिजनों को मिलाया जा रहा है।",
-    "Relatives are being reunited here."
-  ]
-},
-{
-  "line": [
-    "सवालों के जवाब दिए जा रहे हैं।",
-    "Questions are being answered."
-  ]
-},
-{
-  "line": [
-    "सुझाव स्वीकार किए जा रहे हैं।",
-    "Suggestions are being accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा रहा है।",
-    "Music is being taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा रही है।",
-    "Children are being allowed to play."
-  ]
-},
-{
-  "line": [
-    "पंक्तियों को दोहराया जा रहा है।",
-    "Lines are being repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा रहा है।",
-    "The course is being completed."
-  ]
-},
-{
-  "line": [
-    "नए विचार प्रोत्साहित किए जा रहे हैं।",
-    "New ideas are being encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा चुका है।",
-    "The work has been done."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जा चुका है।",
-    "The children have been taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा चुके हैं।",
-    "The letters have been sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा चुका है।",
-    "The food has been cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा चुकी है।",
-    "The meeting has been held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा चुकी हैं।",
-    "New books have been published."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जा चुकी है।",
-    "English has been taught."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जा चुकी है।",
-    "We have been informed on time."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स पूरे किए जा चुके हैं।",
-    "All projects have been completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा चुकी है।",
-    "This room has been cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम सभी कर्मचारियों को बताए जा चुके हैं।",
-    "New rules have been told to all employees."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा चुकी है।",
-    "The fish has been fried."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जा चुका है।",
-    "Relatives have been reunited."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जा चुके हैं।",
-    "All questions have been answered."
-  ]
-},
-{
-  "line": [
-    "सभी सुझाव स्वीकार किए जा चुके हैं।",
-    "All suggestions have been accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा चुका है।",
-    "Music has been taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा चुकी है।",
-    "The children have been allowed to play."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को दोहराया जा चुका है।",
-    "These lines have been repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा चुका है।",
-    "The course has been completed."
-  ]
-},
-{
-  "line": [
-    "नए विचारों को प्रोत्साहित किया जा चुका है।",
-    "New ideas have been encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा रहा है और किया जा रहा है।",
-    "Work has been being done."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जा रहा है।",
-    "The children have been being taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा रहे हैं।",
-    "Letters have been being sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा रहा है।",
-    "Food has been being cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा रही है।",
-    "A meeting has been being held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा रही हैं।",
-    "New books have been being published."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जा रही है।",
-    "English has been being taught."
-  ]
-},
-{
-  "line": [
-    "समय पर जानकारी दी जा रही है।",
-    "Information has been being given on time."
-  ]
-},
-{
-  "line": [
-    "प्रोजेक्ट्स पूरे किए जा रहे हैं।",
-    "Projects have been being completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा रही है।",
-    "This room has been being cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जा रहे हैं।",
-    "New rules have been being explained."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा रही है।",
-    "Fish has been being fried."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जा रहा है।",
-    "Relatives have been being reunited."
-  ]
-},
-{
-  "line": [
-    "सवालों के जवाब दिए जा रहे हैं।",
-    "Questions have been being answered."
-  ]
-},
-{
-  "line": [
-    "सुझाव स्वीकार किए जा रहे हैं।",
-    "Suggestions have been being accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा रहा है।",
-    "Music has been being taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा रही है।",
-    "Children have been being allowed to play."
-  ]
-},
-{
-  "line": [
-    "पंक्तियों को दोहराया जा रहा है।",
-    "Lines have been being repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा रहा है।",
-    "The course has been being completed."
-  ]
-},
-{
-  "line": [
-    "नए विचार प्रोत्साहित किए जा रहे हैं।",
-    "New ideas have been being encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा रहा था।",
-    "The work was being done."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जा रहा था।",
-    "The children were being taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा रहे थे।",
-    "The letters were being sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा रहा था।",
-    "The food was being cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा रही थी।",
-    "The meeting was being held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा रही थीं।",
-    "New books were being published."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जा रही थी।",
-    "English was being taught."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जा रही थी।",
-    "We were being informed on time."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स पूरे किए जा रहे थे।",
-    "All projects were being completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा रही थी।",
-    "This room was being cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जा रहे थे।",
-    "New rules were being explained."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा रही थी।",
-    "The fish was being fried."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जा रहा था।",
-    "Relatives were being reunited."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जा रहे थे।",
-    "All questions were being answered."
-  ]
-},
-{
-  "line": [
-    "सभी सुझाव स्वीकार किए जा रहे थे।",
-    "All suggestions were being accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा रहा था।",
-    "Music was being taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा रही थी।",
-    "The children were being allowed to play."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को दोहराया जा रहा था।",
-    "These lines were being repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा रहा था।",
-    "The course was being completed."
-  ]
-},
-{
-  "line": [
-    "नए विचारों को प्रोत्साहित किया जा रहा था।",
-    "New ideas were being encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा रहा था जब तक पूरा किया गया था।",
-    "The work had been being done until it was completed."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जा रहा था जब पाठ समाप्त हुआ।",
-    "The children had been being taught in the school when the lesson ended."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा रहे थे जब वे वितरित किए गए।",
-    "The letters had been being sent when they were delivered."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा रहा था जब पकाया गया।",
-    "The food had been being cooked here when it was finished."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा रही थी जब समापन हुआ।",
-    "The meeting had been being held when it was concluded."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा रही थीं जब रिलीज की गईं।",
-    "The new books had been being published when they were released."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जा रही थी जब पाठ समाप्त हुआ।",
-    "English had been being taught when the lesson ended."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जा रही थी जब पूरी की गई।",
-    "We had been being informed on time when it was completed."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स पूरे किए जा रहे थे जब समाप्त हुए।",
-    "All projects had been being completed when they were finished."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा रही थी जब समाप्त की गई।",
-    "This room had been being cleaned when it was completed."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जा रहे थे जब लागू किए गए।",
-    "The new rules had been being explained when they were implemented."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा रही थी जब परोसी गई।",
-    "The fish had been being fried when it was served."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जा रहा था जब पुनर्मिलन हुआ।",
-    "The relatives had been being reunited when they were brought together."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जा रहे थे जब पूछे गए।",
-    "All questions had been being answered when they were asked."
-  ]
-},
-{
-  "line": [
-    "सभी सुझाव स्वीकार किए जा रहे थे जब परखा गया।",
-    "All suggestions had been being accepted when they were evaluated."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा रहा था जब समाप्त किया गया।",
-    "Music had been being taught when it was concluded."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा रही थी जब शुरू किया गया।",
-    "The children had been being allowed to play when it was started."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को दोहराया जा रहा था जब प्रस्तुत किया गया।",
-    "These lines had been being repeated when they were presented."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा रहा था जब समाप्त किया गया।",
-    "The course had been being completed when it was finished."
-  ]
-},
-{
-  "line": [
-    "नए विचारों को प्रोत्साहित किया जा रहा था जब अपनाया गया।",
-    "New ideas had been being encouraged when they were adopted."
-  ]
-},
-{
-  "line": [
-    "काम किया जाएगा।",
-    "The work will be done."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जाएगा।",
-    "The children will be taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जाएंगे।",
-    "The letters will be sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जाएगा।",
-    "The food will be cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जाएगी।",
-    "The meeting will be held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जाएंगी।",
-    "New books will be published."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जाएगी।",
-    "English will be taught."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जाएगी।",
-    "We will be informed on time."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स पूरे किए जाएंगे।",
-    "All projects will be completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जाएगी।",
-    "This room will be cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जाएंगे।",
-    "New rules will be explained."
-  ]
-},
-{
-  "line": [
-    "मछली तली जाएगी।",
-    "The fish will be fried."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जाएगा।",
-    "Relatives will be reunited."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जाएंगे।",
-    "All questions will be answered."
-  ]
-},
-{
-  "line": [
-    "सभी सुझाव स्वीकार किए जाएंगे।",
-    "All suggestions will be accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जाएगा।",
-    "Music will be taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जाएगी।",
-    "The children will be allowed to play."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को दोहराया जाएगा।",
-    "These lines will be repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जाएगा।",
-    "The course will be completed."
-  ]
-},
-{
-  "line": [
-    "नए विचारों को प्रोत्साहित किया जाएगा।",
-    "New ideas will be encouraged."
-  ]
-},
-{
-  "line": [
-    "काम किया जा रहा होगा।",
-    "The work will be being done."
-  ]
-},
-{
-  "line": [
-    "बच्चों को स्कूल में पढ़ाया जा रहा होगा।",
-    "The children will be being taught in the school."
-  ]
-},
-{
-  "line": [
-    "पत्र भेजे जा रहे होंगे।",
-    "The letters will be being sent."
-  ]
-},
-{
-  "line": [
-    "यहाँ खाना बनाया जा रहा होगा।",
-    "The food will be being cooked here."
-  ]
-},
-{
-  "line": [
-    "मीटिंग आयोजित की जा रही होगी।",
-    "The meeting will be being held."
-  ]
-},
-{
-  "line": [
-    "नई किताबें प्रकाशित की जा रही होंगी।",
-    "New books will be being published."
-  ]
-},
-{
-  "line": [
-    "अंग्रेजी पढ़ाई जा रही होगी।",
-    "English will be being taught."
-  ]
-},
-{
-  "line": [
-    "हमें समय पर जानकारी दी जा रही होगी।",
-    "We will be being informed on time."
-  ]
-},
-{
-  "line": [
-    "सभी प्रोजेक्ट्स पूरे किए जा रहे होंगे।",
-    "All projects will be being completed."
-  ]
-},
-{
-  "line": [
-    "इस कमरे की सफाई की जा रही होगी।",
-    "This room will be being cleaned."
-  ]
-},
-{
-  "line": [
-    "नए नियम बताए जा रहे होंगे।",
-    "New rules will be being explained."
-  ]
-},
-{
-  "line": [
-    "मछली तली जा रही होगी।",
-    "The fish will be being fried."
-  ]
-},
-{
-  "line": [
-    "परिजनों को मिलाया जा रहा होगा।",
-    "Relatives will be being reunited."
-  ]
-},
-{
-  "line": [
-    "सभी सवालों के जवाब दिए जा रहे होंगे।",
-    "All questions will be being answered."
-  ]
-},
-{
-  "line": [
-    "सभी सुझाव स्वीकार किए जा रहे होंगे।",
-    "All suggestions will be being accepted."
-  ]
-},
-{
-  "line": [
-    "संगीत सिखाया जा रहा होगा।",
-    "Music will be being taught."
-  ]
-},
-{
-  "line": [
-    "बच्चों को खेलने की अनुमति दी जा रही होगी।",
-    "The children will be being allowed to play."
-  ]
-},
-{
-  "line": [
-    "इन पंक्तियों को दोहराया जा रहा होगा।",
-    "These lines will be being repeated."
-  ]
-},
-{
-  "line": [
-    "कोर्स पूरा किया जा रहा होगा।",
-    "The course will be being completed."
-  ]
-},
-{
-  "line": [
-    "नए विचारों को प्रोत्साहित किया जा रहा होगा।",
-    "New ideas will be being encouraged."
-  ]
-}]
+  {
+    "line": ["यह काम हर दिन किया जाता है।", 
+    "This work is done every day."]
+  },
+  {
+    "line": [
+      "स्कूल में बच्चों को पढ़ाया जाता है।",
+      "Children are taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र हर हफ्ते भेजे जाते हैं।", "Letters are sent every week."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जाता है।", "Food is cooked here."]
+  },
+  {
+    "line": [
+      "मीटिंग हर सोमवार को आयोजित की जाती है।",
+      "A meeting is held every Monday."
+    ]
+  },
+  {
+    "line": [
+      "नई किताबें हर साल प्रकाशित की जाती हैं।",
+      "New books are published every year."
+    ]
+  },
+  {
+    "line": ["यहाँ अंग्रेजी पढ़ाई जाती है।", "English is taught here."]
+  },
+  {
+    "line": ["हमें समय पर जानकारी दी जाती है।", "We are informed on time."]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स को ठीक से पूरा किया जाता है।",
+      "All projects are completed properly."
+    ]
+  },
+  {
+    "line": [
+      "इस कमरे की सफाई हर दिन की जाती है।",
+      "This room is cleaned every day."
+    ]
+  },
+  {
+    "line": [
+      "नए नियम सभी कर्मचारियों को बताए जाते हैं।",
+      "New rules are told to all employees."
+    ]
+  },
+  {
+    "line": [
+      "मछली को हर शुक्रवार को तला जाता है।",
+      "Fish is fried every Friday."
+    ]
+  },
+  {
+    "line": ["यहाँ परिजनों को मिलाया जाता है।", "Relatives are reunited here."]
+  },
+  {
+    "line": ["सभी सवालों के जवाब दिए जाते हैं।", "All questions are answered."]
+  },
+  {
+    "line": [
+      "सुझाव हमेशा स्वीकार किए जाते हैं।",
+      "Suggestions are always accepted."
+    ]
+  },
+  {
+    "line": [
+      "संगीत कक्षाओं में सिखाया जाता है।",
+      "Music is taught in the classes."
+    ]
+  },
+  {
+    "line": [
+      "बच्चों को खेल खेलने की अनुमति दी जाती है।",
+      "Children are allowed to play games."
+    ]
+  },
+  {
+    "line": [
+      "इन पंक्तियों को बार-बार दोहराया जाता है।",
+      "These lines are repeated often."
+    ]
+  },
+  {
+    "line": [
+      "यह कोर्स तीन महीनों में पूरा किया जाता है।",
+      "This course is completed in three months."
+    ]
+  },
+  {
+    "line": [
+      "नये विचारों को प्रोत्साहित किया जाता है।",
+      "New ideas are encouraged."
+    ]
+  },
+  {
+    "line": ["काम किया जा रहा है।", "Work is being done."]
+  },
+  {
+    "line": [
+      "स्कूल में बच्चों को पढ़ाया जा रहा है।",
+      "Children are being taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जा रहे हैं।", "Letters are being sent."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जा रहा है।", "Food is being cooked here."]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जा रही है।", "A meeting is being held."]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा रही हैं।",
+      "New books are being published."
+    ]
+  },
+  {
+    "line": ["यहाँ अंग्रेजी पढ़ाई जा रही है।", "English is being taught here."]
+  },
+  {
+    "line": [
+      "समय पर जानकारी दी जा रही है।",
+      "Information is being given on time."
+    ]
+  },
+  {
+    "line": [
+      "प्रोजेक्ट्स को पूरा किया जा रहा है।",
+      "Projects are being completed."
+    ]
+  },
+  {
+    "line": ["इस कमरे की सफाई की जा रही है।", "This room is being cleaned."]
+  },
+  {
+    "line": ["नए नियम बताए जा रहे हैं।", "New rules are being explained."]
+  },
+  {
+    "line": ["मछली तली जा रही है।", "Fish is being fried."]
+  },
+  {
+    "line": [
+      "यहाँ परिजनों को मिलाया जा रहा है।",
+      "Relatives are being reunited here."
+    ]
+  },
+  {
+    "line": ["सवालों के जवाब दिए जा रहे हैं।", "Questions are being answered."]
+  },
+  {
+    "line": ["सुझाव स्वीकार किए जा रहे हैं।", "Suggestions are being accepted."]
+  },
+  {
+    "line": ["संगीत सिखाया जा रहा है।", "Music is being taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा रही है।",
+      "Children are being allowed to play."
+    ]
+  },
+  {
+    "line": ["पंक्तियों को दोहराया जा रहा है।", "Lines are being repeated."]
+  },
+  {
+    "line": ["कोर्स पूरा किया जा रहा है।", "The course is being completed."]
+  },
+  {
+    "line": [
+      "नए विचार प्रोत्साहित किए जा रहे हैं।",
+      "New ideas are being encouraged."
+    ]
+  },
+  {
+    "line": ["काम किया जा चुका है।", "The work has been done."]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जा चुका है।",
+      "The children have been taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जा चुके हैं।", "The letters have been sent."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जा चुका है।", "The food has been cooked here."]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जा चुकी है।", "The meeting has been held."]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा चुकी हैं।",
+      "New books have been published."
+    ]
+  },
+  {
+    "line": ["अंग्रेजी पढ़ाई जा चुकी है।", "English has been taught."]
+  },
+  {
+    "line": [
+      "हमें समय पर जानकारी दी जा चुकी है।",
+      "We have been informed on time."
+    ]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स पूरे किए जा चुके हैं।",
+      "All projects have been completed."
+    ]
+  },
+  {
+    "line": ["इस कमरे की सफाई की जा चुकी है।", "This room has been cleaned."]
+  },
+  {
+    "line": [
+      "नए नियम सभी कर्मचारियों को बताए जा चुके हैं।",
+      "New rules have been told to all employees."
+    ]
+  },
+  {
+    "line": ["मछली तली जा चुकी है।", "The fish has been fried."]
+  },
+  {
+    "line": ["परिजनों को मिलाया जा चुका है।", "Relatives have been reunited."]
+  },
+  {
+    "line": [
+      "सभी सवालों के जवाब दिए जा चुके हैं।",
+      "All questions have been answered."
+    ]
+  },
+  {
+    "line": [
+      "सभी सुझाव स्वीकार किए जा चुके हैं।",
+      "All suggestions have been accepted."
+    ]
+  },
+  {
+    "line": ["संगीत सिखाया जा चुका है।", "Music has been taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा चुकी है।",
+      "The children have been allowed to play."
+    ]
+  },
+  {
+    "line": [
+      "इन पंक्तियों को दोहराया जा चुका है।",
+      "These lines have been repeated."
+    ]
+  },
+  {
+    "line": ["कोर्स पूरा किया जा चुका है।", "The course has been completed."]
+  },
+  {
+    "line": [
+      "नए विचारों को प्रोत्साहित किया जा चुका है।",
+      "New ideas have been encouraged."
+    ]
+  },
+  {
+    "line": [
+      "काम किया जा रहा है और किया जा रहा है।",
+      "Work has been being done."
+    ]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जा रहा है।",
+      "The children have been being taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जा रहे हैं।", "Letters have been being sent."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जा रहा है।", "Food has been being cooked here."]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जा रही है।", "A meeting has been being held."]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा रही हैं।",
+      "New books have been being published."
+    ]
+  },
+  {
+    "line": ["अंग्रेजी पढ़ाई जा रही है।", "English has been being taught."]
+  },
+  {
+    "line": [
+      "समय पर जानकारी दी जा रही है।",
+      "Information has been being given on time."
+    ]
+  },
+  {
+    "line": [
+      "प्रोजेक्ट्स पूरे किए जा रहे हैं।",
+      "Projects have been being completed."
+    ]
+  },
+  {
+    "line": [
+      "इस कमरे की सफाई की जा रही है।",
+      "This room has been being cleaned."
+    ]
+  },
+  {
+    "line": ["नए नियम बताए जा रहे हैं।", "New rules have been being explained."]
+  },
+  {
+    "line": ["मछली तली जा रही है।", "Fish has been being fried."]
+  },
+  {
+    "line": [
+      "परिजनों को मिलाया जा रहा है।",
+      "Relatives have been being reunited."
+    ]
+  },
+  {
+    "line": [
+      "सवालों के जवाब दिए जा रहे हैं।",
+      "Questions have been being answered."
+    ]
+  },
+  {
+    "line": [
+      "सुझाव स्वीकार किए जा रहे हैं।",
+      "Suggestions have been being accepted."
+    ]
+  },
+  {
+    "line": ["संगीत सिखाया जा रहा है।", "Music has been being taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा रही है।",
+      "Children have been being allowed to play."
+    ]
+  },
+  {
+    "line": [
+      "पंक्तियों को दोहराया जा रहा है।",
+      "Lines have been being repeated."
+    ]
+  },
+  {
+    "line": [
+      "कोर्स पूरा किया जा रहा है।",
+      "The course has been being completed."
+    ]
+  },
+  {
+    "line": [
+      "नए विचार प्रोत्साहित किए जा रहे हैं।",
+      "New ideas have been being encouraged."
+    ]
+  },
+  {
+    "line": ["काम किया जा रहा था।", "The work was being done."]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जा रहा था।",
+      "The children were being taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जा रहे थे।", "The letters were being sent."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जा रहा था।", "The food was being cooked here."]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जा रही थी।", "The meeting was being held."]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा रही थीं।",
+      "New books were being published."
+    ]
+  },
+  {
+    "line": ["अंग्रेजी पढ़ाई जा रही थी।", "English was being taught."]
+  },
+  {
+    "line": [
+      "हमें समय पर जानकारी दी जा रही थी।",
+      "We were being informed on time."
+    ]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स पूरे किए जा रहे थे।",
+      "All projects were being completed."
+    ]
+  },
+  {
+    "line": ["इस कमरे की सफाई की जा रही थी।", "This room was being cleaned."]
+  },
+  {
+    "line": ["नए नियम बताए जा रहे थे।", "New rules were being explained."]
+  },
+  {
+    "line": ["मछली तली जा रही थी।", "The fish was being fried."]
+  },
+  {
+    "line": ["परिजनों को मिलाया जा रहा था।", "Relatives were being reunited."]
+  },
+  {
+    "line": [
+      "सभी सवालों के जवाब दिए जा रहे थे।",
+      "All questions were being answered."
+    ]
+  },
+  {
+    "line": [
+      "सभी सुझाव स्वीकार किए जा रहे थे।",
+      "All suggestions were being accepted."
+    ]
+  },
+  {
+    "line": ["संगीत सिखाया जा रहा था।", "Music was being taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा रही थी।",
+      "The children were being allowed to play."
+    ]
+  },
+  {
+    "line": [
+      "इन पंक्तियों को दोहराया जा रहा था।",
+      "These lines were being repeated."
+    ]
+  },
+  {
+    "line": ["कोर्स पूरा किया जा रहा था।", "The course was being completed."]
+  },
+  {
+    "line": [
+      "नए विचारों को प्रोत्साहित किया जा रहा था।",
+      "New ideas were being encouraged."
+    ]
+  },
+  {
+    "line": [
+      "काम किया जा रहा था जब तक पूरा किया गया था।",
+      "The work had been being done until it was completed."
+    ]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जा रहा था जब पाठ समाप्त हुआ।",
+      "The children had been being taught in the school when the lesson ended."
+    ]
+  },
+  {
+    "line": [
+      "पत्र भेजे जा रहे थे जब वे वितरित किए गए।",
+      "The letters had been being sent when they were delivered."
+    ]
+  },
+  {
+    "line": [
+      "यहाँ खाना बनाया जा रहा था जब पकाया गया।",
+      "The food had been being cooked here when it was finished."
+    ]
+  },
+  {
+    "line": [
+      "मीटिंग आयोजित की जा रही थी जब समापन हुआ।",
+      "The meeting had been being held when it was concluded."
+    ]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा रही थीं जब रिलीज की गईं।",
+      "The new books had been being published when they were released."
+    ]
+  },
+  {
+    "line": [
+      "अंग्रेजी पढ़ाई जा रही थी जब पाठ समाप्त हुआ।",
+      "English had been being taught when the lesson ended."
+    ]
+  },
+  {
+    "line": [
+      "हमें समय पर जानकारी दी जा रही थी जब पूरी की गई।",
+      "We had been being informed on time when it was completed."
+    ]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स पूरे किए जा रहे थे जब समाप्त हुए।",
+      "All projects had been being completed when they were finished."
+    ]
+  },
+  {
+    "line": [
+      "इस कमरे की सफाई की जा रही थी जब समाप्त की गई।",
+      "This room had been being cleaned when it was completed."
+    ]
+  },
+  {
+    "line": [
+      "नए नियम बताए जा रहे थे जब लागू किए गए।",
+      "The new rules had been being explained when they were implemented."
+    ]
+  },
+  {
+    "line": [
+      "मछली तली जा रही थी जब परोसी गई।",
+      "The fish had been being fried when it was served."
+    ]
+  },
+  {
+    "line": [
+      "परिजनों को मिलाया जा रहा था जब पुनर्मिलन हुआ।",
+      "The relatives had been being reunited when they were brought together."
+    ]
+  },
+  {
+    "line": [
+      "सभी सवालों के जवाब दिए जा रहे थे जब पूछे गए।",
+      "All questions had been being answered when they were asked."
+    ]
+  },
+  {
+    "line": [
+      "सभी सुझाव स्वीकार किए जा रहे थे जब परखा गया।",
+      "All suggestions had been being accepted when they were evaluated."
+    ]
+  },
+  {
+    "line": [
+      "संगीत सिखाया जा रहा था जब समाप्त किया गया।",
+      "Music had been being taught when it was concluded."
+    ]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा रही थी जब शुरू किया गया।",
+      "The children had been being allowed to play when it was started."
+    ]
+  },
+  {
+    "line": [
+      "इन पंक्तियों को दोहराया जा रहा था जब प्रस्तुत किया गया।",
+      "These lines had been being repeated when they were presented."
+    ]
+  },
+  {
+    "line": [
+      "कोर्स पूरा किया जा रहा था जब समाप्त किया गया।",
+      "The course had been being completed when it was finished."
+    ]
+  },
+  {
+    "line": [
+      "नए विचारों को प्रोत्साहित किया जा रहा था जब अपनाया गया।",
+      "New ideas had been being encouraged when they were adopted."
+    ]
+  },
+  {
+    "line": ["काम किया जाएगा।", "The work will be done."]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जाएगा।",
+      "The children will be taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जाएंगे।", "The letters will be sent."]
+  },
+  {
+    "line": ["यहाँ खाना बनाया जाएगा।", "The food will be cooked here."]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जाएगी।", "The meeting will be held."]
+  },
+  {
+    "line": ["नई किताबें प्रकाशित की जाएंगी।", "New books will be published."]
+  },
+  {
+    "line": ["अंग्रेजी पढ़ाई जाएगी।", "English will be taught."]
+  },
+  {
+    "line": ["हमें समय पर जानकारी दी जाएगी।", "We will be informed on time."]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स पूरे किए जाएंगे।",
+      "All projects will be completed."
+    ]
+  },
+  {
+    "line": ["इस कमरे की सफाई की जाएगी।", "This room will be cleaned."]
+  },
+  {
+    "line": ["नए नियम बताए जाएंगे।", "New rules will be explained."]
+  },
+  {
+    "line": ["मछली तली जाएगी।", "The fish will be fried."]
+  },
+  {
+    "line": ["परिजनों को मिलाया जाएगा।", "Relatives will be reunited."]
+  },
+  {
+    "line": [
+      "सभी सवालों के जवाब दिए जाएंगे।",
+      "All questions will be answered."
+    ]
+  },
+  {
+    "line": [
+      "सभी सुझाव स्वीकार किए जाएंगे।",
+      "All suggestions will be accepted."
+    ]
+  },
+  {
+    "line": ["संगीत सिखाया जाएगा।", "Music will be taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जाएगी।",
+      "The children will be allowed to play."
+    ]
+  },
+  {
+    "line": ["इन पंक्तियों को दोहराया जाएगा।", "These lines will be repeated."]
+  },
+  {
+    "line": ["कोर्स पूरा किया जाएगा।", "The course will be completed."]
+  },
+  {
+    "line": [
+      "नए विचारों को प्रोत्साहित किया जाएगा।",
+      "New ideas will be encouraged."
+    ]
+  },
+  {
+    "line": ["काम किया जा रहा होगा।", "The work will be being done."]
+  },
+  {
+    "line": [
+      "बच्चों को स्कूल में पढ़ाया जा रहा होगा।",
+      "The children will be being taught in the school."
+    ]
+  },
+  {
+    "line": ["पत्र भेजे जा रहे होंगे।", "The letters will be being sent."]
+  },
+  {
+    "line": [
+      "यहाँ खाना बनाया जा रहा होगा।",
+      "The food will be being cooked here."
+    ]
+  },
+  {
+    "line": ["मीटिंग आयोजित की जा रही होगी।", "The meeting will be being held."]
+  },
+  {
+    "line": [
+      "नई किताबें प्रकाशित की जा रही होंगी।",
+      "New books will be being published."
+    ]
+  },
+  {
+    "line": ["अंग्रेजी पढ़ाई जा रही होगी।", "English will be being taught."]
+  },
+  {
+    "line": [
+      "हमें समय पर जानकारी दी जा रही होगी।",
+      "We will be being informed on time."
+    ]
+  },
+  {
+    "line": [
+      "सभी प्रोजेक्ट्स पूरे किए जा रहे होंगे।",
+      "All projects will be being completed."
+    ]
+  },
+  {
+    "line": [
+      "इस कमरे की सफाई की जा रही होगी।",
+      "This room will be being cleaned."
+    ]
+  },
+  {
+    "line": ["नए नियम बताए जा रहे होंगे।", "New rules will be being explained."]
+  },
+  {
+    "line": ["मछली तली जा रही होगी।", "The fish will be being fried."]
+  },
+  {
+    "line": [
+      "परिजनों को मिलाया जा रहा होगा।",
+      "Relatives will be being reunited."
+    ]
+  },
+  {
+    "line": [
+      "सभी सवालों के जवाब दिए जा रहे होंगे।",
+      "All questions will be being answered."
+    ]
+  },
+  {
+    "line": [
+      "सभी सुझाव स्वीकार किए जा रहे होंगे।",
+      "All suggestions will be being accepted."
+    ]
+  },
+  {
+    "line": ["संगीत सिखाया जा रहा होगा।", "Music will be being taught."]
+  },
+  {
+    "line": [
+      "बच्चों को खेलने की अनुमति दी जा रही होगी।",
+      "The children will be being allowed to play."
+    ]
+  },
+  {
+    "line": [
+      "इन पंक्तियों को दोहराया जा रहा होगा।",
+      "These lines will be being repeated."
+    ]
+  },
+  {
+    "line": [
+      "कोर्स पूरा किया जा रहा होगा।",
+      "The course will be being completed."
+    ]
+  },
+  {
+    "line": [
+      "नए विचारों को प्रोत्साहित किया जा रहा होगा।",
+      "New ideas will be being encouraged."
+    ]
+  }
+]

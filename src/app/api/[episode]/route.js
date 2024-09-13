@@ -18,6 +18,7 @@ import lesson13 from "@/json/lesson-13.json";
 import lesson14 from "@/json/lesson-14.json";
 import lesson15 from "@/json/lesson-15.json";
 import tensesActiveVoice from "@/json/lesson-test-tenses-active-voice.json";
+import tensesPassiveVoice from "@/json/lesson-test-tenses-passive-voice.json";
 
 
 export async function GET(request, {episode}) {
@@ -62,6 +63,8 @@ export async function GET(request, {episode}) {
     return Response.json(lesson15);
   } else if(request.nextUrl.pathname === "/api/lesson-test-tenses-active-voice") {
     return Response.json(tensesActiveVoice);
+  } else if(request.nextUrl.pathname === "/api/lesson-test-tenses-passive-voice") {
+    return Response.json(tensesPassiveVoice);
   }
   return Response.json([]);
 }
