@@ -7,7 +7,7 @@ export default function Page() {
       <main>
         <div className="content-wrapper">
         <header className="tC mb32">
-          <p className="mb0">TEST PAPER I</p>
+          <p className="mb0">TEST PAPER II</p>
           <p className="mb0">Based on all Forms of Tenses (Passive Voice)</p>
         </header>
 
