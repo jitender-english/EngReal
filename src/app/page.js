@@ -33,35 +33,35 @@ export default function Home() {
             <p className='ffSeg fs14'>Learn english listening and speaking by english movie and season</p>
           </header>
           <ul>
-          
-          <li><Link href="/english/movie/the-family-plan-2023">The family plan 2023</Link></li>
-          <li><Link href="/english/movie/this-is-me-now-2024">This is me now 2024</Link></li>
+            <li><Link href="/english/movie/wolfs-2024">Wolfs 2024</Link></li>
+            <li><Link href="/english/movie/the-family-plan-2023">The family plan 2023</Link></li>
+            <li><Link href="/english/movie/this-is-me-now-2024">This is me now 2024</Link></li>
             <li><Link href="/english/movie/upgraded-2024">Upgraded 2024</Link></li>
             <li><Link href="/english/movie/The-Fault-In-Our-Stars-2014">The Fault In Our Stars 2014</Link></li>
-            <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li> 
+            <li><Link href="/english/movie/orion-and-the-dark-2024">Orion and the dark 2024</Link></li>
             <li><Link href="/english/movie/luck-2022">Luck 2022</Link></li>
-                     
+
           </ul>
           <ul>
-          
-          <li><span className='season-name'>No Gain No Love</span> - 
+
+            <li><span className='season-name'>No Gain No Love</span> -
               <Link href="/english/season/no-gain-no-love/s01e01">S01E01 </Link>
             </li>
-          <li><span className='season-name'>The-Lord of the Rings</span> - 
-              <Link href="/english/season/the-lord-of-the-rings/s01e01">S01E01 </Link> 
+            <li><span className='season-name'>The-Lord of the Rings</span> -
+              <Link href="/english/season/the-lord-of-the-rings/s01e01">S01E01 </Link>
               <Link href="/english/season/the-lord-of-the-rings/s01e02">S01E02 </Link>
             </li>
-          <li><span className='season-name'>Dark Matter</span> - 
+            <li><span className='season-name'>Dark Matter</span> -
               <Link href="/english/season/dark-matter/s01e01">S01E01 </Link>
             </li>
-          <li><span className='season-name'>Ted Lasso</span> - 
+            <li><span className='season-name'>Ted Lasso</span> -
               <Link href="/english/season/ted-lasso/s01e01">S01E01 </Link>
             </li>
-          <li><span className='season-name'>The completely made-up adventures of dick turpin</span> - 
+            <li><span className='season-name'>The completely made-up adventures of dick turpin</span> -
               <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e01">S01E01 </Link>
               <Link href="/english/season/the-completely-made-up-adventures-of-dick-turpin/s01e02">S01E02 </Link>
-          </li>
-          <li><span className='season-name'>Earthsounds</span> - 
+            </li>
+            <li><span className='season-name'>Earthsounds</span> -
               <Link href="/english/season/earthsounds/S01E01">S01E01 </Link>
               <Link href="/english/season/earthsounds/S01E02">S01E02 </Link>
               <Link href="/english/season/earthsounds/S01E03">S01E03 </Link>
@@ -75,59 +75,59 @@ export default function Home() {
               <Link href="/english/season/earthsounds/S01E11">S01E11 </Link>
               <Link href="/english/season/earthsounds/S01E12">S01E12 </Link>
             </li>
-          <li><span className='season-name'>For all mankind</span> - 
+            <li><span className='season-name'>For all mankind</span> -
               <Link href="/english/season/for-all-mankind/s01e01">S01E01 </Link>
               <Link href="/english/season/for-all-mankind/s01e02">S01E02 </Link>
               <Link href="/english/season/for-all-mankind/s01e03">S01E03 </Link>
             </li>
-          <li><span className='season-name'>Constellation</span> - 
+            <li><span className='season-name'>Constellation</span> -
               <Link href="/english/season/constellation/s01e01">S01E01 </Link>
-              <Link href="/english/season/constellation/s01e02">S01E02 </Link> 
+              <Link href="/english/season/constellation/s01e02">S01E02 </Link>
               <Link href="/english/season/constellation/s01e03">S01E03 </Link>
               <Link href="/english/season/constellation/s01e04">S01E04 </Link>
               <Link href="/english/season/constellation/s01e05">S01E05 </Link>
-            </li>        
-          <li><span className='season-name'>Slow horses</span> - 
+            </li>
+            <li><span className='season-name'>Slow horses</span> -
               <Link href="/english/season/slow-horses/S01E01">S01E01 </Link>
             </li>
-          <li><span className='season-name'>The new look</span> - 
+            <li><span className='season-name'>The new look</span> -
               <Link href="/english/season/the-new-look/S01E01">S01E01 </Link>
               <Link href="/english/season/the-new-look/S01E02">S01E02 </Link>
             </li>
-          <li><span className='season-name'>Masters of the Air</span> - 
+            <li><span className='season-name'>Masters of the Air</span> -
               <Link href="/english/season/masters-of-the-air/S01E01">S01E01 </Link>
-              <Link href="/english/season/masters-of-the-air/S01E02">S01E02 </Link> 
-              <Link href="/english/season/masters-of-the-air/S01E03">S01E03 </Link> 
+              <Link href="/english/season/masters-of-the-air/S01E02">S01E02 </Link>
+              <Link href="/english/season/masters-of-the-air/S01E03">S01E03 </Link>
               <Link href="/english/season/masters-of-the-air/S01E04">S01E04 </Link>
-              <Link href="/english/season/masters-of-the-air/S01E05">S01E05 </Link> 
-              <Link href="/english/season/masters-of-the-air/S01E06">S01E06 </Link> 
-              <Link href="/english/season/masters-of-the-air/S01E07">S01E07 </Link> 
+              <Link href="/english/season/masters-of-the-air/S01E05">S01E05 </Link>
+              <Link href="/english/season/masters-of-the-air/S01E06">S01E06 </Link>
+              <Link href="/english/season/masters-of-the-air/S01E07">S01E07 </Link>
             </li>
-            <li><span className='season-name'>Reacher</span> - 
+            <li><span className='season-name'>Reacher</span> -
               <Link href="/english/season/reacher/s02e01">S02E01 </Link>
-              <Link href="/english/season/reacher/s02e02">S02E02 </Link> 
-              <Link href="/english/season/reacher/s02e03">S02E03 </Link> 
+              <Link href="/english/season/reacher/s02e02">S02E02 </Link>
+              <Link href="/english/season/reacher/s02e03">S02E03 </Link>
               <Link href="/english/season/reacher/s02e04">S02E04 </Link>
             </li>
-            <li><span className='season-name'>Criminal Record</span> - 
+            <li><span className='season-name'>Criminal Record</span> -
               <Link href="/english/season/criminal-record/s01e01">S01E01 </Link>
               <Link href="/english/season/criminal-record/s01e02">S01E02 </Link>
             </li>
-            <li><span className='season-name'>Silo</span> - 
+            <li><span className='season-name'>Silo</span> -
               <Link href="/english/season/silo/S01E01">S01E01 </Link>
-              <Link href="/english/season/silo/S01E01">S01E02 </Link> 
+              <Link href="/english/season/silo/S01E01">S01E02 </Link>
               <Link href="/english/season/silo/S01E01">S01E03 </Link>
             </li>
           </ul>
           <header className={styles.title}>
             <p className='ffSeg fs14'>Learn hindi to english writing by Hindi movie and season</p>
-          </header>        
+          </header>
           <ul>
             <li><Link href="/hindi/movie/Afwaah-2023"><span className='season-name'>Afwaah</span> 2023</Link></li>
             <li><Link href="/hindi/movie/starfish-2023"><span className='season-name'>Starfish</span> 2023</Link></li>
             <li><Link href="/hindi/movie/shastry-virudh-shastry-2023"><span className='season-name'>Shastry Virudh Shastry</span> 2023</Link></li>
             <li><Link href="/hindi/movie/tiger-3-2023"><span className='season-name'>Tiger 3</span> 2023</Link></li>
-            <li><Link href="/hindi/movie/Mission-Raniganj-2023"><span className='season-name'>Mission Raniganj</span> 2023</Link></li>            
+            <li><Link href="/hindi/movie/Mission-Raniganj-2023"><span className='season-name'>Mission Raniganj</span> 2023</Link></li>
           </ul>
         </div>
       </main>

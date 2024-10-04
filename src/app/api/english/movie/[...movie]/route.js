@@ -6,6 +6,7 @@ import TheFaultInOurStars2014 from "@/json/english/movie/The-Fault-In-Our-Stars-
 import orionAndTheDark2024 from "@/json/english/movie/orion-and-the-dark-2024.json";
 import upgraded2024 from "@/json/english/movie/upgraded-2024.json";
 import luck2022 from "@/json/english/movie/luck-2022.json";
+import wolfs2024 from "@/json/english/movie/wolfs-2024.json";
 
 
 export async function GET(request, {episode}) {
@@ -24,6 +25,8 @@ export async function GET(request, {episode}) {
     return Response.json(theFamilyPlan2023);
   } else if(request.nextUrl.pathname === "/api/english/movie/luck-2022"){
     return Response.json(luck2022);
+  } else if(request.nextUrl.pathname === "/api/english/movie/wolfs-2024"){
+    return Response.json(wolfs2024);
   }
 
   return Response.json([]);
