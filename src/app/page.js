@@ -43,7 +43,10 @@ export default function Home() {
 
           </ul>
           <ul>
-
+            <li><span className='season-name'>The Morning Show</span> -
+              <Link href="/english/season/the-morning-show/s01e01">S01E01 </Link>
+              <Link href="/english/season/the-morning-show/s01e02">S01E02 </Link>
+            </li>
             <li><span className='season-name'>No Gain No Love</span> -
               <Link href="/english/season/no-gain-no-love/s01e01">S01E01 </Link>
             </li>
